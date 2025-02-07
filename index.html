@@ -36,6 +36,14 @@
             border-radius: 4px;
             font-family: monospace;
         }
+        code a {
+            text-decoration: none;
+            color: inherit;
+        }
+        code a:hover {
+            text-decoration: underline;
+            color: #4a5568;
+        }
     </style>
 </head>
 <body>
@@ -44,14 +52,38 @@
         <p>Welcome to the Konosuba Fantastic Days API. Below are the available endpoints:</p>
         
         <div class="endpoint">
+            <h3>👋 Hello</h3>
+            <code><a href="./api/v1/hello.json">GET /api/v1/hello.json</a></code>
+            <p>Basic API health check and welcome endpoint</p>
+        </div>
+
+        <div class="endpoint">
+            <h3>🎭 Live2D</h3>
+            <code><a href="./api/v1/live2d.json">GET /api/v1/live2d.json</a></code>
+            <p>Access Live2D model and animation data</p>
+        </div>
+
+        <div class="endpoint">
+            <h3>👥 Member Characters</h3>
+            <code><a href="./api/v1/member-characters.json">GET /api/v1/member-characters.json</a></code>
+            <p>Retrieve information about game characters and their details</p>
+        </div>
+
+        <div class="endpoint">
+            <h3>📖 Story Scripts</h3>
+            <code><a href="./api/v1/story-scripts.json">GET /api/v1/story-scripts.json</a></code>
+            <p>Access story scripts and narrative content</p>
+        </div>
+
+        <div class="endpoint">
             <h3>📺 Videos</h3>
-            <code>GET /api/v1/videos.json</code>
+            <code><a href="./api/v1/videos.json">GET /api/v1/videos.json</a></code>
             <p>Retrieve video assets information</p>
         </div>
 
         <div class="endpoint">
             <h3>🎵 Music</h3>
-            <code>GET /api/v1/music.json</code>
+            <code><a href="./api/v1/music.json">GET /api/v1/music.json</a></code>
             <p>Access music and audio related content</p>
         </div>
 
