@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Konosuba FDA API</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2d3748;
+            margin-bottom: 1rem;
+        }
+        .endpoint {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            margin: 1rem 0;
+            border-left: 4px solid #4a5568;
+        }
+        code {
+            background: #edf2f7;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 Konosuba FDA API</h1>
+        <p>Welcome to the Konosuba Fantastic Days API. Below are the available endpoints:</p>
+        
+        <div class="endpoint">
+            <h3>📺 Videos</h3>
+            <code>GET /api/v1/videos.json</code>
+            <p>Retrieve video assets information</p>
+        </div>
+
+        <div class="endpoint">
+            <h3>🎵 Music</h3>
+            <code>GET /api/v1/music.json</code>
+            <p>Access music and audio related content</p>
+        </div>
+
+        <footer style="margin-top: 2rem; text-align: center; color: #718096;">
+            <p>For more information, visit the <a href="https://github.com/konofda/konosuba-fda-api">GitHub repository</a></p>
+        </footer>
+    </div>
+</body>
+</html>
