@@ -9,133 +9,138 @@
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
     <style>
         :root {
-            --primary-color: #2d3748;
-            --secondary-color: #4a5568;
-            --bg-color: #f5f5f5;
-            --card-bg: white;
-            --code-bg: #edf2f7;
-            --hover-color: #718096;
+            --bg: #1a1a1a;
+            --text: #e0e0e0;
+            --text-dim: #888;
+            --border: #333;
+            --code-bg: #2a2a2a;
+            --hover: #3a3a3a;
+            --accent: #4a4a4a;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
         body {
-            font-family: system-ui, -apple-system, sans-serif;
-            line-height: 1.4;
-            margin: 0;
-            padding: 0;
-            background: var(--bg-color);
-            min-height: 100vh;
-            font-size: 0.95rem;
+            font-family: 'SF Mono', 'Consolas', monospace;
+            line-height: 1.5;
+            background: var(--bg);
+            color: var(--text);
+            font-size: 14px;
+            padding: 2rem 1rem;
         }
 
         #root {
-            max-width: 1200px;
+            max-width: 900px;
             margin: 0 auto;
-            padding: 1rem;
         }
 
         .container {
-            background: var(--card-bg);
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border: 1px solid var(--border);
+            border-radius: 4px;
         }
 
         h1 {
-            color: var(--primary-color);
-            margin: 0 0 0.75rem;
-            font-size: 2rem;
-            text-align: center;
+            font-size: 1.2rem;
+            font-weight: normal;
+            padding: 1rem;
+            border-bottom: 1px solid var(--border);
+            font-family: system-ui, -apple-system, sans-serif;
         }
 
-        .endpoints-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 1rem;
-            margin: 1rem 0;
+        .description {
+            padding: 0.75rem 1rem;
+            color: var(--text-dim);
+            border-bottom: 1px solid var(--border);
+            font-family: system-ui, -apple-system, sans-serif;
+            font-size: 0.9rem;
+        }
+
+        .endpoints-list {
+            list-style: none;
         }
 
         .endpoint {
-            background: #f8f9fa;
-            padding: 1rem;
-            border-radius: 6px;
-            margin: 0;
-            border-left: 3px solid var(--secondary-color);
-            transition: transform 0.2s ease;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .endpoint:last-child {
+            border-bottom: none;
         }
 
         .endpoint:hover {
-            transform: translateX(2px);
+            background: var(--hover);
         }
 
         .endpoint h3 {
-            margin: 0 0 0.5rem;
-            color: var(--primary-color);
+            font-size: 1rem;
+            font-weight: normal;
+            margin-bottom: 0.5rem;
+            color: var(--text);
             display: flex;
             align-items: center;
             gap: 0.5rem;
-            font-size: 1.1rem;
+        }
+
+        .endpoint-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .endpoint-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
         }
 
         code {
+            font-family: 'SF Mono', 'Consolas', monospace;
             background: var(--code-bg);
-            padding: 0.3rem 0.6rem;
-            border-radius: 4px;
-            font-family: 'Fira Code', monospace;
-            display: block;
-            margin: 0.5rem 0;
+            padding: 0.4rem 0.6rem;
+            border-radius: 3px;
             font-size: 0.9rem;
+            color: var(--text);
+            border: 1px solid var(--accent);
         }
 
         code a {
             text-decoration: none;
             color: inherit;
-            display: block;
-        }
-
-        code a:hover {
-            color: var(--hover-color);
         }
 
         .endpoint p {
-            margin: 0.5rem 0 0;
+            color: var(--text-dim);
             font-size: 0.9rem;
+            margin-top: 0.5rem;
+            font-family: system-ui, -apple-system, sans-serif;
         }
 
         footer {
-            margin-top: 1.5rem;
+            margin-top: 1rem;
             text-align: center;
-            color: var(--secondary-color);
+            color: var(--text-dim);
             font-size: 0.9rem;
+            font-family: system-ui, -apple-system, sans-serif;
         }
 
         footer a {
-            color: var(--primary-color);
+            color: var(--text);
             text-decoration: none;
-            font-weight: 500;
         }
 
         footer a:hover {
             text-decoration: underline;
         }
 
-        .description {
-            text-align: center;
-            color: var(--secondary-color);
-            margin: 0 0 1rem;
-            font-size: 0.95rem;
-        }
-
         @media (max-width: 640px) {
-            .endpoints-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            #root {
-                padding: 0.5rem;
-            }
-            
-            .container {
-                padding: 1rem;
+            body {
+                padding: 1rem 0.5rem;
             }
         }
     </style>
@@ -211,16 +216,20 @@
                 <div className="container">
                     <h1>🎮 Konosuba FDA API</h1>
                     <p className="description">
-                        Welcome to the Konosuba Fantastic Days API. Explore our comprehensive collection of endpoints below:
+                        API endpoints for Konosuba Fantastic Days asset management
                     </p>
                     
-                    <div className="endpoints-grid">
+                    <div className="endpoints-list">
                         {endpoints.map((endpoint, index) => (
                             <div className="endpoint" key={index}>
-                                <h3>{endpoint.emoji} {endpoint.title}</h3>
-                                <code>
-                                    <a href={endpoint.path}>GET {endpoint.path}</a>
-                                </code>
+                                <div className="endpoint-header">
+                                    <div className="endpoint-title">
+                                        {endpoint.emoji} {endpoint.title}
+                                    </div>
+                                    <code>
+                                        <a href={endpoint.path}>GET {endpoint.path}</a>
+                                    </code>
+                                </div>
                                 <p>{endpoint.description}</p>
                             </div>
                         ))}
@@ -228,9 +237,8 @@
 
                     <footer>
                         <p>
-                            For more information, visit the{" "}
                             <a href="https://github.com/konofda/konosuba-fda-api" target="_blank" rel="noopener noreferrer">
-                                GitHub repository
+                                View on GitHub
                             </a>
                         </p>
                     </footer>
