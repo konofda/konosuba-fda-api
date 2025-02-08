@@ -1,0 +1,322 @@
+{
+  "100": {
+    "name": "Kazuma",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_100.png"
+  },
+  "101": {
+    "name": "Aqua",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_101.png"
+  },
+  "102": {
+    "name": "Megumin",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_102.png"
+  },
+  "103": {
+    "name": "Darkness",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_103.png"
+  },
+  "104": {
+    "name": "Chris",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_104.png"
+  },
+  "105": {
+    "name": "Wiz",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_105.png"
+  },
+  "106": {
+    "name": "Yunyun",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_106.png"
+  },
+  "107": {
+    "name": "Iris",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_107.png"
+  },
+  "108": {
+    "name": "Komekko",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_108.png"
+  },
+  "109": {
+    "name": "Cecily",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_109.png"
+  },
+  "110": {
+    "name": "Arue",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_110.png"
+  },
+  "111": {
+    "name": "Mitsurugi",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_111.png"
+  },
+  "112": {
+    "name": "Dust",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_112.png"
+  },
+  "113": {
+    "name": "Rin",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_113.png"
+  },
+  "114": {
+    "name": "Lia",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_114.png"
+  },
+  "115": {
+    "name": "Cielo",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_115.png"
+  },
+  "116": {
+    "name": "Erika",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_116.png"
+  },
+  "117": {
+    "name": "Melissa",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_117.png"
+  },
+  "118": {
+    "name": "Mia",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_118.png"
+  },
+  "119": {
+    "name": "Amy",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_119.png"
+  },
+  "125": {
+    "name": "Rain",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_125.png"
+  },
+  "126": {
+    "name": "Claire",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_126.png"
+  },
+  "128": {
+    "name": "Vanir",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_128.png"
+  },
+  "147": {
+    "name": "Emilia",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_147.png"
+  },
+  "150": {
+    "name": "Rem",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_150.png"
+  },
+  "151": {
+    "name": "Meru",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_151.png"
+  },
+  "158": {
+    "name": "Bell",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_158.png"
+  },
+  "160": {
+    "name": "Aiz",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_160.png"
+  },
+  "163": {
+    "name": "Ainz",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_163.png"
+  },
+  "164": {
+    "name": "Albedo",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_164.png"
+  },
+  "165": {
+    "name": "Shalltear",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_165.png"
+  },
+  "169": {
+    "name": "Lolisa",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_169.png"
+  },
+  "181": {
+    "name": "Funifura & Dodonko",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_181.png"
+  },
+  "183": {
+    "name": "Misaka",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_183.png"
+  },
+  "184": {
+    "name": "Kuroko",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_184.png"
+  },
+  "185": {
+    "name": "Accelerator",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_185.png"
+  },
+  "186": {
+    "name": "Misaka clone",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_186.png"
+  },
+  "192": {
+    "name": "Naofumi",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_192.png"
+  },
+  "193": {
+    "name": "Raphtalia",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_193.png"
+  },
+  "194": {
+    "name": "Filo",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_194.png"
+  },
+  "195": {
+    "name": "Maple",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_195.png"
+  },
+  "196": {
+    "name": "Sally",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_196.png"
+  },
+  "197": {
+    "name": "Kasumi",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_197.png"
+  },
+  "198": {
+    "name": "Rudeus",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_198.png"
+  },
+  "199": {
+    "name": "Roxy",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_199.png"
+  },
+  "200": {
+    "name": "Eris",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_200.png"
+  },
+  "205": {
+    "name": "Subaru",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_205.png"
+  },
+  "206": {
+    "name": "Ram",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_206.png"
+  },
+  "207": {
+    "name": "Beatrice",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_207.png"
+  },
+  "208": {
+    "name": "Echidna",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_208.png"
+  },
+  "209": {
+    "name": "Zesta",
+    "is_collab": false,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_209.png"
+  },
+  "211": {
+    "name": "Kyon",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_211.png"
+  },
+  "212": {
+    "name": "Haruhi Suzumiya",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_212.png"
+  },
+  "213": {
+    "name": "Yuki Nagato",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_213.png"
+  },
+  "214": {
+    "name": "Mikuru Asahina",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_214.png"
+  },
+  "217": {
+    "name": "Rimuru",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_217.png"
+  },
+  "218": {
+    "name": "Shuna",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_218.png"
+  },
+  "219": {
+    "name": "Shion",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_219.png"
+  },
+  "220": {
+    "name": "Milim Nava",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_220.png"
+  },
+  "223": {
+    "name": "Cid Kagenou",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_223.png"
+  },
+  "224": {
+    "name": "Alpha",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_224.png"
+  },
+  "225": {
+    "name": "Beta",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_225.png"
+  },
+  "228": {
+    "name": "Shokuhou Misaki",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_228.png"
+  },
+  "231": {
+    "name": "Nerimaki",
+    "is_collab": true,
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_231.png"
+  }
+}

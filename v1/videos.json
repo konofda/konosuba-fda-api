@@ -1,0 +1,182 @@
+[
+  {
+    "path": "Gacha/3thAnni2.mp4",
+    "category": "Gacha",
+    "name": "3rd Anniversary Gacha #2"
+  },
+  {
+    "path": "Gacha/Claire_gacha.mp4",
+    "category": "Gacha",
+    "name": "Claire Banner"
+  },
+  {
+    "path": "Gacha/ForbMeguSchoolIris.mp4",
+    "category": "Gacha",
+    "name": "Forbidden Megumin & School Iris"
+  },
+  {
+    "path": "Gacha/HaruhiTicketBanner/output.mp4",
+    "category": "Gacha",
+    "name": "Haruhi Ticket Banner"
+  },
+  {
+    "path": "Gacha/HaruhiUnits/output.mp4",
+    "category": "Gacha",
+    "name": "Haruhi Units Showcase"
+  },
+  {
+    "path": "Gacha/OverlordUnits/321111.mp4",
+    "category": "Gacha",
+    "name": "Overlord Units Banner"
+  },
+  {
+    "path": "Gacha/forbmegu_gacha2Star1.mp4",
+    "category": "Gacha",
+    "name": "Forbidden Megumin 2★ Part 1"
+  },
+  {
+    "path": "Gacha/forbmegu_gacha2Star2.mp4",
+    "category": "Gacha",
+    "name": "Forbidden Megumin 2★ Part 2"
+  },
+  {
+    "path": "Gacha/forbmegu_gacha4Star.mp4",
+    "category": "Gacha",
+    "name": "Forbidden Megumin 4★"
+  },
+  {
+    "path": "Gacha/gacha_cut_323041.mp4",
+    "category": "Gacha",
+    "name": "Gacha Animation 323041"
+  },
+  {
+    "path": "Gacha/gacha_cut_410148.mp4",
+    "category": "Gacha",
+    "name": "Gacha Animation 410148"
+  },
+  {
+    "path": "Gacha/teather1.mp4",
+    "category": "Gacha",
+    "name": "Theater Banner Part 1"
+  },
+  {
+    "path": "Gacha/xmas2feschris.mp4",
+    "category": "Gacha",
+    "name": "Christmas Festival Chris Part 2"
+  },
+  {
+    "path": "Gacha/xmas3.mp4",
+    "category": "Gacha",
+    "name": "Christmas Banner Part 3"
+  },
+  {
+    "path": "Intros/OPMovieShort/video.mp4",
+    "category": "Intros",
+    "name": "Opening Movie Short Version"
+  },
+  {
+    "path": "Intros/ShortBakuen/video.mp4",
+    "category": "Intros",
+    "name": "Bakuen Short Opening"
+  },
+  {
+    "path": "Intros/ShortBofuri/op_short_boufuri.mp4",
+    "category": "Intros",
+    "name": "Bofuri Short Opening"
+  },
+  {
+    "path": "Intros/ShortHaruhi/output.mp4",
+    "category": "Intros",
+    "name": "Haruhi Short Opening"
+  },
+  {
+    "path": "Intros/ShortOverlord2/overlord2.mp4",
+    "category": "Intros",
+    "name": "Overlord 2 Short Opening"
+  },
+  {
+    "path": "Intros/ShortReZero2/video.mp4",
+    "category": "Intros",
+    "name": "Re:Zero 2 Short Opening"
+  },
+  {
+    "path": "Intros/ShortThirdAnni/op_short_3rdanniversary.mp4",
+    "category": "Intros",
+    "name": "3rd Anniversary Short Opening"
+  },
+  {
+    "path": "OPMovieFull/output.mp4",
+    "category": "OPMovieFull",
+    "name": "Opening Movie Full Version"
+  },
+  {
+    "path": "Other/badapple.mp4",
+    "category": "Other",
+    "name": "Bad Apple"
+  },
+  {
+    "path": "Other/fame_quest.mp4",
+    "category": "Other",
+    "name": "Fame Quest"
+  },
+  {
+    "path": "Story Event Cutscene/1StAnni/1stanniv.mp4",
+    "category": "StoryEventCutscene",
+    "name": "1st Anniversary Story"
+  },
+  {
+    "path": "Story Event Cutscene/3thAnni.mp4",
+    "category": "StoryEventCutscene",
+    "name": "3rd Anniversary Story"
+  },
+  {
+    "path": "Story Event Cutscene/AprilFools4.mp4",
+    "category": "StoryEventCutscene",
+    "name": "April Fools Part 4"
+  },
+  {
+    "path": "Story Event Cutscene/Claire.mp4",
+    "category": "StoryEventCutscene",
+    "name": "Claire Story"
+  },
+  {
+    "path": "Story Event Cutscene/ForbMegu.mp4",
+    "category": "StoryEventCutscene",
+    "name": "Forbidden Megumin Story"
+  },
+  {
+    "path": "Story Event Cutscene/Overlord2.mp4",
+    "category": "StoryEventCutscene",
+    "name": "Overlord 2 Story"
+  },
+  {
+    "path": "Story Event Cutscene/StoryHaruhi/output.mp4",
+    "category": "StoryEventCutscene",
+    "name": "Haruhi Story"
+  },
+  {
+    "path": "Story Event Cutscene/StoryReZero2/output.mp4",
+    "category": "StoryEventCutscene",
+    "name": "Re:Zero 2 Story"
+  },
+  {
+    "path": "Story Event Cutscene/xmas.mp4",
+    "category": "StoryEventCutscene",
+    "name": "Christmas Story"
+  },
+  {
+    "path": "UnitIntroductions/Claire.mp4",
+    "category": "UnitIntroductions",
+    "name": "Claire Unit Introduction"
+  },
+  {
+    "path": "UnitIntroductions/Lolisa.mp4",
+    "category": "UnitIntroductions",
+    "name": "Lolisa Unit Introduction"
+  },
+  {
+    "path": "UnitIntroductions/forbmegu.mp4",
+    "category": "UnitIntroductions",
+    "name": "Forbidden Megumin Unit Introduction"
+  }
+]
