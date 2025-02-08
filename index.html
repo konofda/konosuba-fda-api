@@ -4,9 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Konosuba FDA API</title>
-    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
     <style>
       :root {
         --bg: #1a1a1a;
@@ -48,21 +45,14 @@
         font-size: 1.2rem;
         font-weight: normal;
         padding: 1rem;
-        border-bottom: 1px solid var(--border);
-        font-family:
-          system-ui,
-          -apple-system,
-          sans-serif;
+        font-family: system-ui, -apple-system, sans-serif;
       }
 
       .description {
         padding: 0.75rem 1rem;
         color: var(--text-dim);
         border-bottom: 1px solid var(--border);
-        font-family:
-          system-ui,
-          -apple-system,
-          sans-serif;
+        font-family: system-ui, -apple-system, sans-serif;
         font-size: 0.9rem;
       }
 
@@ -125,10 +115,7 @@
         color: var(--text-dim);
         font-size: 0.9rem;
         margin-top: 0.5rem;
-        font-family:
-          system-ui,
-          -apple-system,
-          sans-serif;
+        font-family: system-ui, -apple-system, sans-serif;
       }
 
       footer {
@@ -136,10 +123,8 @@
         text-align: center;
         color: var(--text-dim);
         font-size: 0.9rem;
-        font-family:
-          system-ui,
-          -apple-system,
-          sans-serif;
+        font-family: system-ui, -apple-system, sans-serif;
+        border-top: 1px solid var(--border);
       }
 
       footer a {
@@ -149,12 +134,6 @@
 
       footer a:hover {
         text-decoration: underline;
-      }
-
-      @media (max-width: 640px) {
-        body {
-          padding: 1rem 0.5rem;
-        }
       }
 
       .tabs {
@@ -180,171 +159,179 @@
       .tab:hover:not(.active) {
         background: var(--hover);
       }
+
+      .endpoints-container > div {
+        display: none;
+      }
+
+      .endpoints-container > div.active {
+        display: block;
+      }
+
+      @media (max-width: 640px) {
+        body {
+          padding: 1rem 0.5rem;
+        }
+      }
     </style>
   </head>
   <body>
-    <div id="root"></div>
-    <script type="text/babel">
-      const v0Endpoints = [
-        {
-          emoji: "🎴",
-          title: "Cards",
-          path: "./v0/cards.json",
-          description: "Access character card information and assets",
-        },
-        {
-          emoji: "🎭",
-          title: "Live2D",
-          path: "./v0/live2d.json",
-          description: "Access Live2D model and animation data",
-        },
-        {
-          emoji: "🦴",
-          title: "Spines",
-          path: "./v0/spines.json",
-          description: "Access Spine model and animation data",
-        },
-        {
-          emoji: "📸",
-          title: "Stills",
-          path: "./v0/stills.json",
-          description: "Access story still images and CGs",
-        },
-        {
-          emoji: "📖",
-          title: "Stories",
-          path: "./v0/stories.json",
-          description: "Access story scripts and narrative content",
-        },
-        {
-          emoji: "🗣️",
-          title: "Voice",
-          path: "./v0/voice.json",
-          description: "Access voice lines and audio content",
-        },
-      ];
+    <div id="root">
+      <div class="container">
+        <h1>🎮 Konosuba FDA API</h1>
+        <p class="description">API endpoints for Konosuba Fantastic Days asset management</p>
 
-      const v1Endpoints = [
-        {
-          emoji: "👋",
-          title: "Hello",
-          path: "./v1/hello.json",
-          description: "Basic API health check and welcome endpoint",
-        },
-        {
-          emoji: "🎭",
-          title: "All Live2D Models",
-          path: "./v1/all-models-live2d.json",
-          description: "Access complete collection of Live2D models and animation data",
-        },
-        {
-          emoji: "🦴",
-          title: "All Spine Models",
-          path: "./v1/all-models-spine.json",
-          description: "Access complete collection of Spine models and animation data",
-        },
-        {
-          emoji: "👥",
-          title: "Member Characters",
-          path: "./v1/member-characters.json",
-          description: "Retrieve information about game characters and their details",
-        },
-        {
-          emoji: "🎴",
-          title: "Member Cards",
-          path: "./v1/member-cards.json",
-          description: "Access character card information and assets",
-        },
-        {
-          emoji: "📖",
-          title: "Story Scripts",
-          path: "./v1/story-scripts.json",
-          description: "Access story scripts and narrative content",
-        },
-        {
-          emoji: "🖼️",
-          title: "Story Backgrounds",
-          path: "./v1/story-backgrounds.json",
-          description: "Access story background images and assets",
-        },
-        {
-          emoji: "📸",
-          title: "Story Stills",
-          path: "./v1/story-stills.json",
-          description: "Access story still images and CGs",
-        },
-        {
-          emoji: "📺",
-          title: "Videos",
-          path: "./v1/videos.json",
-          description: "Retrieve video assets information",
-        },
-        {
-          emoji: "🎵",
-          title: "Music",
-          path: "./v1/music.json",
-          description: "Access music and audio related content",
-        },
-      ];
+        <div class="tabs">
+          <button class="tab" data-version="v0">v0</button>
+          <button class="tab active" data-version="v1">v1 (Latest)</button>
+        </div>
 
-      function EndpointsList({ endpoints }) {
-        return (
-          <div className="endpoints-list">
-            {endpoints.map((endpoint, index) => (
-              <div className="endpoint" key={index}>
-                <div className="endpoint-header">
-                  <div className="endpoint-title">
-                    {endpoint.emoji} {endpoint.title}
-                  </div>
-                  <code>
-                    <a href={endpoint.path}>GET {endpoint.path}</a>
-                  </code>
+        <div class="endpoints-container">
+          <div id="v0-endpoints">
+            <div class="endpoints-list">
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎴 Cards</div>
+                  <code><a href="./v0/cards.json">GET ./v0/cards.json</a></code>
                 </div>
-                <p>{endpoint.description}</p>
+                <p>Access character card information and assets</p>
               </div>
-            ))}
-          </div>
-        );
-      }
-
-      function App() {
-        const [activeVersion, setActiveVersion] = React.useState("v1");
-
-        return (
-          <div className="container">
-            <h1>🎮 Konosuba FDA API</h1>
-            <p className="description">API endpoints for Konosuba Fantastic Days asset management</p>
-
-            <div className="tabs">
-              <button 
-                className={`tab ${activeVersion === "v0" ? "active" : ""}`}
-                onClick={() => setActiveVersion("v0")}
-              >
-                v0
-              </button>
-              <button 
-                className={`tab ${activeVersion === "v1" ? "active" : ""}`}
-                onClick={() => setActiveVersion("v1")}
-              >
-                v1 (Latest)
-              </button>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎭 Live2D</div>
+                  <code><a href="./v0/live2d.json">GET ./v0/live2d.json</a></code>
+                </div>
+                <p>Access Live2D model and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🦴 Spines</div>
+                  <code><a href="./v0/spines.json">GET ./v0/spines.json</a></code>
+                </div>
+                <p>Access Spine model and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📸 Stills</div>
+                  <code><a href="./v0/stills.json">GET ./v0/stills.json</a></code>
+                </div>
+                <p>Access story still images and CGs</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📖 Stories</div>
+                  <code><a href="./v0/stories.json">GET ./v0/stories.json</a></code>
+                </div>
+                <p>Access story scripts and narrative content</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🗣️ Voice</div>
+                  <code><a href="./v0/voice.json">GET ./v0/voice.json</a></code>
+                </div>
+                <p>Access voice lines and audio content</p>
+              </div>
             </div>
-
-            <EndpointsList endpoints={activeVersion === "v0" ? v0Endpoints : v1Endpoints} />
-
-            <footer>
-              <p>
-                <a href="https://github.com/konofda/konosuba-fda-api" target="_blank" rel="noopener noreferrer">
-                  View on GitHub
-                </a>
-              </p>
-            </footer>
           </div>
-        );
-      }
 
-      const root = ReactDOM.createRoot(document.getElementById("root"));
-      root.render(<App />);
+          <div id="v1-endpoints" class="active">
+            <div class="endpoints-list">
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">👋 Hello</div>
+                  <code><a href="./v1/hello.json">GET ./v1/hello.json</a></code>
+                </div>
+                <p>Basic API health check and welcome endpoint</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎭 All Live2D Models</div>
+                  <code><a href="./v1/all-models-live2d.json">GET ./v1/all-models-live2d.json</a></code>
+                </div>
+                <p>Access complete collection of Live2D models and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🦴 All Spine Models</div>
+                  <code><a href="./v1/all-models-spine.json">GET ./v1/all-models-spine.json</a></code>
+                </div>
+                <p>Access complete collection of Spine models and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">👥 Member Characters</div>
+                  <code><a href="./v1/member-characters.json">GET ./v1/member-characters.json</a></code>
+                </div>
+                <p>Retrieve information about game characters and their details</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎴 Member Cards</div>
+                  <code><a href="./v1/member-cards.json">GET ./v1/member-cards.json</a></code>
+                </div>
+                <p>Access character card information and assets</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📖 Story Scripts</div>
+                  <code><a href="./v1/story-scripts.json">GET ./v1/story-scripts.json</a></code>
+                </div>
+                <p>Access story scripts and narrative content</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🖼️ Story Backgrounds</div>
+                  <code><a href="./v1/story-backgrounds.json">GET ./v1/story-backgrounds.json</a></code>
+                </div>
+                <p>Access story background images and assets</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📸 Story Stills</div>
+                  <code><a href="./v1/story-stills.json">GET ./v1/story-stills.json</a></code>
+                </div>
+                <p>Access story still images and CGs</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📺 Videos</div>
+                  <code><a href="./v1/videos.json">GET ./v1/videos.json</a></code>
+                </div>
+                <p>Retrieve video assets information</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎵 Music</div>
+                  <code><a href="./v1/music.json">GET ./v1/music.json</a></code>
+                </div>
+                <p>Access music and audio related content</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <footer>
+          <p>
+            <a href="https://github.com/konofda/konosuba-fda-api" target="_blank" rel="noopener noreferrer">
+              View on GitHub
+            </a>
+          </p>
+        </footer>
+      </div>
+    </div>
+
+    <script>
+      document.querySelectorAll('.tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          // Remove active class from all tabs and content
+          document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+          document.querySelectorAll('.endpoints-container > div').forEach(content => content.classList.remove('active'));
+          
+          // Add active class to clicked tab and corresponding content
+          tab.classList.add('active');
+          document.getElementById(`${tab.dataset.version}-endpoints`).classList.add('active');
+        });
+      });
     </script>
   </body>
 </html>
