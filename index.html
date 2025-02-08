@@ -16,6 +16,7 @@
         --code-bg: #2a2a2a;
         --hover: #3a3a3a;
         --accent: #4a4a4a;
+        --tab-active: #2d2d2d;
       }
 
       * {
@@ -155,95 +156,181 @@
           padding: 1rem 0.5rem;
         }
       }
+
+      .tabs {
+        display: flex;
+        border-bottom: 1px solid var(--border);
+      }
+
+      .tab {
+        padding: 0.75rem 1.5rem;
+        cursor: pointer;
+        border: none;
+        background: none;
+        color: var(--text);
+        font-family: "SF Mono", "Consolas", monospace;
+        font-size: 0.9rem;
+      }
+
+      .tab.active {
+        background: var(--tab-active);
+        border-bottom: 2px solid var(--text);
+      }
+
+      .tab:hover:not(.active) {
+        background: var(--hover);
+      }
     </style>
   </head>
   <body>
     <div id="root"></div>
     <script type="text/babel">
-      const endpoints = [
+      const v0Endpoints = [
         {
-          emoji: "👋",
-          title: "Hello",
-          path: "./api/v1/hello.json",
-          description: "Basic API health check and welcome endpoint",
+          emoji: "🎴",
+          title: "Cards",
+          path: "./v0/cards.json",
+          description: "Access character card information and assets",
         },
         {
           emoji: "🎭",
           title: "Live2D",
-          path: "./api/v1/live2d.json",
+          path: "./v0/live2d.json",
           description: "Access Live2D model and animation data",
         },
         {
           emoji: "🦴",
-          title: "Spine Models",
-          path: "./api/v1/spine.json",
+          title: "Spines",
+          path: "./v0/spines.json",
           description: "Access Spine model and animation data",
+        },
+        {
+          emoji: "📸",
+          title: "Stills",
+          path: "./v0/stills.json",
+          description: "Access story still images and CGs",
+        },
+        {
+          emoji: "📖",
+          title: "Stories",
+          path: "./v0/stories.json",
+          description: "Access story scripts and narrative content",
+        },
+        {
+          emoji: "🗣️",
+          title: "Voice",
+          path: "./v0/voice.json",
+          description: "Access voice lines and audio content",
+        },
+      ];
+
+      const v1Endpoints = [
+        {
+          emoji: "👋",
+          title: "Hello",
+          path: "./v1/hello.json",
+          description: "Basic API health check and welcome endpoint",
+        },
+        {
+          emoji: "🎭",
+          title: "All Live2D Models",
+          path: "./v1/all-models-live2d.json",
+          description: "Access complete collection of Live2D models and animation data",
+        },
+        {
+          emoji: "🦴",
+          title: "All Spine Models",
+          path: "./v1/all-models-spine.json",
+          description: "Access complete collection of Spine models and animation data",
         },
         {
           emoji: "👥",
           title: "Member Characters",
-          path: "./api/v1/member-characters.json",
+          path: "./v1/member-characters.json",
           description: "Retrieve information about game characters and their details",
         },
         {
           emoji: "🎴",
           title: "Member Cards",
-          path: "./api/v1/member-cards.json",
+          path: "./v1/member-cards.json",
           description: "Access character card information and assets",
         },
         {
           emoji: "📖",
           title: "Story Scripts",
-          path: "./api/v1/story-scripts.json",
+          path: "./v1/story-scripts.json",
           description: "Access story scripts and narrative content",
         },
         {
           emoji: "🖼️",
           title: "Story Backgrounds",
-          path: "./api/v1/story-backgrounds.json",
+          path: "./v1/story-backgrounds.json",
           description: "Access story background images and assets",
         },
         {
           emoji: "📸",
           title: "Story Stills",
-          path: "./api/v1/story-stills.json",
+          path: "./v1/story-stills.json",
           description: "Access story still images and CGs",
         },
         {
           emoji: "📺",
           title: "Videos",
-          path: "./api/v1/videos.json",
+          path: "./v1/videos.json",
           description: "Retrieve video assets information",
         },
         {
           emoji: "🎵",
           title: "Music",
-          path: "./api/v1/music.json",
+          path: "./v1/music.json",
           description: "Access music and audio related content",
         },
       ];
 
+      function EndpointsList({ endpoints }) {
+        return (
+          <div className="endpoints-list">
+            {endpoints.map((endpoint, index) => (
+              <div className="endpoint" key={index}>
+                <div className="endpoint-header">
+                  <div className="endpoint-title">
+                    {endpoint.emoji} {endpoint.title}
+                  </div>
+                  <code>
+                    <a href={endpoint.path}>GET {endpoint.path}</a>
+                  </code>
+                </div>
+                <p>{endpoint.description}</p>
+              </div>
+            ))}
+          </div>
+        );
+      }
+
       function App() {
+        const [activeVersion, setActiveVersion] = React.useState("v1");
+
         return (
           <div className="container">
             <h1>🎮 Konosuba FDA API</h1>
             <p className="description">API endpoints for Konosuba Fantastic Days asset management</p>
 
-            <div className="endpoints-list">
-              {endpoints.map((endpoint, index) => (
-                <div className="endpoint" key={index}>
-                  <div className="endpoint-header">
-                    <div className="endpoint-title">
-                      {endpoint.emoji} {endpoint.title}
-                    </div>
-                    <code>
-                      <a href={endpoint.path}>GET {endpoint.path}</a>
-                    </code>
-                  </div>
-                  <p>{endpoint.description}</p>
-                </div>
-              ))}
+            <div className="tabs">
+              <button 
+                className={`tab ${activeVersion === "v0" ? "active" : ""}`}
+                onClick={() => setActiveVersion("v0")}
+              >
+                v0
+              </button>
+              <button 
+                className={`tab ${activeVersion === "v1" ? "active" : ""}`}
+                onClick={() => setActiveVersion("v1")}
+              >
+                v1 (Latest)
+              </button>
             </div>
+
+            <EndpointsList endpoints={activeVersion === "v0" ? v0Endpoints : v1Endpoints} />
 
             <footer>
               <p>
