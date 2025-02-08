@@ -1,253 +1,263 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Konosuba FDA API</title>
     <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
     <style>
-        :root {
-            --bg: #1a1a1a;
-            --text: #e0e0e0;
-            --text-dim: #888;
-            --border: #333;
-            --code-bg: #2a2a2a;
-            --hover: #3a3a3a;
-            --accent: #4a4a4a;
-        }
+      :root {
+        --bg: #1a1a1a;
+        --text: #e0e0e0;
+        --text-dim: #888;
+        --border: #333;
+        --code-bg: #2a2a2a;
+        --hover: #3a3a3a;
+        --accent: #4a4a4a;
+      }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
+      body {
+        font-family: "SF Mono", "Consolas", monospace;
+        line-height: 1.5;
+        background: var(--bg);
+        color: var(--text);
+        font-size: 14px;
+        padding: 2rem 1rem;
+      }
+
+      #root {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+
+      .container {
+        border: 1px solid var(--border);
+        border-radius: 4px;
+      }
+
+      h1 {
+        font-size: 1.2rem;
+        font-weight: normal;
+        padding: 1rem;
+        border-bottom: 1px solid var(--border);
+        font-family:
+          system-ui,
+          -apple-system,
+          sans-serif;
+      }
+
+      .description {
+        padding: 0.75rem 1rem;
+        color: var(--text-dim);
+        border-bottom: 1px solid var(--border);
+        font-family:
+          system-ui,
+          -apple-system,
+          sans-serif;
+        font-size: 0.9rem;
+      }
+
+      .endpoints-list {
+        list-style: none;
+      }
+
+      .endpoint {
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid var(--border);
+      }
+
+      .endpoint:last-child {
+        border-bottom: none;
+      }
+
+      .endpoint:hover {
+        background: var(--hover);
+      }
+
+      .endpoint h3 {
+        font-size: 1rem;
+        font-weight: normal;
+        margin-bottom: 0.5rem;
+        color: var(--text);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .endpoint-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0.5rem;
+      }
+
+      .endpoint-title {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      code {
+        font-family: "SF Mono", "Consolas", monospace;
+        background: var(--code-bg);
+        padding: 0.4rem 0.6rem;
+        border-radius: 3px;
+        font-size: 0.9rem;
+        color: var(--text);
+        border: 1px solid var(--accent);
+      }
+
+      code a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .endpoint p {
+        color: var(--text-dim);
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+        font-family:
+          system-ui,
+          -apple-system,
+          sans-serif;
+      }
+
+      footer {
+        margin-top: 1rem;
+        text-align: center;
+        color: var(--text-dim);
+        font-size: 0.9rem;
+        font-family:
+          system-ui,
+          -apple-system,
+          sans-serif;
+      }
+
+      footer a {
+        color: var(--text);
+        text-decoration: none;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+
+      @media (max-width: 640px) {
         body {
-            font-family: 'SF Mono', 'Consolas', monospace;
-            line-height: 1.5;
-            background: var(--bg);
-            color: var(--text);
-            font-size: 14px;
-            padding: 2rem 1rem;
+          padding: 1rem 0.5rem;
         }
-
-        #root {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-
-        .container {
-            border: 1px solid var(--border);
-            border-radius: 4px;
-        }
-
-        h1 {
-            font-size: 1.2rem;
-            font-weight: normal;
-            padding: 1rem;
-            border-bottom: 1px solid var(--border);
-            font-family: system-ui, -apple-system, sans-serif;
-        }
-
-        .description {
-            padding: 0.75rem 1rem;
-            color: var(--text-dim);
-            border-bottom: 1px solid var(--border);
-            font-family: system-ui, -apple-system, sans-serif;
-            font-size: 0.9rem;
-        }
-
-        .endpoints-list {
-            list-style: none;
-        }
-
-        .endpoint {
-            padding: 0.75rem 1rem;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .endpoint:last-child {
-            border-bottom: none;
-        }
-
-        .endpoint:hover {
-            background: var(--hover);
-        }
-
-        .endpoint h3 {
-            font-size: 1rem;
-            font-weight: normal;
-            margin-bottom: 0.5rem;
-            color: var(--text);
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        .endpoint-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 0.5rem;
-        }
-
-        .endpoint-title {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        code {
-            font-family: 'SF Mono', 'Consolas', monospace;
-            background: var(--code-bg);
-            padding: 0.4rem 0.6rem;
-            border-radius: 3px;
-            font-size: 0.9rem;
-            color: var(--text);
-            border: 1px solid var(--accent);
-        }
-
-        code a {
-            text-decoration: none;
-            color: inherit;
-        }
-
-        .endpoint p {
-            color: var(--text-dim);
-            font-size: 0.9rem;
-            margin-top: 0.5rem;
-            font-family: system-ui, -apple-system, sans-serif;
-        }
-
-        footer {
-            margin-top: 1rem;
-            text-align: center;
-            color: var(--text-dim);
-            font-size: 0.9rem;
-            font-family: system-ui, -apple-system, sans-serif;
-        }
-
-        footer a {
-            color: var(--text);
-            text-decoration: none;
-        }
-
-        footer a:hover {
-            text-decoration: underline;
-        }
-
-        @media (max-width: 640px) {
-            body {
-                padding: 1rem 0.5rem;
-            }
-        }
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div id="root"></div>
     <script type="text/babel">
-        const endpoints = [
-            {
-                emoji: "👋",
-                title: "Hello",
-                path: "./api/v1/hello.json",
-                description: "Basic API health check and welcome endpoint"
-            },
-            {
-                emoji: "🎭",
-                title: "Live2D",
-                path: "./api/v1/live2d.json",
-                description: "Access Live2D model and animation data"
-            },
-            {
-                emoji: "🦴",
-                title: "Spine Models",
-                path: "./api/v1/spine.json",
-                description: "Access Spine model and animation data"
-            },
-            {
-                emoji: "👥",
-                title: "Member Characters",
-                path: "./api/v1/member-characters.json",
-                description: "Retrieve information about game characters and their details"
-            },
-            {
-                emoji: "🎴",
-                title: "Member Cards",
-                path: "./api/v1/member-cards.json",
-                description: "Access character card information and assets"
-            },
-            {
-                emoji: "📖",
-                title: "Story Scripts",
-                path: "./api/v1/story-scripts.json",
-                description: "Access story scripts and narrative content"
-            },
-            {
-                emoji: "🖼️",
-                title: "Story Backgrounds",
-                path: "./api/v1/story-backgrounds.json",
-                description: "Access story background images and assets"
-            },
-            {
-                emoji: "📸",
-                title: "Story Stills",
-                path: "./api/v1/story-stills.json",
-                description: "Access story still images and CGs"
-            },
-            {
-                emoji: "📺",
-                title: "Videos",
-                path: "./api/v1/videos.json",
-                description: "Retrieve video assets information"
-            },
-            {
-                emoji: "🎵",
-                title: "Music",
-                path: "./api/v1/music.json",
-                description: "Access music and audio related content"
-            }
-        ];
+      const endpoints = [
+        {
+          emoji: "👋",
+          title: "Hello",
+          path: "./api/v1/hello.json",
+          description: "Basic API health check and welcome endpoint",
+        },
+        {
+          emoji: "🎭",
+          title: "Live2D",
+          path: "./api/v1/live2d.json",
+          description: "Access Live2D model and animation data",
+        },
+        {
+          emoji: "🦴",
+          title: "Spine Models",
+          path: "./api/v1/spine.json",
+          description: "Access Spine model and animation data",
+        },
+        {
+          emoji: "👥",
+          title: "Member Characters",
+          path: "./api/v1/member-characters.json",
+          description: "Retrieve information about game characters and their details",
+        },
+        {
+          emoji: "🎴",
+          title: "Member Cards",
+          path: "./api/v1/member-cards.json",
+          description: "Access character card information and assets",
+        },
+        {
+          emoji: "📖",
+          title: "Story Scripts",
+          path: "./api/v1/story-scripts.json",
+          description: "Access story scripts and narrative content",
+        },
+        {
+          emoji: "🖼️",
+          title: "Story Backgrounds",
+          path: "./api/v1/story-backgrounds.json",
+          description: "Access story background images and assets",
+        },
+        {
+          emoji: "📸",
+          title: "Story Stills",
+          path: "./api/v1/story-stills.json",
+          description: "Access story still images and CGs",
+        },
+        {
+          emoji: "📺",
+          title: "Videos",
+          path: "./api/v1/videos.json",
+          description: "Retrieve video assets information",
+        },
+        {
+          emoji: "🎵",
+          title: "Music",
+          path: "./api/v1/music.json",
+          description: "Access music and audio related content",
+        },
+      ];
 
-        function App() {
-            return (
-                <div className="container">
-                    <h1>🎮 Konosuba FDA API</h1>
-                    <p className="description">
-                        API endpoints for Konosuba Fantastic Days asset management
-                    </p>
-                    
-                    <div className="endpoints-list">
-                        {endpoints.map((endpoint, index) => (
-                            <div className="endpoint" key={index}>
-                                <div className="endpoint-header">
-                                    <div className="endpoint-title">
-                                        {endpoint.emoji} {endpoint.title}
-                                    </div>
-                                    <code>
-                                        <a href={endpoint.path}>GET {endpoint.path}</a>
-                                    </code>
-                                </div>
-                                <p>{endpoint.description}</p>
-                            </div>
-                        ))}
+      function App() {
+        return (
+          <div className="container">
+            <h1>🎮 Konosuba FDA API</h1>
+            <p className="description">API endpoints for Konosuba Fantastic Days asset management</p>
+
+            <div className="endpoints-list">
+              {endpoints.map((endpoint, index) => (
+                <div className="endpoint" key={index}>
+                  <div className="endpoint-header">
+                    <div className="endpoint-title">
+                      {endpoint.emoji} {endpoint.title}
                     </div>
-
-                    <footer>
-                        <p>
-                            <a href="https://github.com/konofda/konosuba-fda-api" target="_blank" rel="noopener noreferrer">
-                                View on GitHub
-                            </a>
-                        </p>
-                    </footer>
+                    <code>
+                      <a href={endpoint.path}>GET {endpoint.path}</a>
+                    </code>
+                  </div>
+                  <p>{endpoint.description}</p>
                 </div>
-            );
-        }
+              ))}
+            </div>
 
-        const root = ReactDOM.createRoot(document.getElementById('root'));
-        root.render(<App />);
+            <footer>
+              <p>
+                <a href="https://github.com/konofda/konosuba-fda-api" target="_blank" rel="noopener noreferrer">
+                  View on GitHub
+                </a>
+              </p>
+            </footer>
+          </div>
+        );
+      }
+
+      const root = ReactDOM.createRoot(document.getElementById("root"));
+      root.render(<App />);
     </script>
-</body>
+  </body>
 </html>

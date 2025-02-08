@@ -1,23 +1,17 @@
 [
   {
     "id": "1001",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1001/1001.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1001/1001.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1001.png"
   },
   {
     "id": "1002",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1002/1002.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1002/1002.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1002.png"
   },
   {
     "id": "1003",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1003/1003.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1003/1003.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1003.png"
   },
   {
@@ -32,65 +26,47 @@
   },
   {
     "id": "1005",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1005/1005.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1005/1005.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1005.png"
   },
   {
     "id": "1006",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1006/1006.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1006/1006.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1006.png"
   },
   {
     "id": "1007",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1007/1007.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1007/1007.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1007.png"
   },
   {
     "id": "1008",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1008/1008.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1008/1008.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1008.png"
   },
   {
     "id": "1009",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1009/1009.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1009/1009.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1009.png"
   },
   {
     "id": "1010",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1010/1010.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1010/1010.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1010.png"
   },
   {
     "id": "1011",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1011/1011.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1011/1011.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1011.png"
   },
   {
     "id": "1012",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1012/1012.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1012/1012.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1012.png"
   },
   {
     "id": "1013",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1013/1013.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1013/1013.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1013.png"
   },
   {
@@ -111,65 +87,47 @@
   },
   {
     "id": "1015",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1015/1015.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1015/1015.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1015.png"
   },
   {
     "id": "1016",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1016/1016.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1016/1016.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1016.png"
   },
   {
     "id": "1017",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1017/1017.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1017/1017.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1017.png"
   },
   {
     "id": "1018",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1018/1018.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1018/1018.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1018.png"
   },
   {
     "id": "1019",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1019/1019.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1019/1019.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1019.png"
   },
   {
     "id": "1020",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1020/1020.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1020/1020.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1020.png"
   },
   {
     "id": "1021",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1021/1021.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1021/1021.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1021.png"
   },
   {
     "id": "1022",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1022/1022.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1022/1022.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1022.png"
   },
   {
     "id": "1023",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1023/1023.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1023/1023.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1023.png"
   },
   {
@@ -189,65 +147,47 @@
   },
   {
     "id": "1025",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1025/1025.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1025/1025.png"],
     "icon_still": null
   },
   {
     "id": "1026",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1026/1026.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1026/1026.png"],
     "icon_still": null
   },
   {
     "id": "1027",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1027/1027.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1027/1027.png"],
     "icon_still": null
   },
   {
     "id": "1028",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1028/1028.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1028/1028.png"],
     "icon_still": null
   },
   {
     "id": "1029",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1029/1029.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1029/1029.png"],
     "icon_still": null
   },
   {
     "id": "1030",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1030/1030.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1030/1030.png"],
     "icon_still": null
   },
   {
     "id": "1031",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1031/1031.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1031/1031.png"],
     "icon_still": null
   },
   {
     "id": "1032",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1032/1032.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1032/1032.png"],
     "icon_still": null
   },
   {
     "id": "1033",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1033/1033.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1033/1033.png"],
     "icon_still": null
   },
   {
@@ -270,65 +210,47 @@
   },
   {
     "id": "1035",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1035/1035.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1035/1035.png"],
     "icon_still": null
   },
   {
     "id": "1036",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1036/1036.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1036/1036.png"],
     "icon_still": null
   },
   {
     "id": "1037",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1037/1037.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1037/1037.png"],
     "icon_still": null
   },
   {
     "id": "1038",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1038/1038.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1038/1038.png"],
     "icon_still": null
   },
   {
     "id": "1039",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1039/1039.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1039/1039.png"],
     "icon_still": null
   },
   {
     "id": "1040",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1040/1040.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1040/1040.png"],
     "icon_still": null
   },
   {
     "id": "1041",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1041/1041.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1041/1041.png"],
     "icon_still": null
   },
   {
     "id": "1042",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1042/1042.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1042/1042.png"],
     "icon_still": null
   },
   {
     "id": "1043",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1043/1043.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1043/1043.png"],
     "icon_still": null
   },
   {
@@ -343,65 +265,47 @@
   },
   {
     "id": "1045",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1045/1045.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1045/1045.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1045.png"
   },
   {
     "id": "1046",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1046/1046.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1046/1046.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1046.png"
   },
   {
     "id": "1047",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1047/1047.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1047/1047.png"],
     "icon_still": null
   },
   {
     "id": "1048",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1048/1048.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1048/1048.png"],
     "icon_still": null
   },
   {
     "id": "1049",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1049/1049.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1049/1049.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1049.png"
   },
   {
     "id": "1050",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1050/1050.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1050/1050.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1050.png"
   },
   {
     "id": "1051",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1051/1051.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1051/1051.png"],
     "icon_still": null
   },
   {
     "id": "1052",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1052/1052.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1052/1052.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1052.png"
   },
   {
     "id": "1053",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1053/1053.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1053/1053.png"],
     "icon_still": null
   },
   {
@@ -419,58 +323,42 @@
   },
   {
     "id": "1055",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1055/1055.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1055/1055.png"],
     "icon_still": null
   },
   {
     "id": "1056",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1056/1056.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1056/1056.png"],
     "icon_still": null
   },
   {
     "id": "1057",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1057/1057.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1057/1057.png"],
     "icon_still": null
   },
   {
     "id": "1058",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1058/1058.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1058/1058.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1058.png"
   },
   {
     "id": "1059",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1059/1059.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1059/1059.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1059.png"
   },
   {
     "id": "1060",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1060/1060.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1060/1060.png"],
     "icon_still": null
   },
   {
     "id": "1061",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1061/1061.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1061/1061.png"],
     "icon_still": null
   },
   {
     "id": "1062",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1062/1062.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1062/1062.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1062.png"
   },
   {
@@ -485,65 +373,47 @@
   },
   {
     "id": "1064",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1064/1064.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1064/1064.png"],
     "icon_still": null
   },
   {
     "id": "1065",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1065/1065.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1065/1065.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1065.png"
   },
   {
     "id": "1066",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1066/1066.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1066/1066.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1066.png"
   },
   {
     "id": "1067",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1067/1067.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1067/1067.png"],
     "icon_still": null
   },
   {
     "id": "1068",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1068/1068.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1068/1068.png"],
     "icon_still": null
   },
   {
     "id": "1069",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1069/1069.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1069/1069.png"],
     "icon_still": null
   },
   {
     "id": "1070",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1070/1070.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1070/1070.png"],
     "icon_still": null
   },
   {
     "id": "1071",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1071/1071.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1071/1071.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1071.png"
   },
   {
     "id": "1072",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1072/1072.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1072/1072.png"],
     "icon_still": null
   },
   {
@@ -565,23 +435,17 @@
   },
   {
     "id": "1075",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1075/1075.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1075/1075.png"],
     "icon_still": null
   },
   {
     "id": "1076",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1076/1076.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1076/1076.png"],
     "icon_still": null
   },
   {
     "id": "1077",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1077/1077.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1077/1077.png"],
     "icon_still": null
   },
   {
@@ -594,723 +458,517 @@
   },
   {
     "id": "1079",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1079/1079.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1079/1079.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1079.png"
   },
   {
     "id": "1080",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1080/1080.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1080/1080.png"],
     "icon_still": null
   },
   {
     "id": "1081",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1081/1081.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1081/1081.png"],
     "icon_still": null
   },
   {
     "id": "1082",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1082/1082.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1082/1082.png"],
     "icon_still": null
   },
   {
     "id": "1083",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1083/1083.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1083/1083.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1083.png"
   },
   {
     "id": "1084",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1084/1084.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1084/1084.png"],
     "icon_still": null
   },
   {
     "id": "1085",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1085/1085.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1085/1085.png"],
     "icon_still": null
   },
   {
     "id": "1086",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1086/1086.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1086/1086.png"],
     "icon_still": null
   },
   {
     "id": "1087",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1087/1087.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1087/1087.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1087.png"
   },
   {
     "id": "1088",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1088/1088.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1088/1088.png"],
     "icon_still": null
   },
   {
     "id": "1089",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1089/1089.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1089/1089.png"],
     "icon_still": null
   },
   {
     "id": "1090",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1090/1090.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1090/1090.png"],
     "icon_still": null
   },
   {
     "id": "1091",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1091/1091.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1091/1091.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1091.png"
   },
   {
     "id": "1092",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1092/1092.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1092/1092.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1092.png"
   },
   {
     "id": "1093",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1093/1093.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1093/1093.png"],
     "icon_still": null
   },
   {
     "id": "1094",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1094/1094.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1094/1094.png"],
     "icon_still": null
   },
   {
     "id": "1095",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1095/1095.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1095/1095.png"],
     "icon_still": null
   },
   {
     "id": "1096",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1096/1096.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1096/1096.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1096.png"
   },
   {
     "id": "1097",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1097/1097.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1097/1097.png"],
     "icon_still": null
   },
   {
     "id": "1098",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1098/1098.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1098/1098.png"],
     "icon_still": null
   },
   {
     "id": "1099",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1099/1099.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1099/1099.png"],
     "icon_still": null
   },
   {
     "id": "1100",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1100/1100.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1100/1100.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1100.png"
   },
   {
     "id": "1101",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1101/1101.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1101/1101.png"],
     "icon_still": null
   },
   {
     "id": "1102",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1102/1102.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1102/1102.png"],
     "icon_still": null
   },
   {
     "id": "1103",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1103/1103.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1103/1103.png"],
     "icon_still": null
   },
   {
     "id": "1104",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1104/1104.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1104/1104.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1104.png"
   },
   {
     "id": "1105",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1105/1105.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1105/1105.png"],
     "icon_still": null
   },
   {
     "id": "1106",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1106/1106.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1106/1106.png"],
     "icon_still": null
   },
   {
     "id": "1107",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1107/1107.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1107/1107.png"],
     "icon_still": null
   },
   {
     "id": "1108",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1108/1108.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1108/1108.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1108.png"
   },
   {
     "id": "1109",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1109/1109.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1109/1109.png"],
     "icon_still": null
   },
   {
     "id": "1110",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1110/1110.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1110/1110.png"],
     "icon_still": null
   },
   {
     "id": "1111",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1111/1111.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1111/1111.png"],
     "icon_still": null
   },
   {
     "id": "1112",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1112/1112.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1112/1112.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1112.png"
   },
   {
     "id": "1113",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1113/1113.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1113/1113.png"],
     "icon_still": null
   },
   {
     "id": "1114",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1114/1114.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1114/1114.png"],
     "icon_still": null
   },
   {
     "id": "1115",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1115/1115.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1115/1115.png"],
     "icon_still": null
   },
   {
     "id": "1116",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1116/1116.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1116/1116.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1116.png"
   },
   {
     "id": "1117",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1117/1117.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1117/1117.png"],
     "icon_still": null
   },
   {
     "id": "1118",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1118/1118.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1118/1118.png"],
     "icon_still": null
   },
   {
     "id": "1119",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1119/1119.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1119/1119.png"],
     "icon_still": null
   },
   {
     "id": "1120",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1120/1120.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1120/1120.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1120.png"
   },
   {
     "id": "1121",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1121/1121.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1121/1121.png"],
     "icon_still": null
   },
   {
     "id": "1122",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1122/1122.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1122/1122.png"],
     "icon_still": null
   },
   {
     "id": "1123",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1123/1123.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1123/1123.png"],
     "icon_still": null
   },
   {
     "id": "1125",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1125/1125.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1125/1125.png"],
     "icon_still": null
   },
   {
     "id": "1126",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1126/1126.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1126/1126.png"],
     "icon_still": null
   },
   {
     "id": "1127",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1127/1127.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1127/1127.png"],
     "icon_still": null
   },
   {
     "id": "1128",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1128/1128.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1128/1128.png"],
     "icon_still": null
   },
   {
     "id": "1129",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1129/1129.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1129/1129.png"],
     "icon_still": null
   },
   {
     "id": "1131",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1131/1131.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1131/1131.png"],
     "icon_still": null
   },
   {
     "id": "1132",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1132/1132.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1132/1132.png"],
     "icon_still": null
   },
   {
     "id": "1133",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1133/1133.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1133/1133.png"],
     "icon_still": null
   },
   {
     "id": "1134",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1134/1134.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1134/1134.png"],
     "icon_still": null
   },
   {
     "id": "1135",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1135/1135.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1135/1135.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1135.png"
   },
   {
     "id": "1136",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1136/1136.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1136/1136.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1136.png"
   },
   {
     "id": "1137",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1137/1137.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1137/1137.png"],
     "icon_still": null
   },
   {
     "id": "1138",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1138/1138.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1138/1138.png"],
     "icon_still": null
   },
   {
     "id": "1139",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1139/1139.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1139/1139.png"],
     "icon_still": null
   },
   {
     "id": "1140",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1140/1140.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1140/1140.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1140.png"
   },
   {
     "id": "1141",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1141/1141.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1141/1141.png"],
     "icon_still": null
   },
   {
     "id": "1142",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1142/1142.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1142/1142.png"],
     "icon_still": null
   },
   {
     "id": "1143",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1143/1143.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1143/1143.png"],
     "icon_still": null
   },
   {
     "id": "1144",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1144/1144.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1144/1144.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1144.png"
   },
   {
     "id": "1145",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1145/1145.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1145/1145.png"],
     "icon_still": null
   },
   {
     "id": "1146",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1146/1146.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1146/1146.png"],
     "icon_still": null
   },
   {
     "id": "1147",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1147/1147.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1147/1147.png"],
     "icon_still": null
   },
   {
     "id": "1148",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1148/1148.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1148/1148.png"],
     "icon_still": null
   },
   {
     "id": "1149",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1149/1149.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1149/1149.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1149.png"
   },
   {
     "id": "1150",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1150/1150.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1150/1150.png"],
     "icon_still": null
   },
   {
     "id": "1151",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1151/1151.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1151/1151.png"],
     "icon_still": null
   },
   {
     "id": "1152",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1152/1152.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1152/1152.png"],
     "icon_still": null
   },
   {
     "id": "1153",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1153/1153.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1153/1153.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1153.png"
   },
   {
     "id": "1154",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1154/1154.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1154/1154.png"],
     "icon_still": null
   },
   {
     "id": "1155",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1155/1155.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1155/1155.png"],
     "icon_still": null
   },
   {
     "id": "1157",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1157/1157.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1157/1157.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1157.png"
   },
   {
     "id": "1158",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1158/1158.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1158/1158.png"],
     "icon_still": null
   },
   {
     "id": "1159",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1159/1159.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1159/1159.png"],
     "icon_still": null
   },
   {
     "id": "1160",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1160/1160.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1160/1160.png"],
     "icon_still": null
   },
   {
     "id": "1161",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1161/1161.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1161/1161.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1161.png"
   },
   {
     "id": "1162",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1162/1162.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1162/1162.png"],
     "icon_still": null
   },
   {
     "id": "1163",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1163/1163.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1163/1163.png"],
     "icon_still": null
   },
   {
     "id": "1164",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1164/1164.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1164/1164.png"],
     "icon_still": null
   },
   {
     "id": "1165",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1165/1165.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1165/1165.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1165.png"
   },
   {
     "id": "1166",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1166/1166.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1166/1166.png"],
     "icon_still": null
   },
   {
     "id": "1167",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1167/1167.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1167/1167.png"],
     "icon_still": null
   },
   {
     "id": "1168",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1168/1168.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1168/1168.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1168.png"
   },
   {
     "id": "1169",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1169/1169.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1169/1169.png"],
     "icon_still": null
   },
   {
     "id": "1170",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1170/1170.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1170/1170.png"],
     "icon_still": null
   },
   {
     "id": "1171",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1171/1171.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1171/1171.png"],
     "icon_still": null
   },
   {
     "id": "1172",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1172/1172.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1172/1172.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1172.png"
   },
   {
     "id": "1173",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1173/1173.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1173/1173.png"],
     "icon_still": null
   },
   {
     "id": "1174",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1174/1174.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1174/1174.png"],
     "icon_still": null
   },
   {
     "id": "1175",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1175/1175.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1175/1175.png"],
     "icon_still": null
   },
   {
     "id": "1176",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1176/1176.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1176/1176.png"],
     "icon_still": null
   },
   {
     "id": "1177",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1177/1177.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1177/1177.png"],
     "icon_still": null
   },
   {
     "id": "1179",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1179/1179.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1179/1179.png"],
     "icon_still": null
   },
   {
     "id": "1180",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1180/1180.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1180/1180.png"],
     "icon_still": null
   },
   {
     "id": "1181",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1181/1181.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1181/1181.png"],
     "icon_still": null
   },
   {
     "id": "1182",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1182/1182.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1182/1182.png"],
     "icon_still": null
   },
   {
     "id": "1183",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1183/1183.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1183/1183.png"],
     "icon_still": null
   },
   {
     "id": "1185",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1185/1185.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1185/1185.png"],
     "icon_still": null
   },
   {
     "id": "1186",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1186/1186.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1186/1186.png"],
     "icon_still": null
   },
   {
@@ -1323,79 +981,57 @@
   },
   {
     "id": "1188",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1188/1188.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1188/1188.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1188.png"
   },
   {
     "id": "1189",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1189/1189.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1189/1189.png"],
     "icon_still": null
   },
   {
     "id": "1190",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1190/1190.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1190/1190.png"],
     "icon_still": null
   },
   {
     "id": "1191",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1191/1191.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1191/1191.png"],
     "icon_still": null
   },
   {
     "id": "1192",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1192/1192.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1192/1192.png"],
     "icon_still": null
   },
   {
     "id": "1194",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1194/1194.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1194/1194.png"],
     "icon_still": null
   },
   {
     "id": "1195",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1195/1195.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1195/1195.png"],
     "icon_still": null
   },
   {
     "id": "1196",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1196/1196.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1196/1196.png"],
     "icon_still": null
   },
   {
     "id": "1197",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1197/1197.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1197/1197.png"],
     "icon_still": null
   },
   {
     "id": "1199",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1199/1199.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1199/1199.png"],
     "icon_still": null
   },
   {
     "id": "1200",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1200/1200.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1200/1200.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1200.png"
   },
   {
@@ -1408,373 +1044,267 @@
   },
   {
     "id": "1202",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1202/1202.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1202/1202.png"],
     "icon_still": null
   },
   {
     "id": "1203",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1203/1203.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1203/1203.png"],
     "icon_still": null
   },
   {
     "id": "1204",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1204/1204.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1204/1204.png"],
     "icon_still": null
   },
   {
     "id": "1205",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1205/1205.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1205/1205.png"],
     "icon_still": null
   },
   {
     "id": "1206",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1206/1206.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1206/1206.png"],
     "icon_still": null
   },
   {
     "id": "1207",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1207/1207.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1207/1207.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1207.png"
   },
   {
     "id": "1208",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1208/1208.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1208/1208.png"],
     "icon_still": null
   },
   {
     "id": "1209",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1209/1209.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1209/1209.png"],
     "icon_still": null
   },
   {
     "id": "1210",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1210/1210.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1210/1210.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1210.png"
   },
   {
     "id": "1211",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1211/1211.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1211/1211.png"],
     "icon_still": null
   },
   {
     "id": "1212",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1212/1212.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1212/1212.png"],
     "icon_still": null
   },
   {
     "id": "1213",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1213/1213.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1213/1213.png"],
     "icon_still": null
   },
   {
     "id": "1214",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1214/1214.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1214/1214.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1214.png"
   },
   {
     "id": "1215",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1215/1215.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1215/1215.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1215.png"
   },
   {
     "id": "1216",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1216/1216.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1216/1216.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1216.png"
   },
   {
     "id": "1217",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1217/1217.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1217/1217.png"],
     "icon_still": null
   },
   {
     "id": "1218",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1218/1218.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1218/1218.png"],
     "icon_still": null
   },
   {
     "id": "1219",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1219/1219.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1219/1219.png"],
     "icon_still": null
   },
   {
     "id": "1220",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1220/1220.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1220/1220.png"],
     "icon_still": null
   },
   {
     "id": "1221",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1221/1221.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1221/1221.png"],
     "icon_still": null
   },
   {
     "id": "1222",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1222/1222.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1222/1222.png"],
     "icon_still": null
   },
   {
     "id": "1223",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1223/1223.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1223/1223.png"],
     "icon_still": null
   },
   {
     "id": "1224",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1224/1224.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1224/1224.png"],
     "icon_still": null
   },
   {
     "id": "1225",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1225/1225.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1225/1225.png"],
     "icon_still": null
   },
   {
     "id": "1226",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1226/1226.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1226/1226.png"],
     "icon_still": null
   },
   {
     "id": "1227",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1227/1227.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1227/1227.png"],
     "icon_still": null
   },
   {
     "id": "1228",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1228/1228.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1228/1228.png"],
     "icon_still": null
   },
   {
     "id": "1229",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1229/1229.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1229/1229.png"],
     "icon_still": null
   },
   {
     "id": "1230",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1230/1230.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1230/1230.png"],
     "icon_still": null
   },
   {
     "id": "1231",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1231/1231.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1231/1231.png"],
     "icon_still": null
   },
   {
     "id": "1232",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1232/1232.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1232/1232.png"],
     "icon_still": null
   },
   {
     "id": "1233",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1233/1233.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1233/1233.png"],
     "icon_still": null
   },
   {
     "id": "1234",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1234/1234.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1234/1234.png"],
     "icon_still": null
   },
   {
     "id": "1235",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1235/1235.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1235/1235.png"],
     "icon_still": null
   },
   {
     "id": "1236",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1236/1236.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1236/1236.png"],
     "icon_still": null
   },
   {
     "id": "1237",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1237/1237.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1237/1237.png"],
     "icon_still": null
   },
   {
     "id": "1238",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1238/1238.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1238/1238.png"],
     "icon_still": null
   },
   {
     "id": "1239",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1239/1239.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1239/1239.png"],
     "icon_still": null
   },
   {
     "id": "1240",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1240/1240.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1240/1240.png"],
     "icon_still": null
   },
   {
     "id": "1241",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1241/1241.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1241/1241.png"],
     "icon_still": null
   },
   {
     "id": "1242",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1242/1242.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1242/1242.png"],
     "icon_still": null
   },
   {
     "id": "1243",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1243/1243.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1243/1243.png"],
     "icon_still": null
   },
   {
     "id": "1244",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1244/1244.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1244/1244.png"],
     "icon_still": null
   },
   {
     "id": "1245",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1245/1245.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1245/1245.png"],
     "icon_still": null
   },
   {
     "id": "1246",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1246/1246.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1246/1246.png"],
     "icon_still": null
   },
   {
     "id": "1247",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1247/1247.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1247/1247.png"],
     "icon_still": null
   },
   {
     "id": "1248",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1248/1248.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1248/1248.png"],
     "icon_still": null
   },
   {
     "id": "1249",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1249/1249.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1249/1249.png"],
     "icon_still": null
   },
   {
     "id": "1250",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1250/1250.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1250/1250.png"],
     "icon_still": null
   },
   {
     "id": "1251",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1251/1251.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1251/1251.png"],
     "icon_still": null
   },
   {
     "id": "1252",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1252/1252.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1252/1252.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1252.png"
   },
   {
     "id": "1253",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1253/1253.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1253/1253.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1253.png"
   },
   {
     "id": "1254",
-    "stills": [
-      "Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1254/1254.png"
-    ],
+    "stills": ["Assets/AddressableAssetsStore/UnityAssets/Story/Prefab/Sprite/Still/1254/1254.png"],
     "icon_still": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconStill/Source/1254.png"
   },
   {
