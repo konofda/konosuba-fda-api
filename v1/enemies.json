@@ -1,0 +1,2570 @@
+[
+  {
+    "id": "10000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10000/.json"
+  },
+  {
+    "id": "10001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10001/.json"
+  },
+  {
+    "id": "10002",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10002/.json"
+  },
+  {
+    "id": "10003",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10003.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10003/.json"
+  },
+  {
+    "id": "10004",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10004.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10004.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10004/10001.atlas"
+  },
+  {
+    "id": "10100",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10100.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10100/.json"
+  },
+  {
+    "id": "10101",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10101.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10101/10100.atlas"
+  },
+  {
+    "id": "10102",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10102.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10102/10100.atlas"
+  },
+  {
+    "id": "10103",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10103.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10103.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10103/10100.atlas"
+  },
+  {
+    "id": "10200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10200/.json"
+  },
+  {
+    "id": "10201",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10201/.json"
+  },
+  {
+    "id": "10202",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10202.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10202/.json"
+  },
+  {
+    "id": "10204",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10204.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10204.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10204/.json"
+  },
+  {
+    "id": "10300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10300/.json"
+  },
+  {
+    "id": "10400",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10400/.json"
+  },
+  {
+    "id": "10401",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10401.png",
+    "unit": null
+  },
+  {
+    "id": "10403",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10403.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10403/.json"
+  },
+  {
+    "id": "10404",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10404.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10404/.json"
+  },
+  {
+    "id": "10405",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10405.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10405/.json"
+  },
+  {
+    "id": "10406",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10406.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10406/.json"
+  },
+  {
+    "id": "10500",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10500/.json"
+  },
+  {
+    "id": "10501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10501/.json"
+  },
+  {
+    "id": "10502",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10502.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10502.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10502/.json"
+  },
+  {
+    "id": "10503",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10503.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10503.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10503/10503.atlas"
+  },
+  {
+    "id": "10504",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10504.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10504.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10504/.json"
+  },
+  {
+    "id": "10700",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10700/.json"
+  },
+  {
+    "id": "10701",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10701/.json"
+  },
+  {
+    "id": "10702",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10702/.json"
+  },
+  {
+    "id": "10800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10800/.json"
+  },
+  {
+    "id": "10801",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10801/.json"
+  },
+  {
+    "id": "10802",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10802.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10802/.json"
+  },
+  {
+    "id": "10803",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10803.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10803/.json"
+  },
+  {
+    "id": "10900",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10900.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10900/.json"
+  },
+  {
+    "id": "10901",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_10901.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/10901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_10901/10901.atlas"
+  },
+  {
+    "id": "11000",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11000.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11000/.json"
+  },
+  {
+    "id": "11001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11001/.json"
+  },
+  {
+    "id": "11002",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11002.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11002/.json"
+  },
+  {
+    "id": "11003",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11003.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11003.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11003/.json"
+  },
+  {
+    "id": "11004",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11004.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11004.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11004/.json"
+  },
+  {
+    "id": "11005",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11005.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11005.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11005/.json"
+  },
+  {
+    "id": "11006",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11006.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11006.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11006/.json"
+  },
+  {
+    "id": "11007",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11007.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11007.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11007/.json"
+  },
+  {
+    "id": "11008",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11008.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11008.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11008/11001.atlas"
+  },
+  {
+    "id": "11009",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11009.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11009.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11009/.json"
+  },
+  {
+    "id": "11100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11100/.json"
+  },
+  {
+    "id": "11101",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11101.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11101/.json"
+  },
+  {
+    "id": "11102",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11102.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11102/.json"
+  },
+  {
+    "id": "11103",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11103.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11103.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11103/.json"
+  },
+  {
+    "id": "11104",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11104.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11104.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11104/11104.atlas"
+  },
+  {
+    "id": "11105",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11105.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11105.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11105/11105.atlas"
+  },
+  {
+    "id": "11106",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11106.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11106.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11106/.json"
+  },
+  {
+    "id": "11107",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11107.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11107.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11107/.json"
+  },
+  {
+    "id": "11200",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11200/.json"
+  },
+  {
+    "id": "11201",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11201.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11201/.json"
+  },
+  {
+    "id": "11202",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11202.png",
+    "unit": null
+  },
+  {
+    "id": "11203",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11203.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11203.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11203/11203.atlas"
+  },
+  {
+    "id": "11204",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11204.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11204.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11204/11203.atlas"
+  },
+  {
+    "id": "11300",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11300/.json"
+  },
+  {
+    "id": "11301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11301/.json"
+  },
+  {
+    "id": "11303",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11303.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11303.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11303/.json"
+  },
+  {
+    "id": "11304",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11304.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11304.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11304/.json"
+  },
+  {
+    "id": "11305",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11305.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11305.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11305/.json"
+  },
+  {
+    "id": "11400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11400/.json"
+  },
+  {
+    "id": "11401",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11401.png",
+    "unit": null
+  },
+  {
+    "id": "11500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11500/.json"
+  },
+  {
+    "id": "11501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11501/.json"
+  },
+  {
+    "id": "11502",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11502.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11502.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11502/.json"
+  },
+  {
+    "id": "11503",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11503.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11503.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11503/.json"
+  },
+  {
+    "id": "11504",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_11504.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11504.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11504/11500.atlas"
+  },
+  {
+    "id": "11600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11600/.json"
+  },
+  {
+    "id": "11700",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11700/.json"
+  },
+  {
+    "id": "11800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11800/.json"
+  },
+  {
+    "id": "11801",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11801/.json"
+  },
+  {
+    "id": "11802",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11802.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11802/.json"
+  },
+  {
+    "id": "11803",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11803.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11803/.json"
+  },
+  {
+    "id": "11900",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11900/.json"
+  },
+  {
+    "id": "11901",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11901/.json"
+  },
+  {
+    "id": "11902",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11902.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11902/.json"
+  },
+  {
+    "id": "11903",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11903.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11903/.json"
+  },
+  {
+    "id": "11904",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/11904.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_11904/.json"
+  },
+  {
+    "id": "12000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12000/.json"
+  },
+  {
+    "id": "12001",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12001/.json"
+  },
+  {
+    "id": "12002",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12002/.json"
+  },
+  {
+    "id": "12003",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12003.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12003/.json"
+  },
+  {
+    "id": "12200",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12200/.json"
+  },
+  {
+    "id": "12201",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12201/.json"
+  },
+  {
+    "id": "12202",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12202.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12202/.json"
+  },
+  {
+    "id": "12203",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12203.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12203/.json"
+  },
+  {
+    "id": "12204",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12204.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12204/.json"
+  },
+  {
+    "id": "12205",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12205.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12205/.json"
+  },
+  {
+    "id": "12300",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12300/.json"
+  },
+  {
+    "id": "12301",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12301/.json"
+  },
+  {
+    "id": "12302",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12302.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12302/.json"
+  },
+  {
+    "id": "12303",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12303.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12303/.json"
+  },
+  {
+    "id": "12304",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12304.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12304/.json"
+  },
+  {
+    "id": "12305",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12305.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12305/.json"
+  },
+  {
+    "id": "12400",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12400/.json"
+  },
+  {
+    "id": "12401",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12401/.json"
+  },
+  {
+    "id": "12402",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12402.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12402/.json"
+  },
+  {
+    "id": "12403",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_12403.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12403.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12403/.json"
+  },
+  {
+    "id": "12404",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_12404.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12404.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12404/.json"
+  },
+  {
+    "id": "12405",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_12405.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12405.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12405/12405.atlas"
+  },
+  {
+    "id": "12406",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_12406.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12406.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12406/12406.atlas"
+  },
+  {
+    "id": "12407",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_12407.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12407.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12407/12407.atlas"
+  },
+  {
+    "id": "12408",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_12408.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12408.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12408/12408.atlas"
+  },
+  {
+    "id": "12600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12600/.json"
+  },
+  {
+    "id": "12601",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12601.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12601/.json"
+  },
+  {
+    "id": "12602",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12602.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12602/.json"
+  },
+  {
+    "id": "12603",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12603.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12603/.json"
+  },
+  {
+    "id": "12604",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12604.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12604/.json"
+  },
+  {
+    "id": "12605",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12605.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12605/.json"
+  },
+  {
+    "id": "12700",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12700/.json"
+  },
+  {
+    "id": "12701",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12701/.json"
+  },
+  {
+    "id": "12702",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12702/.json"
+  },
+  {
+    "id": "12703",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12703.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12703/.json"
+  },
+  {
+    "id": "12800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12800/.json"
+  },
+  {
+    "id": "12801",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12801/.json"
+  },
+  {
+    "id": "12802",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12802.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12802/.json"
+  },
+  {
+    "id": "12803",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12803.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12803/.json"
+  },
+  {
+    "id": "12900",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12900/.json"
+  },
+  {
+    "id": "12901",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12901/.json"
+  },
+  {
+    "id": "12902",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12902.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12902/.json"
+  },
+  {
+    "id": "12903",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12903.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12903/.json"
+  },
+  {
+    "id": "12904",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/12904.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_12904/.json"
+  },
+  {
+    "id": "13000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13000/.json"
+  },
+  {
+    "id": "13001",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13001/.json"
+  },
+  {
+    "id": "13002",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13002/.json"
+  },
+  {
+    "id": "13003",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13003.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13003/.json"
+  },
+  {
+    "id": "13100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13100/.json"
+  },
+  {
+    "id": "13101",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13101/.json"
+  },
+  {
+    "id": "13102",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13102/.json"
+  },
+  {
+    "id": "13200",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13200/.json"
+  },
+  {
+    "id": "13300",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13300/.json"
+  },
+  {
+    "id": "13400",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13400/.json"
+  },
+  {
+    "id": "13500",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13500/13500.atlas"
+  },
+  {
+    "id": "13600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13600/.json"
+  },
+  {
+    "id": "13601",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13601.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13601/.json"
+  },
+  {
+    "id": "13602",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13602.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13602/.json"
+  },
+  {
+    "id": "13603",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13603.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13603/.json"
+  },
+  {
+    "id": "13700",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13700/.json"
+  },
+  {
+    "id": "13701",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13701/.json"
+  },
+  {
+    "id": "13702",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13702/.json"
+  },
+  {
+    "id": "13703",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13703.png",
+    "unit": null
+  },
+  {
+    "id": "13704",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13704.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13704/.json"
+  },
+  {
+    "id": "13705",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13705.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13705/.json"
+  },
+  {
+    "id": "13800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13800.png",
+    "unit": null
+  },
+  {
+    "id": "13801",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13801/.json"
+  },
+  {
+    "id": "13802",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13802.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13802/.json"
+  },
+  {
+    "id": "13900",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13900/.json"
+  },
+  {
+    "id": "13901",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13901/.json"
+  },
+  {
+    "id": "13902",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/13902.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_13902/.json"
+  },
+  {
+    "id": "14000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14000/.json"
+  },
+  {
+    "id": "14001",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14001/.json"
+  },
+  {
+    "id": "14002",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14002.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14002/.json"
+  },
+  {
+    "id": "14100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14100/.json"
+  },
+  {
+    "id": "14101",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14101/.json"
+  },
+  {
+    "id": "14102",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14102/.json"
+  },
+  {
+    "id": "14103",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14103.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14103/.json"
+  },
+  {
+    "id": "14104",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14104.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14104/.json"
+  },
+  {
+    "id": "14200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14200/.json"
+  },
+  {
+    "id": "14201",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14201/.json"
+  },
+  {
+    "id": "14300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14300/.json"
+  },
+  {
+    "id": "14301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14301/14301.atlas"
+  },
+  {
+    "id": "14400",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14400.png",
+    "unit": null
+  },
+  {
+    "id": "14500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14500/.json"
+  },
+  {
+    "id": "14501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14501/.json"
+  },
+  {
+    "id": "14600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14600.png",
+    "unit": null
+  },
+  {
+    "id": "14700",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14700.png",
+    "unit": null
+  },
+  {
+    "id": "14702",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14702/.json"
+  },
+  {
+    "id": "14800",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14800.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14800/.json"
+  },
+  {
+    "id": "14801",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14801/.json"
+  },
+  {
+    "id": "14802",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14802.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14802.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14802/.json"
+  },
+  {
+    "id": "14803",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14803.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14803.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14803/14803.atlas"
+  },
+  {
+    "id": "14804",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_14804.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14804.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14804/.json"
+  },
+  {
+    "id": "14900",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/14900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_14900/.json"
+  },
+  {
+    "id": "15000",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15000.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15000/.json"
+  },
+  {
+    "id": "15001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15001/15000.atlas"
+  },
+  {
+    "id": "15002",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15002.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15002/15000.atlas"
+  },
+  {
+    "id": "15003",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15003.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15003.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15003/15000.atlas"
+  },
+  {
+    "id": "15005",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15005.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15005.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15005/.json"
+  },
+  {
+    "id": "15006",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15006.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15006.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15006/.json"
+  },
+  {
+    "id": "15100",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15100.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15100/.json"
+  },
+  {
+    "id": "15101",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15101.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15101/.json"
+  },
+  {
+    "id": "15102",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15102.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15102/.json"
+  },
+  {
+    "id": "15103",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15103.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15103.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15103/.json"
+  },
+  {
+    "id": "15200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15200/.json"
+  },
+  {
+    "id": "15201",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15201.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15201/15201.atlas"
+  },
+  {
+    "id": "15202",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15202.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15202.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15202/15201.atlas"
+  },
+  {
+    "id": "15203",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15203.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15203.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15203/15200.atlas"
+  },
+  {
+    "id": "15400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15400/.json"
+  },
+  {
+    "id": "15401",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15401.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15401/.json"
+  },
+  {
+    "id": "15402",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15402.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15402.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15402/.json"
+  },
+  {
+    "id": "15403",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15403.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15403.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15403/.json"
+  },
+  {
+    "id": "15404",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15404.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15404.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15404/.json"
+  },
+  {
+    "id": "15405",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15405.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15405.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15405/.json"
+  },
+  {
+    "id": "15500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15500/.json"
+  },
+  {
+    "id": "15501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15501/.json"
+  },
+  {
+    "id": "15502",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15502.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15502.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15502/.json"
+  },
+  {
+    "id": "15503",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15503.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15503.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15503/.json"
+  },
+  {
+    "id": "15504",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15504.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15504.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15504/15504.atlas"
+  },
+  {
+    "id": "15600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15600/.json"
+  },
+  {
+    "id": "15601",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15601.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15601/.json"
+  },
+  {
+    "id": "15602",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15602.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15602/.json"
+  },
+  {
+    "id": "15700",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15700/.json"
+  },
+  {
+    "id": "15703",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15703.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15703/.json"
+  },
+  {
+    "id": "15704",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15704.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15704/.json"
+  },
+  {
+    "id": "15800",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15800.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15800/.json"
+  },
+  {
+    "id": "15801",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15801.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15801/.json"
+  },
+  {
+    "id": "15803",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15803.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15803.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15803/.json"
+  },
+  {
+    "id": "15804",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15804.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15804.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15804/.json"
+  },
+  {
+    "id": "15805",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15805.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15805.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15805/.json"
+  },
+  {
+    "id": "15900",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15900.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15900/.json"
+  },
+  {
+    "id": "15901",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15901.png",
+    "unit": null
+  },
+  {
+    "id": "15902",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15902.png",
+    "unit": null
+  },
+  {
+    "id": "15903",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15903.png",
+    "unit": null
+  },
+  {
+    "id": "15904",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_15904.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/15904.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_15904/.json"
+  },
+  {
+    "id": "16000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16000/.json"
+  },
+  {
+    "id": "16001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16001/.json"
+  },
+  {
+    "id": "16002",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16002.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16002/.json"
+  },
+  {
+    "id": "16003",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16003.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16003.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16003/.json"
+  },
+  {
+    "id": "16004",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16004.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16004.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16004/.json"
+  },
+  {
+    "id": "16005",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16005.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16005.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16005/.json"
+  },
+  {
+    "id": "16100",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16100.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16100/.json"
+  },
+  {
+    "id": "16101",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16101.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16101/.json"
+  },
+  {
+    "id": "16102",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16102.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16102/.json"
+  },
+  {
+    "id": "16103",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16103.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16103.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16103/.json"
+  },
+  {
+    "id": "16104",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16104.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16104.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16104/.json"
+  },
+  {
+    "id": "16105",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16105.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16105.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16105/.json"
+  },
+  {
+    "id": "16106",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16106.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16106.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16106/16102.atlas"
+  },
+  {
+    "id": "16200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16200/.json"
+  },
+  {
+    "id": "16201",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16201.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16201/.json"
+  },
+  {
+    "id": "16202",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16202.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16202.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16202/.json"
+  },
+  {
+    "id": "16203",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16203.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16203.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16203/16203.atlas"
+  },
+  {
+    "id": "16204",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16204.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16204.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16204/16204.atlas"
+  },
+  {
+    "id": "16300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16300/.json"
+  },
+  {
+    "id": "16301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16301/.json"
+  },
+  {
+    "id": "16302",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16302.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16302.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16302/.json"
+  },
+  {
+    "id": "16303",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16303.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16303.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16303/.json"
+  },
+  {
+    "id": "16304",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16304.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16304.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16304/.json"
+  },
+  {
+    "id": "16305",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16305.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16305.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16305/.json"
+  },
+  {
+    "id": "16306",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16306.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16306.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16306/16301.atlas"
+  },
+  {
+    "id": "16307",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16307.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16307.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16307/16300.atlas"
+  },
+  {
+    "id": "16500",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16500/.json"
+  },
+  {
+    "id": "16501",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16501/.json"
+  },
+  {
+    "id": "16600",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16600.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16600/.json"
+  },
+  {
+    "id": "16700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16700/.json"
+  },
+  {
+    "id": "16701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16701/.json"
+  },
+  {
+    "id": "16702",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16702.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16702/.json"
+  },
+  {
+    "id": "16703",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16703.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16703.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16703/.json"
+  },
+  {
+    "id": "16704",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16704.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16704.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16704/.json"
+  },
+  {
+    "id": "16705",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16705.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16705.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16705/16704.atlas"
+  },
+  {
+    "id": "16706",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16706.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16706.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16706/.json"
+  },
+  {
+    "id": "16707",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16707.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16707.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16707/.json"
+  },
+  {
+    "id": "16708",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16708.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16708.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16708/.json"
+  },
+  {
+    "id": "16710",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16710.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16710.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16710/16710.atlas"
+  },
+  {
+    "id": "16711",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16711.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16711.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16711/16710.atlas"
+  },
+  {
+    "id": "16712",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16712.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16712.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16712/16710.atlas"
+  },
+  {
+    "id": "16800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16800/.json"
+  },
+  {
+    "id": "16801",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16801.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16801/.json"
+  },
+  {
+    "id": "16802",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16802.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16802.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16802/.json"
+  },
+  {
+    "id": "16900",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16900.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16900/.json"
+  },
+  {
+    "id": "16901",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16901.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16901/.json"
+  },
+  {
+    "id": "16902",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16902.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16902.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16902/.json"
+  },
+  {
+    "id": "16903",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16903.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16903.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16903/.json"
+  },
+  {
+    "id": "16904",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_16904.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/16904.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_16904/.json"
+  },
+  {
+    "id": "17100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17100/.json"
+  },
+  {
+    "id": "17101",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17101/.json"
+  },
+  {
+    "id": "17102",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17102/.json"
+  },
+  {
+    "id": "17200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17200/.json"
+  },
+  {
+    "id": "17201",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17201.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17201/.json"
+  },
+  {
+    "id": "17202",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17202.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17202.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17202/.json"
+  },
+  {
+    "id": "17203",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17203.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17203.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17203/.json"
+  },
+  {
+    "id": "17204",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17204.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17204.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17204/.json"
+  },
+  {
+    "id": "17205",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17205.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17205.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17205/.json"
+  },
+  {
+    "id": "17206",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17206.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17206.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17206/.json"
+  },
+  {
+    "id": "17207",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17207.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17207.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17207/17200.atlas"
+  },
+  {
+    "id": "17300",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17300/.json"
+  },
+  {
+    "id": "17301",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17301/.json"
+  },
+  {
+    "id": "17400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17400/.json"
+  },
+  {
+    "id": "17401",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17401.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17401/17401.atlas"
+  },
+  {
+    "id": "17402",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17402.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17402.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17402/17402.atlas"
+  },
+  {
+    "id": "17500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17500/.json"
+  },
+  {
+    "id": "17501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17501/.json"
+  },
+  {
+    "id": "17502",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17502.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17502.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17502/.json"
+  },
+  {
+    "id": "17600",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17600.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17600/.json"
+  },
+  {
+    "id": "17700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17700/.json"
+  },
+  {
+    "id": "17701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17701/.json"
+  },
+  {
+    "id": "17702",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17702.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17702/.json"
+  },
+  {
+    "id": "17703",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17703.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17703.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17703/.json"
+  },
+  {
+    "id": "17704",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17704.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17704.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17704/17704.atlas"
+  },
+  {
+    "id": "17800",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17800.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17800/.json"
+  },
+  {
+    "id": "17801",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17801.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17801/.json"
+  },
+  {
+    "id": "17900",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17900.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17900/.json"
+  },
+  {
+    "id": "17901",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17901.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17901/.json"
+  },
+  {
+    "id": "17902",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17902.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17902.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17902/17900.atlas"
+  },
+  {
+    "id": "17903",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_17903.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/17903.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_17903/17900.atlas"
+  },
+  {
+    "id": "18000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18000/.json"
+  },
+  {
+    "id": "18100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18100/.json"
+  },
+  {
+    "id": "18101",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18101/.json"
+  },
+  {
+    "id": "18102",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18102.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18102/.json"
+  },
+  {
+    "id": "18103",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18103.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18103/.json"
+  },
+  {
+    "id": "18200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18200/.json"
+  },
+  {
+    "id": "18201",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18201.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18201/.json"
+  },
+  {
+    "id": "18203",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18203.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18203.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18203/.json"
+  },
+  {
+    "id": "18204",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18204.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18204.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18204/.json"
+  },
+  {
+    "id": "18205",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18205.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18205.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18205/.json"
+  },
+  {
+    "id": "18300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18300/.json"
+  },
+  {
+    "id": "18301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18301/.json"
+  },
+  {
+    "id": "18400",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18400/.json"
+  },
+  {
+    "id": "18500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18500/.json"
+  },
+  {
+    "id": "18501",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18501/.json"
+  },
+  {
+    "id": "18502",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18502.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18502/.json"
+  },
+  {
+    "id": "18503",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18503.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18503/.json"
+  },
+  {
+    "id": "18504",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18504.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18504/.json"
+  },
+  {
+    "id": "18506",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18506.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18506/.json"
+  },
+  {
+    "id": "18507",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18507.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18507.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18507/18500.atlas"
+  },
+  {
+    "id": "18515",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18515.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18515.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18515/18515.atlas"
+  },
+  {
+    "id": "18525",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18525.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18525.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18525/18525.atlas"
+  },
+  {
+    "id": "18700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18700/.json"
+  },
+  {
+    "id": "18701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18701/.json"
+  },
+  {
+    "id": "18702",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18702.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18702/.json"
+  },
+  {
+    "id": "18800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18800/.json"
+  },
+  {
+    "id": "18801",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18801/.json"
+  },
+  {
+    "id": "18900",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18900.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18900/.json"
+  },
+  {
+    "id": "18901",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18901.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18901/.json"
+  },
+  {
+    "id": "18902",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18902.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18902.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18902/18900.atlas"
+  },
+  {
+    "id": "18903",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_18903.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/18903.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_18903/18901.atlas"
+  },
+  {
+    "id": "19000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19000/.json"
+  },
+  {
+    "id": "19100",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19100.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19100/.json"
+  },
+  {
+    "id": "19101",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19101.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19101/.json"
+  },
+  {
+    "id": "19200",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19200/.json"
+  },
+  {
+    "id": "19201",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19201/.json"
+  },
+  {
+    "id": "19202",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19202.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19202/.json"
+  },
+  {
+    "id": "19300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19300/.json"
+  },
+  {
+    "id": "19301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19301/.json"
+  },
+  {
+    "id": "19302",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19302.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19302.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19302/.json"
+  },
+  {
+    "id": "19303",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19303.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19303.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19303/.json"
+  },
+  {
+    "id": "19306",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19306.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19306.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19306/19306.atlas"
+  },
+  {
+    "id": "19307",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19307.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19307.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19307/19306.atlas"
+  },
+  {
+    "id": "19308",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19308.png",
+    "icon": null,
+    "unit": null
+  },
+  {
+    "id": "19400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19400/.json"
+  },
+  {
+    "id": "19401",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19401.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19401/.json"
+  },
+  {
+    "id": "19402",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19402.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19402.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19402/.json"
+  },
+  {
+    "id": "19403",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19403.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19403.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19403/.json"
+  },
+  {
+    "id": "19404",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19404.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19404.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19404/.json"
+  },
+  {
+    "id": "19500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19500/.json"
+  },
+  {
+    "id": "19501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19501/.json"
+  },
+  {
+    "id": "19600",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19600.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19600/.json"
+  },
+  {
+    "id": "19601",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19601.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19601.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19601/.json"
+  },
+  {
+    "id": "19700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19700/.json"
+  },
+  {
+    "id": "19701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19701/.json"
+  },
+  {
+    "id": "19703",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19703.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19703.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19703/.json"
+  },
+  {
+    "id": "19704",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19704.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19704.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19704/19701.atlas"
+  },
+  {
+    "id": "19705",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19705.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19705.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19705/19705.atlas"
+  },
+  {
+    "id": "19800",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19800/.json"
+  },
+  {
+    "id": "19900",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19900.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19900/.json"
+  },
+  {
+    "id": "19901",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_19901.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/19901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_19901/.json"
+  },
+  {
+    "id": "20000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20000/.json"
+  },
+  {
+    "id": "20100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20100/.json"
+  },
+  {
+    "id": "20200",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20200/.json"
+  },
+  {
+    "id": "20300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20300/.json"
+  },
+  {
+    "id": "20301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20301/20301.atlas"
+  },
+  {
+    "id": "20302",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20302.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20302.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20302/20301.atlas"
+  },
+  {
+    "id": "20400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20400/.json"
+  },
+  {
+    "id": "20401",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20401.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20401/20401.atlas"
+  },
+  {
+    "id": "20402",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20402.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20402.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20402/20402.atlas"
+  },
+  {
+    "id": "20403",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20403.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20403.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20403/20403.atlas"
+  },
+  {
+    "id": "20404",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20404.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20404.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20404/20404.atlas"
+  },
+  {
+    "id": "20405",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20405.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20405.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20405/20400.atlas"
+  },
+  {
+    "id": "20406",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20406.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20406.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20406/20404.atlas"
+  },
+  {
+    "id": "20407",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20407.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20407.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20407/.json"
+  },
+  {
+    "id": "20500",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20500/.json"
+  },
+  {
+    "id": "20501",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20501/20501.atlas"
+  },
+  {
+    "id": "20502",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20502.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20502/20502.atlas"
+  },
+  {
+    "id": "20504",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20504.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20504/20504.atlas"
+  },
+  {
+    "id": "20600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20600/.json"
+  },
+  {
+    "id": "20700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20700/.json"
+  },
+  {
+    "id": "20701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20701/.json"
+  },
+  {
+    "id": "20800",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_20800.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20800/.json"
+  },
+  {
+    "id": "20900",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20900/.json"
+  },
+  {
+    "id": "20901",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/20901.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_20901/.json"
+  },
+  {
+    "id": "21000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21000/.json"
+  },
+  {
+    "id": "21001",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21001/.json"
+  },
+  {
+    "id": "21100",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21100.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21100/.json"
+  },
+  {
+    "id": "21101",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21101.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21101/.json"
+  },
+  {
+    "id": "21200",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21200.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21200.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21200/.json"
+  },
+  {
+    "id": "21201",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21201.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21201.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21201/.json"
+  },
+  {
+    "id": "21300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21300/.json"
+  },
+  {
+    "id": "21301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21301/.json"
+  },
+  {
+    "id": "21302",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21302.png",
+    "icon": null,
+    "unit": null
+  },
+  {
+    "id": "21303",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21303.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21303.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21303/21303.atlas"
+  },
+  {
+    "id": "21304",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21304.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21304.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21304/21303.atlas"
+  },
+  {
+    "id": "21400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21400/.json"
+  },
+  {
+    "id": "21401",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21401.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21401/.json"
+  },
+  {
+    "id": "21402",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21402.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21402.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21402/.json"
+  },
+  {
+    "id": "21403",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21403.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21403.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21403/.json"
+  },
+  {
+    "id": "21500",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21500.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21500/21500.atlas"
+  },
+  {
+    "id": "21501",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21501.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21501.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21501/21501.atlas"
+  },
+  {
+    "id": "21600",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21600/21600.atlas"
+  },
+  {
+    "id": "21700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21700/21700.atlas"
+  },
+  {
+    "id": "21701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21701/21700.atlas"
+  },
+  {
+    "id": "21800",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21800.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21800/21800.atlas"
+  },
+  {
+    "id": "21801",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_21801.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21801/21800.atlas"
+  },
+  {
+    "id": "21900",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/21900.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_21900/21900.atlas"
+  },
+  {
+    "id": "22000",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22000.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22000/22000.atlas"
+  },
+  {
+    "id": "22001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22001/22000.atlas"
+  },
+  {
+    "id": "22300",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22300.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22300.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22300/22300.atlas"
+  },
+  {
+    "id": "22301",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22301.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22301.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22301/22300.atlas"
+  },
+  {
+    "id": "22400",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22400.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22400.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22400/22400.atlas"
+  },
+  {
+    "id": "22401",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22401.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22401.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22401/22401.atlas"
+  },
+  {
+    "id": "22500",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22500.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22500/22500.atlas"
+  },
+  {
+    "id": "22600",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22600.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22600.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22600/22600.atlas"
+  },
+  {
+    "id": "22601",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22601.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22601.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22601/22600.atlas"
+  },
+  {
+    "id": "22700",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22700.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22700.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22700/22700.atlas"
+  },
+  {
+    "id": "22701",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22701.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22701.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22701/22700.atlas"
+  },
+  {
+    "id": "22702",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22702.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22702.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22702/22700.atlas"
+  },
+  {
+    "id": "22800",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22800.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22800.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22800/22800_diabolosgoblin.atlas"
+  },
+  {
+    "id": "22801",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_22801.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/22801.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_22801/22800_diabolosgoblin.atlas"
+  },
+  {
+    "id": "23000",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_23000.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/23000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_23000/23000.atlas"
+  },
+  {
+    "id": "23001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_23001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/23001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_23001/23000.atlas"
+  },
+  {
+    "id": "23002",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_23002.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/23002.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_23002/23000.atlas"
+  },
+  {
+    "id": "24000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/24000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_24000/.json"
+  },
+  {
+    "id": "24010",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/24010.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_24010/.json"
+  },
+  {
+    "id": "111000",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/111000.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_111000/.json"
+  },
+  {
+    "id": "111001",
+    "image": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/EnemyImage/enemy_image_111001.png",
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/111001.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_111001/.json"
+  },
+  {
+    "id": "159010",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/159010.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_159010/.json"
+  },
+  {
+    "id": "159020",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/159020.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_159020/.json"
+  },
+  {
+    "id": "159030",
+    "image": null,
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconEnemy/Source/159030.png",
+    "unit": "Assets/AddressableAssetsStore/UnityAssets/Battle/Unit/EnemyUnit/enemy_id_159030/.json"
+  }
+]
