@@ -1,0 +1,3412 @@
+[
+  {
+    "path": "100001.txt",
+    "story": 1000,
+    "part": 1
+  },
+  {
+    "path": "100101.txt",
+    "story": 1001,
+    "part": 1
+  },
+  {
+    "path": "100102.txt",
+    "story": 1001,
+    "part": 2
+  },
+  {
+    "path": "100103.txt",
+    "story": 1001,
+    "part": 3
+  },
+  {
+    "path": "100104.txt",
+    "story": 1001,
+    "part": 4
+  },
+  {
+    "path": "100105.txt",
+    "story": 1001,
+    "part": 5
+  },
+  {
+    "path": "100106.txt",
+    "story": 1001,
+    "part": 6
+  },
+  {
+    "path": "100201.txt",
+    "story": 1002,
+    "part": 1
+  },
+  {
+    "path": "100202.txt",
+    "story": 1002,
+    "part": 2
+  },
+  {
+    "path": "100203.txt",
+    "story": 1002,
+    "part": 3
+  },
+  {
+    "path": "100204.txt",
+    "story": 1002,
+    "part": 4
+  },
+  {
+    "path": "100205.txt",
+    "story": 1002,
+    "part": 5
+  },
+  {
+    "path": "100206.txt",
+    "story": 1002,
+    "part": 6
+  },
+  {
+    "path": "100301.txt",
+    "story": 1003,
+    "part": 1
+  },
+  {
+    "path": "100302.txt",
+    "story": 1003,
+    "part": 2
+  },
+  {
+    "path": "100303.txt",
+    "story": 1003,
+    "part": 3
+  },
+  {
+    "path": "100304.txt",
+    "story": 1003,
+    "part": 4
+  },
+  {
+    "path": "100305.txt",
+    "story": 1003,
+    "part": 5
+  },
+  {
+    "path": "100306.txt",
+    "story": 1003,
+    "part": 6
+  },
+  {
+    "path": "100401.txt",
+    "story": 1004,
+    "part": 1
+  },
+  {
+    "path": "100402.txt",
+    "story": 1004,
+    "part": 2
+  },
+  {
+    "path": "100403.txt",
+    "story": 1004,
+    "part": 3
+  },
+  {
+    "path": "100404.txt",
+    "story": 1004,
+    "part": 4
+  },
+  {
+    "path": "100405.txt",
+    "story": 1004,
+    "part": 5
+  },
+  {
+    "path": "100406.txt",
+    "story": 1004,
+    "part": 6
+  },
+  {
+    "path": "100501.txt",
+    "story": 1005,
+    "part": 1
+  },
+  {
+    "path": "100502.txt",
+    "story": 1005,
+    "part": 2
+  },
+  {
+    "path": "100503.txt",
+    "story": 1005,
+    "part": 3
+  },
+  {
+    "path": "100504.txt",
+    "story": 1005,
+    "part": 4
+  },
+  {
+    "path": "100505.txt",
+    "story": 1005,
+    "part": 5
+  },
+  {
+    "path": "100506.txt",
+    "story": 1005,
+    "part": 6
+  },
+  {
+    "path": "100601.txt",
+    "story": 1006,
+    "part": 1
+  },
+  {
+    "path": "100602.txt",
+    "story": 1006,
+    "part": 2
+  },
+  {
+    "path": "100603.txt",
+    "story": 1006,
+    "part": 3
+  },
+  {
+    "path": "100604.txt",
+    "story": 1006,
+    "part": 4
+  },
+  {
+    "path": "100605.txt",
+    "story": 1006,
+    "part": 5
+  },
+  {
+    "path": "100606.txt",
+    "story": 1006,
+    "part": 6
+  },
+  {
+    "path": "100701.txt",
+    "story": 1007,
+    "part": 1
+  },
+  {
+    "path": "100702.txt",
+    "story": 1007,
+    "part": 2
+  },
+  {
+    "path": "100703.txt",
+    "story": 1007,
+    "part": 3
+  },
+  {
+    "path": "100704.txt",
+    "story": 1007,
+    "part": 4
+  },
+  {
+    "path": "100705.txt",
+    "story": 1007,
+    "part": 5
+  },
+  {
+    "path": "100706.txt",
+    "story": 1007,
+    "part": 6
+  },
+  {
+    "path": "100801.txt",
+    "story": 1008,
+    "part": 1
+  },
+  {
+    "path": "100802.txt",
+    "story": 1008,
+    "part": 2
+  },
+  {
+    "path": "100803.txt",
+    "story": 1008,
+    "part": 3
+  },
+  {
+    "path": "100804.txt",
+    "story": 1008,
+    "part": 4
+  },
+  {
+    "path": "100805.txt",
+    "story": 1008,
+    "part": 5
+  },
+  {
+    "path": "100806.txt",
+    "story": 1008,
+    "part": 6
+  },
+  {
+    "path": "100901.txt",
+    "story": 1009,
+    "part": 1
+  },
+  {
+    "path": "100902.txt",
+    "story": 1009,
+    "part": 2
+  },
+  {
+    "path": "100903.txt",
+    "story": 1009,
+    "part": 3
+  },
+  {
+    "path": "100904.txt",
+    "story": 1009,
+    "part": 4
+  },
+  {
+    "path": "100905.txt",
+    "story": 1009,
+    "part": 5
+  },
+  {
+    "path": "100906.txt",
+    "story": 1009,
+    "part": 6
+  },
+  {
+    "path": "101001.txt",
+    "story": 1010,
+    "part": 1
+  },
+  {
+    "path": "101002.txt",
+    "story": 1010,
+    "part": 2
+  },
+  {
+    "path": "101003.txt",
+    "story": 1010,
+    "part": 3
+  },
+  {
+    "path": "101004.txt",
+    "story": 1010,
+    "part": 4
+  },
+  {
+    "path": "101005.txt",
+    "story": 1010,
+    "part": 5
+  },
+  {
+    "path": "101006.txt",
+    "story": 1010,
+    "part": 6
+  },
+  {
+    "path": "101101.txt",
+    "story": 1011,
+    "part": 1
+  },
+  {
+    "path": "101102.txt",
+    "story": 1011,
+    "part": 2
+  },
+  {
+    "path": "101103.txt",
+    "story": 1011,
+    "part": 3
+  },
+  {
+    "path": "101104.txt",
+    "story": 1011,
+    "part": 4
+  },
+  {
+    "path": "101105.txt",
+    "story": 1011,
+    "part": 5
+  },
+  {
+    "path": "101106.txt",
+    "story": 1011,
+    "part": 6
+  },
+  {
+    "path": "120101.txt",
+    "story": 1201,
+    "part": 1
+  },
+  {
+    "path": "120102.txt",
+    "story": 1201,
+    "part": 2
+  },
+  {
+    "path": "120103.txt",
+    "story": 1201,
+    "part": 3
+  },
+  {
+    "path": "120104.txt",
+    "story": 1201,
+    "part": 4
+  },
+  {
+    "path": "120105.txt",
+    "story": 1201,
+    "part": 5
+  },
+  {
+    "path": "120106.txt",
+    "story": 1201,
+    "part": 6
+  },
+  {
+    "path": "120201.txt",
+    "story": 1202,
+    "part": 1
+  },
+  {
+    "path": "120202.txt",
+    "story": 1202,
+    "part": 2
+  },
+  {
+    "path": "120203.txt",
+    "story": 1202,
+    "part": 3
+  },
+  {
+    "path": "120204.txt",
+    "story": 1202,
+    "part": 4
+  },
+  {
+    "path": "120205.txt",
+    "story": 1202,
+    "part": 5
+  },
+  {
+    "path": "120206.txt",
+    "story": 1202,
+    "part": 6
+  },
+  {
+    "path": "120301.txt",
+    "story": 1203,
+    "part": 1
+  },
+  {
+    "path": "120302.txt",
+    "story": 1203,
+    "part": 2
+  },
+  {
+    "path": "120303.txt",
+    "story": 1203,
+    "part": 3
+  },
+  {
+    "path": "120304.txt",
+    "story": 1203,
+    "part": 4
+  },
+  {
+    "path": "120305.txt",
+    "story": 1203,
+    "part": 5
+  },
+  {
+    "path": "120306.txt",
+    "story": 1203,
+    "part": 6
+  },
+  {
+    "path": "120401.txt",
+    "story": 1204,
+    "part": 1
+  },
+  {
+    "path": "120402.txt",
+    "story": 1204,
+    "part": 2
+  },
+  {
+    "path": "120403.txt",
+    "story": 1204,
+    "part": 3
+  },
+  {
+    "path": "120404.txt",
+    "story": 1204,
+    "part": 4
+  },
+  {
+    "path": "120405.txt",
+    "story": 1204,
+    "part": 5
+  },
+  {
+    "path": "120406.txt",
+    "story": 1204,
+    "part": 6
+  },
+  {
+    "path": "120501.txt",
+    "story": 1205,
+    "part": 1
+  },
+  {
+    "path": "120502.txt",
+    "story": 1205,
+    "part": 2
+  },
+  {
+    "path": "120503.txt",
+    "story": 1205,
+    "part": 3
+  },
+  {
+    "path": "120504.txt",
+    "story": 1205,
+    "part": 4
+  },
+  {
+    "path": "120505.txt",
+    "story": 1205,
+    "part": 5
+  },
+  {
+    "path": "120506.txt",
+    "story": 1205,
+    "part": 6
+  },
+  {
+    "path": "120601.txt",
+    "story": 1206,
+    "part": 1
+  },
+  {
+    "path": "120602.txt",
+    "story": 1206,
+    "part": 2
+  },
+  {
+    "path": "120603.txt",
+    "story": 1206,
+    "part": 3
+  },
+  {
+    "path": "120604.txt",
+    "story": 1206,
+    "part": 4
+  },
+  {
+    "path": "120605.txt",
+    "story": 1206,
+    "part": 5
+  },
+  {
+    "path": "120606.txt",
+    "story": 1206,
+    "part": 6
+  },
+  {
+    "path": "120701.txt",
+    "story": 1207,
+    "part": 1
+  },
+  {
+    "path": "120702.txt",
+    "story": 1207,
+    "part": 2
+  },
+  {
+    "path": "120703.txt",
+    "story": 1207,
+    "part": 3
+  },
+  {
+    "path": "120704.txt",
+    "story": 1207,
+    "part": 4
+  },
+  {
+    "path": "120705.txt",
+    "story": 1207,
+    "part": 5
+  },
+  {
+    "path": "120706.txt",
+    "story": 1207,
+    "part": 6
+  },
+  {
+    "path": "120801.txt",
+    "story": 1208,
+    "part": 1
+  },
+  {
+    "path": "120802.txt",
+    "story": 1208,
+    "part": 2
+  },
+  {
+    "path": "120803.txt",
+    "story": 1208,
+    "part": 3
+  },
+  {
+    "path": "120804.txt",
+    "story": 1208,
+    "part": 4
+  },
+  {
+    "path": "120805.txt",
+    "story": 1208,
+    "part": 5
+  },
+  {
+    "path": "120806.txt",
+    "story": 1208,
+    "part": 6
+  },
+  {
+    "path": "120901.txt",
+    "story": 1209,
+    "part": 1
+  },
+  {
+    "path": "120902.txt",
+    "story": 1209,
+    "part": 2
+  },
+  {
+    "path": "120903.txt",
+    "story": 1209,
+    "part": 3
+  },
+  {
+    "path": "120904.txt",
+    "story": 1209,
+    "part": 4
+  },
+  {
+    "path": "120905.txt",
+    "story": 1209,
+    "part": 5
+  },
+  {
+    "path": "120906.txt",
+    "story": 1209,
+    "part": 6
+  },
+  {
+    "path": "121001.txt",
+    "story": 1210,
+    "part": 1
+  },
+  {
+    "path": "121002.txt",
+    "story": 1210,
+    "part": 2
+  },
+  {
+    "path": "121003.txt",
+    "story": 1210,
+    "part": 3
+  },
+  {
+    "path": "121004.txt",
+    "story": 1210,
+    "part": 4
+  },
+  {
+    "path": "121005.txt",
+    "story": 1210,
+    "part": 5
+  },
+  {
+    "path": "121006.txt",
+    "story": 1210,
+    "part": 6
+  },
+  {
+    "path": "121101.txt",
+    "story": 1211,
+    "part": 1
+  },
+  {
+    "path": "121102.txt",
+    "story": 1211,
+    "part": 2
+  },
+  {
+    "path": "121103.txt",
+    "story": 1211,
+    "part": 3
+  },
+  {
+    "path": "121104.txt",
+    "story": 1211,
+    "part": 4
+  },
+  {
+    "path": "121105.txt",
+    "story": 1211,
+    "part": 5
+  },
+  {
+    "path": "121106.txt",
+    "story": 1211,
+    "part": 6
+  },
+  {
+    "path": "130101.txt",
+    "story": 1301,
+    "part": 1
+  },
+  {
+    "path": "130102.txt",
+    "story": 1301,
+    "part": 2
+  },
+  {
+    "path": "130103.txt",
+    "story": 1301,
+    "part": 3
+  },
+  {
+    "path": "130104.txt",
+    "story": 1301,
+    "part": 4
+  },
+  {
+    "path": "130105.txt",
+    "story": 1301,
+    "part": 5
+  },
+  {
+    "path": "130106.txt",
+    "story": 1301,
+    "part": 6
+  },
+  {
+    "path": "130201.txt",
+    "story": 1302,
+    "part": 1
+  },
+  {
+    "path": "130202.txt",
+    "story": 1302,
+    "part": 2
+  },
+  {
+    "path": "130203.txt",
+    "story": 1302,
+    "part": 3
+  },
+  {
+    "path": "130204.txt",
+    "story": 1302,
+    "part": 4
+  },
+  {
+    "path": "130205.txt",
+    "story": 1302,
+    "part": 5
+  },
+  {
+    "path": "130206.txt",
+    "story": 1302,
+    "part": 6
+  },
+  {
+    "path": "130301.txt",
+    "story": 1303,
+    "part": 1
+  },
+  {
+    "path": "130302.txt",
+    "story": 1303,
+    "part": 2
+  },
+  {
+    "path": "130303.txt",
+    "story": 1303,
+    "part": 3
+  },
+  {
+    "path": "130304.txt",
+    "story": 1303,
+    "part": 4
+  },
+  {
+    "path": "130305.txt",
+    "story": 1303,
+    "part": 5
+  },
+  {
+    "path": "130306.txt",
+    "story": 1303,
+    "part": 6
+  },
+  {
+    "path": "130401.txt",
+    "story": 1304,
+    "part": 1
+  },
+  {
+    "path": "130402.txt",
+    "story": 1304,
+    "part": 2
+  },
+  {
+    "path": "130403.txt",
+    "story": 1304,
+    "part": 3
+  },
+  {
+    "path": "130404.txt",
+    "story": 1304,
+    "part": 4
+  },
+  {
+    "path": "130405.txt",
+    "story": 1304,
+    "part": 5
+  },
+  {
+    "path": "130406.txt",
+    "story": 1304,
+    "part": 6
+  },
+  {
+    "path": "130501.txt",
+    "story": 1305,
+    "part": 1
+  },
+  {
+    "path": "130502.txt",
+    "story": 1305,
+    "part": 2
+  },
+  {
+    "path": "130503.txt",
+    "story": 1305,
+    "part": 3
+  },
+  {
+    "path": "130504.txt",
+    "story": 1305,
+    "part": 4
+  },
+  {
+    "path": "130505.txt",
+    "story": 1305,
+    "part": 5
+  },
+  {
+    "path": "130506.txt",
+    "story": 1305,
+    "part": 6
+  },
+  {
+    "path": "210001.txt",
+    "story": 2100,
+    "part": 1
+  },
+  {
+    "path": "210002.txt",
+    "story": 2100,
+    "part": 2
+  },
+  {
+    "path": "210003.txt",
+    "story": 2100,
+    "part": 3
+  },
+  {
+    "path": "210004.txt",
+    "story": 2100,
+    "part": 4
+  },
+  {
+    "path": "210101.txt",
+    "story": 2101,
+    "part": 1
+  },
+  {
+    "path": "210102.txt",
+    "story": 2101,
+    "part": 2
+  },
+  {
+    "path": "210103.txt",
+    "story": 2101,
+    "part": 3
+  },
+  {
+    "path": "210104.txt",
+    "story": 2101,
+    "part": 4
+  },
+  {
+    "path": "210201.txt",
+    "story": 2102,
+    "part": 1
+  },
+  {
+    "path": "210202.txt",
+    "story": 2102,
+    "part": 2
+  },
+  {
+    "path": "210203.txt",
+    "story": 2102,
+    "part": 3
+  },
+  {
+    "path": "210204.txt",
+    "story": 2102,
+    "part": 4
+  },
+  {
+    "path": "210301.txt",
+    "story": 2103,
+    "part": 1
+  },
+  {
+    "path": "210302.txt",
+    "story": 2103,
+    "part": 2
+  },
+  {
+    "path": "210303.txt",
+    "story": 2103,
+    "part": 3
+  },
+  {
+    "path": "210304.txt",
+    "story": 2103,
+    "part": 4
+  },
+  {
+    "path": "210401.txt",
+    "story": 2104,
+    "part": 1
+  },
+  {
+    "path": "210402.txt",
+    "story": 2104,
+    "part": 2
+  },
+  {
+    "path": "210403.txt",
+    "story": 2104,
+    "part": 3
+  },
+  {
+    "path": "210404.txt",
+    "story": 2104,
+    "part": 4
+  },
+  {
+    "path": "210501.txt",
+    "story": 2105,
+    "part": 1
+  },
+  {
+    "path": "210502.txt",
+    "story": 2105,
+    "part": 2
+  },
+  {
+    "path": "210503.txt",
+    "story": 2105,
+    "part": 3
+  },
+  {
+    "path": "210504.txt",
+    "story": 2105,
+    "part": 4
+  },
+  {
+    "path": "210601.txt",
+    "story": 2106,
+    "part": 1
+  },
+  {
+    "path": "210602.txt",
+    "story": 2106,
+    "part": 2
+  },
+  {
+    "path": "210603.txt",
+    "story": 2106,
+    "part": 3
+  },
+  {
+    "path": "210604.txt",
+    "story": 2106,
+    "part": 4
+  },
+  {
+    "path": "210701.txt",
+    "story": 2107,
+    "part": 1
+  },
+  {
+    "path": "210702.txt",
+    "story": 2107,
+    "part": 2
+  },
+  {
+    "path": "210703.txt",
+    "story": 2107,
+    "part": 3
+  },
+  {
+    "path": "210704.txt",
+    "story": 2107,
+    "part": 4
+  },
+  {
+    "path": "210801.txt",
+    "story": 2108,
+    "part": 1
+  },
+  {
+    "path": "210802.txt",
+    "story": 2108,
+    "part": 2
+  },
+  {
+    "path": "210803.txt",
+    "story": 2108,
+    "part": 3
+  },
+  {
+    "path": "210804.txt",
+    "story": 2108,
+    "part": 4
+  },
+  {
+    "path": "210901.txt",
+    "story": 2109,
+    "part": 1
+  },
+  {
+    "path": "210902.txt",
+    "story": 2109,
+    "part": 2
+  },
+  {
+    "path": "210903.txt",
+    "story": 2109,
+    "part": 3
+  },
+  {
+    "path": "210904.txt",
+    "story": 2109,
+    "part": 4
+  },
+  {
+    "path": "211001.txt",
+    "story": 2110,
+    "part": 1
+  },
+  {
+    "path": "211002.txt",
+    "story": 2110,
+    "part": 2
+  },
+  {
+    "path": "211003.txt",
+    "story": 2110,
+    "part": 3
+  },
+  {
+    "path": "211004.txt",
+    "story": 2110,
+    "part": 4
+  },
+  {
+    "path": "211101.txt",
+    "story": 2111,
+    "part": 1
+  },
+  {
+    "path": "211102.txt",
+    "story": 2111,
+    "part": 2
+  },
+  {
+    "path": "211103.txt",
+    "story": 2111,
+    "part": 3
+  },
+  {
+    "path": "211104.txt",
+    "story": 2111,
+    "part": 4
+  },
+  {
+    "path": "211201.txt",
+    "story": 2112,
+    "part": 1
+  },
+  {
+    "path": "211202.txt",
+    "story": 2112,
+    "part": 2
+  },
+  {
+    "path": "211203.txt",
+    "story": 2112,
+    "part": 3
+  },
+  {
+    "path": "211204.txt",
+    "story": 2112,
+    "part": 4
+  },
+  {
+    "path": "211301.txt",
+    "story": 2113,
+    "part": 1
+  },
+  {
+    "path": "211302.txt",
+    "story": 2113,
+    "part": 2
+  },
+  {
+    "path": "211303.txt",
+    "story": 2113,
+    "part": 3
+  },
+  {
+    "path": "211304.txt",
+    "story": 2113,
+    "part": 4
+  },
+  {
+    "path": "211401.txt",
+    "story": 2114,
+    "part": 1
+  },
+  {
+    "path": "211402.txt",
+    "story": 2114,
+    "part": 2
+  },
+  {
+    "path": "211403.txt",
+    "story": 2114,
+    "part": 3
+  },
+  {
+    "path": "211404.txt",
+    "story": 2114,
+    "part": 4
+  },
+  {
+    "path": "211501.txt",
+    "story": 2115,
+    "part": 1
+  },
+  {
+    "path": "211502.txt",
+    "story": 2115,
+    "part": 2
+  },
+  {
+    "path": "211503.txt",
+    "story": 2115,
+    "part": 3
+  },
+  {
+    "path": "211504.txt",
+    "story": 2115,
+    "part": 4
+  },
+  {
+    "path": "211601.txt",
+    "story": 2116,
+    "part": 1
+  },
+  {
+    "path": "211602.txt",
+    "story": 2116,
+    "part": 2
+  },
+  {
+    "path": "211603.txt",
+    "story": 2116,
+    "part": 3
+  },
+  {
+    "path": "211604.txt",
+    "story": 2116,
+    "part": 4
+  },
+  {
+    "path": "211701.txt",
+    "story": 2117,
+    "part": 1
+  },
+  {
+    "path": "211702.txt",
+    "story": 2117,
+    "part": 2
+  },
+  {
+    "path": "211703.txt",
+    "story": 2117,
+    "part": 3
+  },
+  {
+    "path": "211704.txt",
+    "story": 2117,
+    "part": 4
+  },
+  {
+    "path": "211801.txt",
+    "story": 2118,
+    "part": 1
+  },
+  {
+    "path": "211802.txt",
+    "story": 2118,
+    "part": 2
+  },
+  {
+    "path": "211803.txt",
+    "story": 2118,
+    "part": 3
+  },
+  {
+    "path": "211804.txt",
+    "story": 2118,
+    "part": 4
+  },
+  {
+    "path": "211901.txt",
+    "story": 2119,
+    "part": 1
+  },
+  {
+    "path": "211902.txt",
+    "story": 2119,
+    "part": 2
+  },
+  {
+    "path": "211903.txt",
+    "story": 2119,
+    "part": 3
+  },
+  {
+    "path": "211904.txt",
+    "story": 2119,
+    "part": 4
+  },
+  {
+    "path": "212801.txt",
+    "story": 2128,
+    "part": 1
+  },
+  {
+    "path": "212802.txt",
+    "story": 2128,
+    "part": 2
+  },
+  {
+    "path": "212803.txt",
+    "story": 2128,
+    "part": 3
+  },
+  {
+    "path": "212804.txt",
+    "story": 2128,
+    "part": 4
+  },
+  {
+    "path": "214701.txt",
+    "story": 2147,
+    "part": 1
+  },
+  {
+    "path": "214702.txt",
+    "story": 2147,
+    "part": 2
+  },
+  {
+    "path": "215001.txt",
+    "story": 2150,
+    "part": 1
+  },
+  {
+    "path": "215002.txt",
+    "story": 2150,
+    "part": 2
+  },
+  {
+    "path": "215101.txt",
+    "story": 2151,
+    "part": 1
+  },
+  {
+    "path": "215102.txt",
+    "story": 2151,
+    "part": 2
+  },
+  {
+    "path": "215103.txt",
+    "story": 2151,
+    "part": 3
+  },
+  {
+    "path": "215104.txt",
+    "story": 2151,
+    "part": 4
+  },
+  {
+    "path": "215801.txt",
+    "story": 2158,
+    "part": 1
+  },
+  {
+    "path": "215802.txt",
+    "story": 2158,
+    "part": 2
+  },
+  {
+    "path": "216001.txt",
+    "story": 2160,
+    "part": 1
+  },
+  {
+    "path": "216002.txt",
+    "story": 2160,
+    "part": 2
+  },
+  {
+    "path": "216301.txt",
+    "story": 2163,
+    "part": 1
+  },
+  {
+    "path": "216302.txt",
+    "story": 2163,
+    "part": 2
+  },
+  {
+    "path": "216401.txt",
+    "story": 2164,
+    "part": 1
+  },
+  {
+    "path": "216402.txt",
+    "story": 2164,
+    "part": 2
+  },
+  {
+    "path": "216501.txt",
+    "story": 2165,
+    "part": 1
+  },
+  {
+    "path": "216502.txt",
+    "story": 2165,
+    "part": 2
+  },
+  {
+    "path": "300101.txt",
+    "story": 3001,
+    "part": 1
+  },
+  {
+    "path": "300102.txt",
+    "story": 3001,
+    "part": 2
+  },
+  {
+    "path": "300103.txt",
+    "story": 3001,
+    "part": 3
+  },
+  {
+    "path": "300104.txt",
+    "story": 3001,
+    "part": 4
+  },
+  {
+    "path": "300105.txt",
+    "story": 3001,
+    "part": 5
+  },
+  {
+    "path": "300106.txt",
+    "story": 3001,
+    "part": 6
+  },
+  {
+    "path": "300107.txt",
+    "story": 3001,
+    "part": 7
+  },
+  {
+    "path": "300108.txt",
+    "story": 3001,
+    "part": 8
+  },
+  {
+    "path": "300109.txt",
+    "story": 3001,
+    "part": 9
+  },
+  {
+    "path": "300110.txt",
+    "story": 3001,
+    "part": 10
+  },
+  {
+    "path": "300111.txt",
+    "story": 3001,
+    "part": 11
+  },
+  {
+    "path": "300112.txt",
+    "story": 3001,
+    "part": 12
+  },
+  {
+    "path": "300113.txt",
+    "story": 3001,
+    "part": 13
+  },
+  {
+    "path": "300114.txt",
+    "story": 3001,
+    "part": 14
+  },
+  {
+    "path": "300115.txt",
+    "story": 3001,
+    "part": 15
+  },
+  {
+    "path": "300116.txt",
+    "story": 3001,
+    "part": 16
+  },
+  {
+    "path": "300117.txt",
+    "story": 3001,
+    "part": 17
+  },
+  {
+    "path": "300118.txt",
+    "story": 3001,
+    "part": 18
+  },
+  {
+    "path": "300201.txt",
+    "story": 3002,
+    "part": 1
+  },
+  {
+    "path": "300202.txt",
+    "story": 3002,
+    "part": 2
+  },
+  {
+    "path": "300203.txt",
+    "story": 3002,
+    "part": 3
+  },
+  {
+    "path": "300204.txt",
+    "story": 3002,
+    "part": 4
+  },
+  {
+    "path": "300205.txt",
+    "story": 3002,
+    "part": 5
+  },
+  {
+    "path": "300206.txt",
+    "story": 3002,
+    "part": 6
+  },
+  {
+    "path": "300207.txt",
+    "story": 3002,
+    "part": 7
+  },
+  {
+    "path": "300208.txt",
+    "story": 3002,
+    "part": 8
+  },
+  {
+    "path": "300209.txt",
+    "story": 3002,
+    "part": 9
+  },
+  {
+    "path": "300210.txt",
+    "story": 3002,
+    "part": 10
+  },
+  {
+    "path": "300211.txt",
+    "story": 3002,
+    "part": 11
+  },
+  {
+    "path": "300212.txt",
+    "story": 3002,
+    "part": 12
+  },
+  {
+    "path": "300213.txt",
+    "story": 3002,
+    "part": 13
+  },
+  {
+    "path": "300214.txt",
+    "story": 3002,
+    "part": 14
+  },
+  {
+    "path": "300215.txt",
+    "story": 3002,
+    "part": 15
+  },
+  {
+    "path": "300216.txt",
+    "story": 3002,
+    "part": 16
+  },
+  {
+    "path": "300217.txt",
+    "story": 3002,
+    "part": 17
+  },
+  {
+    "path": "300218.txt",
+    "story": 3002,
+    "part": 18
+  },
+  {
+    "path": "300219.txt",
+    "story": 3002,
+    "part": 19
+  },
+  {
+    "path": "300220.txt",
+    "story": 3002,
+    "part": 20
+  },
+  {
+    "path": "300221.txt",
+    "story": 3002,
+    "part": 21
+  },
+  {
+    "path": "300222.txt",
+    "story": 3002,
+    "part": 22
+  },
+  {
+    "path": "300223.txt",
+    "story": 3002,
+    "part": 23
+  },
+  {
+    "path": "300224.txt",
+    "story": 3002,
+    "part": 24
+  },
+  {
+    "path": "300225.txt",
+    "story": 3002,
+    "part": 25
+  },
+  {
+    "path": "300226.txt",
+    "story": 3002,
+    "part": 26
+  },
+  {
+    "path": "300301.txt",
+    "story": 3003,
+    "part": 1
+  },
+  {
+    "path": "300302.txt",
+    "story": 3003,
+    "part": 2
+  },
+  {
+    "path": "300303.txt",
+    "story": 3003,
+    "part": 3
+  },
+  {
+    "path": "300304.txt",
+    "story": 3003,
+    "part": 4
+  },
+  {
+    "path": "300305.txt",
+    "story": 3003,
+    "part": 5
+  },
+  {
+    "path": "300306.txt",
+    "story": 3003,
+    "part": 6
+  },
+  {
+    "path": "300307.txt",
+    "story": 3003,
+    "part": 7
+  },
+  {
+    "path": "300308.txt",
+    "story": 3003,
+    "part": 8
+  },
+  {
+    "path": "4100001.txt",
+    "story": 41000,
+    "part": 1
+  },
+  {
+    "path": "4200001.txt",
+    "story": 42000,
+    "part": 1
+  },
+  {
+    "path": "42003201.txt",
+    "story": 420032,
+    "part": 1
+  },
+  {
+    "path": "42003202.txt",
+    "story": 420032,
+    "part": 2
+  },
+  {
+    "path": "42004201.txt",
+    "story": 420042,
+    "part": 1
+  },
+  {
+    "path": "42004202.txt",
+    "story": 420042,
+    "part": 2
+  },
+  {
+    "path": "42004301.txt",
+    "story": 420043,
+    "part": 1
+  },
+  {
+    "path": "42004302.txt",
+    "story": 420043,
+    "part": 2
+  },
+  {
+    "path": "42005101.txt",
+    "story": 420051,
+    "part": 1
+  },
+  {
+    "path": "42005102.txt",
+    "story": 420051,
+    "part": 2
+  },
+  {
+    "path": "42005103.txt",
+    "story": 420051,
+    "part": 3
+  },
+  {
+    "path": "42005104.txt",
+    "story": 420051,
+    "part": 4
+  },
+  {
+    "path": "42005105.txt",
+    "story": 420051,
+    "part": 5
+  },
+  {
+    "path": "42005106.txt",
+    "story": 420051,
+    "part": 6
+  },
+  {
+    "path": "42005201.txt",
+    "story": 420052,
+    "part": 1
+  },
+  {
+    "path": "42005202.txt",
+    "story": 420052,
+    "part": 2
+  },
+  {
+    "path": "42005301.txt",
+    "story": 420053,
+    "part": 1
+  },
+  {
+    "path": "42005302.txt",
+    "story": 420053,
+    "part": 2
+  },
+  {
+    "path": "42006201.txt",
+    "story": 420062,
+    "part": 1
+  },
+  {
+    "path": "42006202.txt",
+    "story": 420062,
+    "part": 2
+  },
+  {
+    "path": "42006301.txt",
+    "story": 420063,
+    "part": 1
+  },
+  {
+    "path": "42006302.txt",
+    "story": 420063,
+    "part": 2
+  },
+  {
+    "path": "42007101.txt",
+    "story": 420071,
+    "part": 1
+  },
+  {
+    "path": "42007102.txt",
+    "story": 420071,
+    "part": 2
+  },
+  {
+    "path": "42007103.txt",
+    "story": 420071,
+    "part": 3
+  },
+  {
+    "path": "42007104.txt",
+    "story": 420071,
+    "part": 4
+  },
+  {
+    "path": "42007105.txt",
+    "story": 420071,
+    "part": 5
+  },
+  {
+    "path": "42007106.txt",
+    "story": 420071,
+    "part": 6
+  },
+  {
+    "path": "42007201.txt",
+    "story": 420072,
+    "part": 1
+  },
+  {
+    "path": "42007202.txt",
+    "story": 420072,
+    "part": 2
+  },
+  {
+    "path": "42007301.txt",
+    "story": 420073,
+    "part": 1
+  },
+  {
+    "path": "42007302.txt",
+    "story": 420073,
+    "part": 2
+  },
+  {
+    "path": "42008101.txt",
+    "story": 420081,
+    "part": 1
+  },
+  {
+    "path": "42008102.txt",
+    "story": 420081,
+    "part": 2
+  },
+  {
+    "path": "42008103.txt",
+    "story": 420081,
+    "part": 3
+  },
+  {
+    "path": "42008104.txt",
+    "story": 420081,
+    "part": 4
+  },
+  {
+    "path": "42008105.txt",
+    "story": 420081,
+    "part": 5
+  },
+  {
+    "path": "42008106.txt",
+    "story": 420081,
+    "part": 6
+  },
+  {
+    "path": "42008201.txt",
+    "story": 420082,
+    "part": 1
+  },
+  {
+    "path": "42008202.txt",
+    "story": 420082,
+    "part": 2
+  },
+  {
+    "path": "42008301.txt",
+    "story": 420083,
+    "part": 1
+  },
+  {
+    "path": "42008302.txt",
+    "story": 420083,
+    "part": 2
+  },
+  {
+    "path": "42009101.txt",
+    "story": 420091,
+    "part": 1
+  },
+  {
+    "path": "42009102.txt",
+    "story": 420091,
+    "part": 2
+  },
+  {
+    "path": "42009103.txt",
+    "story": 420091,
+    "part": 3
+  },
+  {
+    "path": "42009104.txt",
+    "story": 420091,
+    "part": 4
+  },
+  {
+    "path": "42009105.txt",
+    "story": 420091,
+    "part": 5
+  },
+  {
+    "path": "42009106.txt",
+    "story": 420091,
+    "part": 6
+  },
+  {
+    "path": "42009201.txt",
+    "story": 420092,
+    "part": 1
+  },
+  {
+    "path": "42009202.txt",
+    "story": 420092,
+    "part": 2
+  },
+  {
+    "path": "42009301.txt",
+    "story": 420093,
+    "part": 1
+  },
+  {
+    "path": "42009302.txt",
+    "story": 420093,
+    "part": 2
+  },
+  {
+    "path": "42010101.txt",
+    "story": 420101,
+    "part": 1
+  },
+  {
+    "path": "42010102.txt",
+    "story": 420101,
+    "part": 2
+  },
+  {
+    "path": "42010103.txt",
+    "story": 420101,
+    "part": 3
+  },
+  {
+    "path": "42010104.txt",
+    "story": 420101,
+    "part": 4
+  },
+  {
+    "path": "42010105.txt",
+    "story": 420101,
+    "part": 5
+  },
+  {
+    "path": "42010106.txt",
+    "story": 420101,
+    "part": 6
+  },
+  {
+    "path": "42010201.txt",
+    "story": 420102,
+    "part": 1
+  },
+  {
+    "path": "42010202.txt",
+    "story": 420102,
+    "part": 2
+  },
+  {
+    "path": "42010301.txt",
+    "story": 420103,
+    "part": 1
+  },
+  {
+    "path": "42010302.txt",
+    "story": 420103,
+    "part": 2
+  },
+  {
+    "path": "42011101.txt",
+    "story": 420111,
+    "part": 1
+  },
+  {
+    "path": "42011102.txt",
+    "story": 420111,
+    "part": 2
+  },
+  {
+    "path": "42011103.txt",
+    "story": 420111,
+    "part": 3
+  },
+  {
+    "path": "42011104.txt",
+    "story": 420111,
+    "part": 4
+  },
+  {
+    "path": "42011105.txt",
+    "story": 420111,
+    "part": 5
+  },
+  {
+    "path": "42011201.txt",
+    "story": 420112,
+    "part": 1
+  },
+  {
+    "path": "42011202.txt",
+    "story": 420112,
+    "part": 2
+  },
+  {
+    "path": "42011301.txt",
+    "story": 420113,
+    "part": 1
+  },
+  {
+    "path": "42011302.txt",
+    "story": 420113,
+    "part": 2
+  },
+  {
+    "path": "42012101.txt",
+    "story": 420121,
+    "part": 1
+  },
+  {
+    "path": "42012102.txt",
+    "story": 420121,
+    "part": 2
+  },
+  {
+    "path": "42012103.txt",
+    "story": 420121,
+    "part": 3
+  },
+  {
+    "path": "42012104.txt",
+    "story": 420121,
+    "part": 4
+  },
+  {
+    "path": "42012105.txt",
+    "story": 420121,
+    "part": 5
+  },
+  {
+    "path": "42012106.txt",
+    "story": 420121,
+    "part": 6
+  },
+  {
+    "path": "42012201.txt",
+    "story": 420122,
+    "part": 1
+  },
+  {
+    "path": "42012202.txt",
+    "story": 420122,
+    "part": 2
+  },
+  {
+    "path": "42012301.txt",
+    "story": 420123,
+    "part": 1
+  },
+  {
+    "path": "42012302.txt",
+    "story": 420123,
+    "part": 2
+  },
+  {
+    "path": "42101101.txt",
+    "story": 421011,
+    "part": 1
+  },
+  {
+    "path": "42101102.txt",
+    "story": 421011,
+    "part": 2
+  },
+  {
+    "path": "42101103.txt",
+    "story": 421011,
+    "part": 3
+  },
+  {
+    "path": "42101104.txt",
+    "story": 421011,
+    "part": 4
+  },
+  {
+    "path": "42101105.txt",
+    "story": 421011,
+    "part": 5
+  },
+  {
+    "path": "42101106.txt",
+    "story": 421011,
+    "part": 6
+  },
+  {
+    "path": "42101201.txt",
+    "story": 421012,
+    "part": 1
+  },
+  {
+    "path": "42101202.txt",
+    "story": 421012,
+    "part": 2
+  },
+  {
+    "path": "42101301.txt",
+    "story": 421013,
+    "part": 1
+  },
+  {
+    "path": "42101302.txt",
+    "story": 421013,
+    "part": 2
+  },
+  {
+    "path": "42102101.txt",
+    "story": 421021,
+    "part": 1
+  },
+  {
+    "path": "42102102.txt",
+    "story": 421021,
+    "part": 2
+  },
+  {
+    "path": "42102103.txt",
+    "story": 421021,
+    "part": 3
+  },
+  {
+    "path": "42102104.txt",
+    "story": 421021,
+    "part": 4
+  },
+  {
+    "path": "42102105.txt",
+    "story": 421021,
+    "part": 5
+  },
+  {
+    "path": "42102106.txt",
+    "story": 421021,
+    "part": 6
+  },
+  {
+    "path": "42102201.txt",
+    "story": 421022,
+    "part": 1
+  },
+  {
+    "path": "42102202.txt",
+    "story": 421022,
+    "part": 2
+  },
+  {
+    "path": "42102301.txt",
+    "story": 421023,
+    "part": 1
+  },
+  {
+    "path": "42102302.txt",
+    "story": 421023,
+    "part": 2
+  },
+  {
+    "path": "42103101.txt",
+    "story": 421031,
+    "part": 1
+  },
+  {
+    "path": "42103102.txt",
+    "story": 421031,
+    "part": 2
+  },
+  {
+    "path": "42103103.txt",
+    "story": 421031,
+    "part": 3
+  },
+  {
+    "path": "42103104.txt",
+    "story": 421031,
+    "part": 4
+  },
+  {
+    "path": "42103105.txt",
+    "story": 421031,
+    "part": 5
+  },
+  {
+    "path": "42103106.txt",
+    "story": 421031,
+    "part": 6
+  },
+  {
+    "path": "42103201.txt",
+    "story": 421032,
+    "part": 1
+  },
+  {
+    "path": "42103202.txt",
+    "story": 421032,
+    "part": 2
+  },
+  {
+    "path": "42103203.txt",
+    "story": 421032,
+    "part": 3
+  },
+  {
+    "path": "42103204.txt",
+    "story": 421032,
+    "part": 4
+  },
+  {
+    "path": "42103205.txt",
+    "story": 421032,
+    "part": 5
+  },
+  {
+    "path": "42103206.txt",
+    "story": 421032,
+    "part": 6
+  },
+  {
+    "path": "42103301.txt",
+    "story": 421033,
+    "part": 1
+  },
+  {
+    "path": "42103302.txt",
+    "story": 421033,
+    "part": 2
+  },
+  {
+    "path": "42104101.txt",
+    "story": 421041,
+    "part": 1
+  },
+  {
+    "path": "42104102.txt",
+    "story": 421041,
+    "part": 2
+  },
+  {
+    "path": "42104103.txt",
+    "story": 421041,
+    "part": 3
+  },
+  {
+    "path": "42104104.txt",
+    "story": 421041,
+    "part": 4
+  },
+  {
+    "path": "42104105.txt",
+    "story": 421041,
+    "part": 5
+  },
+  {
+    "path": "42104106.txt",
+    "story": 421041,
+    "part": 6
+  },
+  {
+    "path": "42104201.txt",
+    "story": 421042,
+    "part": 1
+  },
+  {
+    "path": "42104202.txt",
+    "story": 421042,
+    "part": 2
+  },
+  {
+    "path": "42104301.txt",
+    "story": 421043,
+    "part": 1
+  },
+  {
+    "path": "42104302.txt",
+    "story": 421043,
+    "part": 2
+  },
+  {
+    "path": "42105101.txt",
+    "story": 421051,
+    "part": 1
+  },
+  {
+    "path": "42105102.txt",
+    "story": 421051,
+    "part": 2
+  },
+  {
+    "path": "42105103.txt",
+    "story": 421051,
+    "part": 3
+  },
+  {
+    "path": "42105104.txt",
+    "story": 421051,
+    "part": 4
+  },
+  {
+    "path": "42105105.txt",
+    "story": 421051,
+    "part": 5
+  },
+  {
+    "path": "42105106.txt",
+    "story": 421051,
+    "part": 6
+  },
+  {
+    "path": "42105201.txt",
+    "story": 421052,
+    "part": 1
+  },
+  {
+    "path": "42105202.txt",
+    "story": 421052,
+    "part": 2
+  },
+  {
+    "path": "42105301.txt",
+    "story": 421053,
+    "part": 1
+  },
+  {
+    "path": "42105302.txt",
+    "story": 421053,
+    "part": 2
+  },
+  {
+    "path": "42106101.txt",
+    "story": 421061,
+    "part": 1
+  },
+  {
+    "path": "42106102.txt",
+    "story": 421061,
+    "part": 2
+  },
+  {
+    "path": "42106103.txt",
+    "story": 421061,
+    "part": 3
+  },
+  {
+    "path": "42106104.txt",
+    "story": 421061,
+    "part": 4
+  },
+  {
+    "path": "42106105.txt",
+    "story": 421061,
+    "part": 5
+  },
+  {
+    "path": "42106106.txt",
+    "story": 421061,
+    "part": 6
+  },
+  {
+    "path": "42106201.txt",
+    "story": 421062,
+    "part": 1
+  },
+  {
+    "path": "42106202.txt",
+    "story": 421062,
+    "part": 2
+  },
+  {
+    "path": "42106301.txt",
+    "story": 421063,
+    "part": 1
+  },
+  {
+    "path": "42106302.txt",
+    "story": 421063,
+    "part": 2
+  },
+  {
+    "path": "42107101.txt",
+    "story": 421071,
+    "part": 1
+  },
+  {
+    "path": "42107102.txt",
+    "story": 421071,
+    "part": 2
+  },
+  {
+    "path": "42107103.txt",
+    "story": 421071,
+    "part": 3
+  },
+  {
+    "path": "42107104.txt",
+    "story": 421071,
+    "part": 4
+  },
+  {
+    "path": "42107105.txt",
+    "story": 421071,
+    "part": 5
+  },
+  {
+    "path": "42107106.txt",
+    "story": 421071,
+    "part": 6
+  },
+  {
+    "path": "42107201.txt",
+    "story": 421072,
+    "part": 1
+  },
+  {
+    "path": "42107202.txt",
+    "story": 421072,
+    "part": 2
+  },
+  {
+    "path": "42107301.txt",
+    "story": 421073,
+    "part": 1
+  },
+  {
+    "path": "42107302.txt",
+    "story": 421073,
+    "part": 2
+  },
+  {
+    "path": "42108101.txt",
+    "story": 421081,
+    "part": 1
+  },
+  {
+    "path": "42108102.txt",
+    "story": 421081,
+    "part": 2
+  },
+  {
+    "path": "42108103.txt",
+    "story": 421081,
+    "part": 3
+  },
+  {
+    "path": "42108104.txt",
+    "story": 421081,
+    "part": 4
+  },
+  {
+    "path": "42108105.txt",
+    "story": 421081,
+    "part": 5
+  },
+  {
+    "path": "42108106.txt",
+    "story": 421081,
+    "part": 6
+  },
+  {
+    "path": "42108201.txt",
+    "story": 421082,
+    "part": 1
+  },
+  {
+    "path": "42108202.txt",
+    "story": 421082,
+    "part": 2
+  },
+  {
+    "path": "42108301.txt",
+    "story": 421083,
+    "part": 1
+  },
+  {
+    "path": "42108302.txt",
+    "story": 421083,
+    "part": 2
+  },
+  {
+    "path": "42109101.txt",
+    "story": 421091,
+    "part": 1
+  },
+  {
+    "path": "42109102.txt",
+    "story": 421091,
+    "part": 2
+  },
+  {
+    "path": "42109103.txt",
+    "story": 421091,
+    "part": 3
+  },
+  {
+    "path": "42109104.txt",
+    "story": 421091,
+    "part": 4
+  },
+  {
+    "path": "42109105.txt",
+    "story": 421091,
+    "part": 5
+  },
+  {
+    "path": "42109106.txt",
+    "story": 421091,
+    "part": 6
+  },
+  {
+    "path": "42109201.txt",
+    "story": 421092,
+    "part": 1
+  },
+  {
+    "path": "42109202.txt",
+    "story": 421092,
+    "part": 2
+  },
+  {
+    "path": "42109301.txt",
+    "story": 421093,
+    "part": 1
+  },
+  {
+    "path": "42109302.txt",
+    "story": 421093,
+    "part": 2
+  },
+  {
+    "path": "42110101.txt",
+    "story": 421101,
+    "part": 1
+  },
+  {
+    "path": "42110102.txt",
+    "story": 421101,
+    "part": 2
+  },
+  {
+    "path": "42110103.txt",
+    "story": 421101,
+    "part": 3
+  },
+  {
+    "path": "42110104.txt",
+    "story": 421101,
+    "part": 4
+  },
+  {
+    "path": "42110105.txt",
+    "story": 421101,
+    "part": 5
+  },
+  {
+    "path": "42110106.txt",
+    "story": 421101,
+    "part": 6
+  },
+  {
+    "path": "42110201.txt",
+    "story": 421102,
+    "part": 1
+  },
+  {
+    "path": "42110202.txt",
+    "story": 421102,
+    "part": 2
+  },
+  {
+    "path": "42110301.txt",
+    "story": 421103,
+    "part": 1
+  },
+  {
+    "path": "42110302.txt",
+    "story": 421103,
+    "part": 2
+  },
+  {
+    "path": "42111101.txt",
+    "story": 421111,
+    "part": 1
+  },
+  {
+    "path": "42111102.txt",
+    "story": 421111,
+    "part": 2
+  },
+  {
+    "path": "42111103.txt",
+    "story": 421111,
+    "part": 3
+  },
+  {
+    "path": "42111104.txt",
+    "story": 421111,
+    "part": 4
+  },
+  {
+    "path": "42111105.txt",
+    "story": 421111,
+    "part": 5
+  },
+  {
+    "path": "42111106.txt",
+    "story": 421111,
+    "part": 6
+  },
+  {
+    "path": "42111201.txt",
+    "story": 421112,
+    "part": 1
+  },
+  {
+    "path": "42111202.txt",
+    "story": 421112,
+    "part": 2
+  },
+  {
+    "path": "42111301.txt",
+    "story": 421113,
+    "part": 1
+  },
+  {
+    "path": "42111302.txt",
+    "story": 421113,
+    "part": 2
+  },
+  {
+    "path": "42112101.txt",
+    "story": 421121,
+    "part": 1
+  },
+  {
+    "path": "42112102.txt",
+    "story": 421121,
+    "part": 2
+  },
+  {
+    "path": "42112103.txt",
+    "story": 421121,
+    "part": 3
+  },
+  {
+    "path": "42112104.txt",
+    "story": 421121,
+    "part": 4
+  },
+  {
+    "path": "42112105.txt",
+    "story": 421121,
+    "part": 5
+  },
+  {
+    "path": "42112106.txt",
+    "story": 421121,
+    "part": 6
+  },
+  {
+    "path": "42112201.txt",
+    "story": 421122,
+    "part": 1
+  },
+  {
+    "path": "42112202.txt",
+    "story": 421122,
+    "part": 2
+  },
+  {
+    "path": "42112301.txt",
+    "story": 421123,
+    "part": 1
+  },
+  {
+    "path": "42112302.txt",
+    "story": 421123,
+    "part": 2
+  },
+  {
+    "path": "42201101.txt",
+    "story": 422011,
+    "part": 1
+  },
+  {
+    "path": "42201102.txt",
+    "story": 422011,
+    "part": 2
+  },
+  {
+    "path": "42201103.txt",
+    "story": 422011,
+    "part": 3
+  },
+  {
+    "path": "42201104.txt",
+    "story": 422011,
+    "part": 4
+  },
+  {
+    "path": "42201105.txt",
+    "story": 422011,
+    "part": 5
+  },
+  {
+    "path": "42201106.txt",
+    "story": 422011,
+    "part": 6
+  },
+  {
+    "path": "42201201.txt",
+    "story": 422012,
+    "part": 1
+  },
+  {
+    "path": "42201202.txt",
+    "story": 422012,
+    "part": 2
+  },
+  {
+    "path": "42201301.txt",
+    "story": 422013,
+    "part": 1
+  },
+  {
+    "path": "42201302.txt",
+    "story": 422013,
+    "part": 2
+  },
+  {
+    "path": "42202101.txt",
+    "story": 422021,
+    "part": 1
+  },
+  {
+    "path": "42202102.txt",
+    "story": 422021,
+    "part": 2
+  },
+  {
+    "path": "42202103.txt",
+    "story": 422021,
+    "part": 3
+  },
+  {
+    "path": "42202104.txt",
+    "story": 422021,
+    "part": 4
+  },
+  {
+    "path": "42202105.txt",
+    "story": 422021,
+    "part": 5
+  },
+  {
+    "path": "42202106.txt",
+    "story": 422021,
+    "part": 6
+  },
+  {
+    "path": "42202201.txt",
+    "story": 422022,
+    "part": 1
+  },
+  {
+    "path": "42202202.txt",
+    "story": 422022,
+    "part": 2
+  },
+  {
+    "path": "42202301.txt",
+    "story": 422023,
+    "part": 1
+  },
+  {
+    "path": "42202302.txt",
+    "story": 422023,
+    "part": 2
+  },
+  {
+    "path": "4300001.txt",
+    "story": 43000,
+    "part": 1
+  },
+  {
+    "path": "5200301.txt",
+    "story": 52003,
+    "part": 1
+  },
+  {
+    "path": "5200302.txt",
+    "story": 52003,
+    "part": 2
+  },
+  {
+    "path": "5200401.txt",
+    "story": 52004,
+    "part": 1
+  },
+  {
+    "path": "5200402.txt",
+    "story": 52004,
+    "part": 2
+  },
+  {
+    "path": "5200403.txt",
+    "story": 52004,
+    "part": 3
+  },
+  {
+    "path": "5200501.txt",
+    "story": 52005,
+    "part": 1
+  },
+  {
+    "path": "5200502.txt",
+    "story": 52005,
+    "part": 2
+  },
+  {
+    "path": "5200503.txt",
+    "story": 52005,
+    "part": 3
+  },
+  {
+    "path": "5200601.txt",
+    "story": 52006,
+    "part": 1
+  },
+  {
+    "path": "5200602.txt",
+    "story": 52006,
+    "part": 2
+  },
+  {
+    "path": "5200603.txt",
+    "story": 52006,
+    "part": 3
+  },
+  {
+    "path": "5200701.txt",
+    "story": 52007,
+    "part": 1
+  },
+  {
+    "path": "5200702.txt",
+    "story": 52007,
+    "part": 2
+  },
+  {
+    "path": "5200703.txt",
+    "story": 52007,
+    "part": 3
+  },
+  {
+    "path": "5200801.txt",
+    "story": 52008,
+    "part": 1
+  },
+  {
+    "path": "5200802.txt",
+    "story": 52008,
+    "part": 2
+  },
+  {
+    "path": "5200803.txt",
+    "story": 52008,
+    "part": 3
+  },
+  {
+    "path": "5200901.txt",
+    "story": 52009,
+    "part": 1
+  },
+  {
+    "path": "5200902.txt",
+    "story": 52009,
+    "part": 2
+  },
+  {
+    "path": "5200903.txt",
+    "story": 52009,
+    "part": 3
+  },
+  {
+    "path": "5201001.txt",
+    "story": 52010,
+    "part": 1
+  },
+  {
+    "path": "5201002.txt",
+    "story": 52010,
+    "part": 2
+  },
+  {
+    "path": "5201003.txt",
+    "story": 52010,
+    "part": 3
+  },
+  {
+    "path": "5201101.txt",
+    "story": 52011,
+    "part": 1
+  },
+  {
+    "path": "5201102.txt",
+    "story": 52011,
+    "part": 2
+  },
+  {
+    "path": "5201103.txt",
+    "story": 52011,
+    "part": 3
+  },
+  {
+    "path": "5201201.txt",
+    "story": 52012,
+    "part": 1
+  },
+  {
+    "path": "5201202.txt",
+    "story": 52012,
+    "part": 2
+  },
+  {
+    "path": "5201203.txt",
+    "story": 52012,
+    "part": 3
+  },
+  {
+    "path": "5210101.txt",
+    "story": 52101,
+    "part": 1
+  },
+  {
+    "path": "5210102.txt",
+    "story": 52101,
+    "part": 2
+  },
+  {
+    "path": "5210103.txt",
+    "story": 52101,
+    "part": 3
+  },
+  {
+    "path": "5210201.txt",
+    "story": 52102,
+    "part": 1
+  },
+  {
+    "path": "5210202.txt",
+    "story": 52102,
+    "part": 2
+  },
+  {
+    "path": "5210203.txt",
+    "story": 52102,
+    "part": 3
+  },
+  {
+    "path": "5210301.txt",
+    "story": 52103,
+    "part": 1
+  },
+  {
+    "path": "5210302.txt",
+    "story": 52103,
+    "part": 2
+  },
+  {
+    "path": "5210303.txt",
+    "story": 52103,
+    "part": 3
+  },
+  {
+    "path": "5210401.txt",
+    "story": 52104,
+    "part": 1
+  },
+  {
+    "path": "5210402.txt",
+    "story": 52104,
+    "part": 2
+  },
+  {
+    "path": "5210403.txt",
+    "story": 52104,
+    "part": 3
+  },
+  {
+    "path": "5210501.txt",
+    "story": 52105,
+    "part": 1
+  },
+  {
+    "path": "5210502.txt",
+    "story": 52105,
+    "part": 2
+  },
+  {
+    "path": "5210503.txt",
+    "story": 52105,
+    "part": 3
+  },
+  {
+    "path": "5210601.txt",
+    "story": 52106,
+    "part": 1
+  },
+  {
+    "path": "5210602.txt",
+    "story": 52106,
+    "part": 2
+  },
+  {
+    "path": "5210603.txt",
+    "story": 52106,
+    "part": 3
+  },
+  {
+    "path": "5210701.txt",
+    "story": 52107,
+    "part": 1
+  },
+  {
+    "path": "5210702.txt",
+    "story": 52107,
+    "part": 2
+  },
+  {
+    "path": "5210703.txt",
+    "story": 52107,
+    "part": 3
+  },
+  {
+    "path": "5210801.txt",
+    "story": 52108,
+    "part": 1
+  },
+  {
+    "path": "5210802.txt",
+    "story": 52108,
+    "part": 2
+  },
+  {
+    "path": "5210803.txt",
+    "story": 52108,
+    "part": 3
+  },
+  {
+    "path": "5210901.txt",
+    "story": 52109,
+    "part": 1
+  },
+  {
+    "path": "5210902.txt",
+    "story": 52109,
+    "part": 2
+  },
+  {
+    "path": "5210903.txt",
+    "story": 52109,
+    "part": 3
+  },
+  {
+    "path": "5211001.txt",
+    "story": 52110,
+    "part": 1
+  },
+  {
+    "path": "5211002.txt",
+    "story": 52110,
+    "part": 2
+  },
+  {
+    "path": "5211003.txt",
+    "story": 52110,
+    "part": 3
+  },
+  {
+    "path": "5211101.txt",
+    "story": 52111,
+    "part": 1
+  },
+  {
+    "path": "5211102.txt",
+    "story": 52111,
+    "part": 2
+  },
+  {
+    "path": "5211103.txt",
+    "story": 52111,
+    "part": 3
+  },
+  {
+    "path": "5211201.txt",
+    "story": 52112,
+    "part": 1
+  },
+  {
+    "path": "5211202.txt",
+    "story": 52112,
+    "part": 2
+  },
+  {
+    "path": "5211203.txt",
+    "story": 52112,
+    "part": 3
+  },
+  {
+    "path": "5220101.txt",
+    "story": 52201,
+    "part": 1
+  },
+  {
+    "path": "5220102.txt",
+    "story": 52201,
+    "part": 2
+  },
+  {
+    "path": "5220103.txt",
+    "story": 52201,
+    "part": 3
+  },
+  {
+    "path": "5220201.txt",
+    "story": 52202,
+    "part": 1
+  },
+  {
+    "path": "5220202.txt",
+    "story": 52202,
+    "part": 2
+  },
+  {
+    "path": "5220203.txt",
+    "story": 52202,
+    "part": 3
+  },
+  {
+    "path": "5900101.txt",
+    "story": 59001,
+    "part": 1
+  },
+  {
+    "path": "5900102.txt",
+    "story": 59001,
+    "part": 2
+  },
+  {
+    "path": "5900103.txt",
+    "story": 59001,
+    "part": 3
+  },
+  {
+    "path": "5900104.txt",
+    "story": 59001,
+    "part": 4
+  },
+  {
+    "path": "6010020.txt",
+    "story": 60100,
+    "part": 20
+  },
+  {
+    "path": "6010021.txt",
+    "story": 60100,
+    "part": 21
+  },
+  {
+    "path": "6010120.txt",
+    "story": 60101,
+    "part": 20
+  },
+  {
+    "path": "6010121.txt",
+    "story": 60101,
+    "part": 21
+  },
+  {
+    "path": "6010220.txt",
+    "story": 60102,
+    "part": 20
+  },
+  {
+    "path": "6010221.txt",
+    "story": 60102,
+    "part": 21
+  },
+  {
+    "path": "6010320.txt",
+    "story": 60103,
+    "part": 20
+  },
+  {
+    "path": "6010321.txt",
+    "story": 60103,
+    "part": 21
+  },
+  {
+    "path": "6010420.txt",
+    "story": 60104,
+    "part": 20
+  },
+  {
+    "path": "6010421.txt",
+    "story": 60104,
+    "part": 21
+  },
+  {
+    "path": "6010520.txt",
+    "story": 60105,
+    "part": 20
+  },
+  {
+    "path": "6010521.txt",
+    "story": 60105,
+    "part": 21
+  },
+  {
+    "path": "6010620.txt",
+    "story": 60106,
+    "part": 20
+  },
+  {
+    "path": "6010621.txt",
+    "story": 60106,
+    "part": 21
+  },
+  {
+    "path": "6010720.txt",
+    "story": 60107,
+    "part": 20
+  },
+  {
+    "path": "6010721.txt",
+    "story": 60107,
+    "part": 21
+  },
+  {
+    "path": "6010821.txt",
+    "story": 60108,
+    "part": 21
+  },
+  {
+    "path": "6010921.txt",
+    "story": 60109,
+    "part": 21
+  },
+  {
+    "path": "6010922.txt",
+    "story": 60109,
+    "part": 22
+  },
+  {
+    "path": "6011020.txt",
+    "story": 60110,
+    "part": 20
+  },
+  {
+    "path": "6011021.txt",
+    "story": 60110,
+    "part": 21
+  },
+  {
+    "path": "6011120.txt",
+    "story": 60111,
+    "part": 20
+  },
+  {
+    "path": "6011121.txt",
+    "story": 60111,
+    "part": 21
+  },
+  {
+    "path": "6011220.txt",
+    "story": 60112,
+    "part": 20
+  },
+  {
+    "path": "6011221.txt",
+    "story": 60112,
+    "part": 21
+  },
+  {
+    "path": "6011320.txt",
+    "story": 60113,
+    "part": 20
+  },
+  {
+    "path": "6011321.txt",
+    "story": 60113,
+    "part": 21
+  },
+  {
+    "path": "6011420.txt",
+    "story": 60114,
+    "part": 20
+  },
+  {
+    "path": "6011421.txt",
+    "story": 60114,
+    "part": 21
+  },
+  {
+    "path": "6011520.txt",
+    "story": 60115,
+    "part": 20
+  },
+  {
+    "path": "6011521.txt",
+    "story": 60115,
+    "part": 21
+  },
+  {
+    "path": "6011620.txt",
+    "story": 60116,
+    "part": 20
+  },
+  {
+    "path": "6011621.txt",
+    "story": 60116,
+    "part": 21
+  },
+  {
+    "path": "6011720.txt",
+    "story": 60117,
+    "part": 20
+  },
+  {
+    "path": "6011721.txt",
+    "story": 60117,
+    "part": 21
+  },
+  {
+    "path": "6011820.txt",
+    "story": 60118,
+    "part": 20
+  },
+  {
+    "path": "6011821.txt",
+    "story": 60118,
+    "part": 21
+  },
+  {
+    "path": "6011921.txt",
+    "story": 60119,
+    "part": 21
+  },
+  {
+    "path": "6011922.txt",
+    "story": 60119,
+    "part": 22
+  },
+  {
+    "path": "6012822.txt",
+    "story": 60128,
+    "part": 22
+  },
+  {
+    "path": "6100001.txt",
+    "story": 61000,
+    "part": 1
+  },
+  {
+    "path": "6100002.txt",
+    "story": 61000,
+    "part": 2
+  },
+  {
+    "path": "6120081.txt",
+    "story": 61200,
+    "part": 81
+  },
+  {
+    "path": "6121011.txt",
+    "story": 61210,
+    "part": 11
+  },
+  {
+    "path": "6121021.txt",
+    "story": 61210,
+    "part": 21
+  },
+  {
+    "path": "6121022.txt",
+    "story": 61210,
+    "part": 22
+  },
+  {
+    "path": "6121023.txt",
+    "story": 61210,
+    "part": 23
+  },
+  {
+    "path": "6121024.txt",
+    "story": 61210,
+    "part": 24
+  },
+  {
+    "path": "6121025.txt",
+    "story": 61210,
+    "part": 25
+  },
+  {
+    "path": "6121026.txt",
+    "story": 61210,
+    "part": 26
+  },
+  {
+    "path": "6121027.txt",
+    "story": 61210,
+    "part": 27
+  },
+  {
+    "path": "6121028.txt",
+    "story": 61210,
+    "part": 28
+  },
+  {
+    "path": "6121029.txt",
+    "story": 61210,
+    "part": 29
+  },
+  {
+    "path": "6121041.txt",
+    "story": 61210,
+    "part": 41
+  },
+  {
+    "path": "6121042.txt",
+    "story": 61210,
+    "part": 42
+  },
+  {
+    "path": "6121043.txt",
+    "story": 61210,
+    "part": 43
+  },
+  {
+    "path": "6121081.txt",
+    "story": 61210,
+    "part": 81
+  },
+  {
+    "path": "6121101.txt",
+    "story": 61211,
+    "part": 1
+  },
+  {
+    "path": "6121111.txt",
+    "story": 61211,
+    "part": 11
+  },
+  {
+    "path": "6121112.txt",
+    "story": 61211,
+    "part": 12
+  },
+  {
+    "path": "6121121.txt",
+    "story": 61211,
+    "part": 21
+  },
+  {
+    "path": "6122011.txt",
+    "story": 61220,
+    "part": 11
+  },
+  {
+    "path": "6122021.txt",
+    "story": 61220,
+    "part": 21
+  },
+  {
+    "path": "999001.txt",
+    "story": 9990,
+    "part": 1
+  }
+]
