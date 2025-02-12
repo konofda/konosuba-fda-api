@@ -12,7 +12,8 @@
     "youtube": [
       "7np63f9u4Tk",
       "_x_p8Ioos2g"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210105001.png"
   },
   {
     "movie": "MovieStory101006,movie_story_101006_deartomorrow",
@@ -27,7 +28,8 @@
     "youtube": [
       "zaW_kq6lqdU",
       "LzqUvoi68d4"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210110001.png"
   },
   {
     "movie": "MovieStory101106,movie_story_101106_ed",
@@ -41,7 +43,8 @@
     "title_alt": "The Best Day of My Life (V1)",
     "youtube": [
       "pZDrawuAaAI"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210111001.png"
   },
   {
     "movie": "MovieStory120506,movie_story_200506_myfavorite",
@@ -55,7 +58,8 @@
     "title_alt": "Axel Hearts「MyFavorite!」",
     "youtube": [
       "6DHh9Jjb3qY"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210205001.png"
   },
   {
     "movie": "MovieStory121106,movie_story_201106_smilesurprise",
@@ -70,7 +74,8 @@
     "youtube": [
       "RTviIb7yLqE",
       "M8d3aKxRJPM"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210211001.png"
   },
   {
     "movie": "MovieStory131106,movie_story_301106_ed",
@@ -84,7 +89,8 @@
     "title_alt": "The Best Day of My Life (V2)",
     "youtube": [
       "3H_0VLDasnI"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210111001.png"
   },
   {
     "movie": "MovieStory140606,movie_story_401106_ed",
@@ -98,7 +104,8 @@
     "title_alt": "The Best Day of My Life (V3)",
     "youtube": [
       "2Rx-dUbt0Nc"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210111001.png"
   },
   {
     "movie": "MovieStory150401,movie_story_150401_fantasticcurtaincall",
@@ -114,7 +121,8 @@
       "zt72ctI73NI",
       "fupF3bfuUJc",
       "F-7b4-Q0gAg"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210504001.png"
   },
   {
     "movie": "MovieStory42103105,movie_story_42103105_ikezunakajitsu",
@@ -131,7 +139,8 @@
       "tkRcT1L-aaE",
       "c7cSav7m880",
       "X73_eZwPRxA"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/242103101.png"
   },
   {
     "movie": "MovieStory42209106,movie_story_220901_bestparty",
@@ -147,7 +156,8 @@
       "fWyNvDdtja4",
       "xPm_4heUNBc",
       "icord1rDCp0"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/242209101.png"
   },
   {
     "movie": "MovieStory42209202,movie_story_22091_cuitestar",
@@ -163,6 +173,7 @@
       "zr-4TgdFGPg",
       "LeGKbko0M4M",
       "SSzA-TuoKrg"
-    ]
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/242209201.png"
   }
 ]
