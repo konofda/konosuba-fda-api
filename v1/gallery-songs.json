@@ -1,0 +1,168 @@
+[
+  {
+    "movie": "MovieStory100505,movie_story_100505_brightshow",
+    "story_id": "100505",
+    "group_id": "2101050",
+    "list_icon": "210105001",
+    "title": "\"Bright Show\"",
+    "artist_name": "Song: Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "0",
+    "title_alt": "Axel Hearts 「Bright Show」",
+    "youtube": [
+      "7np63f9u4Tk",
+      "_x_p8Ioos2g"
+    ]
+  },
+  {
+    "movie": "MovieStory101006,movie_story_101006_deartomorrow",
+    "story_id": "101006",
+    "group_id": "2101100",
+    "list_icon": "210110001",
+    "title": "\"Dear Tomorrow\"",
+    "artist_name": "Song: Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "0",
+    "title_alt": "Axel Hearts「Dear Tomorrow」",
+    "youtube": [
+      "zaW_kq6lqdU",
+      "LzqUvoi68d4"
+    ]
+  },
+  {
+    "movie": "MovieStory101106,movie_story_101106_ed",
+    "story_id": "101106",
+    "group_id": "2101110",
+    "list_icon": "210111001",
+    "title": "\"The Best Day of My Life\"",
+    "artist_name": "Song: Aqua (Voice: Sora Amamiya), Megumin (Voice: Rie Takahashi), Darkness (Voice: Ai Kayano), Kazuma (Voice: Jun Fukushima)",
+    "scale_type": "1",
+    "display_start": "0",
+    "title_alt": "The Best Day of My Life (V1)",
+    "youtube": [
+      "pZDrawuAaAI"
+    ]
+  },
+  {
+    "movie": "MovieStory120506,movie_story_200506_myfavorite",
+    "story_id": "120506",
+    "group_id": "2102050",
+    "list_icon": "210205001",
+    "title": "\"My Favorite!\"",
+    "artist_name": "Song: Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "0",
+    "title_alt": "Axel Hearts「MyFavorite!」",
+    "youtube": [
+      "6DHh9Jjb3qY"
+    ]
+  },
+  {
+    "movie": "MovieStory121106,movie_story_201106_smilesurprise",
+    "story_id": "121106",
+    "group_id": "2102110",
+    "list_icon": "210211001",
+    "title": "\"Smile Surprise\"",
+    "artist_name": "Song: Mel (Voice: Aimi), Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "2022/11/22 0:00",
+    "title_alt": "Axel Hearts ft. Mel「Smile Surprise」",
+    "youtube": [
+      "RTviIb7yLqE",
+      "M8d3aKxRJPM"
+    ]
+  },
+  {
+    "movie": "MovieStory131106,movie_story_301106_ed",
+    "story_id": "131106",
+    "group_id": "2103110",
+    "list_icon": "210111001",
+    "title": "\"The Best Day of My Life\"",
+    "artist_name": "Song: Aqua (Voice: Sora Amamiya), Megumin (Voice: Rie Takahashi), Darkness (Voice: Ai Kayano), Kazuma (Voice: Jun Fukushima)",
+    "scale_type": "1",
+    "display_start": "0",
+    "title_alt": "The Best Day of My Life (V2)",
+    "youtube": [
+      "3H_0VLDasnI"
+    ]
+  },
+  {
+    "movie": "MovieStory140606,movie_story_401106_ed",
+    "story_id": "140606",
+    "group_id": "2104060",
+    "list_icon": "210111001",
+    "title": "\"The Best Day of My Life\"",
+    "artist_name": "Song: Aqua (Voice: Sora Amamiya), Megumin (Voice: Rie Takahashi), Darkness (Voice: Ai Kayano), Kazuma (Voice: Jun Fukushima)",
+    "scale_type": "1",
+    "display_start": "0",
+    "title_alt": "The Best Day of My Life (V3)",
+    "youtube": [
+      "2Rx-dUbt0Nc"
+    ]
+  },
+  {
+    "movie": "MovieStory150401,movie_story_150401_fantasticcurtaincall",
+    "story_id": "150401",
+    "group_id": "2105040",
+    "list_icon": "210504001",
+    "title": "\"Fantastic Curtain Call\"",
+    "artist_name": "Song: Axel Hearts [Lia(CV: Maki Kawase), Cielo(CV: Karin Isobe), Erika(CV: Seina Kato)]",
+    "scale_type": "1",
+    "display_start": "2025/1/21 0:00",
+    "title_alt": "Fantastic Curtain Call",
+    "youtube": [
+      "zt72ctI73NI",
+      "fupF3bfuUJc",
+      "F-7b4-Q0gAg"
+    ]
+  },
+  {
+    "movie": "MovieStory42103105,movie_story_42103105_ikezunakajitsu",
+    "story_id": "42103105",
+    "group_id": "2421031",
+    "list_icon": "242103101",
+    "title": "\"Bad Apple\"",
+    "artist_name": "Song: Kazuma (Voice: Jun Fukushima), Megumin (Voice: Rie Takahashi)",
+    "scale_type": "0",
+    "display_start": "2022/8/23 0:00",
+    "title_alt": "Bad Apple",
+    "youtube": [
+      "BTUNP1aVs-s",
+      "tkRcT1L-aaE",
+      "c7cSav7m880",
+      "X73_eZwPRxA"
+    ]
+  },
+  {
+    "movie": "MovieStory42209106,movie_story_220901_bestparty",
+    "story_id": "42209106",
+    "group_id": "2422091",
+    "list_icon": "242209101",
+    "title": "Best Party",
+    "artist_name": "Song: Explosion Goddess Lalatina with Kazuma [Aqua (Voice: Sora Amamiya), Megumin (Voice: Rie Takahashi), Darkness (Voice: Ai Kayano), Kazuma (Voice: Jun Fukushima)}",
+    "scale_type": "0",
+    "display_start": "0",
+    "title_alt": "Best Party",
+    "youtube": [
+      "fWyNvDdtja4",
+      "xPm_4heUNBc",
+      "icord1rDCp0"
+    ]
+  },
+  {
+    "movie": "MovieStory42209202,movie_story_22091_cuitestar",
+    "story_id": "42209202",
+    "group_id": "2422092",
+    "list_icon": "242209201",
+    "title": "Cutie Star",
+    "artist_name": "Song: Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "0",
+    "title_alt": "Axel Hearts「Cutie Star」",
+    "youtube": [
+      "zr-4TgdFGPg",
+      "LeGKbko0M4M",
+      "SSzA-TuoKrg"
+    ]
+  }
+]
