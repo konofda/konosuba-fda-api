@@ -3,121 +3,241 @@
     "base_id": "100",
     "name": "Kazuma",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_100.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_100.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A former NEET (Not in Education, Employment, or Training), gamer, and shut-in, this young man's untimely death landed him a second chance at life far from Japan. Though a comically weak adventurer, he is blessed with exceptional luck, quick wits, and trusty allies. His signature skill is Steal, used to pinch random items from foes, and often panties from female targets. Born June 7th.",
+    "birthday": "6/7",
+    "voice": "Jun Fukushima",
+    "background_id": "1010",
+    "costume_id": "1004100"
   },
   {
     "base_id": "101",
     "name": "Aqua",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_101.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_101.png",
+    "weapon_type": "STICK",
+    "flavor_text": "The goddess of water, chosen by Kazuma to accompany him on his new journey. As an arch priestess, Aqua boasts high stats in all areas save for intelligence and luck, leading to countless daily mishaps. Still, the cheerful Aqua is always down for a cold drink or a few party tricks. Although she is the very deity worshipped by the Order of Axis, no one believes her, including her own followers. Born August 1st.",
+    "birthday": "8/1",
+    "voice": "Sora Amamiya",
+    "background_id": "1010",
+    "costume_id": "1014100"
   },
   {
     "base_id": "102",
     "name": "Megumin",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_102.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_102.png",
+    "weapon_type": "WAND",
+    "flavor_text": "A young arch wizard from the Crimson Demon Clan, Megumin possesses high intelligence and a natural affinity for magic. Like her clansmen, she has a flair for theatrics, although her antics often invoke more head-scratching than awe. In spite of wielding the strongest known offensive spell, Explosion, the power it requires is massive. This limits Megumin to casting it once a day, and collapsing in a heap afterwards. Born December 4th.",
+    "birthday": "12/4",
+    "voice": "Rie Takahashi",
+    "background_id": "1010",
+    "costume_id": "1024100"
   },
   {
     "base_id": "103",
     "name": "Darkness",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_103.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_103.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A crusader and aristocrat with golden locks and eyes of azure, Darkness's high defense is offset by her exceptional clumsiness. She’s much more adept at taking hits than dishing them out, volunteering to be a human shield to sate her extreme masochism. However, there is one punishment even she can't bear: being called by her birth name of Lalatina Ford Dustiness embarrasses her to no end. Born April 6th.",
+    "birthday": "4/6",
+    "voice": "Ai Kayano",
+    "background_id": "1010",
+    "costume_id": "1034100"
   },
   {
     "base_id": "104",
     "name": "Chris",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_104.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_104.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "A tough young thief and friend to Darkness, Chris joins whatever party happens to need her talents. Though she taught Kazuma such signature thief skills as Steal and Bind, her generosity backfired when he pilfered her panties...a phenomenon which curiously repeats itself. In spite of this, Chris is blessed with even greater luck than Kazuma. Born December 25th.",
+    "birthday": "12/25",
+    "voice": "Ayaka Suwa",
+    "background_id": "1010",
+    "costume_id": "1044100"
   },
   {
     "base_id": "105",
     "name": "Wiz",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_105.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_105.png",
+    "weapon_type": "WAND",
+    "flavor_text": "An arch wizard with a mellow demeanor, Wiz runs a quaint shop in Axel dealing in magic items. Due to her lack of common sense, the harder she works, the more money she loses. She is in fact a lich, or powerful undead, and one of the Devil King Army Commander to boot. Prior to becoming a lich, Wiz was a formidable adventurer whose skills earned her the fear-inducing title of Ice Witch. Birthdate unknown.",
+    "birthday": "11/8",
+    "voice": "Yui Horie",
+    "background_id": "1010",
+    "costume_id": "1054100"
   },
   {
     "base_id": "106",
     "name": "Yunyun",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_106.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_106.png",
+    "weapon_type": "WAND",
+    "flavor_text": "Megumin's classmate, self-proclaimed rival, and daughter to the Crimson Demon chieftain. An arch wizard herself, she commands both intermediate and advanced magic, and even dabbles in the martial arts. Though her clan is notorious for its eccentrics, Yunyun possesses the rare gift of common sense, a blessing which has also cursed her to a life without friends...the one thing she desires most. Born February 29th.",
+    "birthday": "2/29",
+    "voice": "Aki Toyosaki",
+    "background_id": "1010",
+    "costume_id": "1064100"
   },
   {
     "base_id": "107",
     "name": "Iris",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_107.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_107.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "The first princess of Belzerg, a kingdom known for its brave heroes. Her traditionally strict upbringing has bestowed Iris with knowledge and refinement. She is, however, naive to matters outside the castle, with her interest in garden-variety cuisine enjoyed by commonfolk being one such example. Still, Belzerg's heroic royal lineage has gifted Iris with abilities potent enough to fell a dragon. Born September 6th.",
+    "birthday": "9/6",
+    "voice": "Kanon Takao",
+    "background_id": "1010",
+    "costume_id": "1074100"
   },
   {
     "base_id": "108",
     "name": "Komekko",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_108.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_108.png",
+    "weapon_type": "WAND",
+    "flavor_text": "Megumin's little sister and self-proclaimed \"devilish little sister\" of the Crimson Demon Clan. Eternally hungry, she constantly tries to eat anything in sight—including Chomusuke. Scouting for food in the woods and adventuring alone have made her independent and strong. She is naturally gifted at forming relationships with demons, even contracting the elite demon Hoost at a young age. Her birthday is May 5th.",
+    "birthday": "5/5",
+    "voice": "Maria Naganawa",
+    "background_id": "1010",
+    "costume_id": "1084100"
   },
   {
     "base_id": "109",
     "name": "Cecily",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_109.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_109.png",
+    "weapon_type": "STICK",
+    "flavor_text": "This devout Axis priestess fancies herself the sect's gorgeous poster girl. Free-spirited and quick to make assumptions, Cecily heads the Axis church in Axel, spending her days concocting new ways to annoy followers of the Eris faith. She cannot help doting over attractive boys and girls, and gets a kick out of making Megumin call her \"big sister.\" Her favorite food is jelly slime. Born January 12th.",
+    "birthday": "1/12",
+    "voice": "Ai Fairouz",
+    "background_id": "1010",
+    "costume_id": "1094100"
   },
   {
     "base_id": "110",
     "name": "Arue",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_110.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_110.png",
+    "weapon_type": "WAND",
+    "flavor_text": "An arch wizard of the Crimson Demon Clan with authorial aspirations, Arue's grades were top-notch, placing her right after Megumin and Yunyun. She has clearly matured ahead of them in other ways, though. Her need to dramatize is especially strong, even among her clans, so anything penned by her shouldn't be taken at face value. She particularly enjoys tormenting Megumin and Yunyun. Born March 28th.",
+    "birthday": "3/28",
+    "voice": "Kaori Nazuka",
+    "background_id": "1010",
+    "costume_id": "1104100"
   },
   {
     "base_id": "111",
     "name": "Mitsurugi",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_111.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_111.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A Japanese youth who, like Kazuma, received a second chance at life far from home. Unlike Kazuma, this sword master deeply respects Aqua, the goddess who gifted him the cursed sword Gram. And though his greatest wish is to be a hero worthy of Aqua's praise, she can barely remember his name. He has the confidence to match his good looks, but it can hamper his ability to listen to others. Born June 6th.",
+    "birthday": "6/6",
+    "voice": "Takuya Eguchi",
+    "background_id": "1010",
+    "costume_id": "1114100"
   },
   {
     "base_id": "112",
     "name": "Dust",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_112.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_112.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "As a young warrior, Dust knows his way around a sword. However, he's mostly known for a long string of petty crimes including picking fights with novice adventurers, dining and dashing, gambling with borrowed money, and more. In spite of this, Dust is no adventuring slouch, tackling many a tough quest with his party members like Rin. He's also a regular fixture of the secret succubus shop. Born September 28th.",
+    "birthday": "9/28",
+    "voice": "Junji Majima",
+    "background_id": "1010",
+    "costume_id": "1124100"
   },
   {
     "base_id": "113",
     "name": "Rin",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_113.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_113.png",
+    "weapon_type": "WAND",
+    "flavor_text": "Rin received her education at the Academy of Magic and has the classic wizard's skillset to prove it. Whenever her ally, Dust, commits a moral infraction such as missing a payment, Rin always has an arsenal of scathing remarks at the ready. In spite of this, she finds herself unable to part ways with him, and will always help the rascal when he is truly in need. Born October 6th.",
+    "birthday": "10/6",
+    "voice": "Yumiri Hanamori",
+    "background_id": "1010",
+    "costume_id": "1134100"
   },
   {
     "base_id": "114",
     "name": "Lia",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_114.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_114.png",
+    "weapon_type": "LANCE",
+    "flavor_text": "This ebon-locked lancer is the leader of the girl band Axel Hearts. Besides being an excellent singer, Lia is a hard worker and constantly forges ahead while Cielo and Erika follow. Her job demands she keep her focus trained outward, so her personal life is in constant disarray, as evidenced by her room. She has a favorite doll named Konjiro. Born July 4th.",
+    "birthday": "7/4",
+    "voice": "Maki Kawase",
+    "background_id": "1010",
+    "costume_id": "1144100"
   },
   {
     "base_id": "115",
     "name": "Cielo",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_115.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_115.png",
+    "weapon_type": "STICK",
+    "flavor_text": "A member of the girl band Axel Hearts, this short-haired arch priestess is generally timid and indecisive, but kills it on stage with her dance and martial arts skills. Cielo was originally raised as a boy, and thus developed a strong aversion toward men. Whenever she is touched by a man, she reflexively shifts into attack mode, making her fighting prowess painfully clear. Born November 19th.",
+    "birthday": "11/19",
+    "voice": "Karin Isobe",
+    "background_id": "1010",
+    "costume_id": "1154100"
   },
   {
     "base_id": "116",
     "name": "Erika",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_116.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_116.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "Axel Hearts member, ranger, and a self-proclaimed authority on cuteness, Erika always has to stand out and get her way. A few words of flattery will bowl her over, though...a weakness which unfortunately makes her easy to deceive. Erika is an orphan and believes that making it in show business will reunite her with her parents. Born May 17th.",
+    "birthday": "5/17",
+    "voice": "Seina Kato",
+    "background_id": "1010",
+    "costume_id": "1164100"
   },
   {
     "base_id": "117",
     "name": "Melissa",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_117.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_117.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "A voluptuous ranger known for her treasure hunting skills, the proud Melissa only engages others if there's something in it for her. She'll swipe jewels, money, and more from the rich as part of her \"treasure hunter\" persona. An ardent animal lover, Melissa's personality takes a complete turn whenever cats or dogs are nearby, talking to them as if they were cooing babies. Her birthday is October 29th.",
+    "birthday": "10/29",
+    "voice": "Marika Kohno",
+    "background_id": "1010",
+    "costume_id": "1174100"
   },
   {
     "base_id": "118",
     "name": "Mia",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_118.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_118.png",
+    "weapon_type": "LANCE",
+    "flavor_text": "A beastman lancer from the north, Mia's innocence and effervescent curiosity are contrasted by a freakishly large appetite, especially when it comes to meat. She is not the biggest stickler for rules, frequently touching and sometimes even devouring things she's not supposed to. She refers to Amy as her \"big sister,\" and loves her like one too. Born April 26th.",
+    "birthday": "4/26",
+    "voice": "Azumi Waki",
+    "background_id": "1010",
+    "costume_id": "1184100"
   },
   {
     "base_id": "119",
     "name": "Amy",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_119.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_119.png",
+    "weapon_type": "STICK",
+    "flavor_text": "A beastman hailing from the northern lands, Amy's protective personality sees her going above and beyond to take care of Mia, whom she regards as her little sister. Quick to forgive and impervious to anger, this sage is the very picture of magnanimity. That said, her northern roots will cause her to express surprise with rare vehemence if caught off guard. Born February 8th.",
+    "birthday": "2/8",
+    "voice": "Naomi Ohzora",
+    "background_id": "1010",
+    "costume_id": "1194100"
   },
   {
     "base_id": "125",
@@ -129,247 +249,493 @@
     "base_id": "126",
     "name": "Claire",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_126.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_126.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A female knight who escorts Iris. She comes from a noble family of \"Symphonia,\" that comparable to the \"Dustiness\" family. She is an excellent individual, but overly stubborn and inflexible. Due to her unwavering loyalty to Iris, she sometimes doesn't care about other things. Kazuma is like a thorn in her side since he is close to Iris. Her birthday is on May 30th.",
+    "birthday": "5/30",
+    "voice": "Sayuri Yahagi",
+    "background_id": "1010",
+    "costume_id": "1264100"
   },
   {
     "base_id": "128",
     "name": "Vanir",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_128.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_128.png",
+    "weapon_type": "WAND",
+    "flavor_text": "The mind-reading devil who feeds on negative human emotions. He can see a person's entire past and future, using it to draw out their negativity with a gleeful grin. Despite being a Devil King Army Commander, Vanir has a kinder side, helping Wiz with her shop or discussing business with Kazuma. He's currently on his second life after falling victim to Megumin's explosion magic.",
+    "birthday": "1/21",
+    "voice": "Masakazu Nishida",
+    "background_id": "1010",
+    "costume_id": "1284100"
   },
   {
     "base_id": "147",
     "name": "Emilia",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_147.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_147.png",
+    "weapon_type": "STICK",
+    "flavor_text": "A beautiful half-elf girl with silver hair and deep violet eyes. One of the possible heirs to the throne of the Dragon Kingdom of Lugunica, she has a great aptitude for using spirit magic. She is especially fond of ice magic. Emilia's gentle and doting personality has earned the favor of Subaru, but her own romantic feelings have yet to fully blossom. She is accompanied by a Great Spirit in cat form named Puck whom she treats as family.",
+    "birthday": "7/1",
+    "voice": "Rie Takahashi",
+    "background_id": "1010",
+    "costume_id": "1474132"
   },
   {
     "base_id": "150",
     "name": "Rem",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_150.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_150.png",
+    "weapon_type": "LANCE",
+    "flavor_text": "A demon girl who works as a maid at the Roswaal mansion alongside her twin sister, Ram. She wields a large flail and is adept with both attack and healing magic, making her a fearsome combatant. She is also a skilled maid, taking care of various chores around the mansion with ease. While she is ordinarily mild-mannered and devoted, she trades sharp-tongued insults with her sister, and shows no mercy toward her foes. She adores Subaru absolutely.",
+    "birthday": "2/2",
+    "voice": "Inori Minase",
+    "background_id": "1010",
+    "costume_id": "1504132"
   },
   {
     "base_id": "151",
-    "name": "Meru",
+    "name": "Mel",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_151.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_151.png",
+    "weapon_type": "LANCE",
+    "flavor_text": "A prankster lightning spirit sealed within Mount Worm. Deep down, Mel is lonely and simply wants to make friends. However, her lack of common sense and mischievous nature cause disasters that stop her from forming relationships. Her appearance is the result of an adventurer from Japan hearing about a lightning spirit and imagining a \"female character with lightning powers.\"",
+    "birthday": "7/14",
+    "voice": "Aimi",
+    "background_id": "1010",
+    "costume_id": "1514100"
   },
   {
     "base_id": "158",
     "name": "Bell",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_158.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_158.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "Also known as the Little Rookie, Bell is the captain of the Hestia Familia. Having leveled up faster than anybody else, Bell's strength is fueled by his love for Ais and his fellow heroes. Although he claims to always help those in need, Hestia chastises him for seemingly only saving girls he likes.",
+    "birthday": "0",
+    "voice": "Yoshitsugu Matsuoka",
+    "background_id": "1010",
+    "costume_id": "1584147"
   },
   {
     "base_id": "160",
-    "name": "Aiz",
+    "name": "Ais",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_160.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_160.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "Dubbed the Sword Princess, Ais is renowned as one of the strongest adventurers in Orario. Although she is quiet and has difficulty expressing herself, she is honest and unmatched in sword fighting. Ais constantly worries about Bell, who pushes himself despite being a beginner. She is completely unaware that Bell is in love with her.",
+    "birthday": "0",
+    "voice": "Saori Onishi",
+    "background_id": "1010",
+    "costume_id": "1604147"
   },
   {
     "base_id": "163",
     "name": "Ainz",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_163.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_163.png",
+    "weapon_type": "WAND",
+    "flavor_text": "The lord and master of the Great Tomb of Nazarick, Ainz is known for his unrivaled command of magic. A wielder of the highest form of magic known as \"super-tier magic,\" he is also proficient in close-quarters combat due to his numerous self-buffing spells. He was formerly a player of the VRMMORPG \"YGGDRASIL.\" Though vestiges of his human self remain, his monstrous undead side often takes over. With his meticulous planning and strategic way of think, he truly is a wise leader to those around him.",
+    "birthday": "0",
+    "voice": "Satoshi Hino",
+    "background_id": "1010",
+    "costume_id": "1634161"
   },
   {
     "base_id": "164",
     "name": "Albedo",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_164.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_164.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "The guardian of the Great Tomb of Nazarick and possessor of ethereal beauty. Refers to herself as the legal wife of Ainz and serves as his top aide, a position she has proved herself abundantly qualified for with her political, bureaucratic, and defensive know-how. Her everlasting love of Ainz can lead to her forgetting her place at times, however.",
+    "birthday": "0",
+    "voice": "Yumi Hara",
+    "background_id": "1010",
+    "costume_id": "1644161"
   },
   {
     "base_id": "165",
     "name": "Shalltear",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_165.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_165.png",
+    "weapon_type": "LANCE",
+    "flavor_text": "A petite girl with a penchant for flowery and ornate language. Her real identity is that of a blood-starved true vampire. Cruel and merciless, she is undoubtedly Nazarick's strongest fighter and is often known for losing control due to her \"Blood Frenzy.\" Her fierce loyalty to Nazarick's lord, Ainz, often brings her into direct conflict with Albedo over who gets to be his legal wife.",
+    "birthday": "0",
+    "voice": "Sumire Uesaka",
+    "background_id": "1010",
+    "costume_id": "1654161"
   },
   {
     "base_id": "169",
     "name": "Lolisa",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_169.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_169.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "An honest, hardworking succubus who is polite to customers but is harsh towards Dust. She works at a fortune-telling café disguised as a human and acts as a new adventurer. She keeps distance from Aqua in order to hide her identity. She respects the great demon Vanir even preserving his empty shell as family treasure.",
+    "birthday": "6/23",
+    "voice": "Nanami Yamashita",
+    "background_id": "1010",
+    "costume_id": "1694100"
   },
   {
     "base_id": "181",
     "name": "Funifura & Dodonko",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_181.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_181.png",
+    "weapon_type": "WAND",
+    "flavor_text": "Crimson Demon Girls who are Megumin’s classmates. Funifura loves and cherishes her younger brother who is so much younger than her. Dodonko is a weird girl who forgets to introduce herself. The two of them travel together, and they used to make fun of Megumin or Yunyun. But they were often counterattacked by Megumin. Funifura’s birthday is October 9th, and Dodonko’s birthday is on October 12th.",
+    "birthday": "0",
+    "voice": "Miyu Tomita (Funifura)",
+    "background_id": "1010",
+    "costume_id": "1814100"
   },
   {
     "base_id": "183",
-    "name": "Misaka",
+    "name": "Mikoto Misaka",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_183.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_183.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A student attending Tokiwadai Middle School, one of the most prestigious schools in Academy City. As an \"esper\", she has the ability to manipulate electricity. Her nickname \"Railgun\" is also the name of her signature move, which is firing coins at speeds exceeding the speed of sound. She has a bold and lively personality, and also has a love for cute things.",
+    "birthday": "0",
+    "voice": "Rina Sato",
+    "background_id": "1010",
+    "costume_id": "1834189"
   },
   {
     "base_id": "184",
-    "name": "Kuroko",
+    "name": "Kuroko Shirai",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_184.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_184.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "A first year student at Tokiwadai Middle School, who possesses the ability \"Teleportation\", with which she can teleport herself or anything she touches. She is roomates with her senior, Mikoto, to whom she calls Sisi and shows too much affection. She has a strong sense of justice and responsibility, which explains why she is a member of the \"Judgement\", an organization working to maintain peace and order in Academy City.",
+    "birthday": "0",
+    "voice": "Satomi Arai",
+    "background_id": "1010",
+    "costume_id": "1844189"
   },
   {
     "base_id": "185",
     "name": "Accelerator",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_185.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_185.png",
+    "weapon_type": "LANCE",
+    "flavor_text": "The strongest esper in Academy City. He possesses the ability to observe and manipulate vectors. Although he shows cold and indifferent attitude towards others, he somehow teams up with Last Order. A part of his brain is damaged which is the reason for his reliance on a certain machine and his crutch.",
+    "birthday": "0",
+    "voice": "Nobuhiko Okamoto",
+    "background_id": "1010",
+    "costume_id": "1854189"
   },
   {
     "base_id": "186",
-    "name": "Misaka clone",
+    "name": "Misaka Sister",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_186.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_186.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A militray clone created from Mikoto's DNA map with an identical appearance to Mikoto Misaka. She has high combat abilities and also has electric power abilities but much weaker than that of Mikoto's. She shares her thoughts with other clones through an electric signal called Misaka Network. Her blank face makes it hard to read her emotions, but she shows fondness towards animals and cute things.",
+    "birthday": "0",
+    "voice": "Nozomi Sasaki",
+    "background_id": "1010",
+    "costume_id": "1864189"
   },
   {
     "base_id": "192",
-    "name": "Naofumi",
+    "name": "Naofumi Iwatani",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_192.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_192.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "The \"Shield Hero\" was summoned to another world when he was reading a book. He has almost no attack ability as he is unable to carry any weapon other than a shield, but he has incredible defense. Due to his experience right after being summoned, he became untrusting, but he has gradually learned to trust Raphtalia and Filo.",
+    "birthday": "0",
+    "voice": "Kaito Ishikawa",
+    "background_id": "1010",
+    "costume_id": "1924195"
   },
   {
     "base_id": "193",
     "name": "Raphtalia",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_193.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_193.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A female demi-human with racoon ancestry. She uses illusion magic and a bladeless magic sword in battles, and fights her enemies as if she is toying with them. She was raised by Naofumi sometimes strictly but with kindness, and now she wields her power for Naofumi who cannot carry a weapon. She feels attracted to Naofumi, but he seems indifferent.",
+    "birthday": "0",
+    "voice": "Asami Seto",
+    "background_id": "1010",
+    "costume_id": "1934195"
   },
   {
     "base_id": "194",
     "name": "Filo",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_194.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_194.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "A young female Filolial, a bird-like race. She is a special being called \"Filolial Queen,\" and has the ability to transform herself into a girl. In battle, she is good at wind magic and direct attacks using her agility. She has a bright and cheerful personality that matches her youthful appearance, and loves to pull carriages and to play.",
+    "birthday": "0",
+    "voice": "Rina Hidaka",
+    "background_id": "1010",
+    "costume_id": "1944195"
   },
   {
     "base_id": "195",
     "name": "Maple",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_195.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_195.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "A girl who serves as the guild master of the guild Maple Tree in the VRMMO NewWorld Oline. Due to little experience in gaming, her actions are out-of-the-box in gaming standards. Despite her cute appearance, she overwhelms opponents with her extraordinary defense and rare skills, giving her the nickname Walking Fortress.",
+    "birthday": "0",
+    "voice": "Kaede Hondo",
+    "background_id": "1010",
+    "costume_id": "1954203"
   },
   {
     "base_id": "196",
     "name": "Sally",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_196.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_196.png",
+    "weapon_type": "DAGGER",
+    "flavor_text": "Friend of Maple and Co-founder of the Maple Tree guild. She has high agility and evasion skills, which in addition to her exceptional concentraion and reflexes, allowed her to never have taken any damage since the start of the game. Although she is often taken back by Maple's random behavior, she still trusts her deeply.",
+    "birthday": "0",
+    "voice": "Ruriko Noguchi",
+    "background_id": "1010",
+    "costume_id": "1964203"
   },
   {
     "base_id": "197",
     "name": "Kasumi",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_197.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_197.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A swordsfighter who is a member of Maple and Sally's Maple Tree guild. She is a skilled player who has reached high ranks in game events. She has high attack power, agility and has the ability to calmly analyze battles in an objective matter. Originally a rather serious and sensible person, she was intially shocked by Maple's unpredictable behavior, but now is completely used to it.",
+    "birthday": "0",
+    "voice": "Saori Hayami",
+    "background_id": "1010",
+    "costume_id": "1974203"
   },
   {
     "base_id": "198",
     "name": "Rudeus",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_198.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_198.png",
+    "weapon_type": "WAND",
+    "flavor_text": "The leader of the party of adventurers called “Dead End.” He was reincarnated into a boy who is capable of using the voiceless incantation from a jobless loner in the past life. His reputation is good for being a hardworking person who makes the best of his new life after his previous life. However, because he is the same person from the past life, his not-so-boyish nature is often revealed.",
+    "birthday": "0",
+    "voice": "Yumi Uchiyama",
+    "background_id": "1010",
+    "costume_id": "1984210"
   },
   {
     "base_id": "199",
     "name": "Roxy",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_199.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_199.png",
+    "weapon_type": "WAND",
+    "flavor_text": "A King Rank Water Mage from a race of demons called Migurd. On the contrary to her appearance, she is a full-grown woman, and she taught the young Rudeus magic as his tutor. At one time, she made many mistakes because of the burden to act more mature, but through interacting with Rudeus, she became calm like someone her age should be like. Additionally she is critically weak against green peppers and Superds.",
+    "birthday": "0",
+    "voice": "Konomi Kohara",
+    "background_id": "1010",
+    "costume_id": "1994210"
   },
   {
     "base_id": "200",
     "name": "Eris",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_200.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_200.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "The mad dog of the party of adventurers called “Dead End.” A young woman of unimaginable ferocity, she is feared by those around her as an uncontrollable madwoman. She was trained in the art of swordsmanship by the Sword King Ghislaine, and her talent is so unparalleled that even the greatest of warriors are speechless. She trusts Rudeus and listens only to him.",
+    "birthday": "0",
+    "voice": "Ai Kakuma",
+    "background_id": "1010",
+    "costume_id": "2004210"
   },
   {
     "base_id": "205",
     "name": "Subaru",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_205.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_205.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A boy with a charmingly sharp eyes, who was suddenly transported to another world from Japan. Although he is ignorant, incompetent, powerless, and reckless, he goes against a grim fate while sobbing in front of despair with his fearless personality and shamelessness. His first priority is to protect his crush, Emilia.",
+    "birthday": "0",
+    "voice": "Yūsuke Kobayashi",
+    "background_id": "1010",
+    "costume_id": "2054220"
   },
   {
     "base_id": "206",
     "name": "Ram",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_206.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_206.png",
+    "weapon_type": "WAND",
+    "flavor_text": "A oni-race girl who serves in the Roswaal manor with her twin sister, Rem. Although as a maid, her sister is better than her in everything such as cooking, doing the laundry, sewing, cleaning and more, she cares for Rem more than anyone else. Once a prodigy of the goblin race, she possessed unparalleled strength, but now she has lost her horns and her power along with it. She is arrogant and has a foul mouth, but she has a kind and gentle heart.",
+    "birthday": "0",
+    "voice": "Rie Murakawa",
+    "background_id": "1010",
+    "costume_id": "2064220"
   },
   {
     "base_id": "207",
     "name": "Beatrice",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_207.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_207.png",
+    "weapon_type": "WAND",
+    "flavor_text": "Caretaker of the Forbidden Library at the Roswaal Manor. A spirit in the form of a girl with lovely face and colorful dresses that make her look like a fairy. She specializes in the Yin Magic such as the \"Door Crossing\" and more. Despite her sassy and overbearing demeanor, she is actually a bluffer and easily feels loneliness. She calls Puck \"Puckie\" and is very loyal to him.",
+    "birthday": "0",
+    "voice": "Satomi Arai",
+    "background_id": "1010",
+    "costume_id": "2074220"
   },
   {
     "base_id": "208",
     "name": "Echidna",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_208.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_208.png",
+    "weapon_type": "WAND",
+    "flavor_text": "A white-haired beautiful girl wearing black clothes who calls herself the “Witch of Greed.” She's the embodiment of the knowledge, wanting to know everything about the world. She's curious and very knowledgeable. Because of this desire for knowledge, she is strongly interested in the unknown. This is why she doesn't hide her curiosity from Subaru.",
+    "birthday": "0",
+    "voice": "Maaya Sakamoto",
+    "background_id": "1010",
+    "costume_id": "2084220"
   },
   {
     "base_id": "209",
     "name": "Zesta",
     "is_collab": false,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_209.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_209.png",
+    "weapon_type": "STICK",
+    "flavor_text": "The Order of Axis's guiding light who built the church in Arcanretia. He is also an Archpriest powerful enough to defeat a high-ranked demon. But he is so lustful that he will flirt with any age or race if it suits his taste. However, he won’t try to develop any relationships with demons because it goes against the teaching he follows.",
+    "birthday": "4/1",
+    "voice": "Yasunori Masutani",
+    "background_id": "1010",
+    "costume_id": "2094100"
   },
   {
     "base_id": "211",
     "name": "Kyon",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_211.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_211.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A member in charge of chores who is Haruhi’s biggest victim with a habit of saying “Oh, dear”. Although he’s just a ordinary human instead of an alien, time-traveler, or super powered, he became involved in extraordinary cases while hanging around with Haruhi.",
+    "birthday": "0",
+    "voice": "Tomokazu Sugita",
+    "background_id": "1010",
+    "costume_id": "2114225"
   },
   {
     "base_id": "212",
     "name": "Haruhi Suzumiya",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_212.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_212.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "The leader of the SOS Brigade (Spreading excitement all Over the world with Haruhi Suzumiya Brigade) that strives for “fun things”. She is beautiful and cultured, but her unruly personality manipulates those around her. She admires the extraordinary, such as aliens, time-traveler, and the esper. However, she has a huge secret that she doesn't even know about.",
+    "birthday": "0",
+    "voice": "Aya Hirano",
+    "background_id": "1010",
+    "costume_id": "2124225"
   },
   {
     "base_id": "213",
     "name": "Yuki Nagato",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_213.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_213.png",
+    "weapon_type": "WAND",
+    "flavor_text": "Originally, she was part of the Literature Club, but accidentally joined when Haruhi started occupying the club room. With a quiet personality, she just reads books with a straight face. She is a humanoid interface created by the Data Overmind, or in other words, an alien.",
+    "birthday": "0",
+    "voice": "Minori Chihara",
+    "background_id": "1010",
+    "costume_id": "2134225"
   },
   {
     "base_id": "214",
     "name": "Mikuru Asahina",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_214.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_214.png",
+    "weapon_type": "STICK",
+    "flavor_text": "The only senior student of the SOS Brigade who Haruhi forced to come because she thought highly of the young-looking character. With her innocent personality, she is the shelter of the SOS Brigade. She is from the future. She was sent to monitor any time anomalies that might occur near Haruhi.",
+    "birthday": "0",
+    "voice": "Yuko Goto",
+    "background_id": "1010",
+    "costume_id": "2144225"
   },
   {
     "base_id": "217",
     "name": "Rimuru",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_217.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_217.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "In his previous life, Satoru Mikami was an extremely ordinary office worker, but an accident caused him to be reincarnated as a slime in another world. Utilizing his many abilities, he became allies with many of the forest's monsters, eventually rising to become the ruler of the Jura Tempest Federation, and one of the  Demon Lords.",
+    "birthday": "0",
+    "voice": "Miho Okasaki",
+    "background_id": "1010",
+    "costume_id": "2174236"
   },
   {
     "base_id": "218",
     "name": "Shuna",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_218.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_218.png",
+    "weapon_type": "STICK",
+    "flavor_text": "A princess of the former Ogre clan with pink hair and porcelain-like horns. She has now evolved into an Oni. Her job is a shrine maiden. In addition to her beauty, she is talented in cooking and sewing. She reveres Rimuru as her master and serves him.",
+    "birthday": "0",
+    "voice": "Sayaka Senbongi",
+    "background_id": "1010",
+    "costume_id": "2184236"
   },
   {
     "base_id": "219",
     "name": "Shion",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_219.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_219.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A former Ogre with purple hair and obsidian-like horns. Currently evolved into a \r\nWicked Oni. She is a samurai as well as Rimuru's secretary and bodyguard. Despite her cool and beautiful appearance, she has a short fuse. Although her combat skills are unrivaled, she is always causing Rimuru headaches when she is working as his secretary.",
+    "birthday": "0",
+    "voice": "M・A・O",
+    "background_id": "1010",
+    "costume_id": "2194236"
   },
   {
     "base_id": "220",
-    "name": "Milim Nava",
+    "name": "Milim",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_220.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_220.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "As a one-of-a-kind dragonoid known as the \"Destroyer\", she is one of the oldest Demon Lords. Her unreasonably strong combat power overwhelms all others. She is best friends with Rimuru and often visits the Tempest.",
+    "birthday": "0",
+    "voice": "Rina Hidaka",
+    "background_id": "1010",
+    "costume_id": "2204236"
   },
   {
     "base_id": "223",
-    "name": "Cid Kagenou",
+    "name": "Shadow",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_223.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_223.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "The master of the dark organization \"Shadow Garden\". On the surface, he is the second child of a rural nobleman named Baron Kagenou, and is ostensibly enjoying his extra character life. While he intended to enjoy imagination of the battling the mysterious cult, there are many things going on behind the scenes, and he has been acting as an eminence in shadow without knowing that.",
+    "birthday": "0",
+    "voice": "Seiichiro Yamashita",
+    "background_id": "1010",
+    "costume_id": "2234241"
   },
   {
     "base_id": "224",
     "name": "Alpha",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_224.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_224.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "The first member of the Shadow Garden, the top of the Seven Shades. The de facto ruler of the Garden. A perfect elven woman who excels in both combat and intellect. Having been rescued by the Shadows, she has sworn loyalty and will never betray her master's orders. It is to her credit that the Shadow Garden has become the massive organization it is.",
+    "birthday": "0",
+    "voice": "Asami Seto",
+    "background_id": "1010",
+    "costume_id": "2244241"
   },
   {
     "base_id": "225",
     "name": "Beta",
     "is_collab": true,
-    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_225.png"
+    "image_sprite": "Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_225.png",
+    "weapon_type": "SWORD",
+    "flavor_text": "A member of the Shadow Garden, second member of the Seven Shades.Among the Seven Shades, She is most deeply into Shadow. She has little interest in combat itself, and is faithful to what she has been taught. She writes novels under the pseudonym \"Natsume Kafka\", and has become a popular author, writing in a variety of genres based on the predictions she receives from Shadow.",
+    "birthday": "0",
+    "voice": "Inori Minase",
+    "background_id": "1010",
+    "costume_id": "2254241"
   },
   {
     "base_id": "228",
