@@ -47,37 +47,6 @@
     "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210111001.png"
   },
   {
-    "movie": "MovieStory120506,movie_story_200506_myfavorite",
-    "story_id": "120506",
-    "group_id": "2102050",
-    "list_icon": "210205001",
-    "title": "\"My Favorite!\"",
-    "artist_name": "Song: Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
-    "scale_type": "0",
-    "display_start": "0",
-    "title_alt": "Axel Hearts「MyFavorite!」",
-    "youtube": [
-      "6DHh9Jjb3qY"
-    ],
-    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210205001.png"
-  },
-  {
-    "movie": "MovieStory121106,movie_story_201106_smilesurprise",
-    "story_id": "121106",
-    "group_id": "2102110",
-    "list_icon": "210211001",
-    "title": "\"Smile Surprise\"",
-    "artist_name": "Song: Mel (Voice: Aimi), Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
-    "scale_type": "0",
-    "display_start": "2022/11/22 0:00",
-    "title_alt": "Axel Hearts ft. Mel「Smile Surprise」",
-    "youtube": [
-      "RTviIb7yLqE",
-      "M8d3aKxRJPM"
-    ],
-    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210211001.png"
-  },
-  {
     "movie": "MovieStory131106,movie_story_301106_ed",
     "story_id": "131106",
     "group_id": "2103110",
@@ -108,21 +77,19 @@
     "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210111001.png"
   },
   {
-    "movie": "MovieStory150401,movie_story_150401_fantasticcurtaincall",
-    "story_id": "150401",
-    "group_id": "2105040",
-    "list_icon": "210504001",
-    "title": "\"Fantastic Curtain Call\"",
-    "artist_name": "Song: Axel Hearts [Lia(CV: Maki Kawase), Cielo(CV: Karin Isobe), Erika(CV: Seina Kato)]",
-    "scale_type": "1",
-    "display_start": "2025/1/21 0:00",
-    "title_alt": "Fantastic Curtain Call",
+    "movie": "MovieStory120506,movie_story_200506_myfavorite",
+    "story_id": "120506",
+    "group_id": "2102050",
+    "list_icon": "210205001",
+    "title": "\"My Favorite!\"",
+    "artist_name": "Song: Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "0",
+    "title_alt": "Axel Hearts「MyFavorite!」",
     "youtube": [
-      "zt72ctI73NI",
-      "fupF3bfuUJc",
-      "F-7b4-Q0gAg"
+      "6DHh9Jjb3qY"
     ],
-    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210504001.png"
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210205001.png"
   },
   {
     "movie": "MovieStory42103105,movie_story_42103105_ikezunakajitsu",
@@ -141,6 +108,22 @@
       "X73_eZwPRxA"
     ],
     "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/242103101.png"
+  },
+  {
+    "movie": "MovieStory121106,movie_story_201106_smilesurprise",
+    "story_id": "121106",
+    "group_id": "2102110",
+    "list_icon": "210211001",
+    "title": "\"Smile Surprise\"",
+    "artist_name": "Song: Mel (Voice: Aimi), Axel Hearts [Lia (Voice: Maki Kawase), Cielo (Voice: Karin Isobe), Erika (Voice: Seina Kato)]",
+    "scale_type": "0",
+    "display_start": "2022/11/22 0:00",
+    "title_alt": "Axel Hearts ft. Mel「Smile Surprise」",
+    "youtube": [
+      "RTviIb7yLqE",
+      "M8d3aKxRJPM"
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210211001.png"
   },
   {
     "movie": "MovieStory42209106,movie_story_220901_bestparty",
@@ -175,5 +158,22 @@
       "SSzA-TuoKrg"
     ],
     "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/242209201.png"
+  },
+  {
+    "movie": "MovieStory150401,movie_story_150401_fantasticcurtaincall",
+    "story_id": "150401",
+    "group_id": "2105040",
+    "list_icon": "210504001",
+    "title": "\"Fantastic Curtain Call\"",
+    "artist_name": "Song: Axel Hearts [Lia(CV: Maki Kawase), Cielo(CV: Karin Isobe), Erika(CV: Seina Kato)]",
+    "scale_type": "1",
+    "display_start": "2025/1/21 0:00",
+    "title_alt": "Axel Hearts「Fantastic Curtain Call」",
+    "youtube": [
+      "zt72ctI73NI",
+      "fupF3bfuUJc",
+      "F-7b4-Q0gAg"
+    ],
+    "icon": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMovie/Source/210504001.png"
   }
 ]
