@@ -1,0 +1,730 @@
+[
+  {
+    "id": "111011",
+    "benefit_type": "11101",
+    "level": "1",
+    "value": "80",
+    "description": "Recovers 80% of HP for all allies."
+  },
+  {
+    "id": "111021",
+    "benefit_type": "11102",
+    "level": "1",
+    "value": "60",
+    "description": "Increases Super Gauge by 60 for all allies."
+  },
+  {
+    "id": "111031",
+    "benefit_type": "11103",
+    "level": "1",
+    "value": "50111031",
+    "description": "Increases Super Gauge fill rate by 10% for all allies."
+  },
+  {
+    "id": "111032",
+    "benefit_type": "11103",
+    "level": "2",
+    "value": "50111032",
+    "description": "Increases Super Gauge fill rate by 20% for all allies."
+  },
+  {
+    "id": "111033",
+    "benefit_type": "11103",
+    "level": "3",
+    "value": "50111033",
+    "description": "Increases Super Gauge fill rate by 30% for all allies."
+  },
+  {
+    "id": "111034",
+    "benefit_type": "11103",
+    "level": "4",
+    "value": "50111034",
+    "description": "Increases Super Gauge fill rate by 40% for all allies."
+  },
+  {
+    "id": "111041",
+    "benefit_type": "11104",
+    "level": "1",
+    "value": "50111041",
+    "description": "Increases Super Gauge fill rate by 30% for all allies."
+  },
+  {
+    "id": "112011",
+    "benefit_type": "11201",
+    "level": "1",
+    "value": "50112011",
+    "description": "Boosts damage dealt by 10% for all allies."
+  },
+  {
+    "id": "112012",
+    "benefit_type": "11201",
+    "level": "2",
+    "value": "50112012",
+    "description": "Boosts damage dealt by 20% for all allies."
+  },
+  {
+    "id": "112013",
+    "benefit_type": "11201",
+    "level": "3",
+    "value": "50112013",
+    "description": "Boosts damage dealt by 30% for all allies."
+  },
+  {
+    "id": "112014",
+    "benefit_type": "11201",
+    "level": "4",
+    "value": "50112014",
+    "description": "Boosts damage dealt by 40% for all allies."
+  },
+  {
+    "id": "112021",
+    "benefit_type": "11202",
+    "level": "1",
+    "value": "50112021",
+    "description": "Boosts damage dealt by 30% for all allies."
+  },
+  {
+    "id": "113011",
+    "benefit_type": "11301",
+    "level": "1",
+    "value": "50113011",
+    "description": "Reduces damage received by 10% for all allies."
+  },
+  {
+    "id": "113012",
+    "benefit_type": "11301",
+    "level": "2",
+    "value": "50113012",
+    "description": "Reduces damage received by 20% for all allies."
+  },
+  {
+    "id": "113013",
+    "benefit_type": "11301",
+    "level": "3",
+    "value": "50113013",
+    "description": "Reduces damage received by 30% for all allies."
+  },
+  {
+    "id": "113014",
+    "benefit_type": "11301",
+    "level": "4",
+    "value": "50113014",
+    "description": "Reduces damage received by 40% for all allies."
+  },
+  {
+    "id": "113021",
+    "benefit_type": "11302",
+    "level": "1",
+    "value": "50113021",
+    "description": "Reduces damage received by 30% for all allies."
+  },
+  {
+    "id": "121011",
+    "benefit_type": "12101",
+    "level": "1",
+    "value": "80",
+    "description": "Recovers 80% of HP for all allies."
+  },
+  {
+    "id": "121021",
+    "benefit_type": "12102",
+    "level": "1",
+    "value": "60",
+    "description": "Increases Super Gauge by 60 for all allies."
+  },
+  {
+    "id": "121031",
+    "benefit_type": "12103",
+    "level": "1",
+    "value": "50121031",
+    "description": "Increases Super Gauge fill rate by 10% for all allies."
+  },
+  {
+    "id": "121032",
+    "benefit_type": "12103",
+    "level": "2",
+    "value": "50121032",
+    "description": "Increases Super Gauge fill rate by 20% for all allies."
+  },
+  {
+    "id": "121033",
+    "benefit_type": "12103",
+    "level": "3",
+    "value": "50121033",
+    "description": "Increases Super Gauge fill rate by 30% for all allies."
+  },
+  {
+    "id": "121034",
+    "benefit_type": "12103",
+    "level": "4",
+    "value": "50121034",
+    "description": "Increases Super Gauge fill rate by 40% for all allies."
+  },
+  {
+    "id": "121041",
+    "benefit_type": "12104",
+    "level": "1",
+    "value": "50121041",
+    "description": "Increases Super Gauge fill rate by 30% for all allies."
+  },
+  {
+    "id": "121051",
+    "benefit_type": "12105",
+    "level": "1",
+    "value": "25",
+    "description": "Boosts max HP by 25% for all allies."
+  },
+  {
+    "id": "121052",
+    "benefit_type": "12105",
+    "level": "2",
+    "value": "50",
+    "description": "Boosts max HP by 50% for all allies."
+  },
+  {
+    "id": "121053",
+    "benefit_type": "12105",
+    "level": "3",
+    "value": "75",
+    "description": "Boosts max HP by 75% for all allies."
+  },
+  {
+    "id": "121054",
+    "benefit_type": "12105",
+    "level": "4",
+    "value": "100",
+    "description": "Boosts max HP by 100% for all allies."
+  },
+  {
+    "id": "122011",
+    "benefit_type": "12201",
+    "level": "1",
+    "value": "50122011",
+    "description": "Boosts damage dealt by 10% for all allies."
+  },
+  {
+    "id": "122012",
+    "benefit_type": "12201",
+    "level": "2",
+    "value": "50122012",
+    "description": "Boosts damage dealt by 20% for all allies."
+  },
+  {
+    "id": "122013",
+    "benefit_type": "12201",
+    "level": "3",
+    "value": "50122013",
+    "description": "Boosts damage dealt by 30% for all allies."
+  },
+  {
+    "id": "122014",
+    "benefit_type": "12201",
+    "level": "4",
+    "value": "50122014",
+    "description": "Boosts damage dealt by 40% for all allies."
+  },
+  {
+    "id": "122021",
+    "benefit_type": "12202",
+    "level": "1",
+    "value": "50122021",
+    "description": "Boosts damage dealt by 30% for all allies."
+  },
+  {
+    "id": "122031",
+    "benefit_type": "12203",
+    "level": "1",
+    "value": "50122031",
+    "description": "Boosts physical damage dealt by 20% for all allies."
+  },
+  {
+    "id": "122032",
+    "benefit_type": "12203",
+    "level": "2",
+    "value": "50122032",
+    "description": "Boosts physical damage dealt by 40% for all allies."
+  },
+  {
+    "id": "122033",
+    "benefit_type": "12203",
+    "level": "3",
+    "value": "50122033",
+    "description": "Boosts physical damage dealt by 60% for all allies."
+  },
+  {
+    "id": "122034",
+    "benefit_type": "12203",
+    "level": "4",
+    "value": "50122034",
+    "description": "Boosts physical damage dealt by 80% for all allies."
+  },
+  {
+    "id": "122041",
+    "benefit_type": "12204",
+    "level": "1",
+    "value": "50122041",
+    "description": "Boosts physical damage dealt by 50% for all allies."
+  },
+  {
+    "id": "122051",
+    "benefit_type": "12205",
+    "level": "1",
+    "value": "50122051",
+    "description": "Boosts magic damage dealt by 20% for all allies."
+  },
+  {
+    "id": "122052",
+    "benefit_type": "12205",
+    "level": "2",
+    "value": "50122052",
+    "description": "Boosts magic damage dealt by 40% for all allies."
+  },
+  {
+    "id": "122053",
+    "benefit_type": "12205",
+    "level": "3",
+    "value": "50122053",
+    "description": "Boosts magic damage dealt by 60% for all allies."
+  },
+  {
+    "id": "122054",
+    "benefit_type": "12205",
+    "level": "4",
+    "value": "50122054",
+    "description": "Boosts magic damage dealt by 80% for all allies."
+  },
+  {
+    "id": "122061",
+    "benefit_type": "12206",
+    "level": "1",
+    "value": "50122061",
+    "description": "Boosts magic damage dealt by 50% for all allies."
+  },
+  {
+    "id": "122071",
+    "benefit_type": "12207",
+    "level": "1",
+    "value": "25",
+    "description": "Reduces HP by 25% for all enemies at the start of battle."
+  },
+  {
+    "id": "123011",
+    "benefit_type": "12301",
+    "level": "1",
+    "value": "7",
+    "description": "Boosts agility by 7 for all allies."
+  },
+  {
+    "id": "123012",
+    "benefit_type": "12301",
+    "level": "2",
+    "value": "14",
+    "description": "Boosts agility by 14 for all allies."
+  },
+  {
+    "id": "123013",
+    "benefit_type": "12301",
+    "level": "3",
+    "value": "21",
+    "description": "Boosts agility by 21 for all allies."
+  },
+  {
+    "id": "123014",
+    "benefit_type": "12301",
+    "level": "4",
+    "value": "28",
+    "description": "Boosts agility by 28 for all allies."
+  },
+  {
+    "id": "123021",
+    "benefit_type": "12302",
+    "level": "1",
+    "value": "20",
+    "description": "Boosts agility by 20 for all allies."
+  },
+  {
+    "id": "123031",
+    "benefit_type": "12303",
+    "level": "1",
+    "value": "50123031",
+    "description": "Reduces damage received by 10% for all allies."
+  },
+  {
+    "id": "123032",
+    "benefit_type": "12303",
+    "level": "2",
+    "value": "50123032",
+    "description": "Reduces damage received by 20% for all allies."
+  },
+  {
+    "id": "123033",
+    "benefit_type": "12303",
+    "level": "3",
+    "value": "50123033",
+    "description": "Reduces damage received by 30% for all allies."
+  },
+  {
+    "id": "123034",
+    "benefit_type": "12303",
+    "level": "4",
+    "value": "50123034",
+    "description": "Reduces damage received by 40% for all allies."
+  },
+  {
+    "id": "123041",
+    "benefit_type": "12304",
+    "level": "1",
+    "value": "50123041",
+    "description": "Reduces damage received by 30% for all allies."
+  },
+  {
+    "id": "131011",
+    "benefit_type": "13101",
+    "level": "1",
+    "value": "80",
+    "description": "Recovers 80% of HP for all allies."
+  },
+  {
+    "id": "131021",
+    "benefit_type": "13102",
+    "level": "1",
+    "value": "0",
+    "description": "Randomly revives one fainted ally to 100% HP."
+  },
+  {
+    "id": "131031",
+    "benefit_type": "13103",
+    "level": "1",
+    "value": "60",
+    "description": "Increases Super Gauge by 60 for all allies."
+  },
+  {
+    "id": "131041",
+    "benefit_type": "13104",
+    "level": "1",
+    "value": "50131041",
+    "description": "Increases Super Gauge fill rate by 10% for all allies."
+  },
+  {
+    "id": "131042",
+    "benefit_type": "13104",
+    "level": "2",
+    "value": "50131042",
+    "description": "Increases Super Gauge fill rate by 20% for all allies."
+  },
+  {
+    "id": "131043",
+    "benefit_type": "13104",
+    "level": "3",
+    "value": "50131043",
+    "description": "Increases Super Gauge fill rate by 30% for all allies."
+  },
+  {
+    "id": "131044",
+    "benefit_type": "13104",
+    "level": "4",
+    "value": "50131044",
+    "description": "Increases Super Gauge fill rate by 40% for all allies."
+  },
+  {
+    "id": "131051",
+    "benefit_type": "13105",
+    "level": "1",
+    "value": "50131051",
+    "description": "Increases Super Gauge fill rate by 30% for all allies."
+  },
+  {
+    "id": "131061",
+    "benefit_type": "13106",
+    "level": "1",
+    "value": "25",
+    "description": "Boosts max HP by 25% for all allies."
+  },
+  {
+    "id": "131062",
+    "benefit_type": "13106",
+    "level": "2",
+    "value": "50",
+    "description": "Boosts max HP by 50% for all allies."
+  },
+  {
+    "id": "131063",
+    "benefit_type": "13106",
+    "level": "3",
+    "value": "75",
+    "description": "Boosts max HP by 75% for all allies."
+  },
+  {
+    "id": "131064",
+    "benefit_type": "13106",
+    "level": "4",
+    "value": "100",
+    "description": "Boosts max HP by 100% for all allies."
+  },
+  {
+    "id": "132011",
+    "benefit_type": "13201",
+    "level": "1",
+    "value": "50132011",
+    "description": "Boosts damage dealt by 10% for all allies."
+  },
+  {
+    "id": "132012",
+    "benefit_type": "13201",
+    "level": "2",
+    "value": "50132012",
+    "description": "Boosts damage dealt by 20% for all allies."
+  },
+  {
+    "id": "132013",
+    "benefit_type": "13201",
+    "level": "3",
+    "value": "50132013",
+    "description": "Boosts damage dealt by 30% for all allies."
+  },
+  {
+    "id": "132014",
+    "benefit_type": "13201",
+    "level": "4",
+    "value": "50132014",
+    "description": "Boosts damage dealt by 40% for all allies."
+  },
+  {
+    "id": "132021",
+    "benefit_type": "13202",
+    "level": "1",
+    "value": "50132021",
+    "description": "Boosts damage dealt by 30% for all allies."
+  },
+  {
+    "id": "132031",
+    "benefit_type": "13203",
+    "level": "1",
+    "value": "50132031",
+    "description": "Boosts physical damage dealt by 20% for all allies."
+  },
+  {
+    "id": "132032",
+    "benefit_type": "13203",
+    "level": "2",
+    "value": "50132032",
+    "description": "Boosts physical damage dealt by 40% for all allies."
+  },
+  {
+    "id": "132033",
+    "benefit_type": "13203",
+    "level": "3",
+    "value": "50132033",
+    "description": "Boosts physical damage dealt by 60% for all allies."
+  },
+  {
+    "id": "132034",
+    "benefit_type": "13203",
+    "level": "4",
+    "value": "50132034",
+    "description": "Boosts physical damage dealt by 80% for all allies."
+  },
+  {
+    "id": "132041",
+    "benefit_type": "13204",
+    "level": "1",
+    "value": "50132041",
+    "description": "Boosts physical damage dealt by 50% for all allies."
+  },
+  {
+    "id": "132051",
+    "benefit_type": "13205",
+    "level": "1",
+    "value": "50132051",
+    "description": "Boosts magic damage dealt by 20% for all allies."
+  },
+  {
+    "id": "132052",
+    "benefit_type": "13205",
+    "level": "2",
+    "value": "50132052",
+    "description": "Boosts magic damage dealt by 40% for all allies."
+  },
+  {
+    "id": "132053",
+    "benefit_type": "13205",
+    "level": "3",
+    "value": "50132053",
+    "description": "Boosts magic damage dealt by 60% for all allies."
+  },
+  {
+    "id": "132054",
+    "benefit_type": "13205",
+    "level": "4",
+    "value": "50132054",
+    "description": "Boosts magic damage dealt by 80% for all allies."
+  },
+  {
+    "id": "132061",
+    "benefit_type": "13206",
+    "level": "1",
+    "value": "50132061",
+    "description": "Boosts magic damage dealt by 50% for all allies."
+  },
+  {
+    "id": "132071",
+    "benefit_type": "13207",
+    "level": "1",
+    "value": "50132071",
+    "description": "Boosts damage dealt by 20% for all allies when their HP is 50% or less."
+  },
+  {
+    "id": "132072",
+    "benefit_type": "13207",
+    "level": "2",
+    "value": "50132072",
+    "description": "Boosts damage dealt by 40% for all allies when their HP is 50% or less."
+  },
+  {
+    "id": "132073",
+    "benefit_type": "13207",
+    "level": "3",
+    "value": "50132073",
+    "description": "Boosts damage dealt by 60% for all allies when their HP is 50% or less."
+  },
+  {
+    "id": "132074",
+    "benefit_type": "13207",
+    "level": "4",
+    "value": "50132074",
+    "description": "Boosts damage dealt by 80% for all allies when their HP is 50% or less."
+  },
+  {
+    "id": "132081",
+    "benefit_type": "13208",
+    "level": "1",
+    "value": "50132081",
+    "description": "Boosts damage dealt by 50% for all allies when their HP is 50% or less."
+  },
+  {
+    "id": "132091",
+    "benefit_type": "13209",
+    "level": "1",
+    "value": "50132091",
+    "description": "Boosts damage dealt by 20% for all allies when their HP is 70% or more."
+  },
+  {
+    "id": "132092",
+    "benefit_type": "13209",
+    "level": "2",
+    "value": "50132092",
+    "description": "Boosts damage dealt by 40% for all allies when their HP is 70% or more."
+  },
+  {
+    "id": "132093",
+    "benefit_type": "13209",
+    "level": "3",
+    "value": "50132093",
+    "description": "Boosts damage dealt by 60% for all allies when their HP is 70% or more."
+  },
+  {
+    "id": "132094",
+    "benefit_type": "13209",
+    "level": "4",
+    "value": "50132094",
+    "description": "Boosts damage dealt by 80% for all allies when their HP is 70% or more."
+  },
+  {
+    "id": "132101",
+    "benefit_type": "13210",
+    "level": "1",
+    "value": "50132101",
+    "description": "Boosts damage dealt by 50% for all allies when their HP is 70% or more."
+  },
+  {
+    "id": "132111",
+    "benefit_type": "13211",
+    "level": "1",
+    "value": "25",
+    "description": "Reduces HP by 25% for all enemies at the start of battle."
+  },
+  {
+    "id": "133011",
+    "benefit_type": "13301",
+    "level": "1",
+    "value": "7",
+    "description": "Boosts agility by 7 for all allies."
+  },
+  {
+    "id": "133012",
+    "benefit_type": "13301",
+    "level": "2",
+    "value": "14",
+    "description": "Boosts agility by 14 for all allies."
+  },
+  {
+    "id": "133013",
+    "benefit_type": "13301",
+    "level": "3",
+    "value": "21",
+    "description": "Boosts agility by 21 for all allies."
+  },
+  {
+    "id": "133014",
+    "benefit_type": "13301",
+    "level": "4",
+    "value": "28",
+    "description": "Boosts agility by 28 for all allies."
+  },
+  {
+    "id": "133021",
+    "benefit_type": "13302",
+    "level": "1",
+    "value": "20",
+    "description": "Boosts agility by 20 for all allies."
+  },
+  {
+    "id": "133031",
+    "benefit_type": "13303",
+    "level": "1",
+    "value": "50133031",
+    "description": "Reduces damage received by 10% for all allies."
+  },
+  {
+    "id": "133032",
+    "benefit_type": "13303",
+    "level": "2",
+    "value": "50133032",
+    "description": "Reduces damage received by 20% for all allies."
+  },
+  {
+    "id": "133033",
+    "benefit_type": "13303",
+    "level": "3",
+    "value": "50133033",
+    "description": "Reduces damage received by 30% for all allies."
+  },
+  {
+    "id": "133034",
+    "benefit_type": "13303",
+    "level": "4",
+    "value": "50133034",
+    "description": "Reduces damage received by 40% for all allies."
+  },
+  {
+    "id": "133041",
+    "benefit_type": "13304",
+    "level": "1",
+    "value": "50133041",
+    "description": "Reduces damage received by 30% for all allies."
+  },
+  {
+    "id": "133051",
+    "benefit_type": "13305",
+    "level": "1",
+    "value": "50133051",
+    "description": "Increases all status resistances by 50% for all allies."
+  },
+  {
+    "id": "133052",
+    "benefit_type": "13305",
+    "level": "2",
+    "value": "50133052",
+    "description": "Increases all status resistances by 100% for all allies."
+  }
+]

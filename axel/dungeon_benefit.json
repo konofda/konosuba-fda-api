@@ -1,0 +1,416 @@
+[
+  {
+    "type": "11101",
+    "type_category": "HP_RECOVERY",
+    "sustain_type": "0",
+    "name": "HP Recovery",
+    "icon_type": "0",
+    "effect": "ef_heal_01",
+    "effect_position": "0"
+  },
+  {
+    "type": "11102",
+    "type_category": "SP_RECOVERY",
+    "sustain_type": "0",
+    "name": "Super Gauge Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "11103",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Super Gauge Fill Rate Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "11104",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Super Gauge Fill Rate Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "11201",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "11202",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "11301",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Damage Reduction",
+    "icon_type": "2",
+    "effect": "ef_damagecut_1",
+    "effect_position": "3"
+  },
+  {
+    "type": "11302",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Damage Reduction",
+    "icon_type": "2",
+    "effect": "ef_damagecut_1",
+    "effect_position": "3"
+  },
+  {
+    "type": "12101",
+    "type_category": "HP_RECOVERY",
+    "sustain_type": "0",
+    "name": "HP Recovery",
+    "icon_type": "0",
+    "effect": "ef_heal_01",
+    "effect_position": "0"
+  },
+  {
+    "type": "12102",
+    "type_category": "SP_RECOVERY",
+    "sustain_type": "0",
+    "name": "Super Gauge Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "12103",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Super Gauge Fill Rate Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "12104",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Super Gauge Fill Rate Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "12105",
+    "type_category": "HP_UP",
+    "sustain_type": "2",
+    "name": "Max HP Increase",
+    "icon_type": "0",
+    "effect": "ef_regeneration_3",
+    "effect_position": "0"
+  },
+  {
+    "type": "12201",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12202",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12203",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Physical Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12204",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Physical Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12205",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Magic Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12206",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Magic Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12207",
+    "type_category": "ENEMY_HP_DOWN",
+    "sustain_type": "1",
+    "name": "Enemy HP Reduction",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12301",
+    "type_category": "AGILITY_UP",
+    "sustain_type": "2",
+    "name": "Agility Boost",
+    "icon_type": "2",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12302",
+    "type_category": "AGILITY_UP",
+    "sustain_type": "1",
+    "name": "Agility Boost",
+    "icon_type": "2",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "12303",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Damage Reduction",
+    "icon_type": "2",
+    "effect": "ef_damagecut_1",
+    "effect_position": "3"
+  },
+  {
+    "type": "12304",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Damage Reduction",
+    "icon_type": "2",
+    "effect": "ef_damagecut_1",
+    "effect_position": "3"
+  },
+  {
+    "type": "13101",
+    "type_category": "HP_RECOVERY",
+    "sustain_type": "0",
+    "name": "HP Recovery",
+    "icon_type": "0",
+    "effect": "ef_heal_01",
+    "effect_position": "0"
+  },
+  {
+    "type": "13102",
+    "type_category": "REVIVAL",
+    "sustain_type": "0",
+    "name": "Revive",
+    "icon_type": "0",
+    "effect": "ef_heal_03",
+    "effect_position": "3"
+  },
+  {
+    "type": "13103",
+    "type_category": "SP_RECOVERY",
+    "sustain_type": "0",
+    "name": "Super Gauge Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "13104",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Super Gauge Fill Rate Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "13105",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Super Gauge Fill Rate Boost",
+    "icon_type": "0",
+    "effect": "ef_chant_buff_02",
+    "effect_position": "0"
+  },
+  {
+    "type": "13106",
+    "type_category": "HP_UP",
+    "sustain_type": "2",
+    "name": "Max HP Increase",
+    "icon_type": "0",
+    "effect": "ef_regeneration_3",
+    "effect_position": "0"
+  },
+  {
+    "type": "13201",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13202",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13203",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Physical Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13204",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Physical Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13205",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Magic Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13206",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Magic Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13207",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Low HP Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13208",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Low HP Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13209",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "High HP Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13210",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "High HP Damage Boost",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13211",
+    "type_category": "ENEMY_HP_DOWN",
+    "sustain_type": "1",
+    "name": "Enemy HP Reduction",
+    "icon_type": "1",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13301",
+    "type_category": "AGILITY_UP",
+    "sustain_type": "2",
+    "name": "Agility Boost",
+    "icon_type": "2",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13302",
+    "type_category": "AGILITY_UP",
+    "sustain_type": "1",
+    "name": "Agility Boost",
+    "icon_type": "2",
+    "effect": "ef_chant_buff_01",
+    "effect_position": "3"
+  },
+  {
+    "type": "13303",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Damage Reduction",
+    "icon_type": "2",
+    "effect": "ef_damagecut_1",
+    "effect_position": "3"
+  },
+  {
+    "type": "13304",
+    "type_category": "PA_SKILL",
+    "sustain_type": "1",
+    "name": "Damage Reduction",
+    "icon_type": "2",
+    "effect": "ef_damagecut_1",
+    "effect_position": "3"
+  },
+  {
+    "type": "13305",
+    "type_category": "PA_SKILL",
+    "sustain_type": "2",
+    "name": "Status Resistance Boost",
+    "icon_type": "2",
+    "effect": "ef_damagecut_3",
+    "effect_position": "0"
+  }
+]

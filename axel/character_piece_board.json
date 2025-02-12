@@ -1,0 +1,1066 @@
+[
+  {
+    "board_id": "100001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "100",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "100002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "100",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "100003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "100",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "100004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "100",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "101001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "101",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "101002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "101",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "101003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "101",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "101004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "101",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "102001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "102",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "102002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "102",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "102003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "102",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "102004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "102",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "103001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "103",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "103002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "103",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "103003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "103",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "103004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "103",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "104001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "104",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "104002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "104",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "104003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "104",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "104004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "104",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "105001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "105",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "105002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "105",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "105003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "105",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "105004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "105",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "106001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "106",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "106002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "106",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "106003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "106",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "106004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "106",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "107001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "107",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "107002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "107",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "107003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "107",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "107004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "107",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "109001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "109",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "109002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "109",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "109003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "109",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "109004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "109",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "110001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "110",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "110002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "110",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "110003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "110",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "110004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "110",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "111001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "111",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "111002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "111",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "111003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "111",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "111004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "111",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "112001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "112",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "112002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "112",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "112003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "112",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "112004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "112",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "113001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "113",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "113002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "113",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "113003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "113",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "113004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "113",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "114001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "114",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "114002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "114",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "114003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "114",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "114004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "114",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "115001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "115",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "115002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "115",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "115003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "115",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "115004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "115",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "116001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "116",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "116002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "116",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "116003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "116",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "116004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "116",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "117001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "117",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "117002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "117",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "117003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "117",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "117004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "117",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "118001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "118",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "118002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "118",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "118003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "118",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "118004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "118",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "119001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "119",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "119002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "119",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "119003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "119",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "119004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "119",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "126001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "126",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "126002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "126",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "126003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "126",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "126004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "126",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "108001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "108",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "108002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "108",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "108003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "108",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "108004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "108",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "151001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "151",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "151002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "151",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "151003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "151",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "151004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "151",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "128001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "128",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "128002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "128",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "128003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "128",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "128004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "128",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "147000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "147",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "150000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "150",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "158000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "158",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "160000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "160",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "163000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "163",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "164000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "164",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "165000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "165",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "169001",
+    "name": "Fire & Light",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "169",
+    "attribute_1": "fire",
+    "attribute_2": "light"
+  },
+  {
+    "board_id": "169002",
+    "name": "Water & Wind",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "169",
+    "attribute_1": "water",
+    "attribute_2": "wind"
+  },
+  {
+    "board_id": "169003",
+    "name": "Earth & Lightning",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "169",
+    "attribute_1": "earth",
+    "attribute_2": "thunder"
+  },
+  {
+    "board_id": "169004",
+    "name": "Dark & Normal",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "169",
+    "attribute_1": "cursed",
+    "attribute_2": "unattributed"
+  },
+  {
+    "board_id": "181000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "181",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "183000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "183",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "184000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "184",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "185000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "185",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "186000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "186",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "192000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "192",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "193000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "193",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "194000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "194",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "195000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "195",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "196000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "196",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "197000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "197",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "198000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "198",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "199000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "199",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "200000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "200",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "205000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "205",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "206000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "206",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "207000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "207",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "208000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "208",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "209000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "209",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "211000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "211",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "212000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "212",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "213000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "213",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "214000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "214",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "217000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "217",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "218000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "218",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "219000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "219",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "220000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "220",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "223000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "223",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "224000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "224",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  },
+  {
+    "board_id": "225000",
+    "name": "All Elements",
+    "subtitle_text": "Element ATK Boost",
+    "chara_id": "225",
+    "attribute_1": "all",
+    "attribute_2": "0"
+  }
+]

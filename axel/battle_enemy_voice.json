@@ -1,0 +1,4482 @@
+[
+  {
+    "id": "1000001",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "I suggest you fight for real.",
+    "priority": "1",
+    "voice_id": "308120001"
+  },
+  {
+    "id": "1000002",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "You're in over your head.",
+    "priority": "3",
+    "voice_id": "308120002"
+  },
+  {
+    "id": "1000003",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "You're open!",
+    "priority": "3",
+    "voice_id": "308120003"
+  },
+  {
+    "id": "1000004",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Take this!",
+    "priority": "3",
+    "voice_id": "308120004"
+  },
+  {
+    "id": "1000005",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I'm so excited, I could burst.",
+    "priority": "3",
+    "voice_id": "308120005"
+  },
+  {
+    "id": "1000006",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Behold! This is my love!",
+    "priority": "3",
+    "voice_id": "308120006"
+  },
+  {
+    "id": "1000007",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "This can't be...!",
+    "priority": "2",
+    "voice_id": "308120007"
+  },
+  {
+    "id": "1000008",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "You'll find no mercy here.",
+    "priority": "3",
+    "voice_id": "308120008"
+  },
+  {
+    "id": "1000009",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Never drop your guard.",
+    "priority": "3",
+    "voice_id": "308120009"
+  },
+  {
+    "id": "1000010",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Let's play a game...for your life.",
+    "priority": "3",
+    "voice_id": "308120010"
+  },
+  {
+    "id": "1000011",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I wanted to see more of the show...",
+    "priority": "1",
+    "voice_id": "308120011"
+  },
+  {
+    "id": "1000012",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "I'm not done yet!",
+    "priority": "5",
+    "voice_id": "308120012"
+  },
+  {
+    "id": "1000013",
+    "character_id": "120",
+    "shape": "10000",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ugh...",
+    "priority": "5",
+    "voice_id": "308120013"
+  },
+  {
+    "id": "1000101",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Axel Hearts for life!",
+    "priority": "1",
+    "voice_id": "308141001"
+  },
+  {
+    "id": "1000102",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hwah!",
+    "priority": "3",
+    "voice_id": "308141002"
+  },
+  {
+    "id": "1000103",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Behold my awesome power!",
+    "priority": "3",
+    "voice_id": "308141003"
+  },
+  {
+    "id": "1000104",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "None shall hinder our great cause!",
+    "priority": "3",
+    "voice_id": "308141004"
+  },
+  {
+    "id": "1000105",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Yes, oh yes!",
+    "priority": "3",
+    "voice_id": "308141005"
+  },
+  {
+    "id": "1000106",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Hard work is always rewarded!",
+    "priority": "3",
+    "voice_id": "308141006"
+  },
+  {
+    "id": "1000107",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "I need more! Light my very soul on fire!",
+    "priority": "2",
+    "voice_id": "308141007"
+  },
+  {
+    "id": "1000108",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hwaha!",
+    "priority": "3",
+    "voice_id": "308141008"
+  },
+  {
+    "id": "1000109",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Only death awaits you!",
+    "priority": "3",
+    "voice_id": "308141009"
+  },
+  {
+    "id": "1000110",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Outta the way!",
+    "priority": "3",
+    "voice_id": "308141010"
+  },
+  {
+    "id": "1000111",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Don't let this hurt your opinion of dancers...",
+    "priority": "1",
+    "voice_id": "308141011"
+  },
+  {
+    "id": "1000112",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Is that all you've got?!",
+    "priority": "5",
+    "voice_id": "308141012"
+  },
+  {
+    "id": "1000113",
+    "character_id": "141",
+    "shape": "10001",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaaaaarrr!",
+    "priority": "5",
+    "voice_id": "308141013"
+  },
+  {
+    "id": "1000201",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "No turning back now!",
+    "priority": "1",
+    "voice_id": "308120014"
+  },
+  {
+    "id": "1000202",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "This ends now.",
+    "priority": "3",
+    "voice_id": "308120015"
+  },
+  {
+    "id": "1000203",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Where are the dancers?!",
+    "priority": "3",
+    "voice_id": "308120016"
+  },
+  {
+    "id": "1000204",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Take this!",
+    "priority": "3",
+    "voice_id": "308120017"
+  },
+  {
+    "id": "1000205",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "The only path forward leads to destruction!",
+    "priority": "3",
+    "voice_id": "308120018"
+  },
+  {
+    "id": "1000206",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "I'll send you to the afterlife!",
+    "priority": "3",
+    "voice_id": "308120019"
+  },
+  {
+    "id": "1000207",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Rrrrrraaaaaarrr!",
+    "priority": "2",
+    "voice_id": "308120020"
+  },
+  {
+    "id": "1000208",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Mwahahahahaha!",
+    "priority": "3",
+    "voice_id": "308120021"
+  },
+  {
+    "id": "1000209",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I refuse to be beaten!",
+    "priority": "3",
+    "voice_id": "308120022"
+  },
+  {
+    "id": "1000210",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I'll destroy you!",
+    "priority": "3",
+    "voice_id": "308120023"
+  },
+  {
+    "id": "1000211",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "My love for dancers will never die...",
+    "priority": "1",
+    "voice_id": "308120024"
+  },
+  {
+    "id": "1000212",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Gwah?!",
+    "priority": "5",
+    "voice_id": "308120025"
+  },
+  {
+    "id": "1000213",
+    "character_id": "120",
+    "shape": "10002",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaaaaarrr!",
+    "priority": "5",
+    "voice_id": "308120026"
+  },
+  {
+    "id": "1010001",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Gimme a handshake ticket!",
+    "priority": "1",
+    "voice_id": "308121001"
+  },
+  {
+    "id": "1010002",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308121002"
+  },
+  {
+    "id": "1010003",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Mwahahahaha!",
+    "priority": "3",
+    "voice_id": "308121003"
+  },
+  {
+    "id": "1010004",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Cielo!",
+    "priority": "3",
+    "voice_id": "308121004"
+  },
+  {
+    "id": "1010005",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "This is for you, Lord Daniel!",
+    "priority": "3",
+    "voice_id": "308121005"
+  },
+  {
+    "id": "1010006",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Witness the power of an Elite Troll!",
+    "priority": "3",
+    "voice_id": "308121006"
+  },
+  {
+    "id": "1010007",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You meddling pests!",
+    "priority": "2",
+    "voice_id": "308121007"
+  },
+  {
+    "id": "1010008",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hee-yah!",
+    "priority": "3",
+    "voice_id": "308121008"
+  },
+  {
+    "id": "1010009",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hehehehe!",
+    "priority": "3",
+    "voice_id": "308121009"
+  },
+  {
+    "id": "1010010",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Cielo is mine! Mine, I say!",
+    "priority": "3",
+    "voice_id": "308121010"
+  },
+  {
+    "id": "1010011",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Glory to Lord Daniel...",
+    "priority": "1",
+    "voice_id": "308121011"
+  },
+  {
+    "id": "1010012",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ouch!",
+    "priority": "5",
+    "voice_id": "308121012"
+  },
+  {
+    "id": "1010013",
+    "character_id": "121",
+    "shape": "10100",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "5",
+    "voice_id": "308121013"
+  },
+  {
+    "id": "1010101",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Gimme a handshake ticket!",
+    "priority": "1",
+    "voice_id": "308121001"
+  },
+  {
+    "id": "1010102",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308121002"
+  },
+  {
+    "id": "1010103",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Mwahahahaha!",
+    "priority": "3",
+    "voice_id": "308121003"
+  },
+  {
+    "id": "1010104",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Cielo!",
+    "priority": "3",
+    "voice_id": "308121004"
+  },
+  {
+    "id": "1010105",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "This is for you, Lord Daniel!",
+    "priority": "3",
+    "voice_id": "308121005"
+  },
+  {
+    "id": "1010106",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Witness the power of an Elite Troll!",
+    "priority": "3",
+    "voice_id": "308121006"
+  },
+  {
+    "id": "1010107",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You meddling pests!",
+    "priority": "2",
+    "voice_id": "308121007"
+  },
+  {
+    "id": "1010108",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hee-yah!",
+    "priority": "3",
+    "voice_id": "308121008"
+  },
+  {
+    "id": "1010109",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hehehehe!",
+    "priority": "3",
+    "voice_id": "308121009"
+  },
+  {
+    "id": "1010110",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Cielo is mine! Mine, I say!",
+    "priority": "3",
+    "voice_id": "308121010"
+  },
+  {
+    "id": "1010111",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Glory to Lord Daniel...",
+    "priority": "1",
+    "voice_id": "308121011"
+  },
+  {
+    "id": "1010112",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ouch!",
+    "priority": "5",
+    "voice_id": "308121012"
+  },
+  {
+    "id": "1010113",
+    "character_id": "121",
+    "shape": "10101",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "5",
+    "voice_id": "308121013"
+  },
+  {
+    "id": "1010201",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Gimme a handshake ticket!",
+    "priority": "1",
+    "voice_id": "308121001"
+  },
+  {
+    "id": "1010202",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308121002"
+  },
+  {
+    "id": "1010203",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Mwahahahaha!",
+    "priority": "3",
+    "voice_id": "308121003"
+  },
+  {
+    "id": "1010204",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Cielo!",
+    "priority": "3",
+    "voice_id": "308121004"
+  },
+  {
+    "id": "1010205",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "This is for you, Lord Daniel!",
+    "priority": "3",
+    "voice_id": "308121005"
+  },
+  {
+    "id": "1010206",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Witness the power of an Elite Troll!",
+    "priority": "3",
+    "voice_id": "308121006"
+  },
+  {
+    "id": "1010207",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You meddling pests!",
+    "priority": "2",
+    "voice_id": "308121007"
+  },
+  {
+    "id": "1010208",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hee-yah!",
+    "priority": "3",
+    "voice_id": "308121008"
+  },
+  {
+    "id": "1010209",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hehehehe!",
+    "priority": "3",
+    "voice_id": "308121009"
+  },
+  {
+    "id": "1010210",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Cielo is mine! Mine, I say!",
+    "priority": "3",
+    "voice_id": "308121010"
+  },
+  {
+    "id": "1010211",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Glory to Lord Daniel...",
+    "priority": "1",
+    "voice_id": "308121011"
+  },
+  {
+    "id": "1010212",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ouch!",
+    "priority": "5",
+    "voice_id": "308121012"
+  },
+  {
+    "id": "1010213",
+    "character_id": "121",
+    "shape": "10102",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "5",
+    "voice_id": "308121013"
+  },
+  {
+    "id": "1010301",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Gimme a handshake ticket!",
+    "priority": "1",
+    "voice_id": "308121001"
+  },
+  {
+    "id": "1010302",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308121002"
+  },
+  {
+    "id": "1010303",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Mwahahahaha!",
+    "priority": "3",
+    "voice_id": "308121003"
+  },
+  {
+    "id": "1010304",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Cielo!",
+    "priority": "3",
+    "voice_id": "308121004"
+  },
+  {
+    "id": "1010305",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "This is for you, Lord Daniel!",
+    "priority": "3",
+    "voice_id": "308121005"
+  },
+  {
+    "id": "1010306",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Witness the power of an Elite Troll!",
+    "priority": "3",
+    "voice_id": "308121006"
+  },
+  {
+    "id": "1010307",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You meddling pests!",
+    "priority": "2",
+    "voice_id": "308121007"
+  },
+  {
+    "id": "1010308",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hee-yah!",
+    "priority": "3",
+    "voice_id": "308121008"
+  },
+  {
+    "id": "1010309",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hehehehe!",
+    "priority": "3",
+    "voice_id": "308121009"
+  },
+  {
+    "id": "1010310",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Cielo is mine! Mine, I say!",
+    "priority": "3",
+    "voice_id": "308121010"
+  },
+  {
+    "id": "1010311",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Glory to Lord Daniel...",
+    "priority": "1",
+    "voice_id": "308121011"
+  },
+  {
+    "id": "1010312",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ouch!",
+    "priority": "5",
+    "voice_id": "308121012"
+  },
+  {
+    "id": "1010313",
+    "character_id": "121",
+    "shape": "10103",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "5",
+    "voice_id": "308121013"
+  },
+  {
+    "id": "1030001",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "It is I, Verdia! General to the great Devil King!",
+    "priority": "1",
+    "voice_id": "308130001"
+  },
+  {
+    "id": "1030002",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Haaagh!",
+    "priority": "3",
+    "voice_id": "308130002"
+  },
+  {
+    "id": "1030003",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Stop lobbing explosion magic at my castle!",
+    "priority": "3",
+    "voice_id": "308130003"
+  },
+  {
+    "id": "1030004",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Who's the loon looking for trouble, huh?",
+    "priority": "3",
+    "voice_id": "308130004"
+  },
+  {
+    "id": "1030005",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Witness the true power of a dullahan!",
+    "priority": "3",
+    "voice_id": "308130005"
+  },
+  {
+    "id": "1030006",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Consider this to be your death sentence!",
+    "priority": "3",
+    "voice_id": "308130006"
+  },
+  {
+    "id": "1030007",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Aaaaaagh! My eyeeeeees!",
+    "priority": "2",
+    "voice_id": "308130007"
+  },
+  {
+    "id": "1030008",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hi-yaaaaaah!",
+    "priority": "3",
+    "voice_id": "308130008"
+  },
+  {
+    "id": "1030009",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Your puny attacks do nothing!",
+    "priority": "3",
+    "voice_id": "308130009"
+  },
+  {
+    "id": "1030010",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I'll put you in the ground!",
+    "priority": "3",
+    "voice_id": "308130010"
+  },
+  {
+    "id": "1030011",
+    "character_id": "130",
+    "shape": "10300",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Hey, wait... Aaaaaagh!",
+    "priority": "1",
+    "voice_id": "308130011"
+  },
+  {
+    "id": "1100401",
+    "character_id": "145",
+    "shape": "11004",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I will destroy you!",
+    "priority": "3",
+    "voice_id": "308145001"
+  },
+  {
+    "id": "1100402",
+    "character_id": "145",
+    "shape": "11004",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Graaah!",
+    "priority": "3",
+    "voice_id": "308145003"
+  },
+  {
+    "id": "1100403",
+    "character_id": "145",
+    "shape": "11004",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "This ends now!",
+    "priority": "2",
+    "voice_id": "308145002"
+  },
+  {
+    "id": "1100404",
+    "character_id": "145",
+    "shape": "11004",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I don't want to die...",
+    "priority": "1",
+    "voice_id": "308145004"
+  },
+  {
+    "id": "1100501",
+    "character_id": "145",
+    "shape": "11005",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I will destroy you!",
+    "priority": "3",
+    "voice_id": "308145001"
+  },
+  {
+    "id": "1100502",
+    "character_id": "145",
+    "shape": "11005",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Graaah!",
+    "priority": "3",
+    "voice_id": "308145003"
+  },
+  {
+    "id": "1100503",
+    "character_id": "145",
+    "shape": "11005",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "This ends now!",
+    "priority": "2",
+    "voice_id": "308145002"
+  },
+  {
+    "id": "1100504",
+    "character_id": "145",
+    "shape": "11005",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I don't want to die...",
+    "priority": "1",
+    "voice_id": "308145004"
+  },
+  {
+    "id": "1100601",
+    "character_id": "145",
+    "shape": "11006",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I will destroy you!",
+    "priority": "3",
+    "voice_id": "308145001"
+  },
+  {
+    "id": "1100602",
+    "character_id": "145",
+    "shape": "11006",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Graaah!",
+    "priority": "3",
+    "voice_id": "308145003"
+  },
+  {
+    "id": "1100603",
+    "character_id": "145",
+    "shape": "11006",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "This ends now!",
+    "priority": "2",
+    "voice_id": "308145002"
+  },
+  {
+    "id": "1100604",
+    "character_id": "145",
+    "shape": "11006",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I don't want to die...",
+    "priority": "1",
+    "voice_id": "308145004"
+  },
+  {
+    "id": "1110001",
+    "character_id": "144",
+    "shape": "11100",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Wanna have some fun?",
+    "priority": "3",
+    "voice_id": "308144001"
+  },
+  {
+    "id": "1110001",
+    "character_id": "144",
+    "shape": "111001",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Wanna have some fun?",
+    "priority": "3",
+    "voice_id": "308144001"
+  },
+  {
+    "id": "1110002",
+    "character_id": "144",
+    "shape": "11100",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "We'll give you a taste of heaven!",
+    "priority": "3",
+    "voice_id": "308144003"
+  },
+  {
+    "id": "1110002",
+    "character_id": "144",
+    "shape": "111001",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "We'll give you a taste of heaven!",
+    "priority": "3",
+    "voice_id": "308144003"
+  },
+  {
+    "id": "1110003",
+    "character_id": "144",
+    "shape": "11100",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You won't get away!",
+    "priority": "2",
+    "voice_id": "308144002"
+  },
+  {
+    "id": "1110003",
+    "character_id": "144",
+    "shape": "111001",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You won't get away!",
+    "priority": "2",
+    "voice_id": "308144002"
+  },
+  {
+    "id": "1110004",
+    "character_id": "144",
+    "shape": "11100",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "H-how annoying!",
+    "priority": "1",
+    "voice_id": "308144004"
+  },
+  {
+    "id": "1110004",
+    "character_id": "144",
+    "shape": "111001",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "H-how annoying!",
+    "priority": "1",
+    "voice_id": "308144004"
+  },
+  {
+    "id": "1430001",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Which one of you is my master?",
+    "priority": "1",
+    "voice_id": "308138001"
+  },
+  {
+    "id": "1430002",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Bow before me!",
+    "priority": "3",
+    "voice_id": "308138002"
+  },
+  {
+    "id": "1430003",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Kneel!",
+    "priority": "3",
+    "voice_id": "308138003"
+  },
+  {
+    "id": "1430004",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hehehehe...",
+    "priority": "3",
+    "voice_id": "308138004"
+  },
+  {
+    "id": "1430005",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "It's time for your punishment!",
+    "priority": "3",
+    "voice_id": "308138005"
+  },
+  {
+    "id": "1430006",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Let me hear those sobs!",
+    "priority": "3",
+    "voice_id": "308138006"
+  },
+  {
+    "id": "1430007",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Dammit!",
+    "priority": "2",
+    "voice_id": "308138007"
+  },
+  {
+    "id": "1430008",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Sit!",
+    "priority": "3",
+    "voice_id": "308138008"
+  },
+  {
+    "id": "1430009",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Kennel!",
+    "priority": "3",
+    "voice_id": "308138009"
+  },
+  {
+    "id": "1430010",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Ahahaha!",
+    "priority": "3",
+    "voice_id": "308138010"
+  },
+  {
+    "id": "1430011",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Fine, I'll stop...you pig!",
+    "priority": "1",
+    "voice_id": "308138011"
+  },
+  {
+    "id": "1430012",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "It's pointless!",
+    "priority": "5",
+    "voice_id": "308138012"
+  },
+  {
+    "id": "1430013",
+    "character_id": "138",
+    "shape": "14300",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Enough of you!",
+    "priority": "5",
+    "voice_id": "308138013"
+  },
+  {
+    "id": "1450001",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Witness the strength of the Mage Killer!",
+    "priority": "1",
+    "voice_id": "308143001"
+  },
+  {
+    "id": "1450002",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Ahahahahahaha!",
+    "priority": "3",
+    "voice_id": "308143002"
+  },
+  {
+    "id": "1450003",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "This is revenge for everything you've done!",
+    "priority": "3",
+    "voice_id": "308143003"
+  },
+  {
+    "id": "1450004",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "I'll turn you to ash!",
+    "priority": "3",
+    "voice_id": "308143004"
+  },
+  {
+    "id": "1450005",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Let's end this!",
+    "priority": "3",
+    "voice_id": "308143005"
+  },
+  {
+    "id": "1450006",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Feel the power of the Mage Killer!",
+    "priority": "3",
+    "voice_id": "308143006"
+  },
+  {
+    "id": "1450007",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "I've had enough of your teasing!",
+    "priority": "2",
+    "voice_id": "308143007"
+  },
+  {
+    "id": "1450008",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I refuse to concede! Not yet!",
+    "priority": "3",
+    "voice_id": "308143008"
+  },
+  {
+    "id": "1450009",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "You're starting to frustrate me!",
+    "priority": "3",
+    "voice_id": "308143009"
+  },
+  {
+    "id": "1450010",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I'm just getting started!",
+    "priority": "3",
+    "voice_id": "308143010"
+  },
+  {
+    "id": "1450011",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Is this...the end?",
+    "priority": "1",
+    "voice_id": "308143011"
+  },
+  {
+    "id": "1450012",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Gah!",
+    "priority": "5",
+    "voice_id": "308143012"
+  },
+  {
+    "id": "1450013",
+    "character_id": "143",
+    "shape": "14500",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Aaagh!",
+    "priority": "5",
+    "voice_id": "308143013"
+  },
+  {
+    "id": "1450101",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "My life cannot end here!",
+    "priority": "1",
+    "voice_id": "308143014"
+  },
+  {
+    "id": "1450102",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "I will crush you!",
+    "priority": "3",
+    "voice_id": "308143015"
+  },
+  {
+    "id": "1450103",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "So is this the extent of your power?",
+    "priority": "3",
+    "voice_id": "308143016"
+  },
+  {
+    "id": "1450104",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "...Bwahahaha!",
+    "priority": "3",
+    "voice_id": "308143017"
+  },
+  {
+    "id": "1450105",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Love! Dreams! Hope!",
+    "priority": "3",
+    "voice_id": "308143018"
+  },
+  {
+    "id": "1450106",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "There's nothing I want more than love!",
+    "priority": "3",
+    "voice_id": "308143019"
+  },
+  {
+    "id": "1450107",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "No, I will push on toward the future!",
+    "priority": "2",
+    "voice_id": "308143020"
+  },
+  {
+    "id": "1450108",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Stay out of my way!",
+    "priority": "3",
+    "voice_id": "308143021"
+  },
+  {
+    "id": "1450109",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "There's no way I can lose!",
+    "priority": "3",
+    "voice_id": "308143022"
+  },
+  {
+    "id": "1450110",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Nooooooooo!",
+    "priority": "3",
+    "voice_id": "308143023"
+  },
+  {
+    "id": "1450111",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I... love you...",
+    "priority": "1",
+    "voice_id": "308143024"
+  },
+  {
+    "id": "1450112",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Aaaaaah!",
+    "priority": "5",
+    "voice_id": "308143025"
+  },
+  {
+    "id": "1450113",
+    "character_id": "143",
+    "shape": "14501",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ugh...",
+    "priority": "5",
+    "voice_id": "308143026"
+  },
+  {
+    "id": "1610001",
+    "character_id": "154",
+    "shape": "16100",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Whoa, oh, oh...",
+    "priority": "1",
+    "voice_id": "308154001"
+  },
+  {
+    "id": "1610002",
+    "character_id": "154",
+    "shape": "16100",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "1",
+    "voice_id": "308154002"
+  },
+  {
+    "id": "1610101",
+    "character_id": "154",
+    "shape": "16101",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Whoa, oh, oh...",
+    "priority": "1",
+    "voice_id": "308154001"
+  },
+  {
+    "id": "1610102",
+    "character_id": "154",
+    "shape": "16101",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "1",
+    "voice_id": "308154002"
+  },
+  {
+    "id": "1610201",
+    "character_id": "154",
+    "shape": "16102",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Whoa, oh, oh...",
+    "priority": "1",
+    "voice_id": "308154001"
+  },
+  {
+    "id": "1610202",
+    "character_id": "154",
+    "shape": "16102",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "1",
+    "voice_id": "308154002"
+  },
+  {
+    "id": "1610301",
+    "character_id": "154",
+    "shape": "16103",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Whoa, oh, oh...",
+    "priority": "1",
+    "voice_id": "308154001"
+  },
+  {
+    "id": "1610302",
+    "character_id": "154",
+    "shape": "16103",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Grrraaarrr...",
+    "priority": "1",
+    "voice_id": "308154002"
+  },
+  {
+    "id": "1660001",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "You are truly slothful.",
+    "priority": "1",
+    "voice_id": "308153001"
+  },
+  {
+    "id": "1660002",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Yes, this is a trial!",
+    "priority": "3",
+    "voice_id": "308153002"
+  },
+  {
+    "id": "1660003",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "You are dedicated, indeed!",
+    "priority": "3",
+    "voice_id": "308153003"
+  },
+  {
+    "id": "1660004",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Ahh... I can feel power of the gospel.",
+    "priority": "3",
+    "voice_id": "308153004"
+  },
+  {
+    "id": "1660005",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Now... Revel in your sloth.",
+    "priority": "3",
+    "voice_id": "308153005"
+  },
+  {
+    "id": "1660006",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Bow to the Authority of Sloth!",
+    "priority": "3",
+    "voice_id": "308153006"
+  },
+  {
+    "id": "1660007",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Sloth, sloth, sloth!",
+    "priority": "2",
+    "voice_id": "308153007"
+  },
+  {
+    "id": "1660008",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "My brain! My brain trembles!",
+    "priority": "3",
+    "voice_id": "308153008"
+  },
+  {
+    "id": "1660009",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "My diligence knows no end!",
+    "priority": "3",
+    "voice_id": "308153009"
+  },
+  {
+    "id": "1660010",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Love! Love! Looove!",
+    "priority": "3",
+    "voice_id": "308153010"
+  },
+  {
+    "id": "1660011",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Ahh... My brain...trembles.",
+    "priority": "1",
+    "voice_id": "308153011"
+  },
+  {
+    "id": "1660012",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "What?!",
+    "priority": "5",
+    "voice_id": "308153012"
+  },
+  {
+    "id": "1660013",
+    "character_id": "153",
+    "shape": "16600",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "This must not be!",
+    "priority": "5",
+    "voice_id": "308153013"
+  },
+  {
+    "id": "1680001",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "This violence could have been avoided.",
+    "priority": "1",
+    "voice_id": "308152001"
+  },
+  {
+    "id": "1680002",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "I am no mere beast.",
+    "priority": "3",
+    "voice_id": "308152002"
+  },
+  {
+    "id": "1680003",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Did you think my long life was due to chance?",
+    "priority": "3",
+    "voice_id": "308152003"
+  },
+  {
+    "id": "1680004",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Exactly as I planned.",
+    "priority": "3",
+    "voice_id": "308152004"
+  },
+  {
+    "id": "1680005",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "It's time to stop playing around.",
+    "priority": "3",
+    "voice_id": "308152005"
+  },
+  {
+    "id": "1680006",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Have you any last words?",
+    "priority": "3",
+    "voice_id": "308152006"
+  },
+  {
+    "id": "1680007",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Ungh. This one's surprisingly strong.",
+    "priority": "2",
+    "voice_id": "308152007"
+  },
+  {
+    "id": "1680008",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Don't let your guard down.",
+    "priority": "3",
+    "voice_id": "308152008"
+  },
+  {
+    "id": "1680009",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "This may hurt a bit.",
+    "priority": "3",
+    "voice_id": "308152009"
+  },
+  {
+    "id": "1680010",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Don't lose your head in a crisis.",
+    "priority": "3",
+    "voice_id": "308152010"
+  },
+  {
+    "id": "1680011",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Well done...",
+    "priority": "1",
+    "voice_id": "308152011"
+  },
+  {
+    "id": "1680012",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Just as I expected.",
+    "priority": "5",
+    "voice_id": "308152012"
+  },
+  {
+    "id": "1680013",
+    "character_id": "152",
+    "shape": "16800",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Urk!",
+    "priority": "5",
+    "voice_id": "308152013"
+  },
+  {
+    "id": "1680101",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "This violence could have been avoided.",
+    "priority": "1",
+    "voice_id": "308152001"
+  },
+  {
+    "id": "1680102",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "I am no mere beast.",
+    "priority": "3",
+    "voice_id": "308152002"
+  },
+  {
+    "id": "1680103",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Did you think my long life was due to chance?",
+    "priority": "3",
+    "voice_id": "308152003"
+  },
+  {
+    "id": "1680104",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Exactly as I planned.",
+    "priority": "3",
+    "voice_id": "308152004"
+  },
+  {
+    "id": "1680105",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "It's time to stop playing around.",
+    "priority": "3",
+    "voice_id": "308152005"
+  },
+  {
+    "id": "1680106",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Have you any last words?",
+    "priority": "3",
+    "voice_id": "308152006"
+  },
+  {
+    "id": "1680107",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Ungh. This one's surprisingly strong.",
+    "priority": "2",
+    "voice_id": "308152007"
+  },
+  {
+    "id": "1680108",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Don't let your guard down.",
+    "priority": "3",
+    "voice_id": "308152008"
+  },
+  {
+    "id": "1680109",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "This may hurt a bit.",
+    "priority": "3",
+    "voice_id": "308152009"
+  },
+  {
+    "id": "1680110",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Don't lose your head in a crisis.",
+    "priority": "3",
+    "voice_id": "308152010"
+  },
+  {
+    "id": "1680111",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Well done...",
+    "priority": "1",
+    "voice_id": "308152011"
+  },
+  {
+    "id": "1680112",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Just as I expected.",
+    "priority": "5",
+    "voice_id": "308152012"
+  },
+  {
+    "id": "1680113",
+    "character_id": "152",
+    "shape": "16801",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Urk!",
+    "priority": "5",
+    "voice_id": "308152013"
+  },
+  {
+    "id": "1680201",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "This violence could have been avoided.",
+    "priority": "1",
+    "voice_id": "308152001"
+  },
+  {
+    "id": "1680202",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "I am no mere beast.",
+    "priority": "3",
+    "voice_id": "308152002"
+  },
+  {
+    "id": "1680203",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Did you think my long life was due to chance?",
+    "priority": "3",
+    "voice_id": "308152003"
+  },
+  {
+    "id": "1680204",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Exactly as I planned.",
+    "priority": "3",
+    "voice_id": "308152004"
+  },
+  {
+    "id": "1680205",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "It's time to stop playing around.",
+    "priority": "3",
+    "voice_id": "308152005"
+  },
+  {
+    "id": "1680206",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Have you any last words?",
+    "priority": "3",
+    "voice_id": "308152006"
+  },
+  {
+    "id": "1680207",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Ungh. This one's surprisingly strong.",
+    "priority": "2",
+    "voice_id": "308152007"
+  },
+  {
+    "id": "1680208",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Don't let your guard down.",
+    "priority": "3",
+    "voice_id": "308152008"
+  },
+  {
+    "id": "1680209",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "This may hurt a bit.",
+    "priority": "3",
+    "voice_id": "308152009"
+  },
+  {
+    "id": "1680210",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Don't lose your head in a crisis.",
+    "priority": "3",
+    "voice_id": "308152010"
+  },
+  {
+    "id": "1680211",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Well done...",
+    "priority": "1",
+    "voice_id": "308152011"
+  },
+  {
+    "id": "1680212",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Just as I expected.",
+    "priority": "5",
+    "voice_id": "308152012"
+  },
+  {
+    "id": "1680213",
+    "character_id": "152",
+    "shape": "16802",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Urk!",
+    "priority": "5",
+    "voice_id": "308152013"
+  },
+  {
+    "id": "1730001",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Bow before my power!",
+    "priority": "1",
+    "voice_id": "308151001"
+  },
+  {
+    "id": "1730002",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Here! Take this!",
+    "priority": "3",
+    "voice_id": "308151002"
+  },
+  {
+    "id": "1730003",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "How presumptuous!",
+    "priority": "3",
+    "voice_id": "308151003"
+  },
+  {
+    "id": "1730004",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Shall we have a bit of fun?",
+    "priority": "3",
+    "voice_id": "308151004"
+  },
+  {
+    "id": "1730005",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I've been saving this one!",
+    "priority": "3",
+    "voice_id": "308151005"
+  },
+  {
+    "id": "1730006",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Now, witness my power!",
+    "priority": "3",
+    "voice_id": "308151006"
+  },
+  {
+    "id": "1730007",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Now I'm angry!",
+    "priority": "2",
+    "voice_id": "308151007"
+  },
+  {
+    "id": "1730008",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I'll roast you alive!",
+    "priority": "3",
+    "voice_id": "308151008"
+  },
+  {
+    "id": "1730009",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Cry and beg all you want, it won't do a thing!",
+    "priority": "3",
+    "voice_id": "308151009"
+  },
+  {
+    "id": "1730010",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "That's enough already!",
+    "priority": "3",
+    "voice_id": "308151010"
+  },
+  {
+    "id": "1730011",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I only wanted some friends...",
+    "priority": "1",
+    "voice_id": "308151011"
+  },
+  {
+    "id": "1730012",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "That won't work on me!",
+    "priority": "5",
+    "voice_id": "308151012"
+  },
+  {
+    "id": "1730013",
+    "character_id": "151",
+    "shape": "17300",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Now you've done it!",
+    "priority": "5",
+    "voice_id": "308151013"
+  },
+  {
+    "id": "1730101",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Bow before my power!",
+    "priority": "1",
+    "voice_id": "308151001"
+  },
+  {
+    "id": "1730102",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Here! Take this!",
+    "priority": "3",
+    "voice_id": "308151002"
+  },
+  {
+    "id": "1730103",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "How presumptuous!",
+    "priority": "3",
+    "voice_id": "308151003"
+  },
+  {
+    "id": "1730104",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Shall we have a bit of fun?",
+    "priority": "3",
+    "voice_id": "308151004"
+  },
+  {
+    "id": "1730105",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I've been saving this one!",
+    "priority": "3",
+    "voice_id": "308151005"
+  },
+  {
+    "id": "1730106",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Now, witness my power!",
+    "priority": "3",
+    "voice_id": "308151006"
+  },
+  {
+    "id": "1730107",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Now I'm angry!",
+    "priority": "2",
+    "voice_id": "308151007"
+  },
+  {
+    "id": "1730108",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I'll roast you alive!",
+    "priority": "3",
+    "voice_id": "308151008"
+  },
+  {
+    "id": "1730109",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Cry and beg all you want, it won't do a thing!",
+    "priority": "3",
+    "voice_id": "308151009"
+  },
+  {
+    "id": "1730110",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "That's enough already!",
+    "priority": "3",
+    "voice_id": "308151010"
+  },
+  {
+    "id": "1730111",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I only wanted some friends...",
+    "priority": "1",
+    "voice_id": "308151011"
+  },
+  {
+    "id": "1730112",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "That won't work on me!",
+    "priority": "5",
+    "voice_id": "308151012"
+  },
+  {
+    "id": "1730113",
+    "character_id": "151",
+    "shape": "17301",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Now you've done it!",
+    "priority": "5",
+    "voice_id": "308151013"
+  },
+  {
+    "id": "1780001",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Mwahahaha! I look forward to working with you.",
+    "priority": "1",
+    "voice_id": "308128001"
+  },
+  {
+    "id": "1780002",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hrah!",
+    "priority": "3",
+    "voice_id": "308128002"
+  },
+  {
+    "id": "1780003",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Now's my chance!",
+    "priority": "3",
+    "voice_id": "308128003"
+  },
+  {
+    "id": "1780004",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Too bad!",
+    "priority": "3",
+    "voice_id": "308128004"
+  },
+  {
+    "id": "1780005",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I see! I see!",
+    "priority": "3",
+    "voice_id": "308128005"
+  },
+  {
+    "id": "1780006",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Your agony...is simply delicious!",
+    "priority": "3",
+    "voice_id": "308128006"
+  },
+  {
+    "id": "1780007",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "We lost money?!",
+    "priority": "2",
+    "voice_id": "308128007"
+  },
+  {
+    "id": "1780008",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Waaagh!",
+    "priority": "3",
+    "voice_id": "308128008"
+  },
+  {
+    "id": "1780009",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Mind your manners!",
+    "priority": "3",
+    "voice_id": "308128009"
+  },
+  {
+    "id": "1780010",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "That's enough from you!",
+    "priority": "3",
+    "voice_id": "308128010"
+  },
+  {
+    "id": "1780011",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I must attend to the shop.",
+    "priority": "1",
+    "voice_id": "308128011"
+  },
+  {
+    "id": "1780012",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ngh!",
+    "priority": "5",
+    "voice_id": "308128012"
+  },
+  {
+    "id": "1780013",
+    "character_id": "128",
+    "shape": "17800",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "You're pretty good!",
+    "priority": "5",
+    "voice_id": "308128013"
+  },
+  {
+    "id": "1830001",
+    "character_id": "162",
+    "shape": "18300",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Raaaaaagh!",
+    "priority": "1",
+    "voice_id": "308162001"
+  },
+  {
+    "id": "1830002",
+    "character_id": "162",
+    "shape": "18300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Raaagh!",
+    "priority": "3",
+    "voice_id": "308162002"
+  },
+  {
+    "id": "1830003",
+    "character_id": "162",
+    "shape": "18300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Grrraaarrr!",
+    "priority": "3",
+    "voice_id": "308162003"
+  },
+  {
+    "id": "1830004",
+    "character_id": "162",
+    "shape": "18300",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Grrraaarrr!",
+    "priority": "3",
+    "voice_id": "308162004"
+  },
+  {
+    "id": "1830005",
+    "character_id": "162",
+    "shape": "18300",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Raaaaaagh!!!",
+    "priority": "3",
+    "voice_id": "308162005"
+  },
+  {
+    "id": "1830006",
+    "character_id": "162",
+    "shape": "18300",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Rrrrrraaaaaarrrrrr!",
+    "priority": "1",
+    "voice_id": "308162006"
+  },
+  {
+    "id": "1830101",
+    "character_id": "162",
+    "shape": "18301",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Raaaaaagh!",
+    "priority": "1",
+    "voice_id": "308162001"
+  },
+  {
+    "id": "1830102",
+    "character_id": "162",
+    "shape": "18301",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Raaagh!",
+    "priority": "3",
+    "voice_id": "308162002"
+  },
+  {
+    "id": "1830103",
+    "character_id": "162",
+    "shape": "18301",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Grrraaarrr!",
+    "priority": "3",
+    "voice_id": "308162003"
+  },
+  {
+    "id": "1830104",
+    "character_id": "162",
+    "shape": "18301",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Grrraaarrr!",
+    "priority": "3",
+    "voice_id": "308162004"
+  },
+  {
+    "id": "1830105",
+    "character_id": "162",
+    "shape": "18301",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Raaaaaagh!!!",
+    "priority": "3",
+    "voice_id": "308162005"
+  },
+  {
+    "id": "1830106",
+    "character_id": "162",
+    "shape": "18301",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Rrrrrraaaaaarrrrrr!",
+    "priority": "1",
+    "voice_id": "308162006"
+  },
+  {
+    "id": "1900001",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Prepare yourself!",
+    "priority": "1",
+    "voice_id": "308121014"
+  },
+  {
+    "id": "1900002",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Lightning Bolt!",
+    "priority": "3",
+    "voice_id": "308121015"
+  },
+  {
+    "id": "1900003",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Mwahahaha, take this!",
+    "priority": "3",
+    "voice_id": "308121016"
+  },
+  {
+    "id": "1900004",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I've been saving this just for you!",
+    "priority": "3",
+    "voice_id": "308121017"
+  },
+  {
+    "id": "1900005",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Behold, the true power of a spirit!",
+    "priority": "3",
+    "voice_id": "308121018"
+  },
+  {
+    "id": "1900006",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You're a sore loser.",
+    "priority": "2",
+    "voice_id": "308121019"
+  },
+  {
+    "id": "1900007",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I can't let them steal the Lightning's Bane!",
+    "priority": "3",
+    "voice_id": "308121020"
+  },
+  {
+    "id": "1900008",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I'll burn you to a crisp!",
+    "priority": "3",
+    "voice_id": "308121021"
+  },
+  {
+    "id": "1900009",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Knock it off already!",
+    "priority": "3",
+    "voice_id": "308121022"
+  },
+  {
+    "id": "1900010",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "My happy future with Cielo...",
+    "priority": "1",
+    "voice_id": "308121023"
+  },
+  {
+    "id": "1900011",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrrgh!",
+    "priority": "5",
+    "voice_id": "308121024"
+  },
+  {
+    "id": "1900012",
+    "character_id": "121",
+    "shape": "19000",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "That won't work on me!",
+    "priority": "5",
+    "voice_id": "308121025"
+  },
+  {
+    "id": "1940001",
+    "character_id": "182",
+    "shape": "19400",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Intruder alert. Neutralizing threat...",
+    "priority": "1",
+    "voice_id": "308182001"
+  },
+  {
+    "id": "1940002",
+    "character_id": "182",
+    "shape": "19400",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Cleaning... Cooking... I live to serve.",
+    "priority": "3",
+    "voice_id": "308182002"
+  },
+  {
+    "id": "1940003",
+    "character_id": "182",
+    "shape": "19400",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "If Master so wishes!",
+    "priority": "3",
+    "voice_id": "308182003"
+  },
+  {
+    "id": "1940004",
+    "character_id": "182",
+    "shape": "19400",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Goodbye, Master...",
+    "priority": "1",
+    "voice_id": "308182004"
+  },
+  {
+    "id": "1940101",
+    "character_id": "182",
+    "shape": "19401",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Intruder alert. Neutralizing threat...",
+    "priority": "1",
+    "voice_id": "308182001"
+  },
+  {
+    "id": "1940102",
+    "character_id": "182",
+    "shape": "19401",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Cleaning... Cooking... I live to serve.",
+    "priority": "3",
+    "voice_id": "308182002"
+  },
+  {
+    "id": "1940103",
+    "character_id": "182",
+    "shape": "19401",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "If Master so wishes!",
+    "priority": "3",
+    "voice_id": "308182003"
+  },
+  {
+    "id": "1940104",
+    "character_id": "182",
+    "shape": "19401",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Goodbye, Master...",
+    "priority": "1",
+    "voice_id": "308182004"
+  },
+  {
+    "id": "1940201",
+    "character_id": "182",
+    "shape": "19402",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Intruder alert. Neutralizing threat...",
+    "priority": "1",
+    "voice_id": "308182001"
+  },
+  {
+    "id": "1940202",
+    "character_id": "182",
+    "shape": "19402",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Cleaning... Cooking... I live to serve.",
+    "priority": "3",
+    "voice_id": "308182002"
+  },
+  {
+    "id": "1940203",
+    "character_id": "182",
+    "shape": "19402",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "If Master so wishes!",
+    "priority": "3",
+    "voice_id": "308182003"
+  },
+  {
+    "id": "1940204",
+    "character_id": "182",
+    "shape": "19402",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Goodbye, Master...",
+    "priority": "1",
+    "voice_id": "308182004"
+  },
+  {
+    "id": "1940301",
+    "character_id": "182",
+    "shape": "19403",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Intruder alert. Neutralizing threat...",
+    "priority": "1",
+    "voice_id": "308182001"
+  },
+  {
+    "id": "1940302",
+    "character_id": "182",
+    "shape": "19403",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Cleaning... Cooking... I live to serve.",
+    "priority": "3",
+    "voice_id": "308182002"
+  },
+  {
+    "id": "1940303",
+    "character_id": "182",
+    "shape": "19403",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "If Master so wishes!",
+    "priority": "3",
+    "voice_id": "308182003"
+  },
+  {
+    "id": "1940304",
+    "character_id": "182",
+    "shape": "19403",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Goodbye, Master...",
+    "priority": "1",
+    "voice_id": "308182004"
+  },
+  {
+    "id": "1940401",
+    "character_id": "182",
+    "shape": "19404",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Intruder alert. Neutralizing threat...",
+    "priority": "1",
+    "voice_id": "308182001"
+  },
+  {
+    "id": "1940402",
+    "character_id": "182",
+    "shape": "19404",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Cleaning... Cooking... I live to serve.",
+    "priority": "3",
+    "voice_id": "308182002"
+  },
+  {
+    "id": "1940403",
+    "character_id": "182",
+    "shape": "19404",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "If Master so wishes!",
+    "priority": "3",
+    "voice_id": "308182003"
+  },
+  {
+    "id": "1940404",
+    "character_id": "182",
+    "shape": "19404",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Goodbye, Master...",
+    "priority": "1",
+    "voice_id": "308182004"
+  },
+  {
+    "id": "1950001",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Please make this worth my while.",
+    "priority": "1",
+    "voice_id": "308165002"
+  },
+  {
+    "id": "1950002",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Ahahaha!",
+    "priority": "3",
+    "voice_id": "308165007"
+  },
+  {
+    "id": "1950003",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "We'll see about that.",
+    "priority": "3",
+    "voice_id": "308165008"
+  },
+  {
+    "id": "1950004",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308165010"
+  },
+  {
+    "id": "1950005",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I'm through playing with you.",
+    "priority": "3",
+    "voice_id": "308165016"
+  },
+  {
+    "id": "1950006",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Why you...!",
+    "priority": "2",
+    "voice_id": "308165017"
+  },
+  {
+    "id": "1950007",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Fear my presence!",
+    "priority": "3",
+    "voice_id": "308165009"
+  },
+  {
+    "id": "1950008",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Not on my watch!",
+    "priority": "1",
+    "voice_id": "308165005"
+  },
+  {
+    "id": "1950009",
+    "character_id": "165",
+    "shape": "19500",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "How could this happen...",
+    "priority": "1",
+    "voice_id": "308165015"
+  },
+  {
+    "id": "1950101",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Please make this worth my while.",
+    "priority": "1",
+    "voice_id": "308165002"
+  },
+  {
+    "id": "1950102",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Ahahaha!",
+    "priority": "3",
+    "voice_id": "308165007"
+  },
+  {
+    "id": "1950103",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "We'll see about that.",
+    "priority": "3",
+    "voice_id": "308165008"
+  },
+  {
+    "id": "1950104",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308165010"
+  },
+  {
+    "id": "1950105",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I'm through playing with you.",
+    "priority": "3",
+    "voice_id": "308165016"
+  },
+  {
+    "id": "1950106",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Why you...!",
+    "priority": "2",
+    "voice_id": "308165017"
+  },
+  {
+    "id": "1950107",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Fear my presence!",
+    "priority": "3",
+    "voice_id": "308165009"
+  },
+  {
+    "id": "1950108",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Not on my watch!",
+    "priority": "1",
+    "voice_id": "308165005"
+  },
+  {
+    "id": "1950109",
+    "character_id": "165",
+    "shape": "19501",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "How could this happen...",
+    "priority": "1",
+    "voice_id": "308165015"
+  },
+  {
+    "id": "1960001",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Tremble at my untold power!",
+    "priority": "1",
+    "voice_id": "308166001"
+  },
+  {
+    "id": "1960002",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "That looked like it hurt, that it did.",
+    "priority": "3",
+    "voice_id": "308166002"
+  },
+  {
+    "id": "1960003",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hup!",
+    "priority": "3",
+    "voice_id": "308166003"
+  },
+  {
+    "id": "1960004",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Bear witness to my power!",
+    "priority": "3",
+    "voice_id": "308166004"
+  },
+  {
+    "id": "1960005",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "My true power, you shall taste!",
+    "priority": "3",
+    "voice_id": "308166005"
+  },
+  {
+    "id": "1960006",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Witness true strength and wisdom!",
+    "priority": "3",
+    "voice_id": "308166006"
+  },
+  {
+    "id": "1960007",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Hehe... Most impressive, that it was.",
+    "priority": "2",
+    "voice_id": "308166007"
+  },
+  {
+    "id": "1960008",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I-I refuse to be beaten, that I do!",
+    "priority": "3",
+    "voice_id": "308166008"
+  },
+  {
+    "id": "1960009",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "You shall be amazed, that you shall!",
+    "priority": "3",
+    "voice_id": "308166009"
+  },
+  {
+    "id": "1960010",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308166010"
+  },
+  {
+    "id": "1960011",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Wow... Consider me impressed...",
+    "priority": "1",
+    "voice_id": "308166011"
+  },
+  {
+    "id": "1960012",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Agh?!",
+    "priority": "5",
+    "voice_id": "308166012"
+  },
+  {
+    "id": "1960013",
+    "character_id": "166",
+    "shape": "19600",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ow, ow, ow...",
+    "priority": "5",
+    "voice_id": "308166013"
+  },
+  {
+    "id": "1960101",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Tremble at my untold power!",
+    "priority": "1",
+    "voice_id": "308166001"
+  },
+  {
+    "id": "1960102",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "That looked like it hurt, that it did.",
+    "priority": "3",
+    "voice_id": "308166002"
+  },
+  {
+    "id": "1960103",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hup!",
+    "priority": "3",
+    "voice_id": "308166003"
+  },
+  {
+    "id": "1960104",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Bear witness to my power!",
+    "priority": "3",
+    "voice_id": "308166004"
+  },
+  {
+    "id": "1960105",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "My true power, you shall taste!",
+    "priority": "3",
+    "voice_id": "308166005"
+  },
+  {
+    "id": "1960106",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Witness true strength and wisdom!",
+    "priority": "3",
+    "voice_id": "308166006"
+  },
+  {
+    "id": "1960107",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Hehe... Most impressive, that it was.",
+    "priority": "2",
+    "voice_id": "308166007"
+  },
+  {
+    "id": "1960108",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "I-I refuse to be beaten, that I do!",
+    "priority": "3",
+    "voice_id": "308166008"
+  },
+  {
+    "id": "1960109",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "You shall be amazed, that you shall!",
+    "priority": "3",
+    "voice_id": "308166009"
+  },
+  {
+    "id": "1960110",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308166010"
+  },
+  {
+    "id": "1960111",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Wow... Consider me impressed...",
+    "priority": "1",
+    "voice_id": "308166011"
+  },
+  {
+    "id": "1960112",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Agh?!",
+    "priority": "5",
+    "voice_id": "308166012"
+  },
+  {
+    "id": "1960113",
+    "character_id": "166",
+    "shape": "19601",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ow, ow, ow...",
+    "priority": "5",
+    "voice_id": "308166013"
+  },
+  {
+    "id": "2080001",
+    "character_id": "100",
+    "shape": "20800",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "I'll face you myself.",
+    "priority": "1",
+    "voice_id": "308100090"
+  },
+  {
+    "id": "2080002",
+    "character_id": "100",
+    "shape": "20800",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Haaaayaaah!",
+    "priority": "3",
+    "voice_id": "308100093"
+  },
+  {
+    "id": "2080003",
+    "character_id": "100",
+    "shape": "20800",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Get a piece of my skills!",
+    "priority": "3",
+    "voice_id": "308100091"
+  },
+  {
+    "id": "2080004",
+    "character_id": "100",
+    "shape": "20800",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "This is the true power of a skilled adventurer",
+    "priority": "3",
+    "voice_id": "308100092"
+  },
+  {
+    "id": "2080005",
+    "character_id": "100",
+    "shape": "20800",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "I'll end this…!",
+    "priority": "3",
+    "voice_id": "308100094"
+  },
+  {
+    "id": "2090101",
+    "character_id": "101",
+    "shape": "20901",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "I don't want to be slimy!",
+    "priority": "1",
+    "voice_id": "308101077"
+  },
+  {
+    "id": "2100101",
+    "character_id": "102",
+    "shape": "21001",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "I want to return to my clean self…!",
+    "priority": "1",
+    "voice_id": "308102085"
+  },
+  {
+    "id": "2110101",
+    "character_id": "103",
+    "shape": "21101",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Drinking a little won't hurt, right?",
+    "priority": "1",
+    "voice_id": "308103079"
+  },
+  {
+    "id": "2120001",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "You weakling….",
+    "priority": "1",
+    "voice_id": "308185002"
+  },
+  {
+    "id": "2120002",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hah!",
+    "priority": "3",
+    "voice_id": "308185007"
+  },
+  {
+    "id": "2120003",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Arghh!",
+    "priority": "3",
+    "voice_id": "308185008"
+  },
+  {
+    "id": "2120004",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Go down in glory!",
+    "priority": "3",
+    "voice_id": "308185010"
+  },
+  {
+    "id": "2120005",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I'll show you something nice.",
+    "priority": "3",
+    "voice_id": "308185016"
+  },
+  {
+    "id": "2120006",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Hahahahahaha!!",
+    "priority": "3",
+    "voice_id": "308185013"
+  },
+  {
+    "id": "2120007",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You do know a little.",
+    "priority": "2",
+    "voice_id": "308185017"
+  },
+  {
+    "id": "2120008",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "How do you feel?",
+    "priority": "3",
+    "voice_id": "308185009"
+  },
+  {
+    "id": "2120009",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "You will never be forgiven…!",
+    "priority": "1",
+    "voice_id": "308185005"
+  },
+  {
+    "id": "2120010",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "How did I lose to this….",
+    "priority": "1",
+    "voice_id": "308185015"
+  },
+  {
+    "id": "2120011",
+    "character_id": "185",
+    "shape": "21200",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ack!",
+    "priority": "5",
+    "voice_id": "308185014"
+  },
+  {
+    "id": "2120101",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "You weakling….",
+    "priority": "1",
+    "voice_id": "308185002"
+  },
+  {
+    "id": "2120102",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hah!",
+    "priority": "3",
+    "voice_id": "308185007"
+  },
+  {
+    "id": "2120103",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Arghh!",
+    "priority": "3",
+    "voice_id": "308185008"
+  },
+  {
+    "id": "2120104",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Go down in glory!",
+    "priority": "3",
+    "voice_id": "308185010"
+  },
+  {
+    "id": "2120105",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "I'll show you something nice.",
+    "priority": "3",
+    "voice_id": "308185016"
+  },
+  {
+    "id": "2120106",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Hahahahahaha!!",
+    "priority": "3",
+    "voice_id": "308185013"
+  },
+  {
+    "id": "2120107",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "You do know a little.",
+    "priority": "2",
+    "voice_id": "308185017"
+  },
+  {
+    "id": "2120108",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "How do you feel?",
+    "priority": "3",
+    "voice_id": "308185009"
+  },
+  {
+    "id": "2120109",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "You will never be forgiven…!",
+    "priority": "1",
+    "voice_id": "308185005"
+  },
+  {
+    "id": "2120110",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "How did I lose to this….",
+    "priority": "1",
+    "voice_id": "308185015"
+  },
+  {
+    "id": "2120111",
+    "character_id": "185",
+    "shape": "21201",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ack!",
+    "priority": "5",
+    "voice_id": "308185014"
+  },
+  {
+    "id": "2200001",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Ahhh!",
+    "priority": "1",
+    "voice_id": "308201001"
+  },
+  {
+    "id": "2200002",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hayah!",
+    "priority": "3",
+    "voice_id": "308201002"
+  },
+  {
+    "id": "2200003",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308201003"
+  },
+  {
+    "id": "2200004",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308201004"
+  },
+  {
+    "id": "2200005",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Roar!",
+    "priority": "3",
+    "voice_id": "308201005"
+  },
+  {
+    "id": "2200006",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Rawr!",
+    "priority": "3",
+    "voice_id": "308201006"
+  },
+  {
+    "id": "2200007",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Ugh…",
+    "priority": "2",
+    "voice_id": "308201007"
+  },
+  {
+    "id": "2200008",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Ahh!",
+    "priority": "3",
+    "voice_id": "308201008"
+  },
+  {
+    "id": "2200009",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Ugh!",
+    "priority": "3",
+    "voice_id": "308201009"
+  },
+  {
+    "id": "2200010",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Agh…!",
+    "priority": "3",
+    "voice_id": "308201010"
+  },
+  {
+    "id": "2200011",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "…What did I do?",
+    "priority": "1",
+    "voice_id": "308201011"
+  },
+  {
+    "id": "2200012",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Tch!",
+    "priority": "5",
+    "voice_id": "308201012"
+  },
+  {
+    "id": "2200013",
+    "character_id": "201",
+    "shape": "22000",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Gaaagh?!",
+    "priority": "5",
+    "voice_id": "308201013"
+  },
+  {
+    "id": "2200101",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Ahhh!",
+    "priority": "1",
+    "voice_id": "308201001"
+  },
+  {
+    "id": "2200102",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hayah!",
+    "priority": "3",
+    "voice_id": "308201002"
+  },
+  {
+    "id": "2200103",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308201003"
+  },
+  {
+    "id": "2200104",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hmph!",
+    "priority": "3",
+    "voice_id": "308201004"
+  },
+  {
+    "id": "2200105",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Roar!",
+    "priority": "3",
+    "voice_id": "308201005"
+  },
+  {
+    "id": "2200106",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Rawr!",
+    "priority": "3",
+    "voice_id": "308201006"
+  },
+  {
+    "id": "2200107",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "Ugh…",
+    "priority": "2",
+    "voice_id": "308201007"
+  },
+  {
+    "id": "2200108",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Ahh!",
+    "priority": "3",
+    "voice_id": "308201008"
+  },
+  {
+    "id": "2200109",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Ugh!",
+    "priority": "3",
+    "voice_id": "308201009"
+  },
+  {
+    "id": "2200110",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Agh…!",
+    "priority": "3",
+    "voice_id": "308201010"
+  },
+  {
+    "id": "2200111",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "…What did I do?",
+    "priority": "1",
+    "voice_id": "308201011"
+  },
+  {
+    "id": "2200112",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Tch!",
+    "priority": "5",
+    "voice_id": "308201012"
+  },
+  {
+    "id": "2200113",
+    "character_id": "201",
+    "shape": "22001",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Gaaagh?!",
+    "priority": "5",
+    "voice_id": "308201013"
+  },
+  {
+    "id": "2270001",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Do you want to play with me?",
+    "priority": "1",
+    "voice_id": "308220001"
+  },
+  {
+    "id": "2270002",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308220007"
+  },
+  {
+    "id": "2270003",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hahah!",
+    "priority": "3",
+    "voice_id": "308220008"
+  },
+  {
+    "id": "2270004",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Gyah!",
+    "priority": "3",
+    "voice_id": "308220010"
+  },
+  {
+    "id": "2270005",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Look at the power of the Demon Lord!",
+    "priority": "3",
+    "voice_id": "308220016"
+  },
+  {
+    "id": "2270006",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "This is the force of power control!",
+    "priority": "3",
+    "voice_id": "308220013"
+  },
+  {
+    "id": "2270007",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "It has become interesting.",
+    "priority": "2",
+    "voice_id": "308220017"
+  },
+  {
+    "id": "2270008",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I was just hungry!",
+    "priority": "1",
+    "voice_id": "308220015"
+  },
+  {
+    "id": "2270009",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ngh!",
+    "priority": "5",
+    "voice_id": "308220014"
+  },
+  {
+    "id": "2270010",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308220007"
+  },
+  {
+    "id": "2270011",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hahah!",
+    "priority": "3",
+    "voice_id": "308220008"
+  },
+  {
+    "id": "2270012",
+    "character_id": "220",
+    "shape": "22700",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Gyah!",
+    "priority": "3",
+    "voice_id": "308220010"
+  },
+  {
+    "id": "2270101",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Do you want to play with me?",
+    "priority": "1",
+    "voice_id": "308220001"
+  },
+  {
+    "id": "2270102",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308220007"
+  },
+  {
+    "id": "2270103",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hahah!",
+    "priority": "3",
+    "voice_id": "308220008"
+  },
+  {
+    "id": "2270104",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Gyah!",
+    "priority": "3",
+    "voice_id": "308220010"
+  },
+  {
+    "id": "2270105",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Look at the power of the Demon Lord!",
+    "priority": "3",
+    "voice_id": "308220016"
+  },
+  {
+    "id": "2270106",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "This is the force of power control!",
+    "priority": "3",
+    "voice_id": "308220013"
+  },
+  {
+    "id": "2270107",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "It has become interesting.",
+    "priority": "2",
+    "voice_id": "308220017"
+  },
+  {
+    "id": "2270108",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "I was just hungry!",
+    "priority": "1",
+    "voice_id": "308220015"
+  },
+  {
+    "id": "2270109",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ngh!",
+    "priority": "5",
+    "voice_id": "308220014"
+  },
+  {
+    "id": "2270110",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308220007"
+  },
+  {
+    "id": "2270111",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hahah!",
+    "priority": "3",
+    "voice_id": "308220008"
+  },
+  {
+    "id": "2270112",
+    "character_id": "220",
+    "shape": "22701",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Gyah!",
+    "priority": "3",
+    "voice_id": "308220010"
+  },
+  {
+    "id": "2270201",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Do you want to play with me?",
+    "priority": "1",
+    "voice_id": "308220001"
+  },
+  {
+    "id": "2270202",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hyah!",
+    "priority": "3",
+    "voice_id": "308220007"
+  },
+  {
+    "id": "2270203",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hahah!",
+    "priority": "3",
+    "voice_id": "308220008"
+  },
+  {
+    "id": "2270204",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Gyah!",
+    "priority": "3",
+    "voice_id": "308220010"
+  },
+  {
+    "id": "2270205",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Look at the power of the Demon Lord!",
+    "priority": "3",
+    "voice_id": "308220016"
+  },
+  {
+    "id": "2270206",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "This is the force of power control!",
+    "priority": "3",
+    "voice_id": "308220013"
+  },
+  {
+    "id": "2270207",
+    "character_id": "220",
+    "shape": "22702",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Ngh!",
+    "priority": "5",
+    "voice_id": "308220014"
+  },
+  {
+    "id": "1000301",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_battle_start",
+    "bubble": "1",
+    "text_id": "Axel Hearts for life!",
+    "priority": "1",
+    "voice_id": "308141001"
+  },
+  {
+    "id": "1000302",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Hwah!",
+    "priority": "3",
+    "voice_id": "308141002"
+  },
+  {
+    "id": "1000303",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "Behold my awesome power!",
+    "priority": "3",
+    "voice_id": "308141003"
+  },
+  {
+    "id": "1000304",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_attack",
+    "bubble": "1",
+    "text_id": "None shall hinder our great cause!",
+    "priority": "3",
+    "voice_id": "308141004"
+  },
+  {
+    "id": "1000305",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_sp_standby",
+    "bubble": "1",
+    "text_id": "Yes, oh yes!",
+    "priority": "3",
+    "voice_id": "308141005"
+  },
+  {
+    "id": "1000306",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_sp_skill",
+    "bubble": "1",
+    "text_id": "Hard work is always rewarded!",
+    "priority": "3",
+    "voice_id": "308141006"
+  },
+  {
+    "id": "1000307",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "hp_under30",
+    "bubble": "1",
+    "text_id": "I need more! Light my very soul on fire!",
+    "priority": "2",
+    "voice_id": "308141007"
+  },
+  {
+    "id": "1000308",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Hwaha!",
+    "priority": "3",
+    "voice_id": "308141008"
+  },
+  {
+    "id": "1000309",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Only death awaits you!",
+    "priority": "3",
+    "voice_id": "308141009"
+  },
+  {
+    "id": "1000310",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_attack_under30",
+    "bubble": "1",
+    "text_id": "Outta the way!",
+    "priority": "3",
+    "voice_id": "308141010"
+  },
+  {
+    "id": "1000311",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "down",
+    "bubble": "1",
+    "text_id": "Don't let this hurt your opinion of dancers...",
+    "priority": "1",
+    "voice_id": "308141011"
+  },
+  {
+    "id": "1000312",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Is that all you've got?!",
+    "priority": "5",
+    "voice_id": "308141012"
+  },
+  {
+    "id": "1000313",
+    "character_id": "141",
+    "shape": "10003",
+    "type": "enemy_damage",
+    "bubble": "1",
+    "text_id": "Grrraaaaaarrr!",
+    "priority": "5",
+    "voice_id": "308141013"
+  }
+]
