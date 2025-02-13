@@ -5,7 +5,7 @@
     "name": "Small Power Potion",
     "description": "Slightly enhances the strength of party members.",
     "questskip_target": "1",
-    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_love/Source/1.png",
+    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_lv/Source/1.png",
     "category": "lv"
   },
   {
@@ -22,7 +22,7 @@
     "name": "Medium Power Potion",
     "description": "Moderately enhances the strength of party members.",
     "questskip_target": "1",
-    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_love/Source/2.png",
+    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_lv/Source/2.png",
     "category": "lv"
   },
   {
@@ -39,7 +39,7 @@
     "name": "Large Power Potion",
     "description": "Significantly enhances the strength of party members.",
     "questskip_target": "1",
-    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_love/Source/3.png",
+    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_lv/Source/3.png",
     "category": "lv"
   },
   {
@@ -47,7 +47,7 @@
     "id": "3",
     "name": "Mini Skill Potion",
     "description": "Use this potion on 1–3★ characters to raise their skill level by one.",
-    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_love/Source/3.png",
+    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_skill/Source/3.png",
     "category": "skill"
   },
   {
@@ -63,7 +63,7 @@
     "id": "4",
     "name": "Skill Potion",
     "description": "Use this potion on 4★ characters to raise their skill level by one.",
-    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_love/Source/4.png",
+    "icon_path": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMaterial_skill/Source/4.png",
     "category": "skill"
   },
   {
