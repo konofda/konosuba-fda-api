@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Generated files
+dist/
+
+# Logs
+*.log
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.env

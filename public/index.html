@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Konosuba FDA API</title>
+    <style>
+      :root {
+        --bg: #1a1a1a;
+        --text: #e0e0e0;
+        --text-dim: #888;
+        --border: #333;
+        --code-bg: #2a2a2a;
+        --hover: #3a3a3a;
+        --accent: #4a4a4a;
+        --tab-active: #2d2d2d;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "SF Mono", "Consolas", monospace;
+        line-height: 1.5;
+        background: var(--bg);
+        color: var(--text);
+        font-size: 14px;
+        padding: 2rem 1rem;
+      }
+
+      #root {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+
+      .container {
+        border: 1px solid var(--border);
+        border-radius: 4px;
+      }
+
+      h1 {
+        font-size: 1.2rem;
+        font-weight: normal;
+        padding: 1rem;
+        font-family: system-ui, -apple-system, sans-serif;
+      }
+
+      .description {
+        padding: 0.75rem 1rem;
+        color: var(--text-dim);
+        border-bottom: 1px solid var(--border);
+        font-family: system-ui, -apple-system, sans-serif;
+        font-size: 0.9rem;
+      }
+
+      .endpoints-list {
+        list-style: none;
+      }
+
+      .endpoint {
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid var(--border);
+      }
+
+      .endpoint:last-child {
+        border-bottom: none;
+      }
+
+      .endpoint:hover {
+        background: var(--hover);
+      }
+
+      .endpoint h3 {
+        font-size: 1rem;
+        font-weight: normal;
+        margin-bottom: 0.5rem;
+        color: var(--text);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .endpoint-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0.5rem;
+      }
+
+      .endpoint-title {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      code {
+        font-family: "SF Mono", "Consolas", monospace;
+        background: var(--code-bg);
+        padding: 0.4rem 0.6rem;
+        border-radius: 3px;
+        font-size: 0.9rem;
+        color: var(--text);
+        border: 1px solid var(--accent);
+      }
+
+      code a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .endpoint p {
+        color: var(--text-dim);
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+        font-family: system-ui, -apple-system, sans-serif;
+      }
+
+      footer {
+        margin-top: 1rem;
+        text-align: center;
+        color: var(--text-dim);
+        font-size: 0.9rem;
+        font-family: system-ui, -apple-system, sans-serif;
+        border-top: 1px solid var(--border);
+      }
+
+      footer a {
+        color: var(--text);
+        text-decoration: none;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+
+      .tabs {
+        display: flex;
+        border-bottom: 1px solid var(--border);
+      }
+
+      .tab {
+        padding: 0.75rem 1.5rem;
+        cursor: pointer;
+        border: none;
+        background: none;
+        color: var(--text);
+        font-family: "SF Mono", "Consolas", monospace;
+        font-size: 0.9rem;
+      }
+
+      .tab.active {
+        background: var(--tab-active);
+        border-bottom: 2px solid var(--text);
+      }
+
+      .tab:hover:not(.active) {
+        background: var(--hover);
+      }
+
+      .endpoints-container > div {
+        display: none;
+      }
+
+      .endpoints-container > div.active {
+        display: block;
+      }
+
+      @media (max-width: 640px) {
+        body {
+          padding: 1rem 0.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <div class="container">
+        <h1>🎮 Konosuba FDA API</h1>
+        <p class="description">API endpoints for Konosuba Fantastic Days asset management</p>
+
+        <div class="tabs">
+          <button class="tab" data-version="v0">v0</button>
+          <button class="tab active" data-version="v1">v1 (Latest)</button>
+        </div>
+
+        <div class="endpoints-container">
+          <div id="v0-endpoints">
+            <div class="endpoints-list">
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎴 Cards</div>
+                  <code><a href="./v0/cards.json">GET ./v0/cards.json</a></code>
+                </div>
+                <p>Access character card information and assets</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎭 Live2D</div>
+                  <code><a href="./v0/live2d.json">GET ./v0/live2d.json</a></code>
+                </div>
+                <p>Access Live2D model and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🦴 Spines</div>
+                  <code><a href="./v0/spines.json">GET ./v0/spines.json</a></code>
+                </div>
+                <p>Access Spine model and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📸 Stills</div>
+                  <code><a href="./v0/stills.json">GET ./v0/stills.json</a></code>
+                </div>
+                <p>Access story still images and CGs</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📖 Stories</div>
+                  <code><a href="./v0/stories.json">GET ./v0/stories.json</a></code>
+                </div>
+                <p>Access story scripts and narrative content</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🗣️ Voice</div>
+                  <code><a href="./v0/voice.json">GET ./v0/voice.json</a></code>
+                </div>
+                <p>Access voice lines and audio content</p>
+              </div>
+            </div>
+          </div>
+
+          <div id="v1-endpoints" class="active">
+            <div class="endpoints-list">
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">👋 Hello</div>
+                  <code><a href="./v1/hello.json">GET ./v1/hello.json</a></code>
+                </div>
+                <p>Basic API health check and welcome endpoint</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎭 All Live2D Models</div>
+                  <code><a href="./v1/all-models-live2d.json">GET ./v1/all-models-live2d.json</a></code>
+                </div>
+                <p>Access complete collection of Live2D models and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🦴 All Spine Models</div>
+                  <code><a href="./v1/all-models-spine.json">GET ./v1/all-models-spine.json</a></code>
+                </div>
+                <p>Access complete collection of Spine models and animation data</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">👥 Member Characters</div>
+                  <code><a href="./v1/member-characters.json">GET ./v1/member-characters.json</a></code>
+                </div>
+                <p>Retrieve information about game characters and their details</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎴 Member Cards</div>
+                  <code><a href="./v1/member-cards.json">GET ./v1/member-cards.json</a></code>
+                </div>
+                <p>Access character card information and assets</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📖 Story Scripts</div>
+                  <code><a href="./v1/story-scripts.json">GET ./v1/story-scripts.json</a></code>
+                </div>
+                <p>Access story scripts and narrative content</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🖼️ Story Backgrounds</div>
+                  <code><a href="./v1/story-backgrounds.json">GET ./v1/story-backgrounds.json</a></code>
+                </div>
+                <p>Access story background images and assets</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📸 Story Stills</div>
+                  <code><a href="./v1/story-stills.json">GET ./v1/story-stills.json</a></code>
+                </div>
+                <p>Access story still images and CGs</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">📺 Videos</div>
+                  <code><a href="./v1/videos.json">GET ./v1/videos.json</a></code>
+                </div>
+                <p>Retrieve video assets information</p>
+              </div>
+              <div class="endpoint">
+                <div class="endpoint-header">
+                  <div class="endpoint-title">🎵 Music</div>
+                  <code><a href="./v1/music.json">GET ./v1/music.json</a></code>
+                </div>
+                <p>Access music and audio related content</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <footer>
+          <p>
+            <a href="https://github.com/konofda/konosuba-fda-api" target="_blank" rel="noopener noreferrer">
+              View on GitHub
+            </a>
+          </p>
+        </footer>
+      </div>
+    </div>
+
+    <script>
+      document.querySelectorAll('.tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          // Remove active class from all tabs and content
+          document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+          document.querySelectorAll('.endpoints-container > div').forEach(content => content.classList.remove('active'));
+          
+          // Add active class to clicked tab and corresponding content
+          tab.classList.add('active');
+          document.getElementById(`${tab.dataset.version}-endpoints`).classList.add('active');
+        });
+      });
+    </script>
+  </body>
+</html>
