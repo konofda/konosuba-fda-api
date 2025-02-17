@@ -8,11 +8,15 @@ function extractStillId(filePath) {
     // Extract the folder name before the filename
     const parts = filePath.split("/");
     const stillFolderIndex = parts.findIndex((p) => p === "Still") + 1;
-    return parts[stillFolderIndex];
+    const id = parts[stillFolderIndex];
+    // Only accept IDs containing digits, underscores, and hyphens
+    return /^[\d_-]+$/.test(id) ? id : null;
   } else if (filePath.includes("IconStill")) {
     // For icon stills, take the filename without extension
     const filename = filePath.split("/").pop();
-    return filename.replace(".png", "");
+    const id = filename.replace(".png", "");
+    // Only accept IDs containing digits, underscores, and hyphens
+    return /^[\d_-]+$/.test(id) ? id : null;
   }
   return null;
 }
