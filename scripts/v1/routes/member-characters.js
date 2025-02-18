@@ -2,6 +2,7 @@ import { getWikiDataAsync } from "../../common/getWikiDataAsync.js";
 import { getRepoFileListAsync } from "../../repo-filelists/getRepoFileListAsync.js";
 import { fetchAxelFile } from "../../scrape-axel-repo/fetchAxelFile.js";
 import { processTextFields } from "../../scrape-axel-repo/utils.js";
+import { removeZeroProps } from "../../axel/utils/removeZeroProps.js";
 
 function extractCharacterIdsFromSprites(fileList) {
   console.log("🔍 Extracting character IDs from sprite paths...");
@@ -9,8 +10,8 @@ function extractCharacterIdsFromSprites(fileList) {
   const spriteData = new Map(); // Store sprite paths for later use
 
   fileList
-    .filter(path => path.includes('/CharacterImage/character_') && path.endsWith('.png'))
-    .forEach(path => {
+    .filter((path) => path.includes("/CharacterImage/character_") && path.endsWith(".png"))
+    .forEach((path) => {
       const match = path.match(/character_(\d+)(?:_([^.]+))?\.png$/);
       if (!match) return;
 
@@ -35,16 +36,16 @@ function extractCharacterIdsFromSprites(fileList) {
 function gatherAllUniqueIds(spriteIds, wikiData, axelData) {
   console.log("🎯 Gathering all unique character IDs from all sources...");
   const allIds = new Set(spriteIds);
-  
+
   // Add IDs from Wiki data
-  Object.keys(wikiData).forEach(id => allIds.add(id));
-  
+  Object.keys(wikiData).forEach((id) => allIds.add(id));
+
   // Add IDs from Axel data
-  axelData.forEach(char => allIds.add(char.id));
+  axelData.forEach((char) => allIds.add(char.id));
 
   const sortedIds = Array.from(allIds).sort((a, b) => Number(a) - Number(b));
   console.log(`📊 Found ${sortedIds.length} unique character IDs across all sources`);
-  
+
   return sortedIds;
 }
 
@@ -60,7 +61,7 @@ export default async function generateMemberCharacters() {
 
   console.log("🔄 Fetching character data from Axel...");
   const axelCharacters = await fetchAxelFile("character");
-  const translatedAxelData = await processTextFields(axelCharacters);
+  const translatedAxelData = removeZeroProps(await processTextFields(axelCharacters));
 
   // Extract IDs and sprite data
   const { spriteIds, spriteData } = extractCharacterIdsFromSprites(fileList);
@@ -71,7 +72,7 @@ export default async function generateMemberCharacters() {
 
   // Build character objects using data from all sources
   console.log("🔄 Building character objects from all available sources...");
-  const characters = allCharacterIds.map(id => {
+  const characters = allCharacterIds.map((id) => {
     const char = { base_id: id };
 
     // Add sprite data if available
@@ -90,12 +91,12 @@ export default async function generateMemberCharacters() {
     }
 
     // Add Axel data if available
-    const axelChar = translatedAxelData.find(c => c.id === id);
+    const axelChar = translatedAxelData.find((c) => c.id === id);
     if (axelChar) {
       const cleanAxelData = { ...axelChar };
       delete cleanAxelData.costume;
       delete cleanAxelData.background;
-      
+
       if (cleanAxelData.notice_text === "0") {
         delete cleanAxelData.notice_text;
       }
@@ -103,28 +104,24 @@ export default async function generateMemberCharacters() {
         delete cleanAxelData.birthday;
       }
 
-      Object.assign(char, {
-        name: cleanAxelData.name || char.name,
-        is_collab: cleanAxelData.is_collabo === "1" || char.is_collab,
-        ...cleanAxelData
-      });
+      Object.assign(char, { name: cleanAxelData.name || char.name, ...cleanAxelData });
     }
 
     return char;
   });
 
   // Report statistics
-  const missingSprites = characters.filter(char => !char.image_sprite);
+  const missingSprites = characters.filter((char) => !char.image_sprite);
   console.log(`⚠️ ${missingSprites.length} characters are missing sprite images`);
   if (missingSprites.length > 0) {
-    console.log("Missing sprites for:", missingSprites.map(char => char.base_id).join(", "));
+    console.log("Missing sprites for:", missingSprites.map((char) => char.base_id).join(", "));
   }
 
-  const missingAxelData = characters.filter(char => !translatedAxelData.find(axel => axel.id === char.base_id));
+  const missingAxelData = characters.filter((char) => !translatedAxelData.find((axel) => axel.id === char.base_id));
   if (missingAxelData.length > 0) {
     console.log(
       `⚠️ ${missingAxelData.length} characters missing from Axel data:`,
-      missingAxelData.map(char => char.base_id).join(", ")
+      missingAxelData.map((char) => char.base_id).join(", ")
     );
   }
 
