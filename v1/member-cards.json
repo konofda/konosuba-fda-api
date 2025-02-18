@@ -22331,7 +22331,9 @@
     "icon_small": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMember/Source/1804100.png",
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/1804100.png",
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/1804100.png",
-    "name": null
+    "name": "Sherry",
+    "character_name": "Sherry",
+    "is_collab": false
   },
   {
     "id": "1814100",
@@ -22469,7 +22471,7 @@
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/1834247.png",
     "name": "Misaka",
     "character_name": "Misaka",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1834248",
@@ -22482,7 +22484,7 @@
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/1834248.png",
     "name": "Misaka",
     "character_name": "Misaka",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1844189",
@@ -22537,7 +22539,7 @@
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/1844248.png",
     "name": "Kuroko",
     "character_name": "Kuroko",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1854189",
@@ -23977,7 +23979,7 @@
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/2283248.png",
     "name": "Shokuhou Misaki",
     "character_name": "Shokuhou Misaki",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2284247",
@@ -23990,7 +23992,7 @@
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/2284247.png",
     "name": "Shokuhou Misaki",
     "character_name": "Shokuhou Misaki",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2294247",
@@ -24001,7 +24003,9 @@
     "icon_small": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMember/Source/2294247.png",
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/2294247.png",
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/2294247.png",
-    "name": null
+    "name": "Furenda Seiverun",
+    "character_name": "Furenda Seiverun",
+    "is_collab": false
   },
   {
     "id": "2304247",
@@ -24012,7 +24016,9 @@
     "icon_small": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMember/Source/2304247.png",
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/2304247.png",
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/2304247.png",
-    "name": null
+    "name": "Saten & Uiharu",
+    "character_name": "Saten & Uiharu",
+    "is_collab": false
   },
   {
     "id": "2314100",
@@ -24025,7 +24031,7 @@
     "icon_large": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconLargeMember/Source/2314100.png",
     "name": "Nerimaki",
     "character_name": "Nerimaki",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1471100",
@@ -24038,7 +24044,7 @@
     "icon_large": null,
     "name": "Emilia",
     "character_name": "Emilia",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1501100",
@@ -24051,7 +24057,7 @@
     "icon_large": null,
     "name": "Rem",
     "character_name": "Rem",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1581100",
@@ -24064,7 +24070,7 @@
     "icon_large": null,
     "name": "Bell",
     "character_name": "Bell",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1601100",
@@ -24077,7 +24083,7 @@
     "icon_large": null,
     "name": "Aiz",
     "character_name": "Aiz",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1631100",
@@ -24090,7 +24096,7 @@
     "icon_large": null,
     "name": "Ainz",
     "character_name": "Ainz",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1641100",
@@ -24103,7 +24109,7 @@
     "icon_large": null,
     "name": "Albedo",
     "character_name": "Albedo",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1651100",
@@ -24116,7 +24122,7 @@
     "icon_large": null,
     "name": "Shalltear",
     "character_name": "Shalltear",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1801100",
@@ -24127,7 +24133,9 @@
     "icon_small": null,
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/1801100.png",
     "icon_large": null,
-    "name": null
+    "name": "Sherry",
+    "character_name": "Sherry",
+    "is_collab": false
   },
   {
     "id": "1811100",
@@ -24153,7 +24161,7 @@
     "icon_large": null,
     "name": "Misaka",
     "character_name": "Misaka",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1841100",
@@ -24166,7 +24174,7 @@
     "icon_large": null,
     "name": "Kuroko",
     "character_name": "Kuroko",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1851100",
@@ -24179,7 +24187,7 @@
     "icon_large": null,
     "name": "Accelerator",
     "character_name": "Accelerator",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1861100",
@@ -24192,7 +24200,7 @@
     "icon_large": null,
     "name": "Misaka clone",
     "character_name": "Misaka clone",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1921100",
@@ -24205,7 +24213,7 @@
     "icon_large": null,
     "name": "Naofumi",
     "character_name": "Naofumi",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1931100",
@@ -24218,7 +24226,7 @@
     "icon_large": null,
     "name": "Raphtalia",
     "character_name": "Raphtalia",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1941100",
@@ -24231,7 +24239,7 @@
     "icon_large": null,
     "name": "Filo",
     "character_name": "Filo",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1951100",
@@ -24244,7 +24252,7 @@
     "icon_large": null,
     "name": "Maple",
     "character_name": "Maple",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1961100",
@@ -24257,7 +24265,7 @@
     "icon_large": null,
     "name": "Sally",
     "character_name": "Sally",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1971100",
@@ -24270,7 +24278,7 @@
     "icon_large": null,
     "name": "Kasumi",
     "character_name": "Kasumi",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1981100",
@@ -24283,7 +24291,7 @@
     "icon_large": null,
     "name": "Rudeus",
     "character_name": "Rudeus",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "1991100",
@@ -24296,7 +24304,7 @@
     "icon_large": null,
     "name": "Roxy",
     "character_name": "Roxy",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2001100",
@@ -24309,7 +24317,7 @@
     "icon_large": null,
     "name": "Eris",
     "character_name": "Eris",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2051100",
@@ -24322,7 +24330,7 @@
     "icon_large": null,
     "name": "Subaru",
     "character_name": "Subaru",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2061100",
@@ -24335,7 +24343,7 @@
     "icon_large": null,
     "name": "Ram",
     "character_name": "Ram",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2071100",
@@ -24348,7 +24356,7 @@
     "icon_large": null,
     "name": "Beatrice",
     "character_name": "Beatrice",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2081100",
@@ -24361,7 +24369,7 @@
     "icon_large": null,
     "name": "Echidna",
     "character_name": "Echidna",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2091100",
@@ -24387,7 +24395,7 @@
     "icon_large": null,
     "name": "Kyon",
     "character_name": "Kyon",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2121100",
@@ -24400,7 +24408,7 @@
     "icon_large": null,
     "name": "Haruhi Suzumiya",
     "character_name": "Haruhi Suzumiya",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2131100",
@@ -24413,7 +24421,7 @@
     "icon_large": null,
     "name": "Yuki Nagato",
     "character_name": "Yuki Nagato",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2141100",
@@ -24426,7 +24434,7 @@
     "icon_large": null,
     "name": "Mikuru Asahina",
     "character_name": "Mikuru Asahina",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2171100",
@@ -24439,7 +24447,7 @@
     "icon_large": null,
     "name": "Rimuru",
     "character_name": "Rimuru",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2181100",
@@ -24452,7 +24460,7 @@
     "icon_large": null,
     "name": "Shuna",
     "character_name": "Shuna",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2191100",
@@ -24465,7 +24473,7 @@
     "icon_large": null,
     "name": "Shion",
     "character_name": "Shion",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2201100",
@@ -24478,7 +24486,7 @@
     "icon_large": null,
     "name": "Milim Nava",
     "character_name": "Milim Nava",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2231100",
@@ -24489,9 +24497,9 @@
     "icon_small": null,
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/2231100.png",
     "icon_large": null,
-    "name": "Cid Kagenou",
-    "character_name": "Cid Kagenou",
-    "is_collab": true
+    "name": "Shadow",
+    "character_name": "Shadow",
+    "is_collab": false
   },
   {
     "id": "2241100",
@@ -24504,7 +24512,7 @@
     "icon_large": null,
     "name": "Alpha",
     "character_name": "Alpha",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2251100",
@@ -24517,7 +24525,7 @@
     "icon_large": null,
     "name": "Beta",
     "character_name": "Beta",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2281100",
@@ -24530,7 +24538,7 @@
     "icon_large": null,
     "name": "Shokuhou Misaki",
     "character_name": "Shokuhou Misaki",
-    "is_collab": true
+    "is_collab": false
   },
   {
     "id": "2291100",
@@ -24541,7 +24549,9 @@
     "icon_small": null,
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/2291100.png",
     "icon_large": null,
-    "name": null
+    "name": "Furenda Seiverun",
+    "character_name": "Furenda Seiverun",
+    "is_collab": false
   },
   {
     "id": "2301100",
@@ -24552,7 +24562,9 @@
     "icon_small": null,
     "icon_middle": "Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/Source/2301100.png",
     "icon_large": null,
-    "name": null
+    "name": "Saten & Uiharu",
+    "character_name": "Saten & Uiharu",
+    "is_collab": false
   },
   {
     "id": "2311100",
@@ -24565,6 +24577,6 @@
     "icon_large": null,
     "name": "Nerimaki",
     "character_name": "Nerimaki",
-    "is_collab": true
+    "is_collab": false
   }
 ]
