@@ -1,173 +1,328 @@
 # Format:
 #   "character_id":         # Unique ID as string (e.g. "100")
 #     name: string          # Character's full name
-#     is_collab: true/false # true if from collaboration or crossover
+#     full_name: string     # Character's complete name including titles/surnames (optional)
+#     is_collabo: boolean   # true if from collaboration or crossover
+#     collabo: string       # Which collabo the character is from (if is_collabo is true)
+#     konofan_wiki: url     # Link to character's Konofan Wiki page (optional)
+#     konosuba_wiki: url    # Link to character's KonoSuba Wiki page (optional)
+#     other_wiki: url       # Link to character's wiki page on other franchise wikis (optional)
+#     original_character: boolean # true if character is original to KonoFan (optional)
+#     birthday: string      # Character's birthday (optional)
 #
 # Defaults:
-#   is_collab: false       # Characters are from main series unless specified
+#   is_collabo: false       # Characters are from main series unless specified
+#   original_character: false # Characters are from main series unless specified
 
 "100":
   name: Kazuma
+  full_name: Kazuma Satou
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Kazuma
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Kazuma_Satou
 "101":
   name: Aqua
+  full_name: Aqua
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Aqua
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Aqua
 "102":
   name: Megumin
+  full_name: Megumin
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Megumin
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Megumin
 "103":
   name: Darkness
+  full_name: Lalatina Ford Dustiness
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Darkness
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Darkness
 "104":
   name: Chris
+  full_name: Eris
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Chris
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Chris
 "105":
   name: Wiz
+  full_name: Wiz
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Wiz
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Wiz
 "106":
   name: Yunyun
+  full_name: Yunyun
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Yunyun
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Yunyun
 "107":
   name: Iris
+  full_name: Iris Stylish-Sword Belzerg
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Iris
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Iris
 "108":
   name: Komekko
+  full_name: Komekko
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Komekko
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Komekko
 "109":
   name: Cecily
+  full_name: Cecily
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Cecily
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Cecily
 "110":
   name: Arue
+  full_name: Arue
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Arue
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Arue
 "111":
   name: Mitsurugi
+  full_name: Kyouya Mitsurugi
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Mitsurugi
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Kyouya_Mitsurugi
 "112":
   name: Dust
+  full_name: Lain Sheyka
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Dust
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Dust
 "113":
   name: Rin
+  full_name: Rin
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Rin
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Rin
 "114":
   name: Lia
+  full_name: Lia
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Lia
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Lia
+  original_character: true
 "115":
   name: Cielo
+  full_name: Cielo
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Cielo
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Cielo
+  original_character: true
 "116":
   name: Erika
+  full_name: Erika
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Erika
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Erika
+  original_character: true
 "117":
   name: Melissa
+  full_name: Melissa
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Melissa
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Melissa
+  original_character: true
 "118":
   name: Mia
+  full_name: Mia
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Mia
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Mia
+  original_character: true
 "119":
   name: Amy
+  full_name: Amy
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Amy
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Amy
+  original_character: true
 "125":
   name: Rain
+  full_name: Rain
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Rain
+  birthday: 26th of November
 "126":
   name: Claire
+  full_name: Claire
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Claire
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Claire
 "128":
   name: Vanir
+  full_name: Vanir
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Vanir
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Vanir
+  birthday: 26th of August
 "147":
   name: Emilia
-  is_collab: true
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Emilia
+  is_collabo: true
+  collabo: rezero
 "150":
   name: Rem
-  is_collab: true
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Rem
+  is_collabo: true
+  collabo: rezero
 "151":
   name: Meru
 "158":
   name: Bell
-  is_collab: true
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Bell
+  is_collabo: true
+  collabo: danmachi
 "160":
   name: Aiz
-  is_collab: true
+  is_collabo: true
+  collabo: danmachi
 "163":
   name: Ainz
-  is_collab: true
+  is_collabo: true
+  collabo: overlord
 "164":
   name: Albedo
-  is_collab: true
+  is_collabo: true
+  collabo: overlord
 "165":
   name: Shalltear
-  is_collab: true
+  is_collabo: true
+  collabo: overlord
 "169":
   name: Lolisa
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Lolisa
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Lolisa
+"180":
+  name: Sherry
+  full_name: Sherry Morris Kreisler
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Sherry_Morris_Kreisler
+  # konofan_wiki: https://konofan.fandom.com/wiki/Character:Sherry
+  original_character: true
+  birthday: 15th of August
 "181":
   name: Funifura & Dodonko
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Funifura,https://konosuba.fandom.com/wiki/Dodonko
+  konofan_wiki: https://konofan.fandom.com/wiki/Character:Funifura_%26_Dodonko
 "183":
   name: Misaka
-  is_collab: true
+  is_collabo: true
+  collabo: index
 "184":
   name: Kuroko
-  is_collab: true
+  is_collabo: true
+  collabo: index
 "185":
   name: Accelerator
-  is_collab: true
+  is_collabo: true
+  collabo: index
 "186":
   name: Misaka clone
-  is_collab: true
+  is_collabo: true
+  collabo: index
 "192":
   name: Naofumi
-  is_collab: true
+  is_collabo: true
+  collabo: shieldhero
 "193":
   name: Raphtalia
-  is_collab: true
+  is_collabo: true
+  collabo: shieldhero
 "194":
   name: Filo
-  is_collab: true
+  is_collabo: true
+  collabo: shieldhero
 "195":
   name: Maple
-  is_collab: true
+  is_collabo: true
+  collabo: bofuri
 "196":
   name: Sally
-  is_collab: true
+  is_collabo: true
+  collabo: bofuri
 "197":
   name: Kasumi
-  is_collab: true
+  is_collabo: true
+  collabo: bofuri
 "198":
   name: Rudeus
-  is_collab: true
+  is_collabo: true
+  collabo: mushoku
 "199":
   name: Roxy
-  is_collab: true
+  is_collabo: true
+  collabo: mushoku
 "200":
   name: Eris
-  is_collab: true
+  is_collabo: true
+  collabo: mushoku
 "205":
   name: Subaru
-  is_collab: true
+  is_collabo: true
+  collabo: rezero
 "206":
   name: Ram
-  is_collab: true
+  is_collabo: true
+  collabo: rezero
 "207":
   name: Beatrice
-  is_collab: true
+  is_collabo: true
+  collabo: rezero
 "208":
   name: Echidna
-  is_collab: true
+  is_collabo: true
+  collabo: rezero
 "209":
   name: Zesta
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Zesta
+  # konofan_wiki: https://konofan.fandom.com/wiki/Character:Zesta
+  birthday: 1st of April
 "211":
   name: Kyon
-  is_collab: true
+  is_collabo: true
+  collabo: haruhi
 "212":
   name: Haruhi Suzumiya
-  is_collab: true
+  is_collabo: true
+  collabo: haruhi
 "213":
   name: Yuki Nagato
-  is_collab: true
+  is_collabo: true
+  collabo: haruhi
 "214":
   name: Mikuru Asahina
-  is_collab: true
+  is_collabo: true
+  collabo: haruhi
 "217":
   name: Rimuru
-  is_collab: true
+  is_collabo: true
+  collabo: slime
 "218":
   name: Shuna
-  is_collab: true
+  is_collabo: true
+  collabo: slime
 "219":
   name: Shion
-  is_collab: true
+  is_collabo: true
+  collabo: slime
 "220":
   name: Milim Nava
-  is_collab: true
+  is_collabo: true
+  collabo: slime
 "223":
-  name: Cid Kagenou
-  is_collab: true
+  name: Shadow
+  full_name: Cid Kagenou
+  is_collabo: true
+  collabo: shadowgarden
 "224":
   name: Alpha
-  is_collab: true
+  is_collabo: true
+  collabo: shadowgarden
 "225":
   name: Beta
-  is_collab: true
+  is_collabo: true
+  collabo: shadowgarden
 "228":
   name: Shokuhou Misaki
-  is_collab: true
+  full_name: Shokuhō Misaki
+  other_wiki: https://toarumajutsunoindex.fandom.com/wiki/Shokuhou_Misaki
+  is_collabo: true
+  collabo: index
+"229":
+  name: Furenda Seiverun
+  full_name: Furenda Seiverun
+  other_wiki: https://toarumajutsunoindex.fandom.com/wiki/Frenda_Seivelun
+  is_collabo: true
+  collabo: index
+"230":
+  name: Saten & Uiharu
+  full_name: Saten Ruiko & Uiharu Kazari
+  other_wiki: https://toarumajutsunoindex.fandom.com/wiki/Saten_Ruiko,https://toarumajutsunoindex.fandom.com/wiki/Uiharu_Kazari
+  is_collabo: true
+  collabo: index
 "231":
   name: Nerimaki
-  is_collab: true
+  konosuba_wiki: https://konosuba.fandom.com/wiki/Nerimaki
+  # konofan_wiki: https://konofan.fandom.com/wiki/Character:Nerimaki
+  birthday: 27th of July
+  is_collabo: true

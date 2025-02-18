@@ -3,67 +3,129 @@ import { getRepoFileListAsync } from "../../repo-filelists/getRepoFileListAsync.
 import { fetchAxelFile } from "../../scrape-axel-repo/fetchAxelFile.js";
 import { processTextFields } from "../../scrape-axel-repo/utils.js";
 
+function extractCharacterIdsFromSprites(fileList) {
+  console.log("🔍 Extracting character IDs from sprite paths...");
+  const spriteIds = new Set();
+  const spriteData = new Map(); // Store sprite paths for later use
+
+  fileList
+    .filter(path => path.includes('/CharacterImage/character_') && path.endsWith('.png'))
+    .forEach(path => {
+      const match = path.match(/character_(\d+)(?:_([^.]+))?\.png$/);
+      if (!match) return;
+
+      const [, id, altType] = match;
+      spriteIds.add(id);
+
+      // Store sprite paths for later use
+      if (!spriteData.has(id)) {
+        spriteData.set(id, { main: null, alt: [] });
+      }
+      const data = spriteData.get(id);
+      if (altType) {
+        data.alt.push(path);
+      } else {
+        data.main = path;
+      }
+    });
+
+  return { spriteIds, spriteData };
+}
+
+function gatherAllUniqueIds(spriteIds, wikiData, axelData) {
+  console.log("🎯 Gathering all unique character IDs from all sources...");
+  const allIds = new Set(spriteIds);
+  
+  // Add IDs from Wiki data
+  Object.keys(wikiData).forEach(id => allIds.add(id));
+  
+  // Add IDs from Axel data
+  axelData.forEach(char => allIds.add(char.id));
+
+  const sortedIds = Array.from(allIds).sort((a, b) => Number(a) - Number(b));
+  console.log(`📊 Found ${sortedIds.length} unique character IDs across all sources`);
+  
+  return sortedIds;
+}
+
 export default async function generateMemberCharacters() {
   console.log("👥 Starting member characters generation...");
 
-  // Load the assets file listing
+  // Load all data sources
   console.log("📋 Reading assets file listing...");
   const fileList = await getRepoFileListAsync("HaiKonofanDesu", "konofan-assets-jp-sortet");
 
-  // Read and parse the metadata YAML
   console.log("📚 Reading member characters data...");
-  const rawData = await getWikiDataAsync("member-characters");
+  const wikiData = await getWikiDataAsync("member-characters");
 
-  // Fetch and translate character data from Axel
   console.log("🔄 Fetching character data from Axel...");
-  const axelCharacters = await fetchAxelFile('character');
-  const translatedCharacters = await processTextFields(axelCharacters);
+  const axelCharacters = await fetchAxelFile("character");
+  const translatedAxelData = await processTextFields(axelCharacters);
 
-  console.log("🔄 Processing and applying defaults...");
-  const characters = Object.entries(rawData).reduce((acc, [id, data]) => {
-    // Skip comment entries that start with #
-    if (id.startsWith("#")) return acc;
+  // Extract IDs and sprite data
+  const { spriteIds, spriteData } = extractCharacterIdsFromSprites(fileList);
+  console.log(`🖼️ Found ${spriteIds.size} characters with sprites`);
 
-    // Look for character sprite
-    const spritePath = fileList.find(path => 
-      path.includes(`Assets/AddressableAssetsStore/UnityAssets/Battle/Sprite/CharacterImage/character_${id}`)
-    ) || null;
+  // Gather all unique IDs from all sources
+  const allCharacterIds = gatherAllUniqueIds(spriteIds, wikiData, translatedAxelData);
 
-    // Find matching Axel character data
-    const axelChar = translatedCharacters.find(char => char.id === id);
-    delete axelChar?.costume;
-    delete axelChar?.background;
+  // Build character objects using data from all sources
+  console.log("🔄 Building character objects from all available sources...");
+  const characters = allCharacterIds.map(id => {
+    const char = { base_id: id };
 
-    if (axelChar?.notice_text === "0") {
-      delete axelChar?.notice_text;
+    // Add sprite data if available
+    const sprites = spriteData.get(id);
+    if (sprites) {
+      char.image_sprite = sprites.main;
+      if (sprites.alt.length > 0) {
+        char.image_sprites_alt = sprites.alt;
+      }
     }
 
-    if (axelChar?.birthday === "0") {
-      delete axelChar?.birthday;
+    // Add Wiki data if available
+    const wikiChar = wikiData[id];
+    if (wikiChar) {
+      Object.assign(char, wikiChar);
     }
 
-    // Add character object to array instead of using id as key
-    acc.push({
-      base_id: id,
-      name: axelChar?.name || data.name,
-      is_collab: axelChar ? axelChar.is_collabo === "1" : (data.is_collab ?? false),
-      image_sprite: spritePath,
-      ...axelChar
-    });
-    return acc;
-  }, []);
+    // Add Axel data if available
+    const axelChar = translatedAxelData.find(c => c.id === id);
+    if (axelChar) {
+      const cleanAxelData = { ...axelChar };
+      delete cleanAxelData.costume;
+      delete cleanAxelData.background;
+      
+      if (cleanAxelData.notice_text === "0") {
+        delete cleanAxelData.notice_text;
+      }
+      if (cleanAxelData.birthday === "0") {
+        delete cleanAxelData.birthday;
+      }
 
-  // Report missing sprites
+      Object.assign(char, {
+        name: cleanAxelData.name || char.name,
+        is_collab: cleanAxelData.is_collabo === "1" || char.is_collab,
+        ...cleanAxelData
+      });
+    }
+
+    return char;
+  });
+
+  // Report statistics
   const missingSprites = characters.filter(char => !char.image_sprite);
   console.log(`⚠️ ${missingSprites.length} characters are missing sprite images`);
   if (missingSprites.length > 0) {
     console.log("Missing sprites for:", missingSprites.map(char => char.base_id).join(", "));
   }
 
-  // Report characters without Axel data
-  const missingAxelData = characters.filter(char => !translatedCharacters.find(axel => axel.id === char.base_id));
+  const missingAxelData = characters.filter(char => !translatedAxelData.find(axel => axel.id === char.base_id));
   if (missingAxelData.length > 0) {
-    console.log(`⚠️ ${missingAxelData.length} characters missing from Axel data:`, missingAxelData.map(char => char.base_id).join(", "));
+    console.log(
+      `⚠️ ${missingAxelData.length} characters missing from Axel data:`,
+      missingAxelData.map(char => char.base_id).join(", ")
+    );
   }
 
   console.log(`✨ Generated data for ${characters.length} characters`);
