@@ -47,6 +47,12 @@ export default async function generateMemberCards() {
   const axelMembers = await fetchAxelFile("member");
   const translatedMembers = await processTextFields(axelMembers);
 
+  // Fetch SD data from Axel for battle model unlocks
+  console.log("🎭 Fetching SD data for battle model unlocks...");
+  const sdData = await fetchAxelFile("sd");
+  // Create reverse lookup map: member_id -> battle_model_id
+  const unlockToBattleModel = new Map(sdData.map(sd => [sd.unlock_member_id, sd.id]).filter(([unlock]) => unlock !== "0"));
+
   console.log("🔍 Filtering and categorizing card assets...");
   const fullCardPaths = fileList.filter((line) => line.includes("MemberCardFull"));
   const iconSmallPaths = fileList.filter(
@@ -80,7 +86,7 @@ export default async function generateMemberCards() {
       });
     }
 
-    return {
+    const cardData = {
       id,
       ...parsedInfo,
       full_card: fullCardPaths.find((fp) => extractId(fp) === id) || null,
@@ -97,6 +103,14 @@ export default async function generateMemberCards() {
           is_collab: characterInfo.is_collab ?? false,
         }),
     };
+
+    // Add battle model unlock info if this card unlocks one
+    const unlockedBattleModel = unlockToBattleModel.get(id);
+    if (unlockedBattleModel) {
+      cardData.unlocks_battle_model = unlockedBattleModel;
+    }
+
+    return cardData;
   });
 
   // Log some statistics
@@ -122,6 +136,10 @@ export default async function generateMemberCards() {
       missingNames.map((card) => card.id).join(", ")
     );
   }
+
+  // Report battle model unlock statistics
+  const cardsWithUnlocks = cards.filter(card => card.unlocks_battle_model).length;
+  console.log(`🎭 Cards that unlock battle models: ${cardsWithUnlocks}`);
 
   console.log(`📊 Found ${cards.length} unique cards`);
   console.log("⭐ Rarity distribution:", rarityStats);

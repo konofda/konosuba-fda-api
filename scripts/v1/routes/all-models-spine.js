@@ -1,9 +1,5 @@
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
 import { getRepoFileListAsync } from "../../repo-filelists/getRepoFileListAsync.js";
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const PROJECT_ROOT = join(__dirname, "..", "..");
+import { fetchAxelFile } from "../../scrape-axel-repo/fetchAxelFile.js";
 
 function parseSpinePath(filePath) {
   // Only process spine json/txt files
@@ -21,21 +17,25 @@ function parseSpinePath(filePath) {
   const category = filePath.includes("/AllyUnit/") ? "ally" : filePath.includes("/EnemyUnit/") ? "enemy" : "assist";
 
   // For allies, try to extract character base id from filename
-  let base_id = null;
+  let character_id = null;
 
   if (category === "ally") {
     const possibleId = name.substring(0, 3);
     if (/^\d{3}$/.test(possibleId)) {
-      base_id = possibleId;
+      character_id = possibleId;
     }
   }
 
+  const folder = filePath.split("/").slice(-2, -1)[0];
+
   return {
     id: name,
-    name: name.charAt(0).toUpperCase() + name.slice(1),
-    base_id,
+    base_id: character_id,
+    character_id,
     category,
     path: filePath,
+    folder,
+    filename: filename.replace(/\.(json|txt)$/, ""),
   };
 }
 
@@ -46,42 +46,49 @@ export default async function generateMemberSpineModels() {
   console.log("📋 Reading assets file listing...");
   const fileList = await getRepoFileListAsync("HaiKonofanDesu", "konofan-assets-jp-sortet");
 
+  // Fetch SD data from Axel
+  console.log("🎭 Fetching SD data from Axel...");
+  const sdData = await fetchAxelFile("sd");
+  const sdMap = new Map(sdData.map(sd => [sd.id, sd.unlock_member_id]));
+
   // Filter and parse spine files
   console.log("🔍 Filtering and parsing spine model files...");
   const spines = fileList
-    // .filter((line) => line.match(/\.(json|txt)$/))
     .filter((line) => line.match(/\.(txt)$/))
     .map(parseSpinePath)
-    .filter(Boolean);
+    .filter(Boolean)
+    .map(spine => {
+      // Check if this spine has matching SD data with non-zero unlock_member_id
+      const unlockMemberId = sdMap.get(spine.id);
+      if (unlockMemberId && unlockMemberId !== "0") {
+        spine.unlock_member_id = unlockMemberId;
+      }
+      return spine;
+    });
 
   // Generate statistics
   const totalSpines = spines.length;
-  const allySpines = spines.filter((s) => s.category === "ally").length;
+  const allySpines = spines.filter((s) => s.category === "ally");
   const enemySpines = spines.filter((s) => s.category === "enemy").length;
   const assistSpines = spines.filter((s) => s.category === "assist").length;
-  const spinesWithCharId = spines.filter((s) => s.base_id).length;
 
-  // Group by character base_id for logging
-  const characterGroups = spines.reduce((acc, spine) => {
-    if (spine.base_id) {
-      acc[spine.base_id] = acc[spine.base_id] || [];
-      acc[spine.base_id].push(spine);
-    }
-    return acc;
-  }, {});
+  // Detailed ally statistics
+  const allyCount = allySpines.length;
+  const allyWithCharId = allySpines.filter((s) => s.character_id).length;
+  const allyWithoutCharId = allyCount - allyWithCharId;
+  const allyWithUnlock = allySpines.filter((s) => s.unlock_member_id).length;
+  const allyWithoutUnlock = allyCount - allyWithUnlock;
 
   // Log statistics
   console.log("\n📊 Spine Asset Statistics:");
   console.log(`🎭 Total spine assets: ${totalSpines}`);
-  console.log(`👥 Ally units: ${allySpines}`);
+  console.log(`👥 Ally units: ${allyCount}`);
   console.log(`👾 Enemy units: ${enemySpines}`);
   console.log(`🤝 Assist units: ${assistSpines}`);
-  console.log(`🆔 Spines with character ID: ${spinesWithCharId}`);
-
-  console.log("\n👥 Character Spine Distribution:");
-  Object.entries(characterGroups).forEach(([charId, charSpines]) => {
-    console.log(`🎨 Character ${charId}: ${charSpines.length} spine assets`);
-  });
+  
+  console.log("\n👥 Ally Unit Details:");
+  console.log(`🆔 With character ID: ${allyWithCharId} / Without: ${allyWithoutCharId}`);
+  console.log(`🔓 With unlock requirement: ${allyWithUnlock} / Without: ${allyWithoutUnlock}`);
 
   return spines;
 }

@@ -7,12 +7,12 @@
 #     konofan_wiki: url     # Link to character's Konofan Wiki page (optional)
 #     konosuba_wiki: url    # Link to character's KonoSuba Wiki page (optional)
 #     other_wiki: url       # Link to character's wiki page on other franchise wikis (optional)
-#     original_character: boolean # true if character is original to KonoFan (optional)
+#     is_original_character: boolean # true if character is original to KonoFan (optional)
 #     birthday: string      # Character's birthday (optional)
 #
 # Defaults:
 #   is_collabo: false       # Characters are from main series unless specified
-#   original_character: false # Characters are from main series unless specified
+#   is_original_character: false # Characters are from main series unless specified
 
 "100":
   name: Kazuma
@@ -89,37 +89,37 @@
   full_name: Lia
   konofan_wiki: https://konofan.fandom.com/wiki/Character:Lia
   konosuba_wiki: https://konosuba.fandom.com/wiki/Lia
-  original_character: true
+  is_original_character: true
 "115":
   name: Cielo
   full_name: Cielo
   konofan_wiki: https://konofan.fandom.com/wiki/Character:Cielo
   konosuba_wiki: https://konosuba.fandom.com/wiki/Cielo
-  original_character: true
+  is_original_character: true
 "116":
   name: Erika
   full_name: Erika
   konofan_wiki: https://konofan.fandom.com/wiki/Character:Erika
   konosuba_wiki: https://konosuba.fandom.com/wiki/Erika
-  original_character: true
+  is_original_character: true
 "117":
   name: Melissa
   full_name: Melissa
   konofan_wiki: https://konofan.fandom.com/wiki/Character:Melissa
   konosuba_wiki: https://konosuba.fandom.com/wiki/Melissa
-  original_character: true
+  is_original_character: true
 "118":
   name: Mia
   full_name: Mia
   konofan_wiki: https://konofan.fandom.com/wiki/Character:Mia
   konosuba_wiki: https://konosuba.fandom.com/wiki/Mia
-  original_character: true
+  is_original_character: true
 "119":
   name: Amy
   full_name: Amy
   konofan_wiki: https://konofan.fandom.com/wiki/Character:Amy
   konosuba_wiki: https://konosuba.fandom.com/wiki/Amy
-  original_character: true
+  is_original_character: true
 "125":
   name: Rain
   full_name: Rain
@@ -178,7 +178,7 @@
   full_name: Sherry Morris Kreisler
   konosuba_wiki: https://konosuba.fandom.com/wiki/Sherry_Morris_Kreisler
   # konofan_wiki: https://konofan.fandom.com/wiki/Character:Sherry
-  original_character: true
+  is_original_character: true
   birthday: 15th of August
 "181":
   name: Funifura & Dodonko
