@@ -703,7 +703,8 @@
     "max_luck": "87",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/12/24 0:00"
+    "display_start": "2021/12/24 0:00",
+    "unlocks_battle_model": "1000116"
   },
   {
     "id": "1004117",
@@ -744,7 +745,8 @@
     "max_luck": "87",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/1 0:00"
+    "display_start": "2023/1/1 0:00",
+    "unlocks_battle_model": "1000117"
   },
   {
     "id": "1004119",
@@ -785,7 +787,8 @@
     "max_luck": "89",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/15 0:00"
+    "display_start": "2022/4/15 0:00",
+    "unlocks_battle_model": "1000119"
   },
   {
     "id": "1004127",
@@ -826,7 +829,8 @@
     "max_luck": "90",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/6/10 0:00"
+    "display_start": "2022/6/10 0:00",
+    "unlocks_battle_model": "1000127"
   },
   {
     "id": "1004141",
@@ -867,7 +871,8 @@
     "max_luck": "86",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/4/10 0:00"
+    "display_start": "2023/4/10 0:00",
+    "unlocks_battle_model": "1000141"
   },
   {
     "id": "1004142",
@@ -908,7 +913,8 @@
     "max_luck": "88",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1000142"
   },
   {
     "id": "1004161",
@@ -950,7 +956,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2023/2/21 0:00",
-    "display_end": "2023/3/15 0:00"
+    "display_end": "2023/3/15 0:00",
+    "unlocks_battle_model": "1000161"
   },
   {
     "id": "1004186",
@@ -991,7 +998,8 @@
     "max_luck": "90",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1000186"
   },
   {
     "id": "1004200",
@@ -1032,7 +1040,8 @@
     "max_luck": "90",
     "book": "1",
     "isundead": "0",
-    "display_start": "2025/1/14 0:00"
+    "display_start": "2025/1/14 0:00",
+    "unlocks_battle_model": "1000200"
   },
   {
     "id": "1004205",
@@ -1073,7 +1082,8 @@
     "max_luck": "86",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/1/2 0:00"
+    "display_start": "2024/1/2 0:00",
+    "unlocks_battle_model": "1000205"
   },
   {
     "id": "1004234",
@@ -1114,7 +1124,8 @@
     "max_luck": "88",
     "book": "1",
     "isundead": "0",
-    "display_start": "2123/11/10 15:00"
+    "display_start": "2123/11/10 15:00",
+    "unlocks_battle_model": "1000234"
   },
   {
     "id": "1004241",
@@ -1156,7 +1167,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2124/1/31 15:00",
-    "display_end": "2124/2/27 15:00"
+    "display_end": "2124/2/27 15:00",
+    "unlocks_battle_model": "1000241"
   },
   {
     "id": "1004244",
@@ -1860,7 +1872,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/10/25 0:00"
+    "display_start": "2021/10/25 0:00",
+    "unlocks_battle_model": "1010107"
   },
   {
     "id": "1014117",
@@ -1901,7 +1914,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2025/1/14 0:00"
+    "display_start": "2025/1/14 0:00",
+    "unlocks_battle_model": "1010117"
   },
   {
     "id": "1014123",
@@ -1942,7 +1956,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/9/09 0:00"
+    "display_start": "2021/9/09 0:00",
+    "unlocks_battle_model": "1010123"
   },
   {
     "id": "1014132",
@@ -1984,7 +1999,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2021/11/09 0:00",
-    "display_end": "2021/11/23 0:00"
+    "display_end": "2021/11/23 0:00",
+    "unlocks_battle_model": "1010132"
   },
   {
     "id": "1014137",
@@ -2025,7 +2041,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/12/31 0:00"
+    "display_start": "2021/12/31 0:00",
+    "unlocks_battle_model": "1010137"
   },
   {
     "id": "1014142",
@@ -2066,7 +2083,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1010142"
   },
   {
     "id": "1014147",
@@ -2108,7 +2126,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2022/5/26 0:00",
-    "display_end": "2022/6/09 23:59"
+    "display_end": "2022/6/09 23:59",
+    "unlocks_battle_model": "1010147"
   },
   {
     "id": "1014160",
@@ -2149,7 +2168,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/6/5 0:00"
+    "display_start": "2023/6/5 0:00",
+    "unlocks_battle_model": "1010160"
   },
   {
     "id": "1014181",
@@ -2190,7 +2210,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/11/10 0:00"
+    "display_start": "2023/11/10 0:00",
+    "unlocks_battle_model": "1010181"
   },
   {
     "id": "1014186",
@@ -2231,7 +2252,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/8/7 0:00"
+    "display_start": "2023/8/7 0:00",
+    "unlocks_battle_model": "1010186"
   },
   {
     "id": "1014195",
@@ -2273,7 +2295,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2024/5/23 0:00",
-    "display_end": "2024/6/7 0:00"
+    "display_end": "2024/6/7 0:00",
+    "unlocks_battle_model": "1010195"
   },
   {
     "id": "1014200",
@@ -2314,7 +2337,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/12/8 0:00"
+    "display_start": "2023/12/8 0:00",
+    "unlocks_battle_model": "1010200"
   },
   {
     "id": "1014207",
@@ -2355,7 +2379,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/1/19 0:00"
+    "display_start": "2024/1/19 0:00",
+    "unlocks_battle_model": "1010207"
   },
   {
     "id": "1014213",
@@ -2396,7 +2421,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/3/26 0:00"
+    "display_start": "2024/3/26 0:00",
+    "unlocks_battle_model": "1010213"
   },
   {
     "id": "10142131",
@@ -2464,7 +2490,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/7/31 15:00",
-    "display_end": "2123/8/21 15:00"
+    "display_end": "2123/8/21 15:00",
+    "unlocks_battle_model": "1010225"
   },
   {
     "id": "1014228",
@@ -2505,7 +2532,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/8/16 0:00"
+    "display_start": "2024/8/16 0:00",
+    "unlocks_battle_model": "1010228"
   },
   {
     "id": "10142281",
@@ -2560,7 +2588,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/12/15 15:00",
-    "display_end": "2123/12/31 15:00"
+    "display_end": "2123/12/31 15:00",
+    "unlocks_battle_model": "1010236"
   },
   {
     "id": "1014237",
@@ -2601,7 +2630,8 @@
     "max_luck": "10",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/12/23 0:00"
+    "display_start": "2024/12/23 0:00",
+    "unlocks_battle_model": "1010237"
   },
   {
     "id": "1014244",
@@ -3224,7 +3254,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/9/23 0:00"
+    "display_start": "2021/9/23 0:00",
+    "unlocks_battle_model": "1020113"
   },
   {
     "id": "1024118",
@@ -3265,7 +3296,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/1/31 0:00"
+    "display_start": "2022/1/31 0:00",
+    "unlocks_battle_model": "1020118"
   },
   {
     "id": "1024126",
@@ -3306,7 +3338,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/2/24 0:00"
+    "display_start": "2022/2/24 0:00",
+    "unlocks_battle_model": "1020126"
   },
   {
     "id": "1024132",
@@ -3348,7 +3381,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2021/11/09 0:00",
-    "display_end": "2021/11/23 0:00"
+    "display_end": "2021/11/23 0:00",
+    "unlocks_battle_model": "1020132"
   },
   {
     "id": "1024137",
@@ -3389,7 +3423,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/12/31 0:00"
+    "display_start": "2021/12/31 0:00",
+    "unlocks_battle_model": "1020137"
   },
   {
     "id": "1024141",
@@ -3430,7 +3465,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/8/23 0:00"
+    "display_start": "2022/8/23 0:00",
+    "unlocks_battle_model": "1020141"
   },
   {
     "id": "1024142",
@@ -3471,7 +3507,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1020142"
   },
   {
     "id": "1024161",
@@ -3513,7 +3550,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2023/2/21 0:00",
-    "display_end": "2023/3/15 0:00"
+    "display_end": "2023/3/15 0:00",
+    "unlocks_battle_model": "1020161"
   },
   {
     "id": "1024169",
@@ -3554,7 +3592,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/3/15 0:00"
+    "display_start": "2023/3/15 0:00",
+    "unlocks_battle_model": "1020169"
   },
   {
     "id": "1024186",
@@ -3595,7 +3634,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1020186"
   },
   {
     "id": "1024189",
@@ -3637,7 +3677,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2122/5/11 15:00",
-    "display_end": "2122/5/31 15:00"
+    "display_end": "2122/5/31 15:00",
+    "unlocks_battle_model": "1020189"
   },
   {
     "id": "1024191",
@@ -3678,7 +3719,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/9/30 0:00"
+    "display_start": "2023/9/30 0:00",
+    "unlocks_battle_model": "1020191"
   },
   {
     "id": "1024199",
@@ -3720,7 +3762,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2023/12/18 0:00",
-    "display_end": "2023/12/26 0:00"
+    "display_end": "2023/12/26 0:00",
+    "unlocks_battle_model": "1020199"
   },
   {
     "id": "1024200",
@@ -3761,7 +3804,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/4/16 0:00"
+    "display_start": "2024/4/16 0:00",
+    "unlocks_battle_model": "1020200"
   },
   {
     "id": "1024210",
@@ -3803,7 +3847,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/1/20 15:00",
-    "display_end": "2123/2/10 15:00"
+    "display_end": "2123/2/10 15:00",
+    "unlocks_battle_model": "1020210"
   },
   {
     "id": "1024213",
@@ -3844,7 +3889,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/3/15 0:00"
+    "display_start": "2024/3/15 0:00",
+    "unlocks_battle_model": "1020213"
   },
   {
     "id": "10242131",
@@ -3911,7 +3957,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2123/3/31 15:00"
+    "display_start": "2123/3/31 15:00",
+    "unlocks_battle_model": "1020215"
   },
   {
     "id": "1024225",
@@ -3953,7 +4000,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/7/31 15:00",
-    "display_end": "2123/8/21 15:00"
+    "display_end": "2123/8/21 15:00",
+    "unlocks_battle_model": "1020225"
   },
   {
     "id": "1024228",
@@ -4020,7 +4068,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/9/30 0:00"
+    "display_start": "2024/9/30 0:00",
+    "unlocks_battle_model": "1020233"
   },
   {
     "id": "1024236",
@@ -4062,7 +4111,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/12/15 15:00",
-    "display_end": "2123/12/31 15:00"
+    "display_end": "2123/12/31 15:00",
+    "unlocks_battle_model": "1020236"
   },
   {
     "id": "1024241",
@@ -4104,7 +4154,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2124/1/31 15:00",
-    "display_end": "2124/2/27 15:00"
+    "display_end": "2124/2/27 15:00",
+    "unlocks_battle_model": "1020241"
   },
   {
     "id": "1024244",
@@ -4726,7 +4777,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/10/25 0:00"
+    "display_start": "2021/10/25 0:00",
+    "unlocks_battle_model": "1030107"
   },
   {
     "id": "1034114",
@@ -4780,7 +4832,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/8/30 0:00"
+    "display_start": "2021/8/30 0:00",
+    "unlocks_battle_model": "1030123"
   },
   {
     "id": "1034135",
@@ -4821,7 +4874,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/12/14 0:00"
+    "display_start": "2021/12/14 0:00",
+    "unlocks_battle_model": "1030135"
   },
   {
     "id": "1034142",
@@ -4862,7 +4916,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1030142"
   },
   {
     "id": "1034147",
@@ -4905,7 +4960,8 @@
     "isundead": "0",
     "display_start": "2022/5/26 0:00",
     "display_end": "2022/6/09 23:59",
-    "notice_text": "Darkness (Sword Princess's Student) has normal attack accuracy."
+    "notice_text": "Darkness (Sword Princess's Student) has normal attack accuracy.",
+    "unlocks_battle_model": "1030147"
   },
   {
     "id": "1034161",
@@ -4947,7 +5003,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2023/2/21 0:00",
-    "display_end": "2023/3/15 0:00"
+    "display_end": "2023/3/15 0:00",
+    "unlocks_battle_model": "1030161"
   },
   {
     "id": "1034181",
@@ -4988,7 +5045,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/11/10 0:00"
+    "display_start": "2023/11/10 0:00",
+    "unlocks_battle_model": "1030181"
   },
   {
     "id": "1034183",
@@ -5029,7 +5087,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/7 0:00"
+    "display_start": "2023/7/7 0:00",
+    "unlocks_battle_model": "1030183"
   },
   {
     "id": "1034186",
@@ -5070,7 +5129,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/8/7 0:00"
+    "display_start": "2023/8/7 0:00",
+    "unlocks_battle_model": "1030186"
   },
   {
     "id": "1034200",
@@ -5125,7 +5185,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2122/10/31 15:00",
-    "display_end": "2122/11/22 15:00"
+    "display_end": "2122/11/22 15:00",
+    "unlocks_battle_model": "1030203"
   },
   {
     "id": "1034211",
@@ -5166,7 +5227,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/2/27 0:00"
+    "display_start": "2024/2/27 0:00",
+    "unlocks_battle_model": "1030211"
   },
   {
     "id": "1034213",
@@ -5207,7 +5269,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/3/15 0:00"
+    "display_start": "2024/3/15 0:00",
+    "unlocks_battle_model": "1030213"
   },
   {
     "id": "10342131",
@@ -5274,7 +5337,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/7/5 0:00"
+    "display_start": "2024/7/5 0:00",
+    "unlocks_battle_model": "1030223"
   },
   {
     "id": "1034228",
@@ -5315,7 +5379,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/8/16 0:00"
+    "display_start": "2024/8/16 0:00",
+    "unlocks_battle_model": "1030228"
   },
   {
     "id": "10342281",
@@ -5369,7 +5434,8 @@
     "max_luck": "64",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/11/25 0:00"
+    "display_start": "2024/11/25 0:00",
+    "unlocks_battle_model": "1030235"
   },
   {
     "id": "1034244",
@@ -5895,7 +5961,8 @@
     "max_luck": "92",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/1/21 0:00"
+    "display_start": "2022/1/21 0:00",
+    "unlocks_battle_model": "1040110"
   },
   {
     "id": "1044117",
@@ -5936,7 +6003,8 @@
     "max_luck": "89",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/3/15 0:00"
+    "display_start": "2022/3/15 0:00",
+    "unlocks_battle_model": "1040117"
   },
   {
     "id": "1044125",
@@ -5977,7 +6045,8 @@
     "max_luck": "91",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/23 0:00"
+    "display_start": "2022/4/23 0:00",
+    "unlocks_battle_model": "1040125"
   },
   {
     "id": "1044127",
@@ -6018,7 +6087,8 @@
     "max_luck": "88",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/9/26 0:00"
+    "display_start": "2022/9/26 0:00",
+    "unlocks_battle_model": "1040127"
   },
   {
     "id": "1044142",
@@ -6059,7 +6129,8 @@
     "max_luck": "89",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1040142"
   },
   {
     "id": "1044151",
@@ -6100,7 +6171,8 @@
     "max_luck": "90",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/8/16 0:00"
+    "display_start": "2022/8/16 0:00",
+    "unlocks_battle_model": "1040151"
   },
   {
     "id": "1044183",
@@ -6141,7 +6213,8 @@
     "max_luck": "91",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/7 0:00"
+    "display_start": "2023/7/7 0:00",
+    "unlocks_battle_model": "1040183"
   },
   {
     "id": "1044200",
@@ -6182,7 +6255,8 @@
     "max_luck": "90",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/7/5 0:00"
+    "display_start": "2024/7/5 0:00",
+    "unlocks_battle_model": "1040200"
   },
   {
     "id": "1044203",
@@ -6224,7 +6298,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2122/10/31 15:00",
-    "display_end": "2122/11/22 15:00"
+    "display_end": "2122/11/22 15:00",
+    "unlocks_battle_model": "1040203"
   },
   {
     "id": "1044218",
@@ -6265,7 +6340,8 @@
     "max_luck": "88",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/5/14 0:00"
+    "display_start": "2024/5/14 0:00",
+    "unlocks_battle_model": "1040218"
   },
   {
     "id": "1044229",
@@ -6306,7 +6382,8 @@
     "max_luck": "89",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/10/11 0:00"
+    "display_start": "2024/10/11 0:00",
+    "unlocks_battle_model": "1040229"
   },
   {
     "id": "1044244",
@@ -6875,7 +6952,8 @@
     "max_luck": "55",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/9/22 0:00"
+    "display_start": "2023/9/22 0:00",
+    "unlocks_battle_model": "1050107"
   },
   {
     "id": "1054113",
@@ -6916,7 +6994,8 @@
     "max_luck": "53",
     "book": "1",
     "isundead": "1",
-    "display_start": "2021/9/23 0:00"
+    "display_start": "2021/9/23 0:00",
+    "unlocks_battle_model": "1050113"
   },
   {
     "id": "1054114",
@@ -6957,7 +7036,8 @@
     "max_luck": "54",
     "book": "1",
     "isundead": "1",
-    "display_start": "2022/11/8 0:00"
+    "display_start": "2022/11/8 0:00",
+    "unlocks_battle_model": "1050114"
   },
   {
     "id": "1054123",
@@ -6998,7 +7078,8 @@
     "max_luck": "55",
     "book": "1",
     "isundead": "1",
-    "display_start": "2021/9/09 0:00"
+    "display_start": "2021/9/09 0:00",
+    "unlocks_battle_model": "1050123"
   },
   {
     "id": "1054130",
@@ -7039,7 +7120,8 @@
     "max_luck": "53",
     "book": "1",
     "isundead": "1",
-    "display_start": "2022/9/10 0:00"
+    "display_start": "2022/9/10 0:00",
+    "unlocks_battle_model": "1050130"
   },
   {
     "id": "1054135",
@@ -7080,7 +7162,8 @@
     "max_luck": "55",
     "book": "1",
     "isundead": "1",
-    "display_start": "2021/12/14 0:00"
+    "display_start": "2021/12/14 0:00",
+    "unlocks_battle_model": "1050135"
   },
   {
     "id": "1054142",
@@ -7121,7 +7204,8 @@
     "max_luck": "53",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1050142"
   },
   {
     "id": "1054172",
@@ -7162,7 +7246,8 @@
     "max_luck": "55",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/7/15 0:00"
+    "display_start": "2023/7/15 0:00",
+    "unlocks_battle_model": "1050172"
   },
   {
     "id": "1054200",
@@ -7203,7 +7288,8 @@
     "max_luck": "53",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/2/8 0:00"
+    "display_start": "2024/2/8 0:00",
+    "unlocks_battle_model": "1050200"
   },
   {
     "id": "1054213",
@@ -7244,7 +7330,8 @@
     "max_luck": "54",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/3/26 0:00"
+    "display_start": "2024/3/26 0:00",
+    "unlocks_battle_model": "1050213"
   },
   {
     "id": "10542131",
@@ -7337,7 +7424,8 @@
     "max_luck": "53",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/12/23 0:00"
+    "display_start": "2024/12/23 0:00",
+    "unlocks_battle_model": "1050237"
   },
   {
     "id": "1061100",
@@ -7959,7 +8047,8 @@
     "max_luck": "68",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/1/12 0:00"
+    "display_start": "2022/1/12 0:00",
+    "unlocks_battle_model": "1060107"
   },
   {
     "id": "1064114",
@@ -8013,7 +8102,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/1/31 0:00"
+    "display_start": "2022/1/31 0:00",
+    "unlocks_battle_model": "1060118"
   },
   {
     "id": "1064125",
@@ -8054,7 +8144,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/9/15 0:00"
+    "display_start": "2023/9/15 0:00",
+    "unlocks_battle_model": "1060125"
   },
   {
     "id": "1064129",
@@ -8095,7 +8186,8 @@
     "max_luck": "68",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/10/14 0:00"
+    "display_start": "2021/10/14 0:00",
+    "unlocks_battle_model": "1060129"
   },
   {
     "id": "1064142",
@@ -8136,7 +8228,8 @@
     "max_luck": "68",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1060142"
   },
   {
     "id": "1064144",
@@ -8177,7 +8270,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/18 0:00"
+    "display_start": "2023/7/18 0:00",
+    "unlocks_battle_model": "1060144"
   },
   {
     "id": "1064154",
@@ -8218,7 +8312,8 @@
     "max_luck": "67",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/11/17 0:00"
+    "display_start": "2022/11/17 0:00",
+    "unlocks_battle_model": "1060154"
   },
   {
     "id": "1064169",
@@ -8259,7 +8354,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/3/15 0:00"
+    "display_start": "2023/3/15 0:00",
+    "unlocks_battle_model": "1060169"
   },
   {
     "id": "1064189",
@@ -8301,7 +8397,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2122/5/11 15:00",
-    "display_end": "2122/5/31 15:00"
+    "display_end": "2122/5/31 15:00",
+    "unlocks_battle_model": "1060189"
   },
   {
     "id": "1064200",
@@ -8342,7 +8439,8 @@
     "max_luck": "68",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/9/19 0:00"
+    "display_start": "2024/9/19 0:00",
+    "unlocks_battle_model": "1060200"
   },
   {
     "id": "1064208",
@@ -8383,7 +8481,8 @@
     "max_luck": "67",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/2/8 0:00"
+    "display_start": "2024/2/8 0:00",
+    "unlocks_battle_model": "1060208"
   },
   {
     "id": "1064217",
@@ -8424,7 +8523,8 @@
     "max_luck": "68",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/6/26 0:00"
+    "display_start": "2024/6/26 0:00",
+    "unlocks_battle_model": "1060217"
   },
   {
     "id": "1064218",
@@ -8465,7 +8565,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/5/14 0:00"
+    "display_start": "2024/5/14 0:00",
+    "unlocks_battle_model": "1060218"
   },
   {
     "id": "1064237",
@@ -8506,7 +8607,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/12/11 0:00"
+    "display_start": "2024/12/11 0:00",
+    "unlocks_battle_model": "1060237"
   },
   {
     "id": "1064241",
@@ -8548,7 +8650,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2124/1/31 15:00",
-    "display_end": "2124/2/27 15:00"
+    "display_end": "2124/2/27 15:00",
+    "unlocks_battle_model": "1060241"
   },
   {
     "id": "1071100",
@@ -9091,7 +9194,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/6/18 0:00"
+    "display_start": "2024/6/18 0:00",
+    "unlocks_battle_model": "1070107"
   },
   {
     "id": "1074114",
@@ -9132,7 +9236,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/11/01 0:00"
+    "display_start": "2021/11/01 0:00",
+    "unlocks_battle_model": "1070114"
   },
   {
     "id": "1074119",
@@ -9173,7 +9278,8 @@
     "max_luck": "75",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/15 0:00"
+    "display_start": "2022/4/15 0:00",
+    "unlocks_battle_model": "1070119"
   },
   {
     "id": "1074129",
@@ -9214,7 +9320,8 @@
     "max_luck": "75",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/10/14 0:00"
+    "display_start": "2021/10/14 0:00",
+    "unlocks_battle_model": "1070129"
   },
   {
     "id": "1074139",
@@ -9255,7 +9362,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/16 0:00"
+    "display_start": "2023/5/16 0:00",
+    "unlocks_battle_model": "1070139"
   },
   {
     "id": "1074142",
@@ -9296,7 +9404,8 @@
     "max_luck": "75",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/28 0:00"
+    "display_start": "2023/7/28 0:00",
+    "unlocks_battle_model": "1070142"
   },
   {
     "id": "1074151",
@@ -9337,7 +9446,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/7/31 0:00"
+    "display_start": "2022/7/31 0:00",
+    "unlocks_battle_model": "1070151"
   },
   {
     "id": "1074169",
@@ -9378,7 +9488,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/3/28 0:00"
+    "display_start": "2023/3/28 0:00",
+    "unlocks_battle_model": "1070169"
   },
   {
     "id": "1074196",
@@ -9419,7 +9530,8 @@
     "max_luck": "75",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/10/27 0:00"
+    "display_start": "2023/10/27 0:00",
+    "unlocks_battle_model": "1070196"
   },
   {
     "id": "1074210",
@@ -9461,7 +9573,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/1/20 15:00",
-    "display_end": "2123/2/10 15:00"
+    "display_end": "2123/2/10 15:00",
+    "unlocks_battle_model": "1070210"
   },
   {
     "id": "1074215",
@@ -9502,7 +9615,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/4/16 0:00"
+    "display_start": "2024/4/16 0:00",
+    "unlocks_battle_model": "1070215"
   },
   {
     "id": "1074228",
@@ -9543,7 +9657,8 @@
     "max_luck": "75",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/11/4 0:00"
+    "display_start": "2024/11/4 0:00",
+    "unlocks_battle_model": "1070228"
   },
   {
     "id": "10742281",
@@ -10103,7 +10218,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/10/14 0:00"
+    "display_start": "2022/10/14 0:00",
+    "unlocks_battle_model": "1080113"
   },
   {
     "id": "1084117",
@@ -10157,7 +10273,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/6/26 0:00"
+    "display_start": "2024/6/26 0:00",
+    "unlocks_battle_model": "1080142"
   },
   {
     "id": "1084154",
@@ -10198,7 +10315,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/11/17 0:00"
+    "display_start": "2022/11/17 0:00",
+    "unlocks_battle_model": "1080154"
   },
   {
     "id": "1084160",
@@ -10239,7 +10357,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/6/16 0:00"
+    "display_start": "2023/6/16 0:00",
+    "unlocks_battle_model": "1080160"
   },
   {
     "id": "1084178",
@@ -10280,7 +10399,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/16 0:00"
+    "display_start": "2023/5/16 0:00",
+    "unlocks_battle_model": "1080178"
   },
   {
     "id": "1084191",
@@ -10321,7 +10441,8 @@
     "max_luck": "62",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/10/10 0:00"
+    "display_start": "2023/10/10 0:00",
+    "unlocks_battle_model": "1080191"
   },
   {
     "id": "1084195",
@@ -10363,7 +10484,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2024/5/23 0:00",
-    "display_end": "2024/6/7 0:00"
+    "display_end": "2024/6/7 0:00",
+    "unlocks_battle_model": "1080195"
   },
   {
     "id": "1084207",
@@ -10404,7 +10526,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/1/19 0:00"
+    "display_start": "2024/1/19 0:00",
+    "unlocks_battle_model": "1080207"
   },
   {
     "id": "1084217",
@@ -10445,7 +10568,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/5/6 0:00"
+    "display_start": "2024/5/6 0:00",
+    "unlocks_battle_model": "1080217"
   },
   {
     "id": "1084232",
@@ -10486,7 +10610,8 @@
     "max_luck": "62",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/9/9 0:00"
+    "display_start": "2024/9/9 0:00",
+    "unlocks_battle_model": "1080232"
   },
   {
     "id": "1091100",
@@ -11000,7 +11125,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/6 0:00"
+    "display_start": "2023/5/6 0:00",
+    "unlocks_battle_model": "1090110"
   },
   {
     "id": "1094114",
@@ -11041,7 +11167,8 @@
     "max_luck": "64",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/10/04 0:00"
+    "display_start": "2021/10/04 0:00",
+    "unlocks_battle_model": "1090114"
   },
   {
     "id": "1094116",
@@ -11082,7 +11209,8 @@
     "max_luck": "64",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/8/18 0:00"
+    "display_start": "2023/8/18 0:00",
+    "unlocks_battle_model": "1090116"
   },
   {
     "id": "1094126",
@@ -11123,7 +11251,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/2/24 0:00"
+    "display_start": "2022/2/24 0:00",
+    "unlocks_battle_model": "1090126"
   },
   {
     "id": "1094127",
@@ -11164,7 +11293,8 @@
     "max_luck": "64",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/10/5 0:00"
+    "display_start": "2022/10/5 0:00",
+    "unlocks_battle_model": "1090127"
   },
   {
     "id": "1094139",
@@ -11205,7 +11335,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/16 0:00"
+    "display_start": "2023/5/16 0:00",
+    "unlocks_battle_model": "1090139"
   },
   {
     "id": "1094142",
@@ -11246,7 +11377,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/9/5 0:00"
+    "display_start": "2023/9/5 0:00",
+    "unlocks_battle_model": "1090142"
   },
   {
     "id": "1094200",
@@ -11287,7 +11419,8 @@
     "max_luck": "65",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/12/11 0:00"
+    "display_start": "2024/12/11 0:00",
+    "unlocks_battle_model": "1090200"
   },
   {
     "id": "1094208",
@@ -11328,7 +11461,8 @@
     "max_luck": "66",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/2/19 0:00"
+    "display_start": "2024/2/19 0:00",
+    "unlocks_battle_model": "1090208"
   },
   {
     "id": "1094229",
@@ -11369,7 +11503,8 @@
     "max_luck": "64",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/8/28 0:00"
+    "display_start": "2024/8/28 0:00",
+    "unlocks_battle_model": "1090229"
   },
   {
     "id": "1101100",
@@ -11939,7 +12074,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/2/17 0:00"
+    "display_start": "2022/2/17 0:00",
+    "unlocks_battle_model": "1100110"
   },
   {
     "id": "1104116",
@@ -11980,7 +12116,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/12/24 0:00"
+    "display_start": "2021/12/24 0:00",
+    "unlocks_battle_model": "1100116"
   },
   {
     "id": "1104127",
@@ -12021,7 +12158,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/5/18 0:00"
+    "display_start": "2022/5/18 0:00",
+    "unlocks_battle_model": "1100127"
   },
   {
     "id": "1104142",
@@ -12062,7 +12200,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/9/5 0:00"
+    "display_start": "2023/9/5 0:00",
+    "unlocks_battle_model": "1100142"
   },
   {
     "id": "1104151",
@@ -12103,7 +12242,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/7/31 0:00"
+    "display_start": "2022/7/31 0:00",
+    "unlocks_battle_model": "1100151"
   },
   {
     "id": "1104169",
@@ -12144,7 +12284,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/3/28 0:00"
+    "display_start": "2023/3/28 0:00",
+    "unlocks_battle_model": "1100169"
   },
   {
     "id": "1104199",
@@ -12186,7 +12327,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2023/12/8 0:00",
-    "display_end": "2023/12/26 0:00"
+    "display_end": "2023/12/26 0:00",
+    "unlocks_battle_model": "1100199"
   },
   {
     "id": "1104226",
@@ -12227,7 +12369,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/8/5 0:00"
+    "display_start": "2024/8/5 0:00",
+    "unlocks_battle_model": "1100226"
   },
   {
     "id": "1104253",
@@ -12700,7 +12843,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/2/17 0:00"
+    "display_start": "2022/2/17 0:00",
+    "unlocks_battle_model": "1110110"
   },
   {
     "id": "1114114",
@@ -12741,7 +12885,8 @@
     "max_luck": "59",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/10/04 0:00"
+    "display_start": "2021/10/04 0:00",
+    "unlocks_battle_model": "1110114"
   },
   {
     "id": "1114125",
@@ -12782,7 +12927,8 @@
     "max_luck": "59",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/11/27 0:00"
+    "display_start": "2022/11/27 0:00",
+    "unlocks_battle_model": "1110125"
   },
   {
     "id": "1114127",
@@ -12823,7 +12969,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/5/12 0:00"
+    "display_start": "2022/5/12 0:00",
+    "unlocks_battle_model": "1110127"
   },
   {
     "id": "1114130",
@@ -12864,7 +13011,8 @@
     "max_luck": "60",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/30 0:00"
+    "display_start": "2023/1/30 0:00",
+    "unlocks_battle_model": "1110130"
   },
   {
     "id": "1114142",
@@ -12905,7 +13053,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/11/4 0:00"
+    "display_start": "2024/11/4 0:00",
+    "unlocks_battle_model": "1110142"
   },
   {
     "id": "1114180",
@@ -12946,7 +13095,8 @@
     "max_luck": "59",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/2/9 0:00"
+    "display_start": "2023/2/9 0:00",
+    "unlocks_battle_model": "1110180"
   },
   {
     "id": "1114201",
@@ -12987,7 +13137,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/12/26 0:00"
+    "display_start": "2023/12/26 0:00",
+    "unlocks_battle_model": "1110201"
   },
   {
     "id": "1121100",
@@ -13529,7 +13680,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/1/12 0:00"
+    "display_start": "2022/1/12 0:00",
+    "unlocks_battle_model": "1120107"
   },
   {
     "id": "1124110",
@@ -13570,7 +13722,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/11/24 0:00"
+    "display_start": "2021/11/24 0:00",
+    "unlocks_battle_model": "1120110"
   },
   {
     "id": "1124113",
@@ -13611,7 +13764,8 @@
     "max_luck": "62",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/20 0:00"
+    "display_start": "2023/1/20 0:00",
+    "unlocks_battle_model": "1120113"
   },
   {
     "id": "1124117",
@@ -13652,7 +13806,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/8/28 0:00"
+    "display_start": "2023/8/28 0:00",
+    "unlocks_battle_model": "1120117"
   },
   {
     "id": "1124125",
@@ -13693,7 +13848,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/23 0:00"
+    "display_start": "2022/4/23 0:00",
+    "unlocks_battle_model": "1120125"
   },
   {
     "id": "1124142",
@@ -13734,7 +13890,8 @@
     "max_luck": "63",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/1/9 0:00"
+    "display_start": "2024/1/9 0:00",
+    "unlocks_battle_model": "1120142"
   },
   {
     "id": "1124144",
@@ -13775,7 +13932,8 @@
     "max_luck": "61",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/18 0:00"
+    "display_start": "2023/7/18 0:00",
+    "unlocks_battle_model": "1120144"
   },
   {
     "id": "1131100",
@@ -14235,7 +14393,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/11/24 0:00"
+    "display_start": "2021/11/24 0:00",
+    "unlocks_battle_model": "1130110"
   },
   {
     "id": "1134117",
@@ -14276,7 +14435,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/6/17 0:00"
+    "display_start": "2022/6/17 0:00",
+    "unlocks_battle_model": "1130117"
   },
   {
     "id": "1134123",
@@ -14317,7 +14477,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/8/19 0:00"
+    "display_start": "2021/8/19 0:00",
+    "unlocks_battle_model": "1130123"
   },
   {
     "id": "1134127",
@@ -14358,7 +14519,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/10/5 0:00"
+    "display_start": "2022/10/5 0:00",
+    "unlocks_battle_model": "1130127"
   },
   {
     "id": "1134130",
@@ -14399,7 +14561,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/30 0:00"
+    "display_start": "2023/1/30 0:00",
+    "unlocks_battle_model": "1130130"
   },
   {
     "id": "1134142",
@@ -14440,7 +14603,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/1/9 0:00"
+    "display_start": "2024/1/9 0:00",
+    "unlocks_battle_model": "1130142"
   },
   {
     "id": "1134144",
@@ -14481,7 +14645,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/18 0:00"
+    "display_start": "2023/7/18 0:00",
+    "unlocks_battle_model": "1130144"
   },
   {
     "id": "1134154",
@@ -14522,7 +14687,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/12/22 0:00"
+    "display_start": "2022/12/22 0:00",
+    "unlocks_battle_model": "1130154"
   },
   {
     "id": "1134238",
@@ -14563,7 +14729,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2025/1/3 0:00"
+    "display_start": "2025/1/3 0:00",
+    "unlocks_battle_model": "1130238"
   },
   {
     "id": "1141100",
@@ -15174,7 +15341,8 @@
     "max_luck": "69",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/3/31 0:00"
+    "display_start": "2022/3/31 0:00",
+    "unlocks_battle_model": "1140105"
   },
   {
     "id": "1144110",
@@ -15215,7 +15383,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/4/6 0:00"
+    "display_start": "2023/4/6 0:00",
+    "unlocks_battle_model": "1140110"
   },
   {
     "id": "1144117",
@@ -15256,7 +15425,8 @@
     "max_luck": "69",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/1 0:00"
+    "display_start": "2023/1/1 0:00",
+    "unlocks_battle_model": "1140117"
   },
   {
     "id": "1144130",
@@ -15297,7 +15467,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/08 0:00"
+    "display_start": "2022/4/08 0:00",
+    "unlocks_battle_model": "1140130"
   },
   {
     "id": "1144142",
@@ -15338,7 +15509,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/11/10 0:00"
+    "display_start": "2023/11/10 0:00",
+    "unlocks_battle_model": "1140142"
   },
   {
     "id": "1144144",
@@ -15379,7 +15551,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/18 0:00"
+    "display_start": "2023/7/18 0:00",
+    "unlocks_battle_model": "1140144"
   },
   {
     "id": "1144180",
@@ -15420,7 +15593,8 @@
     "max_luck": "69",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/2/9 0:00"
+    "display_start": "2023/2/9 0:00",
+    "unlocks_battle_model": "1140180"
   },
   {
     "id": "1144200",
@@ -15474,7 +15648,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/2/27 0:00"
+    "display_start": "2024/2/27 0:00",
+    "unlocks_battle_model": "1140211"
   },
   {
     "id": "1144223",
@@ -15515,7 +15690,8 @@
     "max_luck": "69",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/7/15 0:00"
+    "display_start": "2024/7/15 0:00",
+    "unlocks_battle_model": "1140223"
   },
   {
     "id": "1144231",
@@ -15556,7 +15732,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/9/19 0:00"
+    "display_start": "2024/9/19 0:00",
+    "unlocks_battle_model": "1140231"
   },
   {
     "id": "1151100",
@@ -16057,7 +16234,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/3/23 0:00"
+    "display_start": "2022/3/23 0:00",
+    "unlocks_battle_model": "1150105"
   },
   {
     "id": "1154107",
@@ -16098,7 +16276,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/4/27 0:00"
+    "display_start": "2023/4/27 0:00",
+    "unlocks_battle_model": "1150107"
   },
   {
     "id": "1154113",
@@ -16139,7 +16318,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/7/15 0:00"
+    "display_start": "2022/7/15 0:00",
+    "unlocks_battle_model": "1150113"
   },
   {
     "id": "1154117",
@@ -16180,7 +16360,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/6/17 0:00"
+    "display_start": "2022/6/17 0:00",
+    "unlocks_battle_model": "1150117"
   },
   {
     "id": "1154142",
@@ -16221,7 +16402,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/11/21 0:00"
+    "display_start": "2023/11/21 0:00",
+    "unlocks_battle_model": "1150142"
   },
   {
     "id": "1154144",
@@ -16262,7 +16444,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/18 0:00"
+    "display_start": "2023/7/18 0:00",
+    "unlocks_battle_model": "1150144"
   },
   {
     "id": "1154151",
@@ -16303,7 +16486,8 @@
     "max_luck": "70",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/8/09 0:00"
+    "display_start": "2022/8/09 0:00",
+    "unlocks_battle_model": "1150151"
   },
   {
     "id": "1154218",
@@ -16344,7 +16528,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/11/15 0:00"
+    "display_start": "2024/11/15 0:00",
+    "unlocks_battle_model": "1150218"
   },
   {
     "id": "1161100",
@@ -16845,7 +17030,8 @@
     "max_luck": "76",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/3/23 0:00"
+    "display_start": "2022/3/23 0:00",
+    "unlocks_battle_model": "1160105"
   },
   {
     "id": "1164130",
@@ -16886,7 +17072,8 @@
     "max_luck": "78",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/12 0:00"
+    "display_start": "2022/4/12 0:00",
+    "unlocks_battle_model": "1160130"
   },
   {
     "id": "1164142",
@@ -16927,7 +17114,8 @@
     "max_luck": "78",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/11/21 0:00"
+    "display_start": "2023/11/21 0:00",
+    "unlocks_battle_model": "1160142"
   },
   {
     "id": "1164144",
@@ -16968,7 +17156,8 @@
     "max_luck": "75",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/7/18 0:00"
+    "display_start": "2023/7/18 0:00",
+    "unlocks_battle_model": "1160144"
   },
   {
     "id": "1164151",
@@ -17009,7 +17198,8 @@
     "max_luck": "77",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/8/09 0:00"
+    "display_start": "2022/8/09 0:00",
+    "unlocks_battle_model": "1160151"
   },
   {
     "id": "1164160",
@@ -17050,7 +17240,8 @@
     "max_luck": "76",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/6/16 0:00"
+    "display_start": "2023/6/16 0:00",
+    "unlocks_battle_model": "1160160"
   },
   {
     "id": "1164178",
@@ -17091,7 +17282,8 @@
     "max_luck": "79",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/16 0:00"
+    "display_start": "2023/5/16 0:00",
+    "unlocks_battle_model": "1160178"
   },
   {
     "id": "1164229",
@@ -17132,7 +17324,8 @@
     "max_luck": "79",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/9/30 0:00"
+    "display_start": "2024/9/30 0:00",
+    "unlocks_battle_model": "1160229"
   },
   {
     "id": "1171100",
@@ -17622,7 +17815,8 @@
     "max_luck": "81",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/9/03 0:00"
+    "display_start": "2022/9/03 0:00",
+    "unlocks_battle_model": "1170107"
   },
   {
     "id": "1174113",
@@ -17663,7 +17857,8 @@
     "max_luck": "79",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/20 0:00"
+    "display_start": "2023/1/20 0:00",
+    "unlocks_battle_model": "1170113"
   },
   {
     "id": "1174114",
@@ -17704,7 +17899,8 @@
     "max_luck": "78",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/26 0:00"
+    "display_start": "2023/5/26 0:00",
+    "unlocks_battle_model": "1170114"
   },
   {
     "id": "1174123",
@@ -17745,7 +17941,8 @@
     "max_luck": "78",
     "book": "1",
     "isundead": "0",
-    "display_start": "2021/8/19 0:00"
+    "display_start": "2021/8/19 0:00",
+    "unlocks_battle_model": "1170123"
   },
   {
     "id": "1174125",
@@ -17786,7 +17983,8 @@
     "max_luck": "77",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/11/27 0:00"
+    "display_start": "2022/11/27 0:00",
+    "unlocks_battle_model": "1170125"
   },
   {
     "id": "1174127",
@@ -17827,7 +18025,8 @@
     "max_luck": "80",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/11/3 0:00"
+    "display_start": "2023/11/3 0:00",
+    "unlocks_battle_model": "1170127"
   },
   {
     "id": "1174130",
@@ -17868,7 +18067,8 @@
     "max_luck": "80",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/4/08 0:00"
+    "display_start": "2022/4/08 0:00",
+    "unlocks_battle_model": "1170130"
   },
   {
     "id": "1174142",
@@ -17922,7 +18122,8 @@
     "max_luck": "81",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/8/28 0:00"
+    "display_start": "2024/8/28 0:00",
+    "unlocks_battle_model": "1170229"
   },
   {
     "id": "1181100",
@@ -18410,7 +18611,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/4/6 0:00"
+    "display_start": "2023/4/6 0:00",
+    "unlocks_battle_model": "1180110"
   },
   {
     "id": "1184113",
@@ -18451,7 +18653,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/7/15 0:00"
+    "display_start": "2022/7/15 0:00",
+    "unlocks_battle_model": "1180113"
   },
   {
     "id": "1184117",
@@ -18492,7 +18695,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/3/07 0:00"
+    "display_start": "2022/3/07 0:00",
+    "unlocks_battle_model": "1180117"
   },
   {
     "id": "1184125",
@@ -18533,7 +18737,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/9/15 0:00"
+    "display_start": "2023/9/15 0:00",
+    "unlocks_battle_model": "1180125"
   },
   {
     "id": "1184127",
@@ -18574,7 +18779,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/5/12 0:00"
+    "display_start": "2022/5/12 0:00",
+    "unlocks_battle_model": "1180127"
   },
   {
     "id": "1184142",
@@ -18641,7 +18847,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/9/17 0:00"
+    "display_start": "2022/9/17 0:00",
+    "unlocks_battle_model": "1180149"
   },
   {
     "id": "1184160",
@@ -18682,7 +18889,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/6/5 0:00"
+    "display_start": "2023/6/5 0:00",
+    "unlocks_battle_model": "1180160"
   },
   {
     "id": "1184212",
@@ -18723,7 +18931,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/3/7 0:00"
+    "display_start": "2024/3/7 0:00",
+    "unlocks_battle_model": "1180212"
   },
   {
     "id": "1184217",
@@ -18764,7 +18973,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/6/26 0:00"
+    "display_start": "2024/6/26 0:00",
+    "unlocks_battle_model": "1180217"
   },
   {
     "id": "1191100",
@@ -19293,7 +19503,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/5/6 0:00"
+    "display_start": "2023/5/6 0:00",
+    "unlocks_battle_model": "1190110"
   },
   {
     "id": "1194113",
@@ -19334,7 +19545,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/7/08 0:00"
+    "display_start": "2022/7/08 0:00",
+    "unlocks_battle_model": "1190113"
   },
   {
     "id": "1194117",
@@ -19375,7 +19587,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/3/07 0:00"
+    "display_start": "2022/3/07 0:00",
+    "unlocks_battle_model": "1190117"
   },
   {
     "id": "1194125",
@@ -19416,7 +19629,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/5/01 0:00"
+    "display_start": "2022/5/01 0:00",
+    "unlocks_battle_model": "1190125"
   },
   {
     "id": "1194142",
@@ -19470,7 +19684,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/9/17 0:00"
+    "display_start": "2022/9/17 0:00",
+    "unlocks_battle_model": "1190149"
   },
   {
     "id": "1194154",
@@ -19511,7 +19726,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2022/12/22 0:00"
+    "display_start": "2022/12/22 0:00",
+    "unlocks_battle_model": "1190154"
   },
   {
     "id": "1194196",
@@ -19552,7 +19768,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/10/27 0:00"
+    "display_start": "2023/10/27 0:00",
+    "unlocks_battle_model": "1190196"
   },
   {
     "id": "1194229",
@@ -19593,7 +19810,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/10/23 0:00"
+    "display_start": "2024/10/23 0:00",
+    "unlocks_battle_model": "1190229"
   },
   {
     "id": "1251100",
@@ -19998,7 +20216,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/7/26 0:00"
+    "display_start": "2024/7/26 0:00",
+    "unlocks_battle_model": "1260223"
   },
   {
     "id": "1264235",
@@ -20039,7 +20258,8 @@
     "max_luck": "74",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/11/25 0:00"
+    "display_start": "2024/11/25 0:00",
+    "unlocks_battle_model": "1260235"
   },
   {
     "id": "1264245",
@@ -20434,7 +20654,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/5/26 0:00"
+    "display_start": "2023/5/26 0:00",
+    "unlocks_battle_model": "1280114"
   },
   {
     "id": "1284116",
@@ -20475,7 +20696,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/8/18 0:00"
+    "display_start": "2023/8/18 0:00",
+    "unlocks_battle_model": "1280116"
   },
   {
     "id": "1284142",
@@ -20516,7 +20738,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/3/15 0:00"
+    "display_start": "2024/3/15 0:00",
+    "unlocks_battle_model": "1280142"
   },
   {
     "id": "1284172",
@@ -20558,7 +20781,8 @@
     "book": "1",
     "isundead": "1",
     "display_start": "2023/4/15 0:00",
-    "display_end": "2023/4/28 0:00"
+    "display_end": "2023/4/28 0:00",
+    "unlocks_battle_model": "1280172"
   },
   {
     "id": "1284191",
@@ -20599,7 +20823,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/9/30 0:00"
+    "display_start": "2023/9/30 0:00",
+    "unlocks_battle_model": "1280191"
   },
   {
     "id": "1284198",
@@ -20640,7 +20865,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/11/30 0:00"
+    "display_start": "2023/11/30 0:00",
+    "unlocks_battle_model": "1280198"
   },
   {
     "id": "1474132",
@@ -20724,7 +20950,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/5/20 15:00",
-    "display_end": "2123/6/11 15:00"
+    "display_end": "2123/6/11 15:00",
+    "unlocks_battle_model": "1470220"
   },
   {
     "id": "1504132",
@@ -20808,7 +21035,8 @@
     "book": "1",
     "isundead": "0",
     "display_start": "2123/5/20 15:00",
-    "display_end": "2123/6/11 15:00"
+    "display_end": "2123/6/11 15:00",
+    "unlocks_battle_model": "1500220"
   },
   {
     "id": "1511100",
@@ -21219,7 +21447,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/1/10 0:00"
+    "display_start": "2023/1/10 0:00",
+    "unlocks_battle_model": "1510105"
   },
   {
     "id": "1514107",
@@ -21260,7 +21489,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/4/27 0:00"
+    "display_start": "2023/4/27 0:00",
+    "unlocks_battle_model": "1510107"
   },
   {
     "id": "1514117",
@@ -21301,7 +21531,8 @@
     "max_luck": "73",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/8/28 0:00"
+    "display_start": "2023/8/28 0:00",
+    "unlocks_battle_model": "1510117"
   },
   {
     "id": "1514142",
@@ -21355,7 +21586,8 @@
     "max_luck": "71",
     "book": "1",
     "isundead": "0",
-    "display_start": "2023/10/10 0:00"
+    "display_start": "2023/10/10 0:00",
+    "unlocks_battle_model": "1510191"
   },
   {
     "id": "1514218",
@@ -21396,7 +21628,8 @@
     "max_luck": "72",
     "book": "1",
     "isundead": "0",
-    "display_start": "2024/11/15 0:00"
+    "display_start": "2024/11/15 0:00",
+    "unlocks_battle_model": "1510218"
   },
   {
     "id": "1584147",
@@ -22060,7 +22293,8 @@
     "max_luck": "77",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/9/22 0:00"
+    "display_start": "2023/9/22 0:00",
+    "unlocks_battle_model": "1690107"
   },
   {
     "id": "1694142",
@@ -22101,7 +22335,8 @@
     "max_luck": "78",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/3/15 0:00"
+    "display_start": "2024/3/15 0:00",
+    "unlocks_battle_model": "1690142"
   },
   {
     "id": "1694154",
@@ -22155,7 +22390,8 @@
     "max_luck": "79",
     "book": "1",
     "isundead": "1",
-    "display_start": "2023/10/18 0:00"
+    "display_start": "2023/10/18 0:00",
+    "unlocks_battle_model": "1690191"
   },
   {
     "id": "1694199",
@@ -22197,7 +22433,8 @@
     "book": "1",
     "isundead": "1",
     "display_start": "2023/12/18 0:00",
-    "display_end": "2023/12/26 0:00"
+    "display_end": "2023/12/26 0:00",
+    "unlocks_battle_model": "1690199"
   },
   {
     "id": "1694207",
@@ -22238,7 +22475,8 @@
     "max_luck": "76",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/1/29 0:00"
+    "display_start": "2024/1/29 0:00",
+    "unlocks_battle_model": "1690207"
   },
   {
     "id": "1694217",
@@ -22279,7 +22517,8 @@
     "max_luck": "77",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/6/7 0:00"
+    "display_start": "2024/6/7 0:00",
+    "unlocks_battle_model": "1690217"
   },
   {
     "id": "1694232",
@@ -22320,7 +22559,8 @@
     "max_luck": "79",
     "book": "1",
     "isundead": "1",
-    "display_start": "2024/9/9 0:00"
+    "display_start": "2024/9/9 0:00",
+    "unlocks_battle_model": "1690232"
   },
   {
     "id": "1804100",
