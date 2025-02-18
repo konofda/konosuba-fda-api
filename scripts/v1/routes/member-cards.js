@@ -26,6 +26,7 @@ function parseCharacterId(id) {
 
   return {
     base_id: id.substring(0, 3),
+    character_id: id.substring(0, 3),
     rarity: parseInt(id.charAt(3)) || null,
     event: id.substring(4) || null,
   };
