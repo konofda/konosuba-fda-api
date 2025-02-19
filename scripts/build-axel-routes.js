@@ -65,6 +65,7 @@ const AXEL_FILES = [
   "target_costume",
   "title_theme",
   "voice",
+  // "pack",
 ];
 
 async function processAxelFile(filename, noZeroProps) {

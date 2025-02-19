@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.js",
+    "build:dev": "node scripts/build.js --no-zero-props",
     "list-repo": "node scripts/load-repo-filelist.js",
     "format": "prettier --write ."
   },
