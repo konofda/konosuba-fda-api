@@ -1,32 +1,26 @@
 [
   {
     "id": "1",
-    "name": "Buy Quartz",
-    "description": "0"
+    "name": "Buy Quartz"
   },
   {
     "id": "4",
-    "name": "Recover Stamina",
-    "description": "0"
+    "name": "Recover Stamina"
   },
   {
     "id": "6",
-    "name": "Quartz Owned",
-    "description": "0"
+    "name": "Quartz Owned"
   },
   {
     "id": "7",
-    "name": "TEXT_SHOP_7",
-    "description": "0"
+    "name": "TEXT_SHOP_7"
   },
   {
     "id": "8",
-    "name": "TEXT_SHOP_8",
-    "description": "0"
+    "name": "TEXT_SHOP_8"
   },
   {
     "id": "9",
-    "name": "TEXT_SHOP_9",
-    "description": "0"
+    "name": "TEXT_SHOP_9"
   }
 ]

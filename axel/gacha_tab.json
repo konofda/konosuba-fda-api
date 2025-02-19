@@ -2,7 +2,6 @@
   {
     "id": "11",
     "tab": "LIMIT",
-    "start_at": "0",
     "end_at": "2020/03/09 15:00",
     "text": "Release Cele.",
     "gacha_id": "319111"
@@ -10,7 +9,6 @@
   {
     "id": "12",
     "tab": "LIMIT_2ND",
-    "start_at": "0",
     "end_at": "2020/03/09 15:00",
     "text": "Special",
     "gacha_id": "200012"
@@ -18,7 +16,6 @@
   {
     "id": "13",
     "tab": "PREMIUM",
-    "start_at": "0",
     "end_at": "2020/03/09 15:00",
     "text": "Premium",
     "gacha_id": "100001"

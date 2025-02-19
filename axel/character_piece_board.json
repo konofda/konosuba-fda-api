@@ -740,56 +740,49 @@
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "147",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "150000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "150",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "158000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "158",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "160000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "160",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "163000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "163",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "164000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "164",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "165000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "165",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "169001",
@@ -828,239 +821,209 @@
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "181",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "183000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "183",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "184000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "184",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "185000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "185",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "186000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "186",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "192000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "192",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "193000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "193",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "194000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "194",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "195000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "195",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "196000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "196",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "197000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "197",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "198000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "198",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "199000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "199",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "200000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "200",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "205000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "205",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "206000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "206",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "207000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "207",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "208000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "208",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "209000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "209",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "211000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "211",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "212000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "212",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "213000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "213",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "214000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "214",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "217000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "217",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "218000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "218",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "219000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "219",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "220000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "220",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "223000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "223",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "224000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "224",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   },
   {
     "board_id": "225000",
     "name": "All Elements",
     "subtitle_text": "Element ATK Boost",
     "chara_id": "225",
-    "attribute_1": "all",
-    "attribute_2": "0"
+    "attribute_1": "all"
   }
 ]

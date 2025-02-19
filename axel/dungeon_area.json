@@ -5,7 +5,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -13,9 +12,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "12",
@@ -31,9 +28,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "13",
@@ -49,9 +44,7 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "21",
@@ -59,7 +52,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "2011",
@@ -67,9 +59,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_202105collabo_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_202105collabo_1"
   },
   {
     "id": "22",
@@ -85,9 +75,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_202105collabo_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_202105collabo_2"
   },
   {
     "id": "23",
@@ -103,9 +91,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_202105collabo_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_202105collabo_3"
   },
   {
     "id": "31",
@@ -113,7 +99,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -121,9 +106,7 @@
     "benefit_lot_group": "11",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "32",
@@ -139,9 +122,7 @@
     "benefit_lot_group": "12",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "33",
@@ -157,9 +138,7 @@
     "benefit_lot_group": "13",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "41",
@@ -167,7 +146,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -175,9 +153,7 @@
     "benefit_lot_group": "11",
     "attr1": "light",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "42",
@@ -193,9 +169,7 @@
     "benefit_lot_group": "12",
     "attr1": "light",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "43",
@@ -211,9 +185,7 @@
     "benefit_lot_group": "13",
     "attr1": "light",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "51",
@@ -221,7 +193,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -229,9 +200,7 @@
     "benefit_lot_group": "11",
     "attr1": "wind",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "52",
@@ -247,9 +216,7 @@
     "benefit_lot_group": "12",
     "attr1": "wind",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "53",
@@ -265,9 +232,7 @@
     "benefit_lot_group": "13",
     "attr1": "wind",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "61",
@@ -275,7 +240,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -283,9 +247,7 @@
     "benefit_lot_group": "11",
     "attr1": "earth",
     "attr2": "water",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "62",
@@ -301,9 +263,7 @@
     "benefit_lot_group": "12",
     "attr1": "earth",
     "attr2": "water",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "63",
@@ -319,9 +279,7 @@
     "benefit_lot_group": "13",
     "attr1": "earth",
     "attr2": "water",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "71",
@@ -329,7 +287,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -337,9 +294,7 @@
     "benefit_lot_group": "11",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "72",
@@ -355,9 +310,7 @@
     "benefit_lot_group": "12",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "73",
@@ -373,9 +326,7 @@
     "benefit_lot_group": "13",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "81",
@@ -383,7 +334,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "3011",
@@ -391,9 +341,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "82",
@@ -409,9 +357,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "83",
@@ -427,9 +373,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "91",
@@ -437,7 +381,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "4011",
@@ -446,8 +389,7 @@
     "attr1": "cursed",
     "attr2": "light",
     "button_image": "btn_dungeon_difficulty_202111collabo_1",
-    "ng_character": "165",
-    "ng_assist": "0"
+    "ng_character": "165"
   },
   {
     "id": "92",
@@ -464,8 +406,7 @@
     "attr1": "cursed",
     "attr2": "light",
     "button_image": "btn_dungeon_difficulty_202111collabo_2",
-    "ng_character": "165",
-    "ng_assist": "0"
+    "ng_character": "165"
   },
   {
     "id": "93",
@@ -482,8 +423,7 @@
     "attr1": "cursed",
     "attr2": "light",
     "button_image": "btn_dungeon_difficulty_202111collabo_3",
-    "ng_character": "165",
-    "ng_assist": "0"
+    "ng_character": "165"
   },
   {
     "id": "101",
@@ -491,7 +431,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "3011",
@@ -499,9 +438,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "102",
@@ -517,9 +454,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "103",
@@ -535,9 +470,7 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "111",
@@ -545,7 +478,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "10011",
@@ -553,9 +485,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "112",
@@ -571,9 +501,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "113",
@@ -589,9 +517,7 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "121",
@@ -599,7 +525,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "11011",
@@ -607,9 +532,7 @@
     "benefit_lot_group": "11",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "122",
@@ -625,9 +548,7 @@
     "benefit_lot_group": "12",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "123",
@@ -643,9 +564,7 @@
     "benefit_lot_group": "13",
     "attr1": "thunder",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "131",
@@ -653,7 +572,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "12011",
@@ -661,9 +579,7 @@
     "benefit_lot_group": "11",
     "attr1": "light",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "132",
@@ -679,9 +595,7 @@
     "benefit_lot_group": "12",
     "attr1": "light",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "133",
@@ -697,9 +611,7 @@
     "benefit_lot_group": "13",
     "attr1": "light",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "141",
@@ -707,7 +619,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "13011",
@@ -715,9 +626,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "142",
@@ -733,9 +642,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "143",
@@ -751,9 +658,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "151",
@@ -761,7 +666,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -769,9 +673,7 @@
     "benefit_lot_group": "11",
     "attr1": "earth",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "152",
@@ -787,9 +689,7 @@
     "benefit_lot_group": "12",
     "attr1": "earth",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "153",
@@ -805,9 +705,7 @@
     "benefit_lot_group": "13",
     "attr1": "earth",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "161",
@@ -815,7 +713,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -823,9 +720,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "162",
@@ -841,9 +736,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "163",
@@ -859,9 +752,7 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "171",
@@ -869,7 +760,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -877,9 +767,7 @@
     "benefit_lot_group": "11",
     "attr1": "earth",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "172",
@@ -895,9 +783,7 @@
     "benefit_lot_group": "12",
     "attr1": "earth",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "173",
@@ -913,9 +799,7 @@
     "benefit_lot_group": "13",
     "attr1": "earth",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "181",
@@ -923,7 +807,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -931,9 +814,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "182",
@@ -949,9 +830,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "183",
@@ -967,9 +846,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "191",
@@ -977,7 +854,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -985,9 +861,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "192",
@@ -1003,9 +877,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "193",
@@ -1021,9 +893,7 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "201",
@@ -1031,7 +901,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1039,9 +908,7 @@
     "benefit_lot_group": "11",
     "attr1": "cursed",
     "attr2": "water",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "202",
@@ -1057,9 +924,7 @@
     "benefit_lot_group": "12",
     "attr1": "cursed",
     "attr2": "water",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "203",
@@ -1075,9 +940,7 @@
     "benefit_lot_group": "13",
     "attr1": "cursed",
     "attr2": "water",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "211",
@@ -1085,7 +948,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1093,9 +955,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "212",
@@ -1111,9 +971,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "213",
@@ -1129,9 +987,7 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "earth",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "221",
@@ -1139,7 +995,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1147,9 +1002,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "222",
@@ -1165,9 +1018,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "223",
@@ -1183,9 +1034,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "231",
@@ -1193,7 +1042,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1201,9 +1049,7 @@
     "benefit_lot_group": "11",
     "attr1": "earth",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "232",
@@ -1219,9 +1065,7 @@
     "benefit_lot_group": "12",
     "attr1": "earth",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "233",
@@ -1237,9 +1081,7 @@
     "benefit_lot_group": "13",
     "attr1": "earth",
     "attr2": "fire",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "241",
@@ -1247,7 +1089,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1255,9 +1096,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "242",
@@ -1273,9 +1112,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "243",
@@ -1291,9 +1128,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "251",
@@ -1301,7 +1136,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1309,9 +1143,7 @@
     "benefit_lot_group": "11",
     "attr1": "light",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "252",
@@ -1327,9 +1159,7 @@
     "benefit_lot_group": "12",
     "attr1": "light",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "253",
@@ -1345,9 +1175,7 @@
     "benefit_lot_group": "13",
     "attr1": "light",
     "attr2": "thunder",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "261",
@@ -1355,7 +1183,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1363,9 +1190,7 @@
     "benefit_lot_group": "11",
     "attr1": "cursed",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "262",
@@ -1381,9 +1206,7 @@
     "benefit_lot_group": "12",
     "attr1": "cursed",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "263",
@@ -1399,9 +1222,7 @@
     "benefit_lot_group": "13",
     "attr1": "cursed",
     "attr2": "wind",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "271",
@@ -1409,7 +1230,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "5011",
@@ -1417,9 +1237,7 @@
     "benefit_lot_group": "11",
     "attr1": "fire",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "272",
@@ -1435,9 +1253,7 @@
     "benefit_lot_group": "12",
     "attr1": "fire",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "273",
@@ -1453,9 +1269,7 @@
     "benefit_lot_group": "13",
     "attr1": "fire",
     "attr2": "cursed",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   },
   {
     "id": "991",
@@ -1463,7 +1277,6 @@
     "difficulty": "1",
     "title": "Keele's Dungeon",
     "member_num": "8",
-    "unlock_id": "0",
     "background": "9101",
     "skip_ticket": "1",
     "clear_rank_group": "1011",
@@ -1471,9 +1284,7 @@
     "benefit_lot_group": "11",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_1",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_1"
   },
   {
     "id": "992",
@@ -1489,9 +1300,7 @@
     "benefit_lot_group": "12",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_2",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_2"
   },
   {
     "id": "993",
@@ -1507,8 +1316,6 @@
     "benefit_lot_group": "13",
     "attr1": "water",
     "attr2": "light",
-    "button_image": "btn_dungeon_difficulty_default_3",
-    "ng_character": "0",
-    "ng_assist": "0"
+    "button_image": "btn_dungeon_difficulty_default_3"
   }
 ]

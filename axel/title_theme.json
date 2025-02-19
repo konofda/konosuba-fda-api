@@ -2,65 +2,43 @@
   {
     "movie": "OPMovieShort,op_short",
     "logo": "title_logo",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2023/11/30 0:00",
-    "display_end_at": "2023/12/8 0:00",
-    "bgm": "0"
+    "display_end_at": "2023/12/8 0:00"
   },
   {
     "movie": "OPMovieShort,op_short",
     "logo": "title_logo_1.5th",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2124/8/16 0:00",
-    "display_end_at": "2124/9/17 0:00",
-    "bgm": "0"
+    "display_end_at": "2124/9/17 0:00"
   },
   {
     "movie": "OPMovieShort,op_short",
     "logo": "title_logo_bakuen",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
     "jasrac_notation": "JASRAC Permitted #9026774012Y43073\\nJASRAC Permitted #9026774013Y43073\\nJASRAC Permitted #9026774014Y43073",
-    "copyright_image": "0",
     "display_start_at": "2123/06/11 15:00",
-    "display_end_at": "2123/06/30 15:00",
-    "bgm": "0"
+    "display_end_at": "2123/06/30 15:00"
   },
   {
     "movie": "OPMovieShort,op_short",
     "logo": "title_logo_3.5th",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2024/8/16 0:00",
-    "display_end_at": "2024/9/19 0:00",
-    "bgm": "0"
+    "display_end_at": "2024/9/19 0:00"
   },
   {
     "movie": "OPMovieShortDanmachi,op_short_danmachi",
     "logo": "title_logo_danmachi",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©NEXON All Rights Reserved. ©FO-SBCr/D4",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2121/04/30 15:00",
-    "display_end_at": "2121/05/14 22:00",
-    "bgm": "0"
+    "display_end_at": "2121/05/14 22:00"
   },
   {
     "movie": "OPMovieShortIkezunaKajitsu,op_short_ikezunakajitsu",
     "logo": "title_logo",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2121/02/27 15:00",
     "display_end_at": "2121/03/11 15:00",
     "bgm": "1010002"
@@ -68,65 +46,42 @@
   {
     "movie": "OPMovieShortOverload1,op_short_overload1",
     "logo": "title_logo_overload",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©NEXON All Rights Reserved. ©KM,K/OL4P",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2023/02/21 00:00",
-    "display_end_at": "2023/03/04 00:00",
-    "bgm": "0"
+    "display_end_at": "2023/03/04 00:00"
   },
   {
     "movie": "OPMovieShortOverload2,op_short_overload2",
     "logo": "title_logo_overload",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©NEXON All Rights Reserved. ©KM,K/OL4P",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2023/03/04 0:00",
-    "display_end_at": "2023/03/14 0:00",
-    "bgm": "0"
+    "display_end_at": "2023/03/14 0:00"
   },
   {
     "movie": "OPMovieShortRezero,op_short_rezero",
     "logo": "title_logo_rezero",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©NEXON All Rights Reserved. ©TN,K,Re:ZERO2P",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2021/11/09 00:00",
-    "display_end_at": "2021/11/23 0:00",
-    "bgm": "0"
+    "display_end_at": "2021/11/23 0:00"
   },
   {
     "movie": "OPMovieShortShield,op_short_shield",
     "logo": "title_logo_shield",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. \\n©SESISOFT Co.,Ltd. ©AY_S/K/SS3P",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2024/5/23 0:00",
-    "display_end_at": "2024/6/7 0:00",
-    "bgm": "0"
+    "display_end_at": "2024/6/7 0:00"
   },
   {
     "movie": "OPMovieShortToaru,op_short_toaru",
     "logo": "title_logo_toaru",
-    "logo_sub": "0",
     "copyright_notation": "©2019 Natsume Akatsuki・Kurone Mishima / KADOKAWA / KonoSuba Movie Production Committee ©Sumzap, Inc. \\n©2018 Kazuma Kamachi / Motoi Fuyukawa / KADOKAWA / PROJECT-RAILGUN T",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2122/05/11 15:00",
-    "display_end_at": "2122/05/31 15:00",
-    "bgm": "0"
+    "display_end_at": "2122/05/31 15:00"
   },
   {
     "movie": "OpShort2halfAnniversary,op_short_2halfanniversary",
     "logo": "title_logo_2.5th",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2023/11/10 0:00",
     "display_end_at": "2023/11/30 0:00",
     "bgm": "1010003"
@@ -134,10 +89,7 @@
   {
     "movie": "OpShort2halfKindan,op_short_2half_kindan",
     "logo": "title_logo_2.5th_02",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2023/12/8 0:00",
     "display_end_at": "2023/12/26 0:00",
     "bgm": "1010004"
@@ -145,54 +97,36 @@
   {
     "movie": "OpShort2ndAnniversary,op_short_2ndanniversary",
     "logo": "title_logo_2nd",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2122/02/27 15:00",
-    "display_end_at": "2122/03/31 15:00",
-    "bgm": "0"
+    "display_end_at": "2122/03/31 15:00"
   },
   {
     "movie": "OpShort3rdAnniversary,op_short_3rdanniversary",
     "logo": "title_logo_3rd",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2024/3/15 0:00",
-    "display_end_at": "2024/4/16 0:00",
-    "bgm": "0"
+    "display_end_at": "2024/4/16 0:00"
   },
   {
     "movie": "OpShortBakuen,op_short_bakuen",
     "logo": "title_logo",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©SESISOFT Co.,Ltd.",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2024/4/16 0:00",
-    "display_end_at": "2024/5/6 0:00",
-    "bgm": "0"
+    "display_end_at": "2024/5/6 0:00"
   },
   {
     "movie": "OpShortBoufuri,op_short_boufuri",
     "logo": "title_logo_b",
-    "logo_sub": "0",
     "copyright_notation": "©2019 Natsume Akatsuki・Kurone Mishima / KADOKAWA / KonoSuba Movie Production Committee ©Sumzap, Inc. \\N©2020 Yuumikan・Coin / KADOKAWA / Bofuri Production Committee",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2122/10/31 15:00:00",
-    "display_end_at": "2122/11/22 15:00:00",
-    "bgm": "0"
+    "display_end_at": "2122/11/22 15:00:00"
   },
   {
     "movie": "OpShortHaruhi,op_short_haruhi",
     "logo": "title_logo_h",
-    "logo_sub": "0",
     "copyright_notation": "©2019 Natsume Akatsuki・Kurone Mishima / KADOKAWA / KonoSuba Movie Production Committee ©Sumzap, Inc. \\N©2006 Nagaru Tanigawa・Noizi Ito / SOS Brigade",
     "jasrac_notation": "JASRAC Permitted #9026774012Y43073\\nJASRAC Permitted #9026774013Y43073\\nJASRAC Permitted #9026774014Y43073",
-    "copyright_image": "0",
     "display_start_at": "2123/07/31 15:00",
     "display_end_at": "2123/08/21 15:00",
     "bgm": "1010005"
@@ -200,45 +134,30 @@
   {
     "movie": "OpShortKagejitsu,op_short_kagejitsu",
     "logo": "title_logo_k",
-    "logo_sub": "0",
-    "copyright_notation": "0",
-    "jasrac_notation": "0",
     "copyright_image": "copyright_image_k",
     "display_start_at": "2124/01/31 15:00",
-    "display_end_at": "2124/02/27 15:00",
-    "bgm": "0"
+    "display_end_at": "2124/02/27 15:00"
   },
   {
     "movie": "OpShortMushoku,op_short_mushoku",
     "logo": "title_logo_m",
-    "logo_sub": "0",
     "copyright_notation": "©2019 Akatsuki Natsume・Mishima Kurone / KADOKAWA / Production Committee of KonoSuba the Movie ©Sumzap, Inc. \\n© Rifujin na Magonote / MFBooks / “Jobless Reincarnation II” Production Committee",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2123/01/20 15:00",
-    "display_end_at": "2123/02/10 15:00",
-    "bgm": "0"
+    "display_end_at": "2123/02/10 15:00"
   },
   {
     "movie": "OpShortRezero2,op_short_rezero2",
     "logo": "title_logo_rezero2",
-    "logo_sub": "0",
     "copyright_notation": "©2019 N・K／K／KMP ©Sumzap, Inc. ©NEXON All Rights Reserved. ©TN,K,Re:ZERO2P",
     "jasrac_notation": "JASRAC Permitted #9026774012Y43073\\nJASRAC Permitted #9026774013Y43073\\nJASRAC Permitted #9026774014Y43073",
-    "copyright_image": "0",
     "display_start_at": "2123/05/20 15:00",
-    "display_end_at": "2123/06/11 15:00",
-    "bgm": "0"
+    "display_end_at": "2123/06/11 15:00"
   },
   {
     "movie": "OpShortTensura,op_short_tensura",
     "logo": "title_logo_tensura",
-    "logo_sub": "0",
     "copyright_notation": "©2019 Natsume Akatsuki・Kurone Mishima / KADOKAWA / KonoSuba Movie Production Committee ©Sumzap, Inc. \\n©Taiki Kawakami・ Fuse ・Kodansha / Tensura Production Committee",
-    "jasrac_notation": "0",
-    "copyright_image": "0",
     "display_start_at": "2123/12/15 15:00",
-    "display_end_at": "2123/12/31 15:00",
-    "bgm": "0"
+    "display_end_at": "2123/12/31 15:00"
   }
 ]

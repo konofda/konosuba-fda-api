@@ -3,61 +3,40 @@
     "mission_type": "HONOR",
     "mission_id": "61000000",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/1/12 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 1 on NORMAL.",
     "pack_id": "61000000",
     "rule": "battle_part_normal_perfect",
-    "rule_x": "1",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61000001",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 2 on NORMAL.",
     "pack_id": "61000001",
     "rule": "battle_part_normal_perfect",
-    "rule_x": "2",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "2"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61000002",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/1/19 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 3 on NORMAL.",
     "pack_id": "61000002",
     "rule": "battle_part_normal_perfect",
-    "rule_x": "3",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "3"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61000003",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/11/4 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 4 on NORMAL.",
     "pack_id": "61000003",
     "rule": "battle_part_normal_perfect",
-    "rule_x": "4",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "4"
   },
   {
     "mission_type": "HONOR",
@@ -65,719 +44,502 @@
     "enable": "1",
     "enabled_id": "61000000",
     "start_at": "2022/1/12 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 1 on HARD.",
     "pack_id": "61100000",
     "rule": "battle_part_hard_perfect",
-    "rule_x": "1",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61100001",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 2 on HARD.",
     "pack_id": "61100001",
     "rule": "battle_part_hard_perfect",
-    "rule_x": "2",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "2"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61100002",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/1/19 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 3 on HARD.",
     "pack_id": "61100002",
     "rule": "battle_part_hard_perfect",
-    "rule_x": "3",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "3"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61100003",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/11/4 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 4 on HARD.",
     "pack_id": "61100003",
     "rule": "battle_part_hard_perfect",
-    "rule_x": "4",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "4"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61200000",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/11/8 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 1 on EXPERT.",
     "pack_id": "61200000",
     "rule": "battle_part_expert_perfect",
-    "rule_x": "1",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61200001",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2023/4/27 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 2 on EXPERT.",
     "pack_id": "61200001",
     "rule": "battle_part_expert_perfect",
-    "rule_x": "2",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "2"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61200002",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/1/19 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 3 on EXPERT.",
     "pack_id": "61200002",
     "rule": "battle_part_expert_perfect",
-    "rule_x": "3",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "3"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "61200003",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/11/4 0:00",
-    "end_at": "0",
     "mission_name": "Earn all crowns for Main Quest Part 4 on EXPERT.",
     "pack_id": "61200003",
     "rule": "battle_part_expert_perfect",
-    "rule_x": "4",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "4"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010010",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Kazuma's Affinity to Lv. 10.",
     "pack_id": "62010010",
     "rule": "member_friendlv_unique",
     "rule_x": "100",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010110",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Aqua's Affinity to Lv. 10.",
     "pack_id": "62010110",
     "rule": "member_friendlv_unique",
     "rule_x": "101",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010210",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Megumin's Affinity to Lv. 10.",
     "pack_id": "62010210",
     "rule": "member_friendlv_unique",
     "rule_x": "102",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010310",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Darkness's Affinity to Lv. 10.",
     "pack_id": "62010310",
     "rule": "member_friendlv_unique",
     "rule_x": "103",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010410",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Chris's Affinity to Lv. 10.",
     "pack_id": "62010410",
     "rule": "member_friendlv_unique",
     "rule_x": "104",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010510",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Wiz's Affinity to Lv. 10.",
     "pack_id": "62010510",
     "rule": "member_friendlv_unique",
     "rule_x": "105",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010610",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Yunyun's Affinity to Lv. 10.",
     "pack_id": "62010610",
     "rule": "member_friendlv_unique",
     "rule_x": "106",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010710",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Iris's Affinity to Lv. 10.",
     "pack_id": "62010710",
     "rule": "member_friendlv_unique",
     "rule_x": "107",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010910",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Cecily's Affinity to Lv. 10.",
     "pack_id": "62010910",
     "rule": "member_friendlv_unique",
     "rule_x": "109",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011010",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Arue's Affinity to Lv. 10.",
     "pack_id": "62011010",
     "rule": "member_friendlv_unique",
     "rule_x": "110",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011110",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Mitsurugi's Affinity to Lv. 10.",
     "pack_id": "62011110",
     "rule": "member_friendlv_unique",
     "rule_x": "111",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011210",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Dust's Affinity to Lv. 10.",
     "pack_id": "62011210",
     "rule": "member_friendlv_unique",
     "rule_x": "112",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011310",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Rin's Affinity to Lv. 10.",
     "pack_id": "62011310",
     "rule": "member_friendlv_unique",
     "rule_x": "113",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011410",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Lia's Affinity to Lv. 10.",
     "pack_id": "62011410",
     "rule": "member_friendlv_unique",
     "rule_x": "114",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011510",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Cielo's Affinity to Lv. 10.",
     "pack_id": "62011510",
     "rule": "member_friendlv_unique",
     "rule_x": "115",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011610",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Erika's Affinity to Lv. 10.",
     "pack_id": "62011610",
     "rule": "member_friendlv_unique",
     "rule_x": "116",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011710",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Melissa's Affinity to Lv. 10.",
     "pack_id": "62011710",
     "rule": "member_friendlv_unique",
     "rule_x": "117",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011810",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Mia's Affinity to Lv. 10.",
     "pack_id": "62011810",
     "rule": "member_friendlv_unique",
     "rule_x": "118",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011910",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Amy's Affinity to Lv. 10.",
     "pack_id": "62011910",
     "rule": "member_friendlv_unique",
     "rule_x": "119",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62015010",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2021/11/9 0:00",
     "end_at": "2021/11/23 0:00",
     "mission_name": "Raise Rem's Affinity to Lv. 10.",
     "pack_id": "62015010",
     "rule": "member_friendlv_unique",
     "rule_x": "150",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62014710",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2021/11/9 0:00",
     "end_at": "2021/11/23 0:00",
     "mission_name": "Raise Emilia's Affinity to Lv. 10.",
     "pack_id": "62014710",
     "rule": "member_friendlv_unique",
     "rule_x": "147",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010020",
     "enable": "1",
     "enabled_id": "62010010",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Kazuma's Affinity to Lv. 20.",
     "pack_id": "62010020",
     "rule": "member_friendlv_unique",
     "rule_x": "100",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010120",
     "enable": "1",
     "enabled_id": "62010110",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Aqua's Affinity to Lv. 20.",
     "pack_id": "62010120",
     "rule": "member_friendlv_unique",
     "rule_x": "101",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010220",
     "enable": "1",
     "enabled_id": "62010210",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Megumin's Affinity to Lv. 20.",
     "pack_id": "62010220",
     "rule": "member_friendlv_unique",
     "rule_x": "102",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010320",
     "enable": "1",
     "enabled_id": "62010310",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Darkness's Affinity to Lv. 20.",
     "pack_id": "62010320",
     "rule": "member_friendlv_unique",
     "rule_x": "103",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010420",
     "enable": "1",
     "enabled_id": "62010410",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Chris's Affinity to Lv. 20.",
     "pack_id": "62010420",
     "rule": "member_friendlv_unique",
     "rule_x": "104",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010520",
     "enable": "1",
     "enabled_id": "62010510",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Wiz's Affinity to Lv. 20.",
     "pack_id": "62010520",
     "rule": "member_friendlv_unique",
     "rule_x": "105",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010620",
     "enable": "1",
     "enabled_id": "62010610",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Yunyun's Affinity to Lv. 20.",
     "pack_id": "62010620",
     "rule": "member_friendlv_unique",
     "rule_x": "106",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010720",
     "enable": "1",
     "enabled_id": "62010710",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Iris's Affinity to Lv. 20.",
     "pack_id": "62010720",
     "rule": "member_friendlv_unique",
     "rule_x": "107",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010920",
     "enable": "1",
     "enabled_id": "62010910",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Cecily's Affinity to Lv. 20.",
     "pack_id": "62010920",
     "rule": "member_friendlv_unique",
     "rule_x": "109",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011020",
     "enable": "1",
     "enabled_id": "62011010",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Arue's Affinity to Lv. 20.",
     "pack_id": "62011020",
     "rule": "member_friendlv_unique",
     "rule_x": "110",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011120",
     "enable": "1",
     "enabled_id": "62011110",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Mitsurugi's Affinity to Lv. 20.",
     "pack_id": "62011120",
     "rule": "member_friendlv_unique",
     "rule_x": "111",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011220",
     "enable": "1",
     "enabled_id": "62011210",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Dust's Affinity to Lv. 20.",
     "pack_id": "62011220",
     "rule": "member_friendlv_unique",
     "rule_x": "112",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011320",
     "enable": "1",
     "enabled_id": "62011310",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Rin's Affinity to Lv. 20.",
     "pack_id": "62011320",
     "rule": "member_friendlv_unique",
     "rule_x": "113",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011420",
     "enable": "1",
     "enabled_id": "62011410",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Lia's Affinity to Lv. 20.",
     "pack_id": "62011420",
     "rule": "member_friendlv_unique",
     "rule_x": "114",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011520",
     "enable": "1",
     "enabled_id": "62011510",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Cielo's Affinity to Lv. 20.",
     "pack_id": "62011520",
     "rule": "member_friendlv_unique",
     "rule_x": "115",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011620",
     "enable": "1",
     "enabled_id": "62011610",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Erika's Affinity to Lv. 20.",
     "pack_id": "62011620",
     "rule": "member_friendlv_unique",
     "rule_x": "116",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011720",
     "enable": "1",
     "enabled_id": "62011710",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Melissa's Affinity to Lv. 20.",
     "pack_id": "62011720",
     "rule": "member_friendlv_unique",
     "rule_x": "117",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011820",
     "enable": "1",
     "enabled_id": "62011810",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Mia's Affinity to Lv. 20.",
     "pack_id": "62011820",
     "rule": "member_friendlv_unique",
     "rule_x": "118",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011920",
     "enable": "1",
     "enabled_id": "62011910",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Amy's Affinity to Lv. 20.",
     "pack_id": "62011920",
     "rule": "member_friendlv_unique",
     "rule_x": "119",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -790,9 +552,7 @@
     "pack_id": "62015020",
     "rule": "member_friendlv_unique",
     "rule_x": "150",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -805,24 +565,18 @@
     "pack_id": "62014720",
     "rule": "member_friendlv_unique",
     "rule_x": "147",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010030",
     "enable": "1",
     "enabled_id": "62010020",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Kazuma's Affinity to Lv. 30.",
     "pack_id": "62010030",
     "rule": "member_friendlv_unique",
     "rule_x": "100",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -830,14 +584,11 @@
     "enable": "1",
     "enabled_id": "62010030",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Kazuma's Affinity to Lv. 40.",
     "pack_id": "62010040",
     "rule": "member_friendlv_unique",
     "rule_x": "100",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -845,29 +596,22 @@
     "enable": "1",
     "enabled_id": "62010040",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Kazuma's Affinity to Lv. 50.",
     "pack_id": "62010050",
     "rule": "member_friendlv_unique",
     "rule_x": "100",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010130",
     "enable": "1",
     "enabled_id": "62010120",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Aqua's Affinity to Lv. 30.",
     "pack_id": "62010130",
     "rule": "member_friendlv_unique",
     "rule_x": "101",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -875,14 +619,11 @@
     "enable": "1",
     "enabled_id": "62010130",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Aqua's Affinity to Lv. 40.",
     "pack_id": "62010140",
     "rule": "member_friendlv_unique",
     "rule_x": "101",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -890,29 +631,22 @@
     "enable": "1",
     "enabled_id": "62010140",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Aqua's Affinity to Lv. 50.",
     "pack_id": "62010150",
     "rule": "member_friendlv_unique",
     "rule_x": "101",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010230",
     "enable": "1",
     "enabled_id": "62010220",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Megumin's Affinity to Lv. 30.",
     "pack_id": "62010230",
     "rule": "member_friendlv_unique",
     "rule_x": "102",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -920,14 +654,11 @@
     "enable": "1",
     "enabled_id": "62010230",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Megumin's Affinity to Lv. 40.",
     "pack_id": "62010240",
     "rule": "member_friendlv_unique",
     "rule_x": "102",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -935,29 +666,22 @@
     "enable": "1",
     "enabled_id": "62010240",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Megumin's Affinity to Lv. 50.",
     "pack_id": "62010250",
     "rule": "member_friendlv_unique",
     "rule_x": "102",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010330",
     "enable": "1",
     "enabled_id": "62010320",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Darkness's Affinity to Lv. 30.",
     "pack_id": "62010330",
     "rule": "member_friendlv_unique",
     "rule_x": "103",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -965,14 +689,11 @@
     "enable": "1",
     "enabled_id": "62010330",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Darkness's Affinity to Lv. 40.",
     "pack_id": "62010340",
     "rule": "member_friendlv_unique",
     "rule_x": "103",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -980,29 +701,22 @@
     "enable": "1",
     "enabled_id": "62010340",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Darkness's Affinity to Lv. 50.",
     "pack_id": "62010350",
     "rule": "member_friendlv_unique",
     "rule_x": "103",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010430",
     "enable": "1",
     "enabled_id": "62010420",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Chris's Affinity to Lv. 30.",
     "pack_id": "62010430",
     "rule": "member_friendlv_unique",
     "rule_x": "104",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1010,14 +724,11 @@
     "enable": "1",
     "enabled_id": "62010430",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Chris's Affinity to Lv. 40.",
     "pack_id": "62010440",
     "rule": "member_friendlv_unique",
     "rule_x": "104",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1025,29 +736,22 @@
     "enable": "1",
     "enabled_id": "62010440",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Chris's Affinity to Lv. 50.",
     "pack_id": "62010450",
     "rule": "member_friendlv_unique",
     "rule_x": "104",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010530",
     "enable": "1",
     "enabled_id": "62010520",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Wiz's Affinity to Lv. 30.",
     "pack_id": "62010530",
     "rule": "member_friendlv_unique",
     "rule_x": "105",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1055,14 +759,11 @@
     "enable": "1",
     "enabled_id": "62010530",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Wiz's Affinity to Lv. 40.",
     "pack_id": "62010540",
     "rule": "member_friendlv_unique",
     "rule_x": "105",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1070,29 +771,22 @@
     "enable": "1",
     "enabled_id": "62010540",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Wiz's Affinity to Lv. 50.",
     "pack_id": "62010550",
     "rule": "member_friendlv_unique",
     "rule_x": "105",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010630",
     "enable": "1",
     "enabled_id": "62010620",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Yunyun's Affinity to Lv. 30.",
     "pack_id": "62010630",
     "rule": "member_friendlv_unique",
     "rule_x": "106",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1100,14 +794,11 @@
     "enable": "1",
     "enabled_id": "62010630",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Yunyun's Affinity to Lv. 40.",
     "pack_id": "62010640",
     "rule": "member_friendlv_unique",
     "rule_x": "106",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1115,29 +806,22 @@
     "enable": "1",
     "enabled_id": "62010640",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Yunyun's Affinity to Lv. 50.",
     "pack_id": "62010650",
     "rule": "member_friendlv_unique",
     "rule_x": "106",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010730",
     "enable": "1",
     "enabled_id": "62010720",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Iris's Affinity to Lv. 30.",
     "pack_id": "62010730",
     "rule": "member_friendlv_unique",
     "rule_x": "107",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1145,14 +829,11 @@
     "enable": "1",
     "enabled_id": "62010730",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Iris's Affinity to Lv. 40.",
     "pack_id": "62010740",
     "rule": "member_friendlv_unique",
     "rule_x": "107",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1160,29 +841,22 @@
     "enable": "1",
     "enabled_id": "62010740",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Iris's Affinity to Lv. 50.",
     "pack_id": "62010750",
     "rule": "member_friendlv_unique",
     "rule_x": "107",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010810",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/7/22 0:00",
-    "end_at": "0",
     "mission_name": "Raise Komekko's Affinity to Lv. 10.",
     "pack_id": "62010810",
     "rule": "member_friendlv_unique",
     "rule_x": "108",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -1190,14 +864,11 @@
     "enable": "1",
     "enabled_id": "62010810",
     "start_at": "2022/7/22 0:00",
-    "end_at": "0",
     "mission_name": "Raise Komekko's Affinity to Lv. 20.",
     "pack_id": "62010820",
     "rule": "member_friendlv_unique",
     "rule_x": "108",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -1205,14 +876,11 @@
     "enable": "1",
     "enabled_id": "62010820",
     "start_at": "2022/7/22 0:00",
-    "end_at": "0",
     "mission_name": "Raise Komekko's Affinity to Lv. 30.",
     "pack_id": "62010830",
     "rule": "member_friendlv_unique",
     "rule_x": "108",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1220,14 +888,11 @@
     "enable": "1",
     "enabled_id": "62010830",
     "start_at": "2022/7/22 0:00",
-    "end_at": "0",
     "mission_name": "Raise Komekko's Affinity to Lv. 40.",
     "pack_id": "62010840",
     "rule": "member_friendlv_unique",
     "rule_x": "108",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1235,29 +900,22 @@
     "enable": "1",
     "enabled_id": "62010840",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Komekko's Affinity to Lv. 50.",
     "pack_id": "62010850",
     "rule": "member_friendlv_unique",
     "rule_x": "108",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62010930",
     "enable": "1",
     "enabled_id": "62010920",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Cecily's Affinity to Lv. 30.",
     "pack_id": "62010930",
     "rule": "member_friendlv_unique",
     "rule_x": "109",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1265,14 +923,11 @@
     "enable": "1",
     "enabled_id": "62010930",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Cecily's Affinity to Lv. 40.",
     "pack_id": "62010940",
     "rule": "member_friendlv_unique",
     "rule_x": "109",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1280,29 +935,22 @@
     "enable": "1",
     "enabled_id": "62010940",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Cecily's Affinity to Lv. 50.",
     "pack_id": "62010950",
     "rule": "member_friendlv_unique",
     "rule_x": "109",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011030",
     "enable": "1",
     "enabled_id": "62011020",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Arue's Affinity to Lv. 30.",
     "pack_id": "62011030",
     "rule": "member_friendlv_unique",
     "rule_x": "110",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1310,14 +958,11 @@
     "enable": "1",
     "enabled_id": "62011030",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Arue's Affinity to Lv. 40.",
     "pack_id": "62011040",
     "rule": "member_friendlv_unique",
     "rule_x": "110",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1325,29 +970,22 @@
     "enable": "1",
     "enabled_id": "62011040",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Arue's Affinity to Lv. 50.",
     "pack_id": "62011050",
     "rule": "member_friendlv_unique",
     "rule_x": "110",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011130",
     "enable": "1",
     "enabled_id": "62011120",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Mitsurugi's Affinity to Lv. 30.",
     "pack_id": "62011130",
     "rule": "member_friendlv_unique",
     "rule_x": "111",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1355,14 +993,11 @@
     "enable": "1",
     "enabled_id": "62011130",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mitsurugi's Affinity to Lv. 40.",
     "pack_id": "62011140",
     "rule": "member_friendlv_unique",
     "rule_x": "111",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1370,29 +1005,22 @@
     "enable": "1",
     "enabled_id": "62011140",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mitsurugi's Affinity to Lv. 50.",
     "pack_id": "62011150",
     "rule": "member_friendlv_unique",
     "rule_x": "111",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011230",
     "enable": "1",
     "enabled_id": "62011220",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Dust's Affinity to Lv. 30.",
     "pack_id": "62011230",
     "rule": "member_friendlv_unique",
     "rule_x": "112",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1400,14 +1028,11 @@
     "enable": "1",
     "enabled_id": "62011230",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Dust's Affinity to Lv. 40.",
     "pack_id": "62011240",
     "rule": "member_friendlv_unique",
     "rule_x": "112",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1415,29 +1040,22 @@
     "enable": "1",
     "enabled_id": "62011240",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Dust's Affinity to Lv. 50.",
     "pack_id": "62011250",
     "rule": "member_friendlv_unique",
     "rule_x": "112",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011330",
     "enable": "1",
     "enabled_id": "62011320",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Rin's Affinity to Lv. 30.",
     "pack_id": "62011330",
     "rule": "member_friendlv_unique",
     "rule_x": "113",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1445,14 +1063,11 @@
     "enable": "1",
     "enabled_id": "62011330",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Rin's Affinity to Lv. 40.",
     "pack_id": "62011340",
     "rule": "member_friendlv_unique",
     "rule_x": "113",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1460,29 +1075,22 @@
     "enable": "1",
     "enabled_id": "62011340",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Rin's Affinity to Lv. 50.",
     "pack_id": "62011350",
     "rule": "member_friendlv_unique",
     "rule_x": "113",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011430",
     "enable": "1",
     "enabled_id": "62011420",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Lia's Affinity to Lv. 30.",
     "pack_id": "62011430",
     "rule": "member_friendlv_unique",
     "rule_x": "114",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1490,14 +1098,11 @@
     "enable": "1",
     "enabled_id": "62011430",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lia's Affinity to Lv. 40.",
     "pack_id": "62011440",
     "rule": "member_friendlv_unique",
     "rule_x": "114",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1505,29 +1110,22 @@
     "enable": "1",
     "enabled_id": "62011440",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lia's Affinity to Lv. 50.",
     "pack_id": "62011450",
     "rule": "member_friendlv_unique",
     "rule_x": "114",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011530",
     "enable": "1",
     "enabled_id": "62011520",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Cielo's Affinity to Lv. 30.",
     "pack_id": "62011530",
     "rule": "member_friendlv_unique",
     "rule_x": "115",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1535,14 +1133,11 @@
     "enable": "1",
     "enabled_id": "62011530",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Cielo's Affinity to Lv. 40.",
     "pack_id": "62011540",
     "rule": "member_friendlv_unique",
     "rule_x": "115",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1550,29 +1145,22 @@
     "enable": "1",
     "enabled_id": "62011540",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Cielo's Affinity to Lv. 50.",
     "pack_id": "62011550",
     "rule": "member_friendlv_unique",
     "rule_x": "115",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011630",
     "enable": "1",
     "enabled_id": "62011620",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Erika's Affinity to Lv. 30.",
     "pack_id": "62011630",
     "rule": "member_friendlv_unique",
     "rule_x": "116",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1580,14 +1168,11 @@
     "enable": "1",
     "enabled_id": "62011630",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Erika's Affinity to Lv. 40.",
     "pack_id": "62011640",
     "rule": "member_friendlv_unique",
     "rule_x": "116",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1595,29 +1180,22 @@
     "enable": "1",
     "enabled_id": "62011640",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Erika's Affinity to Lv. 50.",
     "pack_id": "62011650",
     "rule": "member_friendlv_unique",
     "rule_x": "116",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011730",
     "enable": "1",
     "enabled_id": "62011720",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Melissa's Affinity to Lv. 30.",
     "pack_id": "62011730",
     "rule": "member_friendlv_unique",
     "rule_x": "117",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1625,14 +1203,11 @@
     "enable": "1",
     "enabled_id": "62011730",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Melissa's Affinity to Lv. 40.",
     "pack_id": "62011740",
     "rule": "member_friendlv_unique",
     "rule_x": "117",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1640,29 +1215,22 @@
     "enable": "1",
     "enabled_id": "62011740",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Melissa's Affinity to Lv. 50.",
     "pack_id": "62011750",
     "rule": "member_friendlv_unique",
     "rule_x": "117",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011830",
     "enable": "1",
     "enabled_id": "62011820",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Mia's Affinity to Lv. 30.",
     "pack_id": "62011830",
     "rule": "member_friendlv_unique",
     "rule_x": "118",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1670,14 +1238,11 @@
     "enable": "1",
     "enabled_id": "62011830",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mia's Affinity to Lv. 40.",
     "pack_id": "62011840",
     "rule": "member_friendlv_unique",
     "rule_x": "118",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1685,29 +1250,22 @@
     "enable": "1",
     "enabled_id": "62011840",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mia's Affinity to Lv. 50.",
     "pack_id": "62011850",
     "rule": "member_friendlv_unique",
     "rule_x": "118",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62011930",
     "enable": "1",
     "enabled_id": "62011920",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Raise Amy's Affinity to Lv. 30.",
     "pack_id": "62011930",
     "rule": "member_friendlv_unique",
     "rule_x": "119",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1715,14 +1273,11 @@
     "enable": "1",
     "enabled_id": "62011930",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
     "mission_name": "Raise Amy's Affinity to Lv. 40.",
     "pack_id": "62011940",
     "rule": "member_friendlv_unique",
     "rule_x": "119",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1730,29 +1285,22 @@
     "enable": "1",
     "enabled_id": "62011940",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Amy's Affinity to Lv. 50.",
     "pack_id": "62011950",
     "rule": "member_friendlv_unique",
     "rule_x": "119",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62012610",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/4/5 0:00",
-    "end_at": "0",
     "mission_name": "Raise Claire’s Affinity to Lv. 10.",
     "pack_id": "62012610",
     "rule": "member_friendlv_unique",
     "rule_x": "126",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -1760,14 +1308,11 @@
     "enable": "1",
     "enabled_id": "62012610",
     "start_at": "2024/4/5 0:00",
-    "end_at": "0",
     "mission_name": "Raise Claire’s Affinity to Lv. 20.",
     "pack_id": "62012620",
     "rule": "member_friendlv_unique",
     "rule_x": "126",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -1775,14 +1320,11 @@
     "enable": "1",
     "enabled_id": "62012620",
     "start_at": "2024/4/5 0:00",
-    "end_at": "0",
     "mission_name": "Raise Claire’s Affinity to Lv. 30.",
     "pack_id": "62012630",
     "rule": "member_friendlv_unique",
     "rule_x": "126",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1790,14 +1332,11 @@
     "enable": "1",
     "enabled_id": "62012630",
     "start_at": "2024/4/5 0:00",
-    "end_at": "0",
     "mission_name": "Raise Claire’s Affinity to Lv. 40.",
     "pack_id": "62012640",
     "rule": "member_friendlv_unique",
     "rule_x": "126",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1805,29 +1344,22 @@
     "enable": "1",
     "enabled_id": "62012640",
     "start_at": "2024/4/5 0:00",
-    "end_at": "0",
     "mission_name": "Raise Claire’s Affinity to Lv. 50.",
     "pack_id": "62012650",
     "rule": "member_friendlv_unique",
     "rule_x": "126",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62012810",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
     "mission_name": "Raise Vanir's Affinity to Lv. 10.",
     "pack_id": "62012810",
     "rule": "member_friendlv_unique",
     "rule_x": "128",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -1835,14 +1367,11 @@
     "enable": "1",
     "enabled_id": "62012810",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
     "mission_name": "Raise Vanir's Affinity to Lv. 20.",
     "pack_id": "62012820",
     "rule": "member_friendlv_unique",
     "rule_x": "128",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -1850,14 +1379,11 @@
     "enable": "1",
     "enabled_id": "62012820",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
     "mission_name": "Raise Vanir's Affinity to Lv. 30.",
     "pack_id": "62012830",
     "rule": "member_friendlv_unique",
     "rule_x": "128",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1865,14 +1391,11 @@
     "enable": "1",
     "enabled_id": "62012830",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
     "mission_name": "Raise Vanir's Affinity to Lv. 40.",
     "pack_id": "62012840",
     "rule": "member_friendlv_unique",
     "rule_x": "128",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1880,14 +1403,11 @@
     "enable": "1",
     "enabled_id": "62012840",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Vanir's Affinity to Lv. 50.",
     "pack_id": "62012850",
     "rule": "member_friendlv_unique",
     "rule_x": "128",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
@@ -1900,9 +1420,7 @@
     "pack_id": "62015030",
     "rule": "member_friendlv_unique",
     "rule_x": "150",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1915,9 +1433,7 @@
     "pack_id": "62015040",
     "rule": "member_friendlv_unique",
     "rule_x": "150",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -1930,24 +1446,18 @@
     "pack_id": "62015050",
     "rule": "member_friendlv_unique",
     "rule_x": "150",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62015110",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/10/24 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mel's Affinity to Lv. 10.",
     "pack_id": "62015110",
     "rule": "member_friendlv_unique",
     "rule_x": "151",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -1955,14 +1465,11 @@
     "enable": "1",
     "enabled_id": "62015110",
     "start_at": "2022/10/24 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mel's Affinity to Lv. 20.",
     "pack_id": "62015120",
     "rule": "member_friendlv_unique",
     "rule_x": "151",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -1970,14 +1477,11 @@
     "enable": "1",
     "enabled_id": "62015120",
     "start_at": "2022/10/24 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mel's Affinity to Lv. 30.",
     "pack_id": "62015130",
     "rule": "member_friendlv_unique",
     "rule_x": "151",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -1985,14 +1489,11 @@
     "enable": "1",
     "enabled_id": "62015130",
     "start_at": "2022/10/24 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mel's Affinity to Lv. 40.",
     "pack_id": "62015140",
     "rule": "member_friendlv_unique",
     "rule_x": "151",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -2000,29 +1501,23 @@
     "enable": "1",
     "enabled_id": "62015140",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Mel's Affinity to Lv. 50.",
     "pack_id": "62015150",
     "rule": "member_friendlv_unique",
     "rule_x": "151",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62015810",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/05/26 0:00:00",
     "end_at": "2022/06/10 00:00:00",
     "mission_name": "Raise Bell's Affinity to Lv. 10.",
     "pack_id": "62015810",
     "rule": "member_friendlv_unique",
     "rule_x": "158",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2035,9 +1530,7 @@
     "pack_id": "62015820",
     "rule": "member_friendlv_unique",
     "rule_x": "158",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2050,24 +1543,19 @@
     "pack_id": "62015830",
     "rule": "member_friendlv_unique",
     "rule_x": "158",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62016010",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/05/26 0:00:00",
     "end_at": "2022/06/10 00:00:00",
     "mission_name": "Raise Ais's Affinity to Lv. 10.",
     "pack_id": "62016010",
     "rule": "member_friendlv_unique",
     "rule_x": "160",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2080,9 +1568,7 @@
     "pack_id": "62016020",
     "rule": "member_friendlv_unique",
     "rule_x": "160",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2095,24 +1581,19 @@
     "pack_id": "62016030",
     "rule": "member_friendlv_unique",
     "rule_x": "160",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62016310",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2023/2/21 0:00",
     "end_at": "2023/3/15 0:00",
     "mission_name": "Raise Ainz's Affinity to Lv. 10.",
     "pack_id": "62016310",
     "rule": "member_friendlv_unique",
     "rule_x": "163",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2125,9 +1606,7 @@
     "pack_id": "62016320",
     "rule": "member_friendlv_unique",
     "rule_x": "163",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2140,9 +1619,7 @@
     "pack_id": "62016330",
     "rule": "member_friendlv_unique",
     "rule_x": "163",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2155,24 +1632,19 @@
     "pack_id": "62016340",
     "rule": "member_friendlv_unique",
     "rule_x": "163",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62016410",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2023/2/21 0:00",
     "end_at": "2023/3/15 0:00",
     "mission_name": "Raise Albedo's Affinity to Lv. 10.",
     "pack_id": "62016410",
     "rule": "member_friendlv_unique",
     "rule_x": "164",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2185,9 +1657,7 @@
     "pack_id": "62016420",
     "rule": "member_friendlv_unique",
     "rule_x": "164",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2200,9 +1670,7 @@
     "pack_id": "62016430",
     "rule": "member_friendlv_unique",
     "rule_x": "164",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2215,24 +1683,19 @@
     "pack_id": "62016440",
     "rule": "member_friendlv_unique",
     "rule_x": "164",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62016510",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2023/2/21 0:00",
     "end_at": "2023/3/15 0:00",
     "mission_name": "Raise Shalltear's Affinity to Lv. 10.",
     "pack_id": "62016510",
     "rule": "member_friendlv_unique",
     "rule_x": "165",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2245,9 +1708,7 @@
     "pack_id": "62016520",
     "rule": "member_friendlv_unique",
     "rule_x": "165",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2260,9 +1721,7 @@
     "pack_id": "62016530",
     "rule": "member_friendlv_unique",
     "rule_x": "165",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2275,24 +1734,18 @@
     "pack_id": "62016540",
     "rule": "member_friendlv_unique",
     "rule_x": "165",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62016910",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2023/6/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lolisa’s Affinity to Lv. 10",
     "pack_id": "62016910",
     "rule": "member_friendlv_unique",
     "rule_x": "169",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2300,14 +1753,11 @@
     "enable": "1",
     "enabled_id": "62016910",
     "start_at": "2023/6/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lolisa’s Affinity to Lv. 20",
     "pack_id": "62016920",
     "rule": "member_friendlv_unique",
     "rule_x": "169",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2315,14 +1765,11 @@
     "enable": "1",
     "enabled_id": "62016920",
     "start_at": "2023/6/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lolisa’s Affinity to Lv. 30",
     "pack_id": "62016930",
     "rule": "member_friendlv_unique",
     "rule_x": "169",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2330,14 +1777,11 @@
     "enable": "1",
     "enabled_id": "62016930",
     "start_at": "2023/6/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lolisa’s Affinity to Lv. 40",
     "pack_id": "62016940",
     "rule": "member_friendlv_unique",
     "rule_x": "169",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -2345,29 +1789,22 @@
     "enable": "1",
     "enabled_id": "62016940",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
     "mission_name": "Raise Lolisa’s Affinity to Lv. 50",
     "pack_id": "62016950",
     "rule": "member_friendlv_unique",
     "rule_x": "169",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62018110",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/4/26 0:00",
-    "end_at": "0",
     "mission_name": "Raise Funifura & Dodonko’s Affinity to Lv. 10.",
     "pack_id": "62018110",
     "rule": "member_friendlv_unique",
     "rule_x": "181",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2375,14 +1812,11 @@
     "enable": "1",
     "enabled_id": "62018110",
     "start_at": "2024/4/26 0:00",
-    "end_at": "0",
     "mission_name": "Raise Funifura & Dodonko’s Affinity to Lv. 20.",
     "pack_id": "62018120",
     "rule": "member_friendlv_unique",
     "rule_x": "181",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2390,14 +1824,11 @@
     "enable": "1",
     "enabled_id": "62018120",
     "start_at": "2024/4/26 0:00",
-    "end_at": "0",
     "mission_name": "Raise Funifura & Dodonko’s Affinity to Lv. 30.",
     "pack_id": "62018130",
     "rule": "member_friendlv_unique",
     "rule_x": "181",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2405,14 +1836,11 @@
     "enable": "1",
     "enabled_id": "62018130",
     "start_at": "2024/4/26 0:00",
-    "end_at": "0",
     "mission_name": "Raise Funifura & Dodonko’s Affinity to Lv. 40.",
     "pack_id": "62018140",
     "rule": "member_friendlv_unique",
     "rule_x": "181",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -2420,29 +1848,23 @@
     "enable": "1",
     "enabled_id": "62018140",
     "start_at": "2024/4/26 0:00",
-    "end_at": "0",
     "mission_name": "Raise Funifura & Dodonko’s Affinity to Lv. 50.",
     "pack_id": "62018150",
     "rule": "member_friendlv_unique",
     "rule_x": "181",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62018310",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/5/11 15:00",
     "end_at": "2122/5/31 15:00",
     "mission_name": "Raise Mikoto Misaka’s Affinity to Lv. 10",
     "pack_id": "62018310",
     "rule": "member_friendlv_unique",
     "rule_x": "183",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2455,9 +1877,7 @@
     "pack_id": "62018320",
     "rule": "member_friendlv_unique",
     "rule_x": "183",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2470,9 +1890,7 @@
     "pack_id": "62018330",
     "rule": "member_friendlv_unique",
     "rule_x": "183",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2485,24 +1903,19 @@
     "pack_id": "62018340",
     "rule": "member_friendlv_unique",
     "rule_x": "183",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62018410",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/5/11 15:00",
     "end_at": "2122/5/31 15:00",
     "mission_name": "Raise Kuroko Shirai’s Affinity to Lv. 10",
     "pack_id": "62018410",
     "rule": "member_friendlv_unique",
     "rule_x": "184",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2515,9 +1928,7 @@
     "pack_id": "62018420",
     "rule": "member_friendlv_unique",
     "rule_x": "184",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2530,9 +1941,7 @@
     "pack_id": "62018430",
     "rule": "member_friendlv_unique",
     "rule_x": "184",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2545,24 +1954,19 @@
     "pack_id": "62018440",
     "rule": "member_friendlv_unique",
     "rule_x": "184",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62018510",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/5/11 15:00",
     "end_at": "2122/5/31 15:00",
     "mission_name": "Raise Accelerator’s Affinity to Lv. 10",
     "pack_id": "62018510",
     "rule": "member_friendlv_unique",
     "rule_x": "185",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2575,9 +1979,7 @@
     "pack_id": "62018520",
     "rule": "member_friendlv_unique",
     "rule_x": "185",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2590,9 +1992,7 @@
     "pack_id": "62018530",
     "rule": "member_friendlv_unique",
     "rule_x": "185",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2605,24 +2005,19 @@
     "pack_id": "62018540",
     "rule": "member_friendlv_unique",
     "rule_x": "185",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62018610",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/5/11 15:00",
     "end_at": "2122/5/31 15:00",
     "mission_name": "Raise Misaka Sister's Affinity to Lv. 10",
     "pack_id": "62018610",
     "rule": "member_friendlv_unique",
     "rule_x": "186",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2635,9 +2030,7 @@
     "pack_id": "62018620",
     "rule": "member_friendlv_unique",
     "rule_x": "186",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2650,9 +2043,7 @@
     "pack_id": "62018630",
     "rule": "member_friendlv_unique",
     "rule_x": "186",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2665,24 +2056,19 @@
     "pack_id": "62018640",
     "rule": "member_friendlv_unique",
     "rule_x": "186",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019210",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/5/23 0:00",
     "end_at": "2024/6/7 0:00",
     "mission_name": "Raise Naofumi Iwatani's Affinity to Lv. 10",
     "pack_id": "62019210",
     "rule": "member_friendlv_unique",
     "rule_x": "192",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2695,9 +2081,7 @@
     "pack_id": "62019220",
     "rule": "member_friendlv_unique",
     "rule_x": "192",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2710,9 +2094,7 @@
     "pack_id": "62019230",
     "rule": "member_friendlv_unique",
     "rule_x": "192",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2725,24 +2107,19 @@
     "pack_id": "62019240",
     "rule": "member_friendlv_unique",
     "rule_x": "192",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019310",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/5/23 0:00",
     "end_at": "2024/6/7 0:00",
     "mission_name": "Raise Raphtalia’s Affinity to Lv. 10",
     "pack_id": "62019310",
     "rule": "member_friendlv_unique",
     "rule_x": "193",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2755,9 +2132,7 @@
     "pack_id": "62019320",
     "rule": "member_friendlv_unique",
     "rule_x": "193",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2770,9 +2145,7 @@
     "pack_id": "62019330",
     "rule": "member_friendlv_unique",
     "rule_x": "193",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2785,24 +2158,19 @@
     "pack_id": "62019340",
     "rule": "member_friendlv_unique",
     "rule_x": "193",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019410",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/5/23 0:00",
     "end_at": "2024/6/7 0:00",
     "mission_name": "Raise Filo’s Affinity to Lv. 10",
     "pack_id": "62019410",
     "rule": "member_friendlv_unique",
     "rule_x": "194",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2815,9 +2183,7 @@
     "pack_id": "62019420",
     "rule": "member_friendlv_unique",
     "rule_x": "194",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2830,9 +2196,7 @@
     "pack_id": "62019430",
     "rule": "member_friendlv_unique",
     "rule_x": "194",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2845,24 +2209,19 @@
     "pack_id": "62019440",
     "rule": "member_friendlv_unique",
     "rule_x": "194",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019510",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/10/31 15:00",
     "end_at": "2122/11/22 15:00",
     "mission_name": "Raise Maple’s Affinity to Lv. 10",
     "pack_id": "62019510",
     "rule": "member_friendlv_unique",
     "rule_x": "195",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2875,9 +2234,7 @@
     "pack_id": "62019520",
     "rule": "member_friendlv_unique",
     "rule_x": "195",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2890,9 +2247,7 @@
     "pack_id": "62019530",
     "rule": "member_friendlv_unique",
     "rule_x": "195",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2905,9 +2260,7 @@
     "pack_id": "62019540",
     "rule": "member_friendlv_unique",
     "rule_x": "195",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -2920,24 +2273,19 @@
     "pack_id": "62019550",
     "rule": "member_friendlv_unique",
     "rule_x": "195",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019610",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/10/31 15:00",
     "end_at": "2122/11/22 15:00",
     "mission_name": "Raise Sally’s Affinity to Lv. 10",
     "pack_id": "62019610",
     "rule": "member_friendlv_unique",
     "rule_x": "196",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -2950,9 +2298,7 @@
     "pack_id": "62019620",
     "rule": "member_friendlv_unique",
     "rule_x": "196",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -2965,9 +2311,7 @@
     "pack_id": "62019630",
     "rule": "member_friendlv_unique",
     "rule_x": "196",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -2980,9 +2324,7 @@
     "pack_id": "62019640",
     "rule": "member_friendlv_unique",
     "rule_x": "196",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -2995,24 +2337,19 @@
     "pack_id": "62019650",
     "rule": "member_friendlv_unique",
     "rule_x": "196",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019710",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2122/10/31 15:00",
     "end_at": "2122/11/22 15:00",
     "mission_name": "Raise Kasumi’s Affinity to Lv. 10",
     "pack_id": "62019710",
     "rule": "member_friendlv_unique",
     "rule_x": "197",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3025,9 +2362,7 @@
     "pack_id": "62019720",
     "rule": "member_friendlv_unique",
     "rule_x": "197",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3040,9 +2375,7 @@
     "pack_id": "62019730",
     "rule": "member_friendlv_unique",
     "rule_x": "197",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3055,9 +2388,7 @@
     "pack_id": "62019740",
     "rule": "member_friendlv_unique",
     "rule_x": "197",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3070,24 +2401,19 @@
     "pack_id": "62019750",
     "rule": "member_friendlv_unique",
     "rule_x": "197",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019810",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/1/20 15:00",
     "end_at": "2123/2/10 15:00",
     "mission_name": "Raise Rudeus’ Affinity to Lv. 10.",
     "pack_id": "62019810",
     "rule": "member_friendlv_unique",
     "rule_x": "198",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3100,9 +2426,7 @@
     "pack_id": "62019820",
     "rule": "member_friendlv_unique",
     "rule_x": "198",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3115,9 +2439,7 @@
     "pack_id": "62019830",
     "rule": "member_friendlv_unique",
     "rule_x": "198",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3130,9 +2452,7 @@
     "pack_id": "62019840",
     "rule": "member_friendlv_unique",
     "rule_x": "198",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3145,24 +2465,19 @@
     "pack_id": "62019850",
     "rule": "member_friendlv_unique",
     "rule_x": "198",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62019910",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/1/20 15:00",
     "end_at": "2123/2/10 15:00",
     "mission_name": "Raise Roxy’s Affinity to Lv. 10.",
     "pack_id": "62019910",
     "rule": "member_friendlv_unique",
     "rule_x": "199",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3175,9 +2490,7 @@
     "pack_id": "62019920",
     "rule": "member_friendlv_unique",
     "rule_x": "199",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3190,9 +2503,7 @@
     "pack_id": "62019930",
     "rule": "member_friendlv_unique",
     "rule_x": "199",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3205,9 +2516,7 @@
     "pack_id": "62019940",
     "rule": "member_friendlv_unique",
     "rule_x": "199",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3220,24 +2529,19 @@
     "pack_id": "62019950",
     "rule": "member_friendlv_unique",
     "rule_x": "199",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62020010",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/1/20 15:00",
     "end_at": "2123/2/10 15:00",
     "mission_name": "Raise Eris’ Affinity to Lv. 10.",
     "pack_id": "62020010",
     "rule": "member_friendlv_unique",
     "rule_x": "200",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3250,9 +2554,7 @@
     "pack_id": "62020020",
     "rule": "member_friendlv_unique",
     "rule_x": "200",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3265,9 +2567,7 @@
     "pack_id": "62020030",
     "rule": "member_friendlv_unique",
     "rule_x": "200",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3280,9 +2580,7 @@
     "pack_id": "62020040",
     "rule": "member_friendlv_unique",
     "rule_x": "200",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3295,24 +2593,19 @@
     "pack_id": "62020050",
     "rule": "member_friendlv_unique",
     "rule_x": "200",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62020510",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/5/20 15:00",
     "end_at": "2123/6/11 15:00",
     "mission_name": "Raise Subaru’s Affinity to Lv. 10.",
     "pack_id": "62020510",
     "rule": "member_friendlv_unique",
     "rule_x": "205",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3325,9 +2618,7 @@
     "pack_id": "62020520",
     "rule": "member_friendlv_unique",
     "rule_x": "205",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3340,9 +2631,7 @@
     "pack_id": "62020530",
     "rule": "member_friendlv_unique",
     "rule_x": "205",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3355,9 +2644,7 @@
     "pack_id": "62020540",
     "rule": "member_friendlv_unique",
     "rule_x": "205",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3370,24 +2657,19 @@
     "pack_id": "62020550",
     "rule": "member_friendlv_unique",
     "rule_x": "205",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62020610",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/5/20 15:00",
     "end_at": "2123/6/11 15:00",
     "mission_name": "Raise Ram's Affinity to Lv. 10.",
     "pack_id": "62020610",
     "rule": "member_friendlv_unique",
     "rule_x": "206",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3400,9 +2682,7 @@
     "pack_id": "62020620",
     "rule": "member_friendlv_unique",
     "rule_x": "206",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3415,9 +2695,7 @@
     "pack_id": "62020630",
     "rule": "member_friendlv_unique",
     "rule_x": "206",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3430,9 +2708,7 @@
     "pack_id": "62020640",
     "rule": "member_friendlv_unique",
     "rule_x": "206",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3445,24 +2721,19 @@
     "pack_id": "62020650",
     "rule": "member_friendlv_unique",
     "rule_x": "206",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62020710",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/5/20 15:00",
     "end_at": "2123/6/11 15:00",
     "mission_name": "Raise Beatrice's Affinity to Lv. 10.",
     "pack_id": "62020710",
     "rule": "member_friendlv_unique",
     "rule_x": "207",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3475,9 +2746,7 @@
     "pack_id": "62020720",
     "rule": "member_friendlv_unique",
     "rule_x": "207",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3490,9 +2759,7 @@
     "pack_id": "62020730",
     "rule": "member_friendlv_unique",
     "rule_x": "207",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3505,9 +2772,7 @@
     "pack_id": "62020740",
     "rule": "member_friendlv_unique",
     "rule_x": "207",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3520,24 +2785,19 @@
     "pack_id": "62020750",
     "rule": "member_friendlv_unique",
     "rule_x": "207",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62020810",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/5/20 15:00",
     "end_at": "2123/6/11 15:00",
     "mission_name": "Raise Echidna's Affinity to Lv. 10.",
     "pack_id": "62020810",
     "rule": "member_friendlv_unique",
     "rule_x": "208",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3550,9 +2810,7 @@
     "pack_id": "62020820",
     "rule": "member_friendlv_unique",
     "rule_x": "208",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3565,9 +2823,7 @@
     "pack_id": "62020830",
     "rule": "member_friendlv_unique",
     "rule_x": "208",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3580,9 +2836,7 @@
     "pack_id": "62020840",
     "rule": "member_friendlv_unique",
     "rule_x": "208",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3595,24 +2849,18 @@
     "pack_id": "62020850",
     "rule": "member_friendlv_unique",
     "rule_x": "208",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62020910",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
     "mission_name": "Raise Zesta’s Affinity to Lv. 10.",
     "pack_id": "62020910",
     "rule": "member_friendlv_unique",
     "rule_x": "209",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3620,14 +2868,11 @@
     "enable": "1",
     "enabled_id": "62020910",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
     "mission_name": "Raise Zesta’s Affinity to Lv. 20.",
     "pack_id": "62020920",
     "rule": "member_friendlv_unique",
     "rule_x": "209",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3635,14 +2880,11 @@
     "enable": "1",
     "enabled_id": "62020920",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
     "mission_name": "Raise Zesta’s Affinity to Lv. 30.",
     "pack_id": "62020930",
     "rule": "member_friendlv_unique",
     "rule_x": "209",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3650,14 +2892,11 @@
     "enable": "1",
     "enabled_id": "62020930",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
     "mission_name": "Raise Zesta’s Affinity to Lv. 40.",
     "pack_id": "62020940",
     "rule": "member_friendlv_unique",
     "rule_x": "209",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3665,29 +2904,23 @@
     "enable": "1",
     "enabled_id": "62020940",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
     "mission_name": "Raise Zesta’s Affinity to Lv. 50.",
     "pack_id": "62020950",
     "rule": "member_friendlv_unique",
     "rule_x": "209",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021110",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/7/31 15:00",
     "end_at": "2123/8/21 15:00",
     "mission_name": "Raise Kyon’s Affinity to Lv. 10.",
     "pack_id": "62021110",
     "rule": "member_friendlv_unique",
     "rule_x": "211",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3700,9 +2933,7 @@
     "pack_id": "62021120",
     "rule": "member_friendlv_unique",
     "rule_x": "211",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3715,9 +2946,7 @@
     "pack_id": "62021130",
     "rule": "member_friendlv_unique",
     "rule_x": "211",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3730,9 +2959,7 @@
     "pack_id": "62021140",
     "rule": "member_friendlv_unique",
     "rule_x": "211",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3745,24 +2972,19 @@
     "pack_id": "62021150",
     "rule": "member_friendlv_unique",
     "rule_x": "211",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021210",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/7/31 15:00",
     "end_at": "2123/8/21 15:00",
     "mission_name": "Raise Haruhi Suzumiya’s Affinity to Lv. 10.",
     "pack_id": "62021210",
     "rule": "member_friendlv_unique",
     "rule_x": "212",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3775,9 +2997,7 @@
     "pack_id": "62021220",
     "rule": "member_friendlv_unique",
     "rule_x": "212",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3790,9 +3010,7 @@
     "pack_id": "62021230",
     "rule": "member_friendlv_unique",
     "rule_x": "212",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3805,9 +3023,7 @@
     "pack_id": "62021240",
     "rule": "member_friendlv_unique",
     "rule_x": "212",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3820,24 +3036,19 @@
     "pack_id": "62021250",
     "rule": "member_friendlv_unique",
     "rule_x": "212",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021310",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/7/31 15:00",
     "end_at": "2123/8/21 15:00",
     "mission_name": "Raise Yuki Nagato’s Affinity to Lv. 10.",
     "pack_id": "62021310",
     "rule": "member_friendlv_unique",
     "rule_x": "213",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3850,9 +3061,7 @@
     "pack_id": "62021320",
     "rule": "member_friendlv_unique",
     "rule_x": "213",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3865,9 +3074,7 @@
     "pack_id": "62021330",
     "rule": "member_friendlv_unique",
     "rule_x": "213",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3880,9 +3087,7 @@
     "pack_id": "62021340",
     "rule": "member_friendlv_unique",
     "rule_x": "213",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3895,24 +3100,19 @@
     "pack_id": "62021350",
     "rule": "member_friendlv_unique",
     "rule_x": "213",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021410",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/7/31 15:00",
     "end_at": "2123/8/21 15:00",
     "mission_name": "Raise Mikuru Asahina’s Affinity to Lv. 10.",
     "pack_id": "62021410",
     "rule": "member_friendlv_unique",
     "rule_x": "214",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -3925,9 +3125,7 @@
     "pack_id": "62021420",
     "rule": "member_friendlv_unique",
     "rule_x": "214",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -3940,9 +3138,7 @@
     "pack_id": "62021430",
     "rule": "member_friendlv_unique",
     "rule_x": "214",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -3955,9 +3151,7 @@
     "pack_id": "62021440",
     "rule": "member_friendlv_unique",
     "rule_x": "214",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -3970,24 +3164,19 @@
     "pack_id": "62021450",
     "rule": "member_friendlv_unique",
     "rule_x": "214",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021710",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/12/15 15:00",
     "end_at": "2123/12/31 15:00",
     "mission_name": "Raise Rimuru's Affinity to Lv. 10",
     "pack_id": "62021710",
     "rule": "member_friendlv_unique",
     "rule_x": "217",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4000,9 +3189,7 @@
     "pack_id": "62021720",
     "rule": "member_friendlv_unique",
     "rule_x": "217",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4015,9 +3202,7 @@
     "pack_id": "62021730",
     "rule": "member_friendlv_unique",
     "rule_x": "217",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4030,9 +3215,7 @@
     "pack_id": "62021740",
     "rule": "member_friendlv_unique",
     "rule_x": "217",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4045,24 +3228,19 @@
     "pack_id": "62021750",
     "rule": "member_friendlv_unique",
     "rule_x": "217",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021810",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/12/15 15:00",
     "end_at": "2123/12/31 15:00",
     "mission_name": "Raise Shuna's Affinity to Lv. 10",
     "pack_id": "62021810",
     "rule": "member_friendlv_unique",
     "rule_x": "218",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4075,9 +3253,7 @@
     "pack_id": "62021820",
     "rule": "member_friendlv_unique",
     "rule_x": "218",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4090,9 +3266,7 @@
     "pack_id": "62021830",
     "rule": "member_friendlv_unique",
     "rule_x": "218",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4105,9 +3279,7 @@
     "pack_id": "62021840",
     "rule": "member_friendlv_unique",
     "rule_x": "218",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4120,24 +3292,19 @@
     "pack_id": "62021850",
     "rule": "member_friendlv_unique",
     "rule_x": "218",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62021910",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/12/15 15:00",
     "end_at": "2123/12/31 15:00",
     "mission_name": "Raise Shion's Affinity to Lv. 10",
     "pack_id": "62021910",
     "rule": "member_friendlv_unique",
     "rule_x": "219",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4150,9 +3317,7 @@
     "pack_id": "62021920",
     "rule": "member_friendlv_unique",
     "rule_x": "219",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4165,9 +3330,7 @@
     "pack_id": "62021930",
     "rule": "member_friendlv_unique",
     "rule_x": "219",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4180,9 +3343,7 @@
     "pack_id": "62021940",
     "rule": "member_friendlv_unique",
     "rule_x": "219",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4195,24 +3356,19 @@
     "pack_id": "62021950",
     "rule": "member_friendlv_unique",
     "rule_x": "219",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62022010",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2123/12/15 15:00",
     "end_at": "2123/12/31 15:00",
     "mission_name": "Raise Milim's Affinity to Lv. 10",
     "pack_id": "62022010",
     "rule": "member_friendlv_unique",
     "rule_x": "220",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4225,9 +3381,7 @@
     "pack_id": "62022020",
     "rule": "member_friendlv_unique",
     "rule_x": "220",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4240,9 +3394,7 @@
     "pack_id": "62022030",
     "rule": "member_friendlv_unique",
     "rule_x": "220",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4255,9 +3407,7 @@
     "pack_id": "62022040",
     "rule": "member_friendlv_unique",
     "rule_x": "220",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4270,24 +3420,19 @@
     "pack_id": "62022050",
     "rule": "member_friendlv_unique",
     "rule_x": "220",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62022310",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2124/1/31 15:00",
     "end_at": "2124/2/27 15:00",
     "mission_name": "Raise Shadow's Affinity to Lv. 10",
     "pack_id": "62022310",
     "rule": "member_friendlv_unique",
     "rule_x": "223",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4300,9 +3445,7 @@
     "pack_id": "62022320",
     "rule": "member_friendlv_unique",
     "rule_x": "223",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4315,9 +3458,7 @@
     "pack_id": "62022330",
     "rule": "member_friendlv_unique",
     "rule_x": "223",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4330,9 +3471,7 @@
     "pack_id": "62022340",
     "rule": "member_friendlv_unique",
     "rule_x": "223",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4345,24 +3484,19 @@
     "pack_id": "62022350",
     "rule": "member_friendlv_unique",
     "rule_x": "223",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62022410",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2124/1/31 15:00",
     "end_at": "2124/2/27 15:00",
     "mission_name": "Raise Alpha's Affinity to Lv. 10",
     "pack_id": "62022410",
     "rule": "member_friendlv_unique",
     "rule_x": "224",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4375,9 +3509,7 @@
     "pack_id": "62022420",
     "rule": "member_friendlv_unique",
     "rule_x": "224",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4390,9 +3522,7 @@
     "pack_id": "62022430",
     "rule": "member_friendlv_unique",
     "rule_x": "224",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4405,9 +3535,7 @@
     "pack_id": "62022440",
     "rule": "member_friendlv_unique",
     "rule_x": "224",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4420,24 +3548,19 @@
     "pack_id": "62022450",
     "rule": "member_friendlv_unique",
     "rule_x": "224",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62022510",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2124/1/31 15:00",
     "end_at": "2124/2/27 15:00",
     "mission_name": "Raise Beta's Affinity to Lv. 10",
     "pack_id": "62022510",
     "rule": "member_friendlv_unique",
     "rule_x": "225",
-    "rule_y": "10",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4450,9 +3573,7 @@
     "pack_id": "62022520",
     "rule": "member_friendlv_unique",
     "rule_x": "225",
-    "rule_y": "20",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "20"
   },
   {
     "mission_type": "HONOR",
@@ -4465,9 +3586,7 @@
     "pack_id": "62022530",
     "rule": "member_friendlv_unique",
     "rule_x": "225",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4480,9 +3599,7 @@
     "pack_id": "62022540",
     "rule": "member_friendlv_unique",
     "rule_x": "225",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4495,9 +3612,7 @@
     "pack_id": "62022550",
     "rule": "member_friendlv_unique",
     "rule_x": "225",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
@@ -4510,9 +3625,7 @@
     "pack_id": "62014730",
     "rule": "member_friendlv_unique",
     "rule_x": "147",
-    "rule_y": "30",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "30"
   },
   {
     "mission_type": "HONOR",
@@ -4525,9 +3638,7 @@
     "pack_id": "62014740",
     "rule": "member_friendlv_unique",
     "rule_x": "147",
-    "rule_y": "40",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "40"
   },
   {
     "mission_type": "HONOR",
@@ -4540,24 +3651,17 @@
     "pack_id": "62014750",
     "rule": "member_friendlv_unique",
     "rule_x": "147",
-    "rule_y": "50",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "62100010",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Unlock 10 shrines.",
     "pack_id": "62100010",
     "rule": "enhance_count",
-    "rule_x": "10",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "10"
   },
   {
     "mission_type": "HONOR",
@@ -4565,14 +3669,10 @@
     "enable": "1",
     "enabled_id": "62100010",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Unlock 50 shrines.",
     "pack_id": "62100050",
     "rule": "enhance_count",
-    "rule_x": "50",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "50"
   },
   {
     "mission_type": "HONOR",
@@ -4580,14 +3680,10 @@
     "enable": "1",
     "enabled_id": "62100050",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Unlock 100 shrines.",
     "pack_id": "62100100",
     "rule": "enhance_count",
-    "rule_x": "100",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "100"
   },
   {
     "mission_type": "HONOR",
@@ -4595,14 +3691,10 @@
     "enable": "1",
     "enabled_id": "62100100",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Unlock 150 shrines.",
     "pack_id": "62100150",
     "rule": "enhance_count",
-    "rule_x": "150",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "150"
   },
   {
     "mission_type": "HONOR",
@@ -4610,44 +3702,30 @@
     "enable": "1",
     "enabled_id": "62100150",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Unlock 200 shrines.",
     "pack_id": "62100200",
     "rule": "enhance_count",
-    "rule_x": "200",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "200"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "64000000",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Use the Goddess Medal Exchange to acquire a weapon.",
     "pack_id": "64000000",
     "rule": "create_count_weapon_goddess",
-    "rule_x": "1",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "65000007",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Get 7 stars in the Arena EX.",
     "pack_id": "65000007",
     "rule": "battle_attainment_score_ex",
     "rule_x": "7",
-    "rule_y": "1",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "1"
   },
   {
     "mission_type": "HONOR",
@@ -4655,14 +3733,11 @@
     "enable": "1",
     "enabled_id": "65000007",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Get 8 stars in the Arena EX.",
     "pack_id": "65000008",
     "rule": "battle_attainment_score_ex",
     "rule_x": "8",
-    "rule_y": "1",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "1"
   },
   {
     "mission_type": "HONOR",
@@ -4670,14 +3745,11 @@
     "enable": "1",
     "enabled_id": "65000008",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Get 9 stars in the Arena EX.",
     "pack_id": "65000009",
     "rule": "battle_attainment_score_ex",
     "rule_x": "9",
-    "rule_y": "1",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "1"
   },
   {
     "mission_type": "HONOR",
@@ -4685,89 +3757,66 @@
     "enable": "1",
     "enabled_id": "65000009",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
     "mission_name": "Get 10 stars in the Arena EX.",
     "pack_id": "65000010",
     "rule": "battle_attainment_score_ex",
     "rule_x": "10",
-    "rule_y": "1",
-    "rule_z": "0",
-    "description": "0"
+    "rule_y": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "65500001",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/05/26 0:00:00",
-    "end_at": "0",
     "mission_name": "Earn 4 stars for clearing the Beginner Dungeon 1 time.",
     "pack_id": "65500001",
     "rule": "dungeon_clear",
     "rule_x": "1",
     "rule_y": "4",
-    "rule_z": "1",
-    "description": "0"
+    "rule_z": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "65500002",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/05/26 0:00:00",
-    "end_at": "0",
     "mission_name": "Earn 4 stars for clearing the Intermediate Dungeon 1 time.",
     "pack_id": "65500002",
     "rule": "dungeon_clear",
     "rule_x": "2",
     "rule_y": "4",
-    "rule_z": "1",
-    "description": "0"
+    "rule_z": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "65500003",
     "enable": "1",
-    "enabled_id": "0",
     "start_at": "2022/05/26 0:00:00",
-    "end_at": "0",
     "mission_name": "Earn 4 stars for clearing the Advanced Dungeon 1 time.",
     "pack_id": "65500003",
     "rule": "dungeon_clear",
     "rule_x": "3",
     "rule_y": "4",
-    "rule_z": "1",
-    "description": "0"
+    "rule_z": "1"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "66000050",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Add 50 characters to the Character Gallery.",
     "pack_id": "66000050",
     "rule": "get_count_member",
-    "rule_x": "50",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "50"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "66000100",
     "enable": "1",
     "enabled_id": "66000050",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Add 100 characters to the Character Gallery.",
     "pack_id": "66000100",
     "rule": "get_count_member",
-    "rule_x": "100",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "100"
   },
   {
     "mission_type": "HONOR",
@@ -4775,88 +3824,57 @@
     "enable": "1",
     "enabled_id": "66000100",
     "start_at": "2022/1/12 0:00",
-    "end_at": "0",
     "mission_name": "Add 150 characters to the Character Gallery.",
     "pack_id": "66000150",
     "rule": "get_count_member",
-    "rule_x": "150",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "150"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "67000010",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Send 10 greetings to friends.",
     "pack_id": "67000010",
     "rule": "greeting_count",
-    "rule_x": "10",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "67000100",
     "enable": "1",
     "enabled_id": "67000010",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Send 100 greetings to friends.",
     "pack_id": "67000100",
     "rule": "greeting_count",
-    "rule_x": "100",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "100"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "67001000",
     "enable": "1",
     "enabled_id": "67000100",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Send 1000 greetings to friends.",
     "pack_id": "67001000",
     "rule": "greeting_count",
-    "rule_x": "1000",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "1000"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "67100010",
     "enable": "1",
-    "enabled_id": "0",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Make 10 friends.",
     "pack_id": "67100010",
     "rule": "friend_count",
-    "rule_x": "10",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "10"
   },
   {
     "mission_type": "HONOR",
     "mission_id": "67100050",
     "enable": "1",
     "enabled_id": "67100010",
-    "start_at": "0",
-    "end_at": "0",
     "mission_name": "Make 50 friends.",
     "pack_id": "67100050",
     "rule": "friend_count",
-    "rule_x": "50",
-    "rule_y": "0",
-    "rule_z": "0",
-    "description": "0"
+    "rule_x": "50"
   }
 ]

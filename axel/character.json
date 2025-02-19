@@ -8,18 +8,11 @@
     "background": "1010",
     "costume": "1004100",
     "character_voice": "Jun Fukushima",
-    "character_voice_2": "0",
     "sort_order": "1",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "6/7",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "0.6333333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.6333333333"
   },
   {
     "id": "101",
@@ -30,18 +23,11 @@
     "background": "1010",
     "costume": "1014100",
     "character_voice": "Sora Amamiya",
-    "character_voice_2": "0",
     "sort_order": "2",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "8/1",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1"
   },
   {
     "id": "102",
@@ -52,18 +38,12 @@
     "background": "1010",
     "costume": "1024100",
     "character_voice": "Rie Takahashi",
-    "character_voice_2": "0",
     "sort_order": "3",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
     "notice_text": "Faints immediately after using Explosion or Railgun.",
     "birthday": "12/4",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "3.016666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "3.016666667"
   },
   {
     "id": "103",
@@ -74,18 +54,12 @@
     "background": "1010",
     "costume": "1034100",
     "character_voice": "Ai Kayano",
-    "character_voice_2": "0",
     "sort_order": "4",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
     "notice_text": "Darkness has exceptionally low attack accuracy.",
     "birthday": "4/6",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "2.383333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.383333333"
   },
   {
     "id": "104",
@@ -96,18 +70,11 @@
     "background": "1010",
     "costume": "1044100",
     "character_voice": "Ayaka Suwa",
-    "character_voice_2": "0",
     "sort_order": "5",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "12/25",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.866666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.866666667"
   },
   {
     "id": "105",
@@ -118,18 +85,12 @@
     "background": "1010",
     "costume": "1054100",
     "character_voice": "Yui Horie",
-    "character_voice_2": "0",
     "sort_order": "6",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
     "notice_text": "Wiz isn't healed by standard recovery skills, but takes damage instead.",
     "birthday": "11/8",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.233333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.233333333"
   },
   {
     "id": "106",
@@ -140,18 +101,11 @@
     "background": "1010",
     "costume": "1064100",
     "character_voice": "Aki Toyosaki",
-    "character_voice_2": "0",
     "sort_order": "7",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "2/29",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.916666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.916666667"
   },
   {
     "id": "107",
@@ -162,18 +116,11 @@
     "background": "1010",
     "costume": "1074100",
     "character_voice": "Kanon Takao",
-    "character_voice_2": "0",
     "sort_order": "8",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "9/6",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "2.8",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.8"
   },
   {
     "id": "108",
@@ -184,18 +131,12 @@
     "background": "1010",
     "costume": "1084100",
     "character_voice": "Maria Naganawa",
-    "character_voice_2": "0",
     "sort_order": "20",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2022/07/22 00:00:00",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "5/5",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "2",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2"
   },
   {
     "id": "109",
@@ -206,18 +147,11 @@
     "background": "1010",
     "costume": "1094100",
     "character_voice": "Ai Fairouz",
-    "character_voice_2": "0",
     "sort_order": "9",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "1/12",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "2.116666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.116666667"
   },
   {
     "id": "110",
@@ -228,18 +162,11 @@
     "background": "1010",
     "costume": "1104100",
     "character_voice": "Kaori Nazuka",
-    "character_voice_2": "0",
     "sort_order": "10",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "3/28",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "2.35",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.35"
   },
   {
     "id": "111",
@@ -250,18 +177,11 @@
     "background": "1010",
     "costume": "1114100",
     "character_voice": "Takuya Eguchi",
-    "character_voice_2": "0",
     "sort_order": "11",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "6/6",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.75",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.75"
   },
   {
     "id": "112",
@@ -272,18 +192,11 @@
     "background": "1010",
     "costume": "1124100",
     "character_voice": "Junji Majima",
-    "character_voice_2": "0",
     "sort_order": "12",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "9/28",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.583333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.583333333"
   },
   {
     "id": "113",
@@ -294,18 +207,11 @@
     "background": "1010",
     "costume": "1134100",
     "character_voice": "Yumiri Hanamori",
-    "character_voice_2": "0",
     "sort_order": "13",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "10/6",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.45",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.45"
   },
   {
     "id": "114",
@@ -316,18 +222,11 @@
     "background": "1010",
     "costume": "1144100",
     "character_voice": "Maki Kawase",
-    "character_voice_2": "0",
     "sort_order": "14",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "7/4",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.35",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.35"
   },
   {
     "id": "115",
@@ -338,18 +237,11 @@
     "background": "1010",
     "costume": "1154100",
     "character_voice": "Karin Isobe",
-    "character_voice_2": "0",
     "sort_order": "15",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "11/19",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.333333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.333333333"
   },
   {
     "id": "116",
@@ -360,18 +252,11 @@
     "background": "1010",
     "costume": "1164100",
     "character_voice": "Seina Kato",
-    "character_voice_2": "0",
     "sort_order": "16",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "5/17",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.85",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.85"
   },
   {
     "id": "117",
@@ -382,18 +267,11 @@
     "background": "1010",
     "costume": "1174100",
     "character_voice": "Marika Kohno",
-    "character_voice_2": "0",
     "sort_order": "17",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "10/29",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.8",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.8"
   },
   {
     "id": "118",
@@ -404,18 +282,11 @@
     "background": "1010",
     "costume": "1184100",
     "character_voice": "Azumi Waki",
-    "character_voice_2": "0",
     "sort_order": "18",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "4/26",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.7",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.7"
   },
   {
     "id": "119",
@@ -426,18 +297,11 @@
     "background": "1010",
     "costume": "1194100",
     "character_voice": "Naomi Ohzora",
-    "character_voice_2": "0",
     "sort_order": "19",
     "description": "プレイアブル",
-    "is_collabo": "0",
-    "display_start": "0",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "2/8",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.883333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.883333333"
   },
   {
     "id": "126",
@@ -448,18 +312,13 @@
     "background": "1010",
     "costume": "1264100",
     "character_voice": "Sayuri Yahagi",
-    "character_voice_2": "0",
     "sort_order": "24",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2024/4/5 0:00:00",
-    "display_end": "0",
     "notice_text": "Same Character bonus activated when teamed with Iris.",
     "birthday": "5/30",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "0.5833333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.5833333"
   },
   {
     "id": "128",
@@ -470,18 +329,13 @@
     "background": "1010",
     "costume": "1284100",
     "character_voice": "Masakazu Nishida",
-    "character_voice_2": "0",
     "sort_order": "22",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2022/12/7 00:00:00",
-    "display_end": "0",
     "notice_text": "Vanir isn't healed by standard recovery skills, but takes damage instead.",
     "birthday": "1/21",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.8",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.8"
   },
   {
     "id": "147",
@@ -492,7 +346,6 @@
     "background": "1010",
     "costume": "1474132",
     "character_voice": "Rie Takahashi",
-    "character_voice_2": "0",
     "sort_order": "101",
     "description": "プレイアブル",
     "is_collabo": "1",
@@ -501,9 +354,7 @@
     "notice_text": "Collaboration bonus activated when teamed with Aqua.",
     "birthday": "7/1",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.85",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.85"
   },
   {
     "id": "150",
@@ -514,7 +365,6 @@
     "background": "1010",
     "costume": "1504132",
     "character_voice": "Inori Minase",
-    "character_voice_2": "0",
     "sort_order": "103",
     "description": "プレイアブル",
     "is_collabo": "1",
@@ -523,9 +373,7 @@
     "notice_text": "Collaboration bonus activated when teamed with Megumin.",
     "birthday": "2/2",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.233333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.233333333"
   },
   {
     "id": "151",
@@ -536,18 +384,12 @@
     "background": "1010",
     "costume": "1514100",
     "character_voice": "Aimi",
-    "character_voice_2": "0",
     "sort_order": "21",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2022/10/24 00:00:00",
-    "display_end": "0",
-    "notice_text": "0",
     "birthday": "7/14",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.333333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.333333333"
   },
   {
     "id": "158",
@@ -558,18 +400,14 @@
     "background": "1010",
     "costume": "1584147",
     "character_voice": "Yoshitsugu Matsuoka",
-    "character_voice_2": "0",
     "sort_order": "106",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2022/05/26 00:00:00",
     "display_end": "2022/06/10 00:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Kazuma.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.7",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.7"
   },
   {
     "id": "160",
@@ -580,18 +418,14 @@
     "background": "1010",
     "costume": "1604147",
     "character_voice": "Saori Onishi",
-    "character_voice_2": "0",
     "sort_order": "107",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2022/05/26 00:00:00",
     "display_end": "2022/06/10 00:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Darkness.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.6166666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.6166666667"
   },
   {
     "id": "163",
@@ -602,18 +436,15 @@
     "background": "1010",
     "costume": "1634161",
     "character_voice": "Satoshi Hino",
-    "character_voice_2": "0",
     "sort_order": "108",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2023/2/21 0:00:00",
     "display_end": "2023/3/23 23:59:00",
     "notice_text": "Activates a character bonus when teamed with Kazuma. Does not get healed by standard recovery skills, but takes damage instead.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
     "assist_effect_timing": "1.5",
-    "full_cell_width": "644",
-    "full_cell_height": "0"
+    "full_cell_width": "644"
   },
   {
     "id": "164",
@@ -624,18 +455,15 @@
     "background": "1010",
     "costume": "1644161",
     "character_voice": "Yumi Hara",
-    "character_voice_2": "0",
     "sort_order": "109",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2023/2/21 0:00:00",
     "display_end": "2023/3/23 23:59:00",
     "notice_text": "Activates a character bonus when teamed with Darkness. Does not get healed by standard recovery skills, but takes damage instead.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
     "assist_effect_timing": "2",
-    "full_cell_width": "644",
-    "full_cell_height": "0"
+    "full_cell_width": "644"
   },
   {
     "id": "165",
@@ -646,18 +474,14 @@
     "background": "1010",
     "costume": "1654161",
     "character_voice": "Sumire Uesaka",
-    "character_voice_2": "0",
     "sort_order": "110",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2023/2/21 0:00:00",
     "display_end": "2023/3/23 23:59:00",
     "notice_text": "Activates a character bonus when teamed with Megumin. Does not get healed by standard recovery skills, but takes damage instead.",
-    "birthday": "0",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "0.91666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.91666667"
   },
   {
     "id": "169",
@@ -668,18 +492,13 @@
     "background": "1010",
     "costume": "1694100",
     "character_voice": "Nanami Yamashita",
-    "character_voice_2": "0",
     "sort_order": "23",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2023/6/27 0:00:00",
-    "display_end": "0",
     "notice_text": "Lolisa gets damaged instead of recovering with most of the recovery skills.",
     "birthday": "6/23",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "2.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.5"
   },
   {
     "id": "181",
@@ -693,15 +512,11 @@
     "character_voice_2": "Sayumi Suzushiro (Dodonko)",
     "sort_order": "25",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2024/4/26 0:00:00",
-    "display_end": "0",
     "notice_text": "Same Character bonus activated when teamed with Megumin.",
-    "birthday": "0",
     "use_assist_motion": "Skill2",
     "assist_effect_timing": "1.916666667",
-    "full_cell_width": "644",
-    "full_cell_height": "0"
+    "full_cell_width": "644"
   },
   {
     "id": "183",
@@ -712,18 +527,14 @@
     "background": "1010",
     "costume": "1834189",
     "character_voice": "Rina Sato",
-    "character_voice_2": "0",
     "sort_order": "111",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/05/11 15:00:00",
     "display_end": "2122/05/31 15:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Misaka Sister/Megumin/Iris.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.333333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.333333333"
   },
   {
     "id": "184",
@@ -734,18 +545,14 @@
     "background": "1010",
     "costume": "1844189",
     "character_voice": "Satomi Arai",
-    "character_voice_2": "0",
     "sort_order": "112",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/05/11 15:00:00",
     "display_end": "2122/05/31 15:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Chris/Yunyun.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "1.15",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.15"
   },
   {
     "id": "185",
@@ -756,18 +563,14 @@
     "background": "1010",
     "costume": "1854189",
     "character_voice": "Nobuhiko Okamoto",
-    "character_voice_2": "0",
     "sort_order": "113",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/05/11 15:00:00",
     "display_end": "2122/05/31 15:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Kazuma/Dust.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "1",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1"
   },
   {
     "id": "186",
@@ -778,18 +581,14 @@
     "background": "1010",
     "costume": "1864189",
     "character_voice": "Nozomi Sasaki",
-    "character_voice_2": "0",
     "sort_order": "114",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/05/11 15:00:00",
     "display_end": "2122/05/31 15:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Mikoto Misaka/Megumin/Iris.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "2.316666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.316666667"
   },
   {
     "id": "192",
@@ -800,18 +599,14 @@
     "background": "1010",
     "costume": "1924195",
     "character_voice": "Kaito Ishikawa",
-    "character_voice_2": "0",
     "sort_order": "115",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2024/5/23 0:00:00",
     "display_end": "2024/6/7 0:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Kazuma/Mitsurugi.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1"
   },
   {
     "id": "193",
@@ -822,18 +617,14 @@
     "background": "1010",
     "costume": "1934195",
     "character_voice": "Asami Seto",
-    "character_voice_2": "0",
     "sort_order": "116",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2024/5/23 0:00:00",
     "display_end": "2024/6/7 0:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Aqua/Iris.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.5"
   },
   {
     "id": "194",
@@ -844,18 +635,14 @@
     "background": "1010",
     "costume": "1944195",
     "character_voice": "Rina Hidaka",
-    "character_voice_2": "0",
     "sort_order": "117",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2024/5/23 0:00:00",
     "display_end": "2024/6/7 0:00:00",
     "notice_text": "Collaboration bonus activated when teamed with Komekko/Chris.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.833333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.833333333"
   },
   {
     "id": "195",
@@ -866,18 +653,14 @@
     "background": "1010",
     "costume": "1954203",
     "character_voice": "Kaede Hondo",
-    "character_voice_2": "0",
     "sort_order": "118",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/10/31 15:00",
     "display_end": "2122/11/22 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Darkness/Lolisa.",
-    "birthday": "0",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "0.6",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.6"
   },
   {
     "id": "196",
@@ -888,18 +671,14 @@
     "background": "1010",
     "costume": "1964203",
     "character_voice": "Ruriko Noguchi",
-    "character_voice_2": "0",
     "sort_order": "119",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/10/31 15:00",
     "display_end": "2122/11/22 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Chris/Erika.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.4166666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.4166666667"
   },
   {
     "id": "197",
@@ -910,18 +689,14 @@
     "background": "1010",
     "costume": "1974203",
     "character_voice": "Saori Hayami",
-    "character_voice_2": "0",
     "sort_order": "120",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2122/10/31 15:00",
     "display_end": "2122/11/22 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Iris/Lia.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.6",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.6"
   },
   {
     "id": "198",
@@ -939,11 +714,8 @@
     "display_start": "2123/1/20 15:00",
     "display_end": "2123/2/10 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Kazuma/Vanir.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "1.583333333",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.583333333"
   },
   {
     "id": "199",
@@ -954,18 +726,14 @@
     "background": "1010",
     "costume": "1994210",
     "character_voice": "Konomi Kohara",
-    "character_voice_2": "0",
     "sort_order": "122",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/1/20 15:00",
     "display_end": "2123/2/10 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Megumin/Yunyun.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "2.216666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "2.216666667"
   },
   {
     "id": "200",
@@ -976,18 +744,14 @@
     "background": "1010",
     "costume": "2004210",
     "character_voice": "Ai Kakuma",
-    "character_voice_2": "0",
     "sort_order": "123",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/1/20 15:00",
     "display_end": "2123/2/10 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Iris/Chris.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.3666666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.3666666667"
   },
   {
     "id": "205",
@@ -998,18 +762,14 @@
     "background": "1010",
     "costume": "2054220",
     "character_voice": "Yūsuke Kobayashi",
-    "character_voice_2": "0",
     "sort_order": "100",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/5/20 15:00",
     "display_end": "2123/6/11 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Kazuma/Dust.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.75",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.75"
   },
   {
     "id": "206",
@@ -1020,18 +780,14 @@
     "background": "1010",
     "costume": "2064220",
     "character_voice": "Rie Murakawa",
-    "character_voice_2": "0",
     "sort_order": "102",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/5/20 15:00",
     "display_end": "2123/6/11 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Megumin/Rin/Rem.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.8",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.8"
   },
   {
     "id": "207",
@@ -1042,18 +798,15 @@
     "background": "1010",
     "costume": "2074220",
     "character_voice": "Satomi Arai",
-    "character_voice_2": "0",
     "sort_order": "104",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/5/20 15:00",
     "display_end": "2123/6/11 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Yunyun/Komekko.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
     "assist_effect_timing": "1.666666667",
-    "full_cell_width": "644",
-    "full_cell_height": "0"
+    "full_cell_width": "644"
   },
   {
     "id": "208",
@@ -1064,18 +817,14 @@
     "background": "1010",
     "costume": "2084220",
     "character_voice": "Maaya Sakamoto",
-    "character_voice_2": "0",
     "sort_order": "105",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/5/20 15:00",
     "display_end": "2123/6/11 15:00",
     "notice_text": "Character bonus activated when teamed with Arue/Wiz.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.8",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.8"
   },
   {
     "id": "209",
@@ -1086,12 +835,9 @@
     "background": "1010",
     "costume": "2094100",
     "character_voice": "Yasunori Masutani",
-    "character_voice_2": "0",
     "sort_order": "26",
     "description": "プレイアブル",
-    "is_collabo": "0",
     "display_start": "2024/7/15 0:00",
-    "display_end": "0",
     "notice_text": "Same Character bonus activated when teamed with Aqua/Cecily.",
     "birthday": "4/1",
     "use_assist_motion": "Skill1",
@@ -1108,18 +854,14 @@
     "background": "1010",
     "costume": "2114225",
     "character_voice": "Tomokazu Sugita",
-    "character_voice_2": "0",
     "sort_order": "124",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/7/31 15:00",
     "display_end": "2123/8/21 15:00",
     "notice_text": "Same Character bonus activated when teamed with Kazuma/Mitsurugi.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1"
   },
   {
     "id": "212",
@@ -1130,18 +872,14 @@
     "background": "1010",
     "costume": "2124225",
     "character_voice": "Aya Hirano",
-    "character_voice_2": "0",
     "sort_order": "125",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/7/31 15:00",
     "display_end": "2123/8/21 15:00",
     "notice_text": "Same Character bonus activated when teamed with Aqua/Iris.",
-    "birthday": "0",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "1.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.5"
   },
   {
     "id": "213",
@@ -1152,18 +890,14 @@
     "background": "1010",
     "costume": "2134225",
     "character_voice": "Minori Chihara",
-    "character_voice_2": "0",
     "sort_order": "127",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/7/31 15:00",
     "display_end": "2123/8/21 15:00",
     "notice_text": "Same Character bonus activated when teamed with Chris/Yunyun.",
-    "birthday": "0",
     "use_assist_motion": "Skill2",
-    "assist_effect_timing": "1.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.5"
   },
   {
     "id": "214",
@@ -1174,18 +908,14 @@
     "background": "1010",
     "costume": "2144225",
     "character_voice": "Yuko Goto",
-    "character_voice_2": "0",
     "sort_order": "126",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/7/31 15:00",
     "display_end": "2123/8/21 15:00",
     "notice_text": "Same Character bonus activated when teamed with Aqua/Cecily.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "1",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1"
   },
   {
     "id": "217",
@@ -1196,18 +926,14 @@
     "background": "1010",
     "costume": "2174236",
     "character_voice": "Miho Okasaki",
-    "character_voice_2": "0",
     "sort_order": "128",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/12/15 15:00",
     "display_end": "2123/12/31 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Aqua/Kazuma.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "1.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "1.5"
   },
   {
     "id": "218",
@@ -1218,18 +944,14 @@
     "background": "1010",
     "costume": "2184236",
     "character_voice": "Sayaka Senbongi",
-    "character_voice_2": "0",
     "sort_order": "129",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/12/15 15:00",
     "display_end": "2123/12/31 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Cecily/Amy.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.7166666667",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.7166666667"
   },
   {
     "id": "219",
@@ -1240,18 +962,14 @@
     "background": "1010",
     "costume": "2194236",
     "character_voice": "M・A・O",
-    "character_voice_2": "0",
     "sort_order": "130",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/12/15 15:00",
     "display_end": "2123/12/31 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Darkness/Claire.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.5"
   },
   {
     "id": "220",
@@ -1262,18 +980,14 @@
     "background": "1010",
     "costume": "2204236",
     "character_voice": "Rina Hidaka",
-    "character_voice_2": "0",
     "sort_order": "131",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2123/12/15 15:00",
     "display_end": "2123/12/31 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Megumin/Iris.",
-    "birthday": "0",
     "use_assist_motion": "Skill1",
-    "assist_effect_timing": "0.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.5"
   },
   {
     "id": "223",
@@ -1284,18 +998,15 @@
     "background": "1010",
     "costume": "2234241",
     "character_voice": "Seiichiro Yamashita",
-    "character_voice_2": "0",
     "sort_order": "132",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2124/1/31 15:00",
     "display_end": "2124/2/27 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Kazuma/Dust.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
     "assist_effect_timing": "0.6333333333",
-    "full_cell_width": "644",
-    "full_cell_height": "0"
+    "full_cell_width": "644"
   },
   {
     "id": "224",
@@ -1306,18 +1017,14 @@
     "background": "1010",
     "costume": "2244241",
     "character_voice": "Asami Seto",
-    "character_voice_2": "0",
     "sort_order": "133",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2124/1/31 15:00",
     "display_end": "2124/2/27 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Megumin/Iris.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
-    "assist_effect_timing": "0.5",
-    "full_cell_width": "0",
-    "full_cell_height": "0"
+    "assist_effect_timing": "0.5"
   },
   {
     "id": "225",
@@ -1328,14 +1035,12 @@
     "background": "1010",
     "costume": "2254241",
     "character_voice": "Inori Minase",
-    "character_voice_2": "0",
     "sort_order": "134",
     "description": "プレイアブル",
     "is_collabo": "1",
     "display_start": "2124/1/31 15:00",
     "display_end": "2124/2/27 15:00",
     "notice_text": "Collaboration bonus activated when teamed with Yunyun/Chris.",
-    "birthday": "0",
     "use_assist_motion": "Attack",
     "assist_effect_timing": "0.6333333333",
     "full_cell_width": "538",

@@ -2,38 +2,28 @@
   {
     "type": "11101",
     "type_category": "HP_RECOVERY",
-    "sustain_type": "0",
     "name": "HP Recovery",
-    "icon_type": "0",
-    "effect": "ef_heal_01",
-    "effect_position": "0"
+    "effect": "ef_heal_01"
   },
   {
     "type": "11102",
     "type_category": "SP_RECOVERY",
-    "sustain_type": "0",
     "name": "Super Gauge Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "11103",
     "type_category": "PA_SKILL",
     "sustain_type": "2",
     "name": "Super Gauge Fill Rate Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "11104",
     "type_category": "PA_SKILL",
     "sustain_type": "1",
     "name": "Super Gauge Fill Rate Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "11201",
@@ -74,47 +64,35 @@
   {
     "type": "12101",
     "type_category": "HP_RECOVERY",
-    "sustain_type": "0",
     "name": "HP Recovery",
-    "icon_type": "0",
-    "effect": "ef_heal_01",
-    "effect_position": "0"
+    "effect": "ef_heal_01"
   },
   {
     "type": "12102",
     "type_category": "SP_RECOVERY",
-    "sustain_type": "0",
     "name": "Super Gauge Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "12103",
     "type_category": "PA_SKILL",
     "sustain_type": "2",
     "name": "Super Gauge Fill Rate Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "12104",
     "type_category": "PA_SKILL",
     "sustain_type": "1",
     "name": "Super Gauge Fill Rate Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "12105",
     "type_category": "HP_UP",
     "sustain_type": "2",
     "name": "Max HP Increase",
-    "icon_type": "0",
-    "effect": "ef_regeneration_3",
-    "effect_position": "0"
+    "effect": "ef_regeneration_3"
   },
   {
     "type": "12201",
@@ -218,56 +196,42 @@
   {
     "type": "13101",
     "type_category": "HP_RECOVERY",
-    "sustain_type": "0",
     "name": "HP Recovery",
-    "icon_type": "0",
-    "effect": "ef_heal_01",
-    "effect_position": "0"
+    "effect": "ef_heal_01"
   },
   {
     "type": "13102",
     "type_category": "REVIVAL",
-    "sustain_type": "0",
     "name": "Revive",
-    "icon_type": "0",
     "effect": "ef_heal_03",
     "effect_position": "3"
   },
   {
     "type": "13103",
     "type_category": "SP_RECOVERY",
-    "sustain_type": "0",
     "name": "Super Gauge Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "13104",
     "type_category": "PA_SKILL",
     "sustain_type": "2",
     "name": "Super Gauge Fill Rate Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "13105",
     "type_category": "PA_SKILL",
     "sustain_type": "1",
     "name": "Super Gauge Fill Rate Boost",
-    "icon_type": "0",
-    "effect": "ef_chant_buff_02",
-    "effect_position": "0"
+    "effect": "ef_chant_buff_02"
   },
   {
     "type": "13106",
     "type_category": "HP_UP",
     "sustain_type": "2",
     "name": "Max HP Increase",
-    "icon_type": "0",
-    "effect": "ef_regeneration_3",
-    "effect_position": "0"
+    "effect": "ef_regeneration_3"
   },
   {
     "type": "13201",
@@ -410,7 +374,6 @@
     "sustain_type": "2",
     "name": "Status Resistance Boost",
     "icon_type": "2",
-    "effect": "ef_damagecut_3",
-    "effect_position": "0"
+    "effect": "ef_damagecut_3"
   }
 ]

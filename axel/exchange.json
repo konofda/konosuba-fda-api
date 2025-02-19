@@ -5,95 +5,52 @@
     "banner": "banner_exchange_20044.png",
     "enable": "1",
     "start_at": "2022/3/31 0:00",
-    "end_at": "2022/4/3 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/4/3 0:00"
   },
   {
     "exchange_id": "100",
     "name": "Adventurer Medal Exchange",
     "banner": "banner_exchange_100.png",
-    "enable": "1",
-    "start_at": "0",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "enable": "1"
   },
   {
     "exchange_id": "101",
     "name": "Goddess Medal Exchange",
     "banner": "banner_exchange_101.png",
-    "enable": "1",
-    "start_at": "0",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "enable": "1"
   },
   {
     "exchange_id": "102",
     "name": "Arena Medal Exchange",
     "banner": "banner_exchange_102.png",
-    "enable": "1",
-    "start_at": "0",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "enable": "1"
   },
   {
     "exchange_id": "103",
     "name": "Power Potion Exchange",
     "banner": "banner_exchange_103.png",
-    "enable": "1",
-    "start_at": "0",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "enable": "1"
   },
   {
     "exchange_id": "104",
     "name": "Ancient Jewel Exchange",
     "banner": "banner_exchange_104.png",
     "enable": "1",
-    "start_at": "2022/09/17 0:00",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "start_at": "2022/09/17 0:00"
   },
   {
     "exchange_id": "105",
     "name": "Ancient Stone Exchange",
     "banner": "banner_exchange_105.png",
     "enable": "1",
-    "start_at": "2022/09/17 0:00",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "start_at": "2022/09/17 0:00"
   },
   {
     "exchange_id": "106",
     "name": "Expert Medal Exchange",
     "banner": "banner_exchange_106.png",
     "enable": "1",
-    "start_at": "2022/11/8 0:00",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "start_at": "2022/11/8 0:00"
   },
   {
     "exchange_id": "107",
@@ -101,10 +58,6 @@
     "banner": "banner_exchange_107.png",
     "enable": "1",
     "start_at": "2023/01/10 0:00",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
     "material_display": "1"
   },
   {
@@ -114,9 +67,6 @@
     "enable": "1",
     "start_at": "2124/2/27 0:00",
     "end_at": "2124/3/26 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
     "material_display": "1"
   },
   {
@@ -125,11 +75,7 @@
     "banner": "banner_exchange_109.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "111",
@@ -137,11 +83,7 @@
     "banner": "banner_exchange_111.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "112",
@@ -150,9 +92,6 @@
     "enable": "1",
     "start_at": "2123/05/20 15:00:00",
     "end_at": "2123/06/11 15:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
     "material_display": "1"
   },
   {
@@ -162,9 +101,6 @@
     "enable": "1",
     "start_at": "2123/07/31 15:00:00",
     "end_at": "2123/08/21 15:00:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
     "material_display": "1"
   },
   {
@@ -174,9 +110,6 @@
     "enable": "1",
     "start_at": "2123/12/15 15:00:00",
     "end_at": "2123/12/31 15:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
     "material_display": "1"
   },
   {
@@ -186,9 +119,6 @@
     "enable": "1",
     "start_at": "2124/01/31 15:00:00",
     "end_at": "2124/02/27 15:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
     "material_display": "1"
   },
   {
@@ -196,12 +126,7 @@
     "name": "Character Selection Ticket Exchange",
     "banner": "banner_exchange_119111.png",
     "enable": "1",
-    "start_at": "0",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120031",
@@ -209,11 +134,7 @@
     "banner": "banner_exchange_120031.png",
     "enable": "1",
     "start_at": "2021/10/25 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120032",
@@ -221,11 +142,7 @@
     "banner": "banner_exchange_320032.png",
     "enable": "1",
     "start_at": "2021/11/24 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120041",
@@ -233,11 +150,7 @@
     "banner": "banner_exchange_320041.png",
     "enable": "1",
     "start_at": "2021/9/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120042",
@@ -245,11 +158,7 @@
     "banner": "banner_exchange_320042.png",
     "enable": "1",
     "start_at": "2021/10/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120043",
@@ -257,11 +166,7 @@
     "banner": "banner_exchange_320043.png",
     "enable": "1",
     "start_at": "2021/11/1 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120051",
@@ -269,11 +174,7 @@
     "banner": "banner_exchange_320051.png",
     "enable": "1",
     "start_at": "2021/12/24 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120052",
@@ -281,11 +182,7 @@
     "banner": "banner_exchange_320052.png",
     "enable": "1",
     "start_at": "2022/3/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120053",
@@ -293,11 +190,7 @@
     "banner": "banner_exchange_320053.png",
     "enable": "1",
     "start_at": "2022/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120061",
@@ -305,11 +198,7 @@
     "banner": "banner_exchange_320061.png",
     "enable": "1",
     "start_at": "2022/1/31 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120062",
@@ -317,11 +206,7 @@
     "banner": "banner_exchange_320062.png",
     "enable": "1",
     "start_at": "2022/3/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120063",
@@ -329,11 +214,7 @@
     "banner": "banner_exchange_320063.png",
     "enable": "1",
     "start_at": "2022/3/31 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120071",
@@ -341,11 +222,7 @@
     "banner": "banner_exchange_320071.png",
     "enable": "1",
     "start_at": "2022/4/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120072",
@@ -353,11 +230,7 @@
     "banner": "banner_exchange_320072.png",
     "enable": "1",
     "start_at": "2021/8/19 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120073",
@@ -365,11 +238,7 @@
     "banner": "banner_exchange_320073.png",
     "enable": "1",
     "start_at": "2021/8/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120081",
@@ -377,11 +246,7 @@
     "banner": "banner_exchange_320081.png",
     "enable": "1",
     "start_at": "2021/9/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120082",
@@ -389,11 +254,7 @@
     "banner": "banner_exchange_320082.png",
     "enable": "1",
     "start_at": "2022/4/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120083",
@@ -401,11 +262,7 @@
     "banner": "banner_exchange_320083.png",
     "enable": "1",
     "start_at": "2022/5/1 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120091",
@@ -413,11 +270,7 @@
     "banner": "banner_exchange_320091.png",
     "enable": "1",
     "start_at": "2022/2/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120092",
@@ -425,11 +278,7 @@
     "banner": "banner_exchange_320092.png",
     "enable": "1",
     "start_at": "2022/5/12 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120093",
@@ -437,11 +286,7 @@
     "banner": "banner_exchange_320093.png",
     "enable": "1",
     "start_at": "2022/5/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120094",
@@ -449,11 +294,7 @@
     "banner": "banner_exchange_410020.png",
     "enable": "1",
     "start_at": "2022/2/24 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120101",
@@ -461,11 +302,7 @@
     "banner": "banner_exchange_320101.png",
     "enable": "1",
     "start_at": "2021/10/14 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120102",
@@ -473,11 +310,7 @@
     "banner": "banner_exchange_320102.png",
     "enable": "1",
     "start_at": "2022/4/8 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120103",
@@ -485,11 +318,7 @@
     "banner": "banner_exchange_320103.png",
     "enable": "1",
     "start_at": "2022/4/12 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120111",
@@ -497,11 +326,7 @@
     "banner": "banner_exchange_320111.png",
     "enable": "1",
     "start_at": "2021/11/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120112",
@@ -509,11 +334,7 @@
     "banner": "banner_exchange_320112.png",
     "enable": "1",
     "start_at": "2022/6/17 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120113",
@@ -521,11 +342,7 @@
     "banner": "banner_exchange_320113.png",
     "enable": "1",
     "start_at": "2022/6/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120121",
@@ -533,11 +350,7 @@
     "banner": "banner_exchange_320121.png",
     "enable": "1",
     "start_at": "2021/12/14 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120122",
@@ -545,11 +358,7 @@
     "banner": "banner_exchange_320122.png",
     "enable": "1",
     "start_at": "2022/1/12 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "120123",
@@ -557,11 +366,7 @@
     "banner": "banner_exchange_320123.png",
     "enable": "1",
     "start_at": "2022/1/21 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121011",
@@ -569,11 +374,7 @@
     "banner": "banner_exchange_321011.png",
     "enable": "1",
     "start_at": "2021/12/31 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121012",
@@ -581,11 +382,7 @@
     "banner": "banner_exchange_321012.png",
     "enable": "1",
     "start_at": "2022/2/17 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121013",
@@ -593,11 +390,7 @@
     "banner": "banner_exchange_321013.png",
     "enable": "1",
     "start_at": "2022/07/08 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121021",
@@ -605,11 +398,7 @@
     "banner": "banner_exchange_321021.png",
     "enable": "1",
     "start_at": "2022/2/8 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121022",
@@ -617,11 +406,7 @@
     "banner": "banner_exchange_321022.png",
     "enable": "1",
     "start_at": "2022/07/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121023",
@@ -629,11 +414,7 @@
     "banner": "banner_exchange_321023.png",
     "enable": "1",
     "start_at": "2022/09/03 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121031",
@@ -641,11 +422,7 @@
     "banner": "banner_exchange_321031.png",
     "enable": "1",
     "start_at": "2022/08/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121032",
@@ -653,11 +430,7 @@
     "banner": "banner_exchange_321032.png",
     "enable": "1",
     "start_at": "2022/07/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121033",
@@ -665,11 +438,7 @@
     "banner": "banner_exchange_321033.png",
     "enable": "1",
     "start_at": "2022/09/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121041",
@@ -677,11 +446,7 @@
     "banner": "banner_exchange_321041.png",
     "enable": "1",
     "start_at": "2022/06/24 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121042",
@@ -689,11 +454,7 @@
     "banner": "banner_exchange_321042.png",
     "enable": "1",
     "start_at": "2022/07/01 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121043",
@@ -701,11 +462,7 @@
     "banner": "banner_exchange_321043.png",
     "enable": "1",
     "start_at": "2022/9/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121051",
@@ -713,11 +470,7 @@
     "banner": "banner_exchange_321051.png",
     "enable": "1",
     "start_at": "2022/05/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121052",
@@ -725,11 +478,7 @@
     "banner": "banner_exchange_321052.png",
     "enable": "1",
     "start_at": "2022/10/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121053",
@@ -737,11 +486,7 @@
     "banner": "banner_exchange_321053.png",
     "enable": "1",
     "start_at": "2022/10/14 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121061",
@@ -749,11 +494,7 @@
     "banner": "banner_exchange_321061.png",
     "enable": "1",
     "start_at": "2022/9/17 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121062",
@@ -761,11 +502,7 @@
     "banner": "banner_exchange_321062.png",
     "enable": "1",
     "start_at": "2022/11/27 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121063",
@@ -773,11 +510,7 @@
     "banner": "banner_exchange_321063.png",
     "enable": "1",
     "start_at": "2022/11/8 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121071",
@@ -785,11 +518,7 @@
     "banner": "banner_exchange_321071.png",
     "enable": "1",
     "start_at": "2022/07/31 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121072",
@@ -797,11 +526,7 @@
     "banner": "banner_exchange_321072.png",
     "enable": "1",
     "start_at": "2022/08/09 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121073",
@@ -809,11 +534,7 @@
     "banner": "banner_exchange_321073.png",
     "enable": "1",
     "start_at": "2022/08/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121074",
@@ -821,11 +542,7 @@
     "banner": "banner_exchange_410082.png",
     "enable": "1",
     "start_at": "2022/08/04 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121075",
@@ -833,11 +550,7 @@
     "banner": "banner_exchange_410085.png",
     "enable": "1",
     "start_at": "2022/08/11 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121081",
@@ -845,11 +558,7 @@
     "banner": "banner_exchange_321081.png",
     "enable": "1",
     "start_at": "2022/11/17 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121082",
@@ -857,11 +566,7 @@
     "banner": "banner_exchange_321082.png",
     "enable": "1",
     "start_at": "2022/10/24 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121083",
@@ -869,11 +574,7 @@
     "banner": "banner_exchange_321083.png",
     "enable": "1",
     "start_at": "2022/12/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121084",
@@ -881,11 +582,7 @@
     "banner": "banner_exchange_410094.png",
     "enable": "1",
     "start_at": "2022/12/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121091",
@@ -893,11 +590,7 @@
     "banner": "banner_exchange_321091.png",
     "enable": "1",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121092",
@@ -905,11 +598,7 @@
     "banner": "banner_exchange_321092.png",
     "enable": "1",
     "start_at": "2023/1/1 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121093",
@@ -917,11 +606,7 @@
     "banner": "banner_exchange_321093.png",
     "enable": "1",
     "start_at": "2023/1/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121094",
@@ -929,11 +614,7 @@
     "banner": "banner_exchange_410102.png",
     "enable": "1",
     "start_at": "2022/12/13 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121095",
@@ -941,11 +622,7 @@
     "banner": "banner_exchange_410104.png",
     "enable": "1",
     "start_at": "2022/12/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121096",
@@ -953,11 +630,7 @@
     "banner": "banner_exchange_410113.png",
     "enable": "1",
     "start_at": "2022/12/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121101",
@@ -965,11 +638,7 @@
     "banner": "banner_exchange_321101.png",
     "enable": "1",
     "start_at": "2023/6/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121102",
@@ -977,11 +646,7 @@
     "banner": "banner_exchange_321102.png",
     "enable": "1",
     "start_at": "2023/6/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121103",
@@ -989,11 +654,7 @@
     "banner": "banner_exchange_321103.png",
     "enable": "1",
     "start_at": "2023/1/20 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121111",
@@ -1001,11 +662,7 @@
     "banner": "banner_exchange_321111.png",
     "enable": "1",
     "start_at": "2023/2/21 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121112",
@@ -1013,11 +670,7 @@
     "banner": "banner_exchange_321112.png",
     "enable": "1",
     "start_at": "2023/1/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121113",
@@ -1025,11 +678,7 @@
     "banner": "banner_exchange_321113.png",
     "enable": "1",
     "start_at": "2023/3/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121121",
@@ -1037,11 +686,7 @@
     "banner": "banner_exchange_321121.png",
     "enable": "1",
     "start_at": "2023/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121122",
@@ -1049,11 +694,7 @@
     "banner": "banner_exchange_321122.png",
     "enable": "1",
     "start_at": "2023/3/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121123",
@@ -1061,11 +702,7 @@
     "banner": "banner_exchange_321123.png",
     "enable": "1",
     "start_at": "2023/4/6 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121124",
@@ -1073,11 +710,7 @@
     "banner": "banner_exchange_321124.png",
     "enable": "1",
     "start_at": "2023/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "121125",
@@ -1085,11 +718,7 @@
     "banner": "banner_exchange_410142.png",
     "enable": "1",
     "start_at": "2023/3/21 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122011",
@@ -1097,11 +726,7 @@
     "banner": "banner_exchange_322011.png",
     "enable": "1",
     "start_at": "2023/4/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122012",
@@ -1109,11 +734,7 @@
     "banner": "banner_exchange_322012.png",
     "enable": "1",
     "start_at": "2023/4/27 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122013",
@@ -1121,11 +742,7 @@
     "banner": "banner_exchange_322013.png",
     "enable": "1",
     "start_at": "2023/5/6 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122021",
@@ -1133,11 +750,7 @@
     "banner": "banner_exchange_322021.png",
     "enable": "1",
     "start_at": "2023/5/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122022",
@@ -1145,11 +758,7 @@
     "banner": "banner_exchange_322022.png",
     "enable": "1",
     "start_at": "2023/2/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122023",
@@ -1157,11 +766,7 @@
     "banner": "banner_exchange_322023.png",
     "enable": "1",
     "start_at": "2023/5/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122024",
@@ -1169,11 +774,7 @@
     "banner": "banner_exchange_410178.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122025",
@@ -1181,11 +782,7 @@
     "banner": "banner_exchange_410180.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122031",
@@ -1193,11 +790,7 @@
     "banner": "banner_exchange_322031.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122032",
@@ -1205,11 +798,7 @@
     "banner": "banner_exchange_322032.png",
     "enable": "1",
     "start_at": "2023/6/27 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122033",
@@ -1217,11 +806,7 @@
     "banner": "banner_exchange_322033.png",
     "enable": "1",
     "start_at": "2023/8/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122034",
@@ -1229,11 +814,7 @@
     "banner": "banner_exchange_410185.png",
     "enable": "1",
     "start_at": "2023/7/31 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122035",
@@ -1241,11 +822,7 @@
     "banner": "banner_exchange_410215.png",
     "enable": "1",
     "start_at": "2023/8/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122041",
@@ -1253,11 +830,7 @@
     "banner": "banner_exchange_322041.png",
     "enable": "1",
     "start_at": "2023/7/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122042",
@@ -1265,11 +838,7 @@
     "banner": "banner_exchange_322042.png",
     "enable": "1",
     "start_at": "2023/7/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122043",
@@ -1277,11 +846,7 @@
     "banner": "banner_exchange_322043.png",
     "enable": "1",
     "start_at": "2023/8/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122044",
@@ -1289,11 +854,7 @@
     "banner": "banner_exchange_420075.png",
     "enable": "1",
     "start_at": "2023/7/11 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122045",
@@ -1301,11 +862,7 @@
     "banner": "banner_exchange_410234.png",
     "enable": "1",
     "start_at": "2023/7/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122046",
@@ -1313,11 +870,7 @@
     "banner": "banner_exchange_410235.png",
     "enable": "1",
     "start_at": "2023/7/25 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122047",
@@ -1325,11 +878,7 @@
     "banner": "banner_exchange_410240.png",
     "enable": "1",
     "start_at": "2023/7/21 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122048",
@@ -1337,11 +886,7 @@
     "banner": "banner_exchange_420077.png",
     "enable": "1",
     "start_at": "2023/9/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122051",
@@ -1349,11 +894,7 @@
     "banner": "banner_exchange_322051.png",
     "enable": "1",
     "start_at": "2122/5/11 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122052",
@@ -1361,11 +902,7 @@
     "banner": "banner_exchange_322052.png",
     "enable": "1",
     "start_at": "2023/8/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122053",
@@ -1373,11 +910,7 @@
     "banner": "banner_exchange_322053.png",
     "enable": "1",
     "start_at": "2122/5/21 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122054",
@@ -1385,11 +918,7 @@
     "banner": "banner_exchange_410253.png",
     "enable": "1",
     "start_at": "2023/8/21 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122061",
@@ -1397,11 +926,7 @@
     "banner": "banner_exchange_322061.png",
     "enable": "1",
     "start_at": "2023/9/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122062",
@@ -1409,11 +934,7 @@
     "banner": "banner_exchange_322062.png",
     "enable": "1",
     "start_at": "2023/9/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122063",
@@ -1421,11 +942,7 @@
     "banner": "banner_exchange_322063.png",
     "enable": "1",
     "start_at": "2023/9/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122064",
@@ -1433,11 +950,7 @@
     "banner": "banner_exchange_410274.png",
     "enable": "1",
     "start_at": "2023/9/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122065",
@@ -1445,11 +958,7 @@
     "banner": "banner_exchange_410280.png",
     "enable": "1",
     "start_at": "2023/9/11 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122066",
@@ -1457,11 +966,7 @@
     "banner": "banner_exchange_420086.png",
     "enable": "1",
     "start_at": "2023/9/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122067",
@@ -1469,11 +974,7 @@
     "banner": "banner_exchange_420088.png",
     "enable": "1",
     "start_at": "2023/9/25 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122071",
@@ -1481,11 +982,7 @@
     "banner": "banner_exchange_322071.png",
     "enable": "1",
     "start_at": "2023/9/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122072",
@@ -1493,11 +990,7 @@
     "banner": "banner_exchange_322072.png",
     "enable": "1",
     "start_at": "2023/10/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122073",
@@ -1505,11 +998,7 @@
     "banner": "banner_exchange_322073.png",
     "enable": "1",
     "start_at": "2023/10/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122074",
@@ -1517,11 +1006,7 @@
     "banner": "banner_exchange_410290.png",
     "enable": "1",
     "start_at": "2023/10/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122075",
@@ -1529,11 +1014,7 @@
     "banner": "banner_exchange_410294.png",
     "enable": "1",
     "start_at": "2023/10/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122081",
@@ -1541,11 +1022,7 @@
     "banner": "banner_exchange_322081.png",
     "enable": "1",
     "start_at": "2024/5/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122082",
@@ -1553,11 +1030,7 @@
     "banner": "banner_exchange_322082.png",
     "enable": "1",
     "start_at": "2023/10/27 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122083",
@@ -1565,11 +1038,7 @@
     "banner": "banner_exchange_322083.png",
     "enable": "1",
     "start_at": "2023/11/3 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122084",
@@ -1577,11 +1046,7 @@
     "banner": "banner_exchange_322084.png",
     "enable": "1",
     "start_at": "2024/5/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122091",
@@ -1589,11 +1054,7 @@
     "banner": "banner_exchange_322091.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122092",
@@ -1601,11 +1062,7 @@
     "banner": "banner_exchange_322092.png",
     "enable": "1",
     "start_at": "2023/11/21 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122093",
@@ -1613,11 +1070,7 @@
     "banner": "banner_exchange_322093.png",
     "enable": "1",
     "start_at": "2023/11/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122094",
@@ -1625,11 +1078,7 @@
     "banner": "banner_exchange_410322.png",
     "enable": "1",
     "start_at": "2023/11/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122095",
@@ -1637,11 +1086,7 @@
     "banner": "banner_exchange_410328.png",
     "enable": "1",
     "start_at": "2023/11/24 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122101",
@@ -1649,11 +1094,7 @@
     "banner": "banner_exchange_322101.png",
     "enable": "1",
     "start_at": "2023/12/8 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122102",
@@ -1661,11 +1102,7 @@
     "banner": "banner_exchange_322102.png",
     "enable": "1",
     "start_at": "2023/12/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122103",
@@ -1673,11 +1110,7 @@
     "banner": "banner_exchange_322103.png",
     "enable": "1",
     "start_at": "2023/12/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122104",
@@ -1685,11 +1118,7 @@
     "banner": "banner_exchange_410336.png",
     "enable": "1",
     "start_at": "2023/12/12 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122105",
@@ -1697,11 +1126,7 @@
     "banner": "banner_exchange_410341.png",
     "enable": "1",
     "start_at": "2023/12/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122106",
@@ -1709,11 +1134,7 @@
     "banner": "banner_exchange_410343.png",
     "enable": "1",
     "start_at": "2023/12/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122107",
@@ -1721,11 +1142,7 @@
     "banner": "banner_exchange_420097.png",
     "enable": "1",
     "start_at": "2023/12/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122111",
@@ -1733,11 +1150,7 @@
     "banner": "banner_exchange_322111.png",
     "enable": "1",
     "start_at": "2122/10/31 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122112",
@@ -1745,11 +1158,7 @@
     "banner": "banner_exchange_322112.png",
     "enable": "1",
     "start_at": "2024/1/2 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122113",
@@ -1757,11 +1166,7 @@
     "banner": "banner_exchange_322113.png",
     "enable": "1",
     "start_at": "2122/11/11 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122121",
@@ -1769,11 +1174,7 @@
     "banner": "banner_exchange_322121.png",
     "enable": "1",
     "start_at": "2024/1/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122122",
@@ -1781,11 +1182,7 @@
     "banner": "banner_exchange_322122.png",
     "enable": "1",
     "start_at": "2024/1/19 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122123",
@@ -1793,11 +1190,7 @@
     "banner": "banner_exchange_322123.png",
     "enable": "1",
     "start_at": "2024/1/29 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122125",
@@ -1805,11 +1198,7 @@
     "banner": "banner_exchange_410368.png",
     "enable": "1",
     "start_at": "2024/1/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122126",
@@ -1817,11 +1206,7 @@
     "banner": "banner_exchange_410369.png",
     "enable": "1",
     "start_at": "2024/1/11 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122128",
@@ -1829,11 +1214,7 @@
     "banner": "banner_exchange_410380.png",
     "enable": "1",
     "start_at": "2024/1/20 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "122129",
@@ -1841,11 +1222,7 @@
     "banner": "banner_exchange_410383.png",
     "enable": "1",
     "start_at": "2024/1/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123011",
@@ -1853,11 +1230,7 @@
     "banner": "banner_exchange_323011.png",
     "enable": "1",
     "start_at": "2024/2/8 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123012",
@@ -1865,11 +1238,7 @@
     "banner": "banner_exchange_323012.png",
     "enable": "1",
     "start_at": "2024/2/19 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123013",
@@ -1877,11 +1246,7 @@
     "banner": "banner_exchange_323013.png",
     "enable": "1",
     "start_at": "2123/1/20 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123021",
@@ -1889,11 +1254,7 @@
     "banner": "banner_exchange_323021.png",
     "enable": "1",
     "start_at": "2123/1/31 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123022",
@@ -1901,11 +1262,7 @@
     "banner": "banner_exchange_323022.png",
     "enable": "1",
     "start_at": "2024/2/27 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123023",
@@ -1913,11 +1270,7 @@
     "banner": "banner_exchange_323023.png",
     "enable": "1",
     "start_at": "2024/3/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123024",
@@ -1925,11 +1278,7 @@
     "banner": "banner_exchange_410412.png",
     "enable": "1",
     "start_at": "2024/2/29 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123031",
@@ -1937,11 +1286,7 @@
     "banner": "banner_exchange_323031.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123032",
@@ -1949,11 +1294,7 @@
     "banner": "banner_exchange_323032.png",
     "enable": "1",
     "start_at": "2024/3/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123033",
@@ -1961,11 +1302,7 @@
     "banner": "banner_exchange_323033.png",
     "enable": "1",
     "start_at": "2024/4/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123041",
@@ -1973,11 +1310,7 @@
     "banner": "banner_exchange_323041.png",
     "enable": "1",
     "start_at": "2024/4/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123042",
@@ -1985,11 +1318,7 @@
     "banner": "banner_exchange_323042.png",
     "enable": "1",
     "start_at": "2024/4/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123043",
@@ -1997,11 +1326,7 @@
     "banner": "banner_exchange_323043.png",
     "enable": "1",
     "start_at": "2024/5/6 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123051",
@@ -2009,11 +1334,7 @@
     "banner": "banner_exchange_323051.png",
     "enable": "1",
     "start_at": "2024/5/14 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123052",
@@ -2021,11 +1342,7 @@
     "banner": "banner_exchange_323052.png",
     "enable": "1",
     "start_at": "2024/6/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123053",
@@ -2033,11 +1350,7 @@
     "banner": "banner_exchange_323053.png",
     "enable": "1",
     "start_at": "2124/6/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123054",
@@ -2045,11 +1358,7 @@
     "banner": "banner_exchange_410466.png",
     "enable": "1",
     "start_at": "2024/5/8 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123055",
@@ -2057,11 +1366,7 @@
     "banner": "banner_exchange_410487.png",
     "enable": "1",
     "start_at": "2123/5/20 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123061",
@@ -2069,11 +1374,7 @@
     "banner": "banner_exchange_323061.png",
     "enable": "1",
     "start_at": "2123/5/31 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123062",
@@ -2081,11 +1382,7 @@
     "banner": "banner_exchange_323062.png",
     "enable": "1",
     "start_at": "2024/6/18 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123063",
@@ -2093,11 +1390,7 @@
     "banner": "banner_exchange_323063.png",
     "enable": "1",
     "start_at": "2024/6/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123064",
@@ -2105,11 +1398,7 @@
     "banner": "banner_exchange_410501.png",
     "enable": "1",
     "start_at": "2024/6/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123065",
@@ -2117,11 +1406,7 @@
     "banner": "banner_exchange_410502.png",
     "enable": "1",
     "start_at": "2024/6/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123066",
@@ -2129,11 +1414,7 @@
     "banner": "banner_exchange_410503.png",
     "enable": "1",
     "start_at": "2024/6/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123071",
@@ -2141,11 +1422,7 @@
     "banner": "banner_exchange_323071.png",
     "enable": "1",
     "start_at": "2024/7/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123072",
@@ -2153,11 +1430,7 @@
     "banner": "banner_exchange_323072.png",
     "enable": "1",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123073",
@@ -2165,11 +1438,7 @@
     "banner": "banner_exchange_323073.png",
     "enable": "1",
     "start_at": "2024/7/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123074",
@@ -2177,11 +1446,7 @@
     "banner": "banner_exchange_410510.png",
     "enable": "1",
     "start_at": "2024/7/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123075",
@@ -2189,11 +1454,7 @@
     "banner": "banner_exchange_410516.png",
     "enable": "1",
     "start_at": "2024/7/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123076",
@@ -2201,11 +1462,7 @@
     "banner": "banner_exchange_410526.png",
     "enable": "1",
     "start_at": "2024/7/26 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123081",
@@ -2213,11 +1470,7 @@
     "banner": "banner_exchange_323081.png",
     "enable": "1",
     "start_at": "2123/7/31 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123082",
@@ -2225,11 +1478,7 @@
     "banner": "banner_exchange_323082.png",
     "enable": "1",
     "start_at": "2123/8/11 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123083",
@@ -2237,11 +1486,7 @@
     "banner": "banner_exchange_323083.png",
     "enable": "1",
     "start_at": "2024/8/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123091",
@@ -2249,11 +1494,7 @@
     "banner": "banner_exchange_323091.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123092",
@@ -2261,11 +1502,7 @@
     "banner": "banner_exchange_323092.png",
     "enable": "1",
     "start_at": "2024/9/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123093",
@@ -2273,11 +1510,7 @@
     "banner": "banner_exchange_323093.png",
     "enable": "1",
     "start_at": "2024/8/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123094",
@@ -2285,11 +1518,7 @@
     "banner": "banner_exchange_410569.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123095",
@@ -2297,11 +1526,7 @@
     "banner": "banner_exchange_410575.png",
     "enable": "1",
     "start_at": "2024/9/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123101",
@@ -2309,11 +1534,7 @@
     "banner": "banner_exchange_323101.png",
     "enable": "1",
     "start_at": "2024/9/19 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123102",
@@ -2321,11 +1542,7 @@
     "banner": "banner_exchange_323102.png",
     "enable": "1",
     "start_at": "2024/9/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123103",
@@ -2333,11 +1550,7 @@
     "banner": "banner_exchange_323103.png",
     "enable": "1",
     "start_at": "2024/10/11 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123104",
@@ -2345,11 +1558,7 @@
     "banner": "banner_exchange_410587.png",
     "enable": "1",
     "start_at": "2024/9/19 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123105",
@@ -2357,11 +1566,7 @@
     "banner": "banner_exchange_410598.png",
     "enable": "1",
     "start_at": "2024/9/30 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123111",
@@ -2369,11 +1574,7 @@
     "banner": "banner_exchange_323111.png",
     "enable": "1",
     "start_at": "2024/11/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123112",
@@ -2381,11 +1582,7 @@
     "banner": "banner_exchange_323112.png",
     "enable": "1",
     "start_at": "2024/11/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123113",
@@ -2393,11 +1590,7 @@
     "banner": "banner_exchange_323113.png",
     "enable": "1",
     "start_at": "2024/10/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123114",
@@ -2405,11 +1598,7 @@
     "banner": "banner_exchange_410609.png",
     "enable": "1",
     "start_at": "2124/11/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123115",
@@ -2417,11 +1606,7 @@
     "banner": "banner_exchange_410610.png",
     "enable": "1",
     "start_at": "2124/11/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123116",
@@ -2429,11 +1614,7 @@
     "banner": "banner_exchange_410611.png",
     "enable": "1",
     "start_at": "2124/11/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123121",
@@ -2441,11 +1622,7 @@
     "banner": "banner_exchange_323121.png",
     "enable": "1",
     "start_at": "2024/11/25 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123122",
@@ -2453,11 +1630,7 @@
     "banner": "banner_exchange_323122.png",
     "enable": "1",
     "start_at": "2123/12/15 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123123",
@@ -2465,11 +1638,7 @@
     "banner": "banner_exchange_323123.png",
     "enable": "1",
     "start_at": "2123/12/23 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123124",
@@ -2477,11 +1646,7 @@
     "banner": "banner_exchange_410628.png",
     "enable": "1",
     "start_at": "2123/11/30 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "123125",
@@ -2489,11 +1654,7 @@
     "banner": "banner_exchange_410630.png",
     "enable": "1",
     "start_at": "2123/12/8 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124011",
@@ -2501,11 +1662,7 @@
     "banner": "banner_exchange_324011.png",
     "enable": "1",
     "start_at": "2024/12/11 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124013",
@@ -2513,11 +1670,7 @@
     "banner": "banner_exchange_324013.png",
     "enable": "1",
     "start_at": "2025/1/3 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124014",
@@ -2525,11 +1678,7 @@
     "banner": "banner_exchange_410654.png",
     "enable": "1",
     "start_at": "2123/12/31 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124015",
@@ -2537,11 +1686,7 @@
     "banner": "banner_exchange_324012.png",
     "enable": "1",
     "start_at": "2024/12/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124021",
@@ -2549,11 +1694,7 @@
     "banner": "banner_exchange_324021.png",
     "enable": "1",
     "start_at": "2124/1/31 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124022",
@@ -2561,11 +1702,7 @@
     "banner": "banner_exchange_324022.png",
     "enable": "1",
     "start_at": "2124/2/10 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124023",
@@ -2573,11 +1710,7 @@
     "banner": "banner_exchange_324023.png",
     "enable": "1",
     "start_at": "2124/2/19 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "124041",
@@ -2585,11 +1718,7 @@
     "banner": "banner_exchange_324041.png",
     "enable": "1",
     "start_at": "2025/1/14 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "191013",
@@ -2597,11 +1726,7 @@
     "banner": "banner_exchange_491013.png",
     "enable": "1",
     "start_at": "2022/03/07 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "420005",
@@ -2610,10 +1735,7 @@
     "enable": "1",
     "start_at": "2021/10/25 0:00",
     "end_at": "2021/11/1 0:00",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "420006",
@@ -2621,11 +1743,7 @@
     "banner": "banner_exchange_420006.png",
     "enable": "1",
     "start_at": "2022/03/07 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "420007",
@@ -2633,11 +1751,7 @@
     "banner": "banner_exchange_420007.png",
     "enable": "1",
     "start_at": "2022/4/12 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "420008",
@@ -2645,11 +1759,7 @@
     "banner": "banner_exchange_4200081.png",
     "enable": "1",
     "start_at": "2022/06/14 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "420009",
@@ -2657,11 +1767,7 @@
     "banner": "banner_exchange_4200091.png",
     "enable": "1",
     "start_at": "2022/8/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "20031",
@@ -2669,11 +1775,7 @@
     "banner": "banner_exchange_20031.png",
     "enable": "1",
     "start_at": "2021/10/25 0:00",
-    "end_at": "2021/11/8 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/11/8 0:00"
   },
   {
     "exchange_id": "20032",
@@ -2681,11 +1783,7 @@
     "banner": "banner_exchange_20032.png",
     "enable": "1",
     "start_at": "2021/11/24 0:00",
-    "end_at": "2021/12/13 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/12/13 0:00"
   },
   {
     "exchange_id": "20041",
@@ -2693,11 +1791,7 @@
     "banner": "banner_exchange_20041.png",
     "enable": "1",
     "start_at": "2021/9/23 0:00",
-    "end_at": "2021/10/13 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/10/13 0:00"
   },
   {
     "exchange_id": "20042",
@@ -2705,11 +1799,7 @@
     "banner": "banner_exchange_20042.png",
     "enable": "1",
     "start_at": "2021/10/4 0:00",
-    "end_at": "2021/10/24 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/10/24 0:00"
   },
   {
     "exchange_id": "20051",
@@ -2717,11 +1807,7 @@
     "banner": "banner_exchange_20051.png",
     "enable": "1",
     "start_at": "2021/12/24 0:00",
-    "end_at": "2022/1/11 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/1/11 0:00"
   },
   {
     "exchange_id": "20052",
@@ -2729,11 +1815,7 @@
     "banner": "banner_exchange_20052.png",
     "enable": "1",
     "start_at": "2022/3/7 0:00",
-    "end_at": "2022/3/22 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/3/22 0:00"
   },
   {
     "exchange_id": "20061",
@@ -2741,11 +1823,7 @@
     "banner": "banner_exchange_20061.png",
     "enable": "1",
     "start_at": "2022/1/31 0:00",
-    "end_at": "2022/2/16 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/2/16 0:00"
   },
   {
     "exchange_id": "20062",
@@ -2753,11 +1831,7 @@
     "banner": "banner_exchange_20062.png",
     "enable": "1",
     "start_at": "2022/3/23 0:00",
-    "end_at": "2022/4/7 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/4/7 0:00"
   },
   {
     "exchange_id": "20071",
@@ -2765,11 +1839,7 @@
     "banner": "banner_exchange_20071.png",
     "enable": "1",
     "start_at": "2022/4/15 0:00",
-    "end_at": "2022/5/1 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/5/1 0:00"
   },
   {
     "exchange_id": "20072",
@@ -2777,11 +1847,7 @@
     "banner": "banner_exchange_20072.png",
     "enable": "1",
     "start_at": "2021/8/19 0:00",
-    "end_at": "2021/9/8 1:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/9/8 1:00"
   },
   {
     "exchange_id": "20081",
@@ -2789,11 +1855,7 @@
     "banner": "banner_exchange_20081.png",
     "enable": "1",
     "start_at": "2021/9/9 0:00",
-    "end_at": "2021/10/3 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/10/3 0:00"
   },
   {
     "exchange_id": "20082",
@@ -2801,11 +1863,7 @@
     "banner": "banner_exchange_20082.png",
     "enable": "1",
     "start_at": "2022/4/23 0:00",
-    "end_at": "2022/5/12 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/5/12 0:00"
   },
   {
     "exchange_id": "20084",
@@ -2813,11 +1871,7 @@
     "banner": "banner_exchange_20084.png",
     "enable": "1",
     "start_at": "2021/11/19 00:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "20089",
@@ -2825,11 +1879,7 @@
     "banner": "banner_exchange_20089.png",
     "enable": "1",
     "start_at": "2022/2/24 00:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "20091",
@@ -2837,11 +1887,7 @@
     "banner": "banner_exchange_20091.png",
     "enable": "1",
     "start_at": "2022/2/24 0:00",
-    "end_at": "2022/3/14 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/3/14 0:00"
   },
   {
     "exchange_id": "20092",
@@ -2849,11 +1895,7 @@
     "banner": "banner_exchange_20092.png",
     "enable": "1",
     "start_at": "2022/5/12 0:00",
-    "end_at": "2022/5/26 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/5/26 0:00"
   },
   {
     "exchange_id": "20101",
@@ -2861,11 +1903,7 @@
     "banner": "banner_exchange_20101.png",
     "enable": "1",
     "start_at": "2021/10/14 0:00",
-    "end_at": "2021/10/31 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/10/31 0:00"
   },
   {
     "exchange_id": "20102",
@@ -2873,11 +1911,7 @@
     "banner": "banner_exchange_20102.png",
     "enable": "1",
     "start_at": "2022/4/8 0:00",
-    "end_at": "2022/4/23 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/4/23 0:00"
   },
   {
     "exchange_id": "20111",
@@ -2885,11 +1919,7 @@
     "banner": "banner_exchange_20111.png",
     "enable": "1",
     "start_at": "2021/11/9 0:00",
-    "end_at": "2021/12/2 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/12/2 0:00"
   },
   {
     "exchange_id": "20112",
@@ -2897,11 +1927,7 @@
     "banner": "banner_exchange_20112.png",
     "enable": "1",
     "start_at": "2022/6/17 0:00",
-    "end_at": "2022/7/1 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/7/1 0:00"
   },
   {
     "exchange_id": "20121",
@@ -2909,11 +1935,7 @@
     "banner": "banner_exchange_20121.png",
     "enable": "1",
     "start_at": "2021/12/14 0:00",
-    "end_at": "2021/12/30 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2021/12/30 0:00"
   },
   {
     "exchange_id": "20122",
@@ -2921,11 +1943,7 @@
     "banner": "banner_exchange_20122.png",
     "enable": "1",
     "start_at": "2022/1/12 0:00",
-    "end_at": "2022/1/30 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/1/30 0:00"
   },
   {
     "exchange_id": "21011",
@@ -2933,11 +1951,7 @@
     "banner": "banner_exchange_21011.png",
     "enable": "1",
     "start_at": "2021/12/31 0:00",
-    "end_at": "2022/1/20 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/1/20 0:00"
   },
   {
     "exchange_id": "21012",
@@ -2945,11 +1959,7 @@
     "banner": "banner_exchange_21012.png",
     "enable": "1",
     "start_at": "2022/2/17 0:00",
-    "end_at": "2022/3/6 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/3/6 0:00"
   },
   {
     "exchange_id": "21014",
@@ -2957,11 +1967,7 @@
     "banner": "banner_exchange_20124.png",
     "enable": "1",
     "start_at": "2021/12/31 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21021",
@@ -2969,11 +1975,7 @@
     "banner": "banner_exchange_21021.png",
     "enable": "1",
     "start_at": "2022/2/8 0:00",
-    "end_at": "2022/2/23 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/2/23 0:00"
   },
   {
     "exchange_id": "21022",
@@ -2981,11 +1983,7 @@
     "banner": "banner_exchange_21022.png",
     "enable": "1",
     "start_at": "2022/7/15 0:00",
-    "end_at": "2022/7/31 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/7/31 0:00"
   },
   {
     "exchange_id": "21031",
@@ -2993,11 +1991,7 @@
     "banner": "banner_exchange_21031.png",
     "enable": "1",
     "start_at": "2022/8/23 0:00",
-    "end_at": "2022/9/10 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/9/10 0:00"
   },
   {
     "exchange_id": "21032",
@@ -3005,11 +1999,7 @@
     "banner": "banner_exchange_21032.png",
     "enable": "1",
     "start_at": "2022/07/22 0:00",
-    "end_at": "2022/08/09 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/08/09 0:00"
   },
   {
     "exchange_id": "21034",
@@ -3017,11 +2007,7 @@
     "banner": "banner_exchange_21034.png",
     "enable": "1",
     "start_at": "2022/8/23 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21035",
@@ -3029,11 +2015,7 @@
     "banner": "banner_exchange_21035.png",
     "enable": "1",
     "start_at": "2022/7/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21041",
@@ -3041,11 +2023,7 @@
     "banner": "banner_exchange_21041.png",
     "enable": "1",
     "start_at": "2022/6/24 0:00",
-    "end_at": "2022/7/8 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/7/8 0:00"
   },
   {
     "exchange_id": "21042",
@@ -3053,11 +2031,7 @@
     "banner": "banner_exchange_21042.png",
     "enable": "1",
     "start_at": "2022/7/1 0:00",
-    "end_at": "2022/7/15 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/7/15 0:00"
   },
   {
     "exchange_id": "21051",
@@ -3065,11 +2039,7 @@
     "banner": "banner_exchange_21051.png",
     "enable": "1",
     "start_at": "2022/5/26 0:00",
-    "end_at": "2022/6/17 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/6/17 0:00"
   },
   {
     "exchange_id": "21052",
@@ -3077,11 +2047,7 @@
     "banner": "banner_exchange_21052.png",
     "enable": "1",
     "start_at": "2022/10/5 0:00",
-    "end_at": "2022/10/24 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/10/24 0:00"
   },
   {
     "exchange_id": "21061",
@@ -3089,11 +2055,7 @@
     "banner": "banner_exchange_21061.png",
     "enable": "1",
     "start_at": "2022/9/17 0:00",
-    "end_at": "2022/10/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/10/5 0:00"
   },
   {
     "exchange_id": "21062",
@@ -3101,11 +2063,7 @@
     "banner": "banner_exchange_21062.png",
     "enable": "1",
     "start_at": "2022/11/27 0:00",
-    "end_at": "2022/12/22 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/12/22 0:00"
   },
   {
     "exchange_id": "21071",
@@ -3113,11 +2071,7 @@
     "banner": "banner_exchange_21071.png",
     "enable": "1",
     "start_at": "2022/07/31 0:00",
-    "end_at": "2022/08/16 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/08/16 0:00"
   },
   {
     "exchange_id": "21072",
@@ -3125,11 +2079,7 @@
     "banner": "banner_exchange_21072.png",
     "enable": "1",
     "start_at": "2022/08/09 0:00",
-    "end_at": "2022/08/23 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/08/23 0:00"
   },
   {
     "exchange_id": "21074",
@@ -3137,11 +2087,7 @@
     "banner": "banner_exchange_21074.png",
     "enable": "1",
     "start_at": "2121/6/30 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21081",
@@ -3149,11 +2095,7 @@
     "banner": "banner_exchange_21081.png",
     "enable": "1",
     "start_at": "2022/11/17 0:00",
-    "end_at": "2022/12/7 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/12/7 0:00"
   },
   {
     "exchange_id": "21082",
@@ -3161,11 +2103,7 @@
     "banner": "banner_exchange_21082.png",
     "enable": "1",
     "start_at": "2022/10/24 0:00",
-    "end_at": "2022/11/12 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2022/11/12 0:00"
   },
   {
     "exchange_id": "21084",
@@ -3173,11 +2111,7 @@
     "banner": "banner_exchange_21084.png",
     "enable": "1",
     "start_at": "2022/12/4 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21091",
@@ -3185,11 +2119,7 @@
     "banner": "banner_exchange_21091.png",
     "enable": "1",
     "start_at": "2022/12/7 0:00",
-    "end_at": "2023/1/1 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/1/1 0:00"
   },
   {
     "exchange_id": "21092",
@@ -3197,11 +2127,7 @@
     "banner": "banner_exchange_21092.png",
     "enable": "1",
     "start_at": "2023/1/1 0:00",
-    "end_at": "2023/1/20 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/1/20 0:00"
   },
   {
     "exchange_id": "21094",
@@ -3209,11 +2135,7 @@
     "banner": "banner_exchange_21094.png",
     "enable": "1",
     "start_at": "2022/12/7 0:00",
-    "end_at": "2023/1/1 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/1/1 0:00"
   },
   {
     "exchange_id": "21095",
@@ -3221,11 +2143,7 @@
     "banner": "banner_exchange_21095.png",
     "enable": "1",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21096",
@@ -3233,11 +2151,7 @@
     "banner": "banner_exchange_21096.png",
     "enable": "1",
     "start_at": "2022/12/7 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "21101",
@@ -3245,11 +2159,7 @@
     "banner": "banner_exchange_21101.png",
     "enable": "1",
     "start_at": "2023/6/5 0:00",
-    "end_at": "2023/6/27 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/6/27 0:00"
   },
   {
     "exchange_id": "21102",
@@ -3257,11 +2167,7 @@
     "banner": "banner_exchange_21102.png",
     "enable": "1",
     "start_at": "2023/6/16 0:00",
-    "end_at": "2023/7/7 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/7/7 0:00"
   },
   {
     "exchange_id": "21111",
@@ -3269,11 +2175,7 @@
     "banner": "banner_exchange_21111.png",
     "enable": "1",
     "start_at": "2023/2/21 0:00",
-    "end_at": "2023/3/15 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/3/15 0:00"
   },
   {
     "exchange_id": "21112",
@@ -3281,11 +2183,7 @@
     "banner": "banner_exchange_21112.png",
     "enable": "1",
     "start_at": "2023/1/30 0:00",
-    "end_at": "2023/2/21 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/2/21 0:00"
   },
   {
     "exchange_id": "21121",
@@ -3293,11 +2191,7 @@
     "banner": "banner_exchange_21121.png",
     "enable": "1",
     "start_at": "2023/3/15 0:00",
-    "end_at": "2023/4/6 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/4/6 0:00"
   },
   {
     "exchange_id": "21122",
@@ -3305,11 +2199,7 @@
     "banner": "banner_exchange_21122.png",
     "enable": "1",
     "start_at": "2023/3/28 0:00",
-    "end_at": "2023/4/15 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/4/15 0:00"
   },
   {
     "exchange_id": "22011",
@@ -3317,11 +2207,7 @@
     "banner": "banner_exchange_22011.png",
     "enable": "1",
     "start_at": "2023/4/15 0:00",
-    "end_at": "2023/5/6 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/5/6 0:00"
   },
   {
     "exchange_id": "22012",
@@ -3329,11 +2215,7 @@
     "banner": "banner_exchange_22012.png",
     "enable": "1",
     "start_at": "2023/4/27 0:00",
-    "end_at": "2023/5/16 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/5/16 0:00"
   },
   {
     "exchange_id": "22021",
@@ -3341,11 +2223,7 @@
     "banner": "banner_exchange_22021.png",
     "enable": "1",
     "start_at": "2023/5/16 0:00",
-    "end_at": "2023/6/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/6/5 0:00"
   },
   {
     "exchange_id": "22022",
@@ -3353,11 +2231,7 @@
     "banner": "banner_exchange_22022.png",
     "enable": "1",
     "start_at": "2023/2/9 0:00",
-    "end_at": "2023/3/3 23:59",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/3/3 23:59"
   },
   {
     "exchange_id": "22025",
@@ -3365,11 +2239,7 @@
     "banner": "banner_exchange_22025.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22031",
@@ -3377,11 +2247,7 @@
     "banner": "banner_exchange_22031.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "2023/9/22 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/9/22 0:00"
   },
   {
     "exchange_id": "22032",
@@ -3389,11 +2255,7 @@
     "banner": "banner_exchange_22032.png",
     "enable": "1",
     "start_at": "2023/6/27 0:00",
-    "end_at": "2023/7/18 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/7/18 0:00"
   },
   {
     "exchange_id": "22034",
@@ -3401,11 +2263,7 @@
     "banner": "banner_exchange_22034.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "2023/9/9 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/9/9 0:00"
   },
   {
     "exchange_id": "22035",
@@ -3413,11 +2271,7 @@
     "banner": "banner_exchange_22035.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22036",
@@ -3425,11 +2279,7 @@
     "banner": "banner_exchange_22036.png",
     "enable": "1",
     "start_at": "2023/7/28 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22041",
@@ -3437,11 +2287,7 @@
     "banner": "banner_exchange_22041.png",
     "enable": "1",
     "start_at": "2023/7/7 0:00",
-    "end_at": "2023/7/28 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/7/28 0:00"
   },
   {
     "exchange_id": "22042",
@@ -3449,11 +2295,7 @@
     "banner": "banner_exchange_22042.png",
     "enable": "1",
     "start_at": "2023/7/18 0:00",
-    "end_at": "2023/8/7 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/8/7 0:00"
   },
   {
     "exchange_id": "22051",
@@ -3461,11 +2303,7 @@
     "banner": "banner_exchange_22051.png",
     "enable": "1",
     "start_at": "2122/5/11 15:00",
-    "end_at": "2122/5/30 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2122/5/30 22:00"
   },
   {
     "exchange_id": "22052",
@@ -3473,11 +2311,7 @@
     "banner": "banner_exchange_22052.png",
     "enable": "1",
     "start_at": "2023/8/28 0:00",
-    "end_at": "2023/9/15 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/9/15 0:00"
   },
   {
     "exchange_id": "22054",
@@ -3485,11 +2319,7 @@
     "banner": "banner_exchange_22054.png",
     "enable": "1",
     "start_at": "2122/5/11 15:00",
-    "end_at": "2122/6/11 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2122/6/11 22:00"
   },
   {
     "exchange_id": "22061",
@@ -3497,11 +2327,7 @@
     "banner": "banner_exchange_22061.png",
     "enable": "1",
     "start_at": "2023/9/5 0:00",
-    "end_at": "2023/9/22 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/9/22 0:00"
   },
   {
     "exchange_id": "22062",
@@ -3509,11 +2335,7 @@
     "banner": "banner_exchange_22062.png",
     "enable": "1",
     "start_at": "2023/9/15 0:00",
-    "end_at": "2023/9/30 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/9/30 0:00"
   },
   {
     "exchange_id": "22065",
@@ -3521,11 +2343,7 @@
     "banner": "banner_exchange_22065.png",
     "enable": "1",
     "start_at": "2023/9/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22066",
@@ -3533,11 +2351,7 @@
     "banner": "banner_exchange_22066.png",
     "enable": "1",
     "start_at": "2023/9/5 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22071",
@@ -3545,11 +2359,7 @@
     "banner": "banner_exchange_22071.png",
     "enable": "1",
     "start_at": "2023/9/30 0:00",
-    "end_at": "2023/10/18 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/10/18 0:00"
   },
   {
     "exchange_id": "22072",
@@ -3557,11 +2367,7 @@
     "banner": "banner_exchange_22072.png",
     "enable": "1",
     "start_at": "2023/10/10 0:00",
-    "end_at": "2023/10/27 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/10/27 0:00"
   },
   {
     "exchange_id": "22081",
@@ -3569,11 +2375,7 @@
     "banner": "banner_exchange_22081.png",
     "enable": "1",
     "start_at": "2024/5/23 0:00",
-    "end_at": "2024/6/18 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/6/18 0:00"
   },
   {
     "exchange_id": "22082",
@@ -3581,11 +2383,7 @@
     "banner": "banner_exchange_22082.png",
     "enable": "1",
     "start_at": "2023/10/27 0:00",
-    "end_at": "2023/11/10 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/11/10 0:00"
   },
   {
     "exchange_id": "22084",
@@ -3593,11 +2391,7 @@
     "banner": "banner_exchange_22084.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22085",
@@ -3605,11 +2399,7 @@
     "banner": "banner_exchange_22085.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22091",
@@ -3617,11 +2407,7 @@
     "banner": "banner_exchange_22091.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "2023/11/30 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/11/30 0:00"
   },
   {
     "exchange_id": "22092",
@@ -3629,11 +2415,7 @@
     "banner": "banner_exchange_22092.png",
     "enable": "1",
     "start_at": "2023/11/21 0:00",
-    "end_at": "2023/12/8 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/12/8 0:00"
   },
   {
     "exchange_id": "22094",
@@ -3641,11 +2423,7 @@
     "banner": "banner_exchange_22094.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "2024/1/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/1/5 0:00"
   },
   {
     "exchange_id": "22095",
@@ -3653,11 +2431,7 @@
     "banner": "banner_exchange_22095.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22096",
@@ -3665,11 +2439,7 @@
     "banner": "banner_exchange_22096.png",
     "enable": "1",
     "start_at": "2023/11/10 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22101",
@@ -3677,11 +2447,7 @@
     "banner": "banner_exchange_22101.png",
     "enable": "1",
     "start_at": "2023/12/8 0:00",
-    "end_at": "2023/12/26 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2023/12/26 0:00"
   },
   {
     "exchange_id": "22102",
@@ -3689,11 +2455,7 @@
     "banner": "banner_exchange_22102.png",
     "enable": "1",
     "start_at": "2023/12/18 0:00",
-    "end_at": "2024/1/2 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/1/2 0:00"
   },
   {
     "exchange_id": "22104",
@@ -3701,11 +2463,7 @@
     "banner": "banner_exchange_22104.png",
     "enable": "1",
     "start_at": "2023/12/8 0:00",
-    "end_at": "2024/1/2 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/1/2 0:00"
   },
   {
     "exchange_id": "22111",
@@ -3713,11 +2471,7 @@
     "banner": "banner_exchange_22111.png",
     "enable": "1",
     "start_at": "2122/10/31 15:00",
-    "end_at": "2122/11/21 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2122/11/21 22:00"
   },
   {
     "exchange_id": "22112",
@@ -3725,11 +2479,7 @@
     "banner": "banner_exchange_22112.png",
     "enable": "1",
     "start_at": "2024/1/2 0:00",
-    "end_at": "2024/1/19 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/1/19 0:00"
   },
   {
     "exchange_id": "22114",
@@ -3737,11 +2487,7 @@
     "banner": "banner_exchange_22114.png",
     "enable": "1",
     "start_at": "2122/10/31 15:00",
-    "end_at": "2122/11/29 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2122/11/29 22:00"
   },
   {
     "exchange_id": "22121",
@@ -3749,11 +2495,7 @@
     "banner": "banner_exchange_22121.png",
     "enable": "1",
     "start_at": "2024/1/9 0:00",
-    "end_at": "2024/1/29 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/1/29 0:00"
   },
   {
     "exchange_id": "22122",
@@ -3761,11 +2503,7 @@
     "banner": "banner_exchange_22122.png",
     "enable": "1",
     "start_at": "2024/1/19 0:00",
-    "end_at": "2024/2/8 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/2/8 0:00"
   },
   {
     "exchange_id": "22124",
@@ -3773,11 +2511,7 @@
     "banner": "banner_exchange_22124.png",
     "enable": "1",
     "start_at": "2024/1/19 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "22125",
@@ -3785,11 +2519,7 @@
     "banner": "banner_exchange_22125.png",
     "enable": "1",
     "start_at": "2024/1/29 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23011",
@@ -3797,11 +2527,7 @@
     "banner": "banner_exchange_23011.png",
     "enable": "1",
     "start_at": "2024/2/8 0:00",
-    "end_at": "2024/2/27 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/2/27 0:00"
   },
   {
     "exchange_id": "23012",
@@ -3809,11 +2535,7 @@
     "banner": "banner_exchange_23012.png",
     "enable": "1",
     "start_at": "2024/2/19 0:00",
-    "end_at": "2024/3/7 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/3/7 0:00"
   },
   {
     "exchange_id": "23013",
@@ -3821,11 +2543,7 @@
     "banner": "banner_exchange_23013.png",
     "enable": "1",
     "start_at": "2123/1/20 15:00",
-    "end_at": "2123/2/9 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2123/2/9 22:00"
   },
   {
     "exchange_id": "23014",
@@ -3833,11 +2551,7 @@
     "banner": "banner_exchange_23014.png",
     "enable": "1",
     "start_at": "2123/1/20 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23015",
@@ -3845,11 +2559,7 @@
     "banner": "banner_exchange_23015.png",
     "enable": "1",
     "start_at": "2123/1/20 15:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23022",
@@ -3857,11 +2567,7 @@
     "banner": "banner_exchange_23022.png",
     "enable": "1",
     "start_at": "2024/2/27 0:00",
-    "end_at": "2024/3/15 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/3/15 0:00"
   },
   {
     "exchange_id": "23031",
@@ -3869,11 +2575,7 @@
     "banner": "banner_exchange_23031.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "2024/4/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/4/5 0:00"
   },
   {
     "exchange_id": "23032",
@@ -3881,11 +2583,7 @@
     "banner": "banner_exchange_23032.png",
     "enable": "1",
     "start_at": "2024/3/26 0:00",
-    "end_at": "2024/4/16 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/4/16 0:00"
   },
   {
     "exchange_id": "23034",
@@ -3893,11 +2591,7 @@
     "banner": "banner_exchange_23034.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "2024/4/26 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/4/26 0:00"
   },
   {
     "exchange_id": "23035",
@@ -3905,11 +2599,7 @@
     "banner": "banner_exchange_23035.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23036",
@@ -3917,11 +2607,7 @@
     "banner": "banner_exchange_23036.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23037",
@@ -3929,11 +2615,7 @@
     "banner": "banner_exchange_410428.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23038",
@@ -3941,11 +2623,7 @@
     "banner": "banner_exchange_410432.png",
     "enable": "1",
     "start_at": "2024/3/15 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23041",
@@ -3953,11 +2631,7 @@
     "banner": "banner_exchange_23041.png",
     "enable": "1",
     "start_at": "2024/4/16 0:00",
-    "end_at": "2024/5/6 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/5/6 0:00"
   },
   {
     "exchange_id": "23042",
@@ -3965,11 +2639,7 @@
     "banner": "banner_exchange_23042.png",
     "enable": "1",
     "start_at": "2024/4/26 0:00",
-    "end_at": "2024/5/14 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/5/14 0:00"
   },
   {
     "exchange_id": "23044",
@@ -3977,11 +2647,7 @@
     "banner": "banner_exchange_410459.png",
     "enable": "1",
     "start_at": "2024/4/22 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23051",
@@ -3989,11 +2655,7 @@
     "banner": "banner_exchange_23051.png",
     "enable": "1",
     "start_at": "2024/5/14 0:00",
-    "end_at": "2024/6/7 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/6/7 0:00"
   },
   {
     "exchange_id": "23052",
@@ -4001,11 +2663,7 @@
     "banner": "banner_exchange_23052.png",
     "enable": "1",
     "start_at": "2024/6/7 0:00",
-    "end_at": "2024/6/26 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/6/26 0:00"
   },
   {
     "exchange_id": "23053",
@@ -4013,11 +2671,7 @@
     "banner": "banner_exchange_23053.png",
     "enable": "1",
     "start_at": "2124/6/18 0:00",
-    "end_at": "2124/7/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2124/7/5 0:00"
   },
   {
     "exchange_id": "23054",
@@ -4025,11 +2679,7 @@
     "banner": "banner_exchange_23054.png",
     "enable": "1",
     "start_at": "2123/5/20 15:00",
-    "end_at": "2123/6/19 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2123/6/19 22:00"
   },
   {
     "exchange_id": "23062",
@@ -4037,11 +2687,7 @@
     "banner": "banner_exchange_23062.png",
     "enable": "1",
     "start_at": "2024/6/18 0:00",
-    "end_at": "2024/7/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/7/5 0:00"
   },
   {
     "exchange_id": "23071",
@@ -4049,11 +2695,7 @@
     "banner": "banner_exchange_23071.png",
     "enable": "1",
     "start_at": "2024/7/5 0:00",
-    "end_at": "2024/7/26 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/7/26 0:00"
   },
   {
     "exchange_id": "23072",
@@ -4061,11 +2703,7 @@
     "banner": "banner_exchange_23072.png",
     "enable": "1",
     "start_at": "2024/7/15 0:00",
-    "end_at": "2024/8/5 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/8/5 0:00"
   },
   {
     "exchange_id": "23081",
@@ -4073,11 +2711,7 @@
     "banner": "banner_exchange_23081.png",
     "enable": "1",
     "start_at": "2123/7/31 15:00",
-    "end_at": "2123/8/20 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2123/8/20 22:00"
   },
   {
     "exchange_id": "23083",
@@ -4085,11 +2719,7 @@
     "banner": "banner_exchange_23083.png",
     "enable": "1",
     "start_at": "2024/8/5 0:00",
-    "end_at": "2024/8/28 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/8/28 0:00"
   },
   {
     "exchange_id": "23084",
@@ -4097,11 +2727,7 @@
     "banner": "banner_exchange_23084.png",
     "enable": "1",
     "start_at": "2123/7/31 15:00",
-    "end_at": "2123/8/30 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2123/8/30 22:00"
   },
   {
     "exchange_id": "23091",
@@ -4109,11 +2735,7 @@
     "banner": "banner_exchange_23091.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00",
-    "end_at": "2024/9/9 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/9/9 0:00"
   },
   {
     "exchange_id": "23092",
@@ -4121,11 +2743,7 @@
     "banner": "banner_exchange_23092.png",
     "enable": "1",
     "start_at": "2024/9/9 0:00",
-    "end_at": "2024/9/30 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/9/30 0:00"
   },
   {
     "exchange_id": "23094",
@@ -4133,11 +2751,7 @@
     "banner": "banner_exchange_23094.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00",
-    "end_at": "2024/9/19 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/9/19 0:00"
   },
   {
     "exchange_id": "23095",
@@ -4145,11 +2759,7 @@
     "banner": "banner_exchange_410559.png",
     "enable": "1",
     "start_at": "2024/8/16 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "23101",
@@ -4157,11 +2767,7 @@
     "banner": "banner_exchange_23101.png",
     "enable": "1",
     "start_at": "2024/9/19 0:00",
-    "end_at": "2024/10/11 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/10/11 0:00"
   },
   {
     "exchange_id": "23102",
@@ -4169,11 +2775,7 @@
     "banner": "banner_exchange_23102.png",
     "enable": "1",
     "start_at": "2024/9/30 0:00",
-    "end_at": "2024/10/23 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/10/23 0:00"
   },
   {
     "exchange_id": "23111",
@@ -4181,11 +2783,7 @@
     "banner": "banner_exchange_23111.png",
     "enable": "1",
     "start_at": "2024/11/4 0:00",
-    "end_at": "2024/11/25 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/11/25 0:00"
   },
   {
     "exchange_id": "23112",
@@ -4193,11 +2791,7 @@
     "banner": "banner_exchange_23112.png",
     "enable": "1",
     "start_at": "2024/11/15 0:00",
-    "end_at": "2024/12/11 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/12/11 0:00"
   },
   {
     "exchange_id": "23121",
@@ -4205,11 +2799,7 @@
     "banner": "banner_exchange_23121.png",
     "enable": "1",
     "start_at": "2024/11/25 0:00",
-    "end_at": "2024/12/23 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2024/12/23 0:00"
   },
   {
     "exchange_id": "23122",
@@ -4217,11 +2807,7 @@
     "banner": "banner_exchange_23122.png",
     "enable": "1",
     "start_at": "2123/12/15 15:00",
-    "end_at": "2123/12/30 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2123/12/30 22:00"
   },
   {
     "exchange_id": "23124",
@@ -4229,11 +2815,7 @@
     "banner": "banner_exchange_23124.png",
     "enable": "1",
     "start_at": "2123/12/15 15:00",
-    "end_at": "2124/1/10 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2124/1/10 22:00"
   },
   {
     "exchange_id": "24011",
@@ -4241,11 +2823,7 @@
     "banner": "banner_exchange_24011.png",
     "enable": "1",
     "start_at": "2024/12/11 0:00",
-    "end_at": "2025/1/3 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2025/1/3 0:00"
   },
   {
     "exchange_id": "24012",
@@ -4253,11 +2831,7 @@
     "banner": "banner_exchange_24012.png",
     "enable": "1",
     "start_at": "2024/12/23 0:00",
-    "end_at": "2025/1/14 0:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2025/1/14 0:00"
   },
   {
     "exchange_id": "24021",
@@ -4265,11 +2839,7 @@
     "banner": "banner_exchange_24021.png",
     "enable": "1",
     "start_at": "2124/1/31 15:00",
-    "end_at": "2124/2/26 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2124/2/26 22:00"
   },
   {
     "exchange_id": "24024",
@@ -4277,11 +2847,7 @@
     "banner": "banner_exchange_24024.png",
     "enable": "1",
     "start_at": "2124/1/31 15:00",
-    "end_at": "2124/3/8 22:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2124/3/8 22:00"
   },
   {
     "exchange_id": "24041",
@@ -4289,11 +2855,7 @@
     "banner": "banner_exchange_24041.png",
     "enable": "1",
     "start_at": "2025/1/14 0:00",
-    "end_at": "2025/1/30 06:00",
-    "currency_display": "0",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "end_at": "2025/1/30 06:00"
   },
   {
     "exchange_id": "29998",
@@ -4301,11 +2863,7 @@
     "banner": "banner_exchange_29998.png",
     "enable": "1",
     "start_at": "2022/6/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "29999",
@@ -4313,11 +2871,7 @@
     "banner": "banner_exchange_29999.png",
     "enable": "1",
     "start_at": "2022/6/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   },
   {
     "exchange_id": "50081",
@@ -4325,11 +2879,7 @@
     "banner": "banner_exchange_500001.png",
     "enable": "1",
     "start_at": "2022/6/30 0:00",
-    "end_at": "0",
-    "currency_display": "0",
-    "player_rank": "13",
-    "description": "0",
-    "material_display": "0"
+    "player_rank": "13"
   },
   {
     "exchange_id": "124111",
@@ -4337,10 +2887,6 @@
     "banner": "banner_exchange_410855.png",
     "enable": "1",
     "start_at": "2024/12/9 0:00",
-    "end_at": "0",
-    "currency_display": "1",
-    "player_rank": "0",
-    "description": "0",
-    "material_display": "0"
+    "currency_display": "1"
   }
 ]
