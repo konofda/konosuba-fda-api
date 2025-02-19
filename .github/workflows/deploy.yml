@@ -24,7 +24,7 @@ jobs:
         run: npm ci
 
       - name: Build project
-        run: npm run build -- --continue-on-error
+        run: npm run build -- --continue-on-error --no-zero-props
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

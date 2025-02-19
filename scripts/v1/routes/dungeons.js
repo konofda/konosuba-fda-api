@@ -15,9 +15,12 @@ function normalizeGraphicId(graphic) {
 export default async function generateDungeons() {
   console.log("🏰 Starting dungeons data generation...");
 
-  // Load the assets file listing
-  console.log("📋 Reading assets file listing...");
-  const fileList = await getRepoFileListAsync("HaiKonofanDesu", "konofan-assets-jp-sortet");
+  // Load the assets file listings
+  console.log("📋 Reading assets file listings...");
+  const [assetFiles, audioFiles] = await Promise.all([
+    getRepoFileListAsync("HaiKonofanDesu", "konofan-assets-jp-sortet"),
+    getRepoFileListAsync("HaiKonofanDesu", "konofan-audio"),
+  ]);
 
   // Fetch all required data from Axel
   console.log("🔄 Fetching dungeon data from Axel...");
@@ -32,9 +35,6 @@ export default async function generateDungeons() {
   const areasByDungeon = new Map();
   const stagesByArea = new Map();
 
-  // Create a map of area backgrounds for stage processing
-  const areaBackgrounds = new Map(areaData.map((area) => [area.id, area.background]));
-
   // Group stages by area_id
   stageData.forEach((stage) => {
     if (!stagesByArea.has(stage.area_id)) {
@@ -45,10 +45,17 @@ export default async function generateDungeons() {
     if (stage.graphic) {
       const normalizedGraphic = normalizeGraphicId(stage.graphic);
 
-      stage.thumbnail = findAssetPath(fileList, `/DungeonStageThumbnail/bg_dungeon_${stage.graphic}_s.png`);
-      stage.infobg = findAssetPath(fileList, `/QuestStageInfoBg/stage_info_${stage.graphic}.png`);
-      stage.battlebg = findAssetPath(fileList, `${stage.graphic}/bg_dungeon_battle_${normalizedGraphic}`);
-      // stage.battlefg = findAssetPath(fileList, `${stage.graphic}/bg_battle_foreground_${normalizedGraphic}`);
+      stage.thumbnail = findAssetPath(assetFiles, `/DungeonStageThumbnail/bg_dungeon_${stage.graphic}_s.png`);
+      stage.infobg = findAssetPath(assetFiles, `/QuestStageInfoBg/stage_info_${stage.graphic}.png`);
+      stage.battlebg = findAssetPath(assetFiles, `${stage.graphic}/bg_dungeon_battle_${normalizedGraphic}`);
+    }
+
+    // Add BGM paths if they exist
+    if (stage.bgm) {
+      stage.bgm = findAssetPath(audioFiles, stage.bgm + ".wav");
+    }
+    if (stage.bgm_boss) {
+      stage.bgm_boss = findAssetPath(audioFiles, stage.bgm_boss + ".wav");
     }
 
     stagesByArea.get(stage.area_id).push(stage);
@@ -63,7 +70,7 @@ export default async function generateDungeons() {
     // Add button image if it exists
     if (area.button_image) {
       area.button_image = findAssetPath(
-        fileList,
+        assetFiles,
         `/DungeonButton/DungeonTop/${area.button_image}.png`,
         area.button_image
       );
@@ -116,10 +123,14 @@ export default async function generateDungeons() {
     (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.battlebg).length, 0),
     0
   );
-  // const stagesWithBattlefg = dungeons.reduce(
-  //   (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.battlefg).length, 0),
-  //   0
-  // );
+  const stagesWithBgm = dungeons.reduce(
+    (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.bgm).length, 0),
+    0
+  );
+  const stagesWithBossBgm = dungeons.reduce(
+    (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.bgm_boss).length, 0),
+    0
+  );
   const areasWithButton = dungeons.reduce(
     (sum, d) => sum + d.areas.filter((a) => typeof a.button_image === "string").length,
     0
@@ -133,7 +144,8 @@ export default async function generateDungeons() {
   console.log(`🎯 Stages with thumbnail: ${stagesWithThumbnail}/${totalStages}`);
   console.log(`ℹ️ Stages with info background: ${stagesWithInfobg}/${totalStages}`);
   console.log(`⚔️ Stages with battle background: ${stagesWithBattlebg}/${totalStages}`);
-  // console.log(`🎨 Stages with battle foreground: ${stagesWithBattlefg}/${totalStages}`);
+  console.log(`🎵 Stages with BGM: ${stagesWithBgm}/${totalStages}`);
+  console.log(`🎼 Stages with boss BGM: ${stagesWithBossBgm}/${totalStages}`);
   console.log(`🔘 Areas with button image: ${areasWithButton}/${totalAreas}`);
 
   // Sort dungeons by their order if available
