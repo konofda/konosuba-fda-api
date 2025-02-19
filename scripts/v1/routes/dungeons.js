@@ -1,14 +1,15 @@
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
+import { fetchAxelFile } from "../../scrape-axel-repo/fetchAxelFile.js";
+import { processTextFields } from "../../scrape-axel-repo/utils.js";
 import { getRepoFileListAsync } from "../../repo-filelists/getRepoFileListAsync.js";
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const PROJECT_ROOT = join(__dirname, "..", "..");
+function findAssetPath(fileList, pathPattern, fallback = null) {
+  return fileList.find((path) => path.includes(pathPattern)) ?? fallback;
+}
 
-function extractDungeonId(filePath) {
-  // Match pattern like "bg_dungeon_9101_01" from the thumbnail path
-  const match = filePath.match(/bg_dungeon_(\d+_\d+)_s\.png$/);
-  return match ? match[1] : null;
+function normalizeGraphicId(graphic) {
+  // Split by underscore, remove leading zeros after underscore, rejoin
+  const [base, suffix] = graphic.split("_");
+  return `${base}_${parseInt(suffix)}`;
 }
 
 export default async function generateDungeons() {
@@ -18,54 +19,125 @@ export default async function generateDungeons() {
   console.log("📋 Reading assets file listing...");
   const fileList = await getRepoFileListAsync("HaiKonofanDesu", "konofan-assets-jp-sortet");
 
-  // First get all dungeon thumbnail paths as they are our primary identifiers
-  console.log("🔍 Filtering dungeon assets...");
-  const thumbnailFiles = fileList.filter(line => 
-    line.includes("/DungeonStageThumbnail/") && 
-    line.includes("bg_dungeon_") &&
-    line.endsWith("_s.png")
-  );
+  // Fetch all required data from Axel
+  console.log("🔄 Fetching dungeon data from Axel...");
+  const [dungeonData, areaData, stageData] = await Promise.all([
+    fetchAxelFile("dungeon").then(processTextFields),
+    fetchAxelFile("dungeon_area").then(processTextFields),
+    fetchAxelFile("dungeon_stage").then(processTextFields),
+  ]);
 
-  // Get unique dungeon IDs from thumbnails
-  const dungeonIds = new Set();
-  thumbnailFiles.forEach(path => {
-    const id = extractDungeonId(path);
-    if (id) dungeonIds.add(id);
+  // Create maps for efficient lookups
+  console.log("🗺️ Creating area and stage mappings...");
+  const areasByDungeon = new Map();
+  const stagesByArea = new Map();
+
+  // Create a map of area backgrounds for stage processing
+  const areaBackgrounds = new Map(areaData.map((area) => [area.id, area.background]));
+
+  // Group stages by area_id
+  stageData.forEach((stage) => {
+    if (!stagesByArea.has(stage.area_id)) {
+      stagesByArea.set(stage.area_id, []);
+    }
+
+    // Add asset paths if they exist
+    if (stage.graphic) {
+      const normalizedGraphic = normalizeGraphicId(stage.graphic);
+
+      stage.thumbnail = findAssetPath(fileList, `/DungeonStageThumbnail/bg_dungeon_${stage.graphic}_s.png`);
+      stage.infobg = findAssetPath(fileList, `/QuestStageInfoBg/stage_info_${stage.graphic}.png`);
+      stage.battlebg = findAssetPath(fileList, `${stage.graphic}/bg_dungeon_battle_${normalizedGraphic}`);
+      // stage.battlefg = findAssetPath(fileList, `${stage.graphic}/bg_battle_foreground_${normalizedGraphic}`);
+    }
+
+    stagesByArea.get(stage.area_id).push(stage);
   });
 
-  console.log(`🎯 Found ${dungeonIds.size} unique dungeons`);
+  // Group areas by dungeon_id and attach their stages
+  areaData.forEach((area) => {
+    if (!areasByDungeon.has(area.dungeon_id)) {
+      areasByDungeon.set(area.dungeon_id, []);
+    }
 
-  // Process each dungeon
-  const dungeons = Array.from(dungeonIds).map(id => {
-    // Create dungeon object with all possible assets
+    // Add button image if it exists
+    if (area.button_image) {
+      area.button_image = findAssetPath(
+        fileList,
+        `/DungeonButton/DungeonTop/${area.button_image}.png`,
+        area.button_image
+      );
+    }
+
+    // Attach stages to this area
+    const areaWithStages = {
+      ...area,
+      stages: stagesByArea.get(area.id) || [],
+    };
+
+    // Sort stages by their order if available
+    if (areaWithStages.stages.length > 0) {
+      areaWithStages.stages.sort((a, b) => parseInt(a.order) - parseInt(b.order));
+    }
+
+    areasByDungeon.get(area.dungeon_id).push(areaWithStages);
+  });
+
+  // Build final dungeon objects with their areas
+  console.log("✨ Building final dungeon data structures...");
+  const dungeons = dungeonData.map((dungeon) => {
+    // Get areas for this dungeon and sort them by order if available
+    const areas = areasByDungeon.get(dungeon.id) || [];
+    areas.sort((a, b) => parseInt(a.order) - parseInt(b.order));
+
     return {
-      id,
-      // Thumbnail
-      thumbnail: fileList.find(p => p.includes(`bg_dungeon_${id}_s`)) || null,
-      // Battle background
-      battleBg: fileList.find(p => p.includes(`${id}/bg_dungeon_battle`)) || null,
-      // Battle foreground
-      battleFg: fileList.find(p => p.includes(`${id}/bg_battle_foreground_`)) || null
+      ...dungeon,
+      areas,
     };
   });
 
-  // Validate completeness
-  console.log("\n📊 Asset Completeness Check:");
-  dungeons.forEach(dungeon => {
-    const missing = [];
-    if (!dungeon.thumbnail) missing.push("thumbnail");
-    if (!dungeon.battleBg) missing.push("battleBg");
-    if (!dungeon.battleFg) missing.push("battleFg");
+  // Report statistics
+  const totalAreas = dungeons.reduce((sum, d) => sum + d.areas.length, 0);
+  const totalStages = dungeons.reduce(
+    (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.length, 0),
+    0
+  );
 
-    if (missing.length > 0) {
-      console.log(`⚠️  Dungeon ${dungeon.id} is missing assets:`, missing.join(", "));
-    }
-  });
+  // Count assets found
+  const stagesWithThumbnail = dungeons.reduce(
+    (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.thumbnail).length, 0),
+    0
+  );
+  const stagesWithInfobg = dungeons.reduce(
+    (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.infobg).length, 0),
+    0
+  );
+  const stagesWithBattlebg = dungeons.reduce(
+    (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.battlebg).length, 0),
+    0
+  );
+  // const stagesWithBattlefg = dungeons.reduce(
+  //   (sum, d) => sum + d.areas.reduce((areaSum, a) => areaSum + a.stages.filter((s) => s.battlefg).length, 0),
+  //   0
+  // );
+  const areasWithButton = dungeons.reduce(
+    (sum, d) => sum + d.areas.filter((a) => typeof a.button_image === "string").length,
+    0
+  );
 
-  // Sort by ID for consistent output
-  return dungeons.sort((a, b) => {
-    const [aBase, aNum] = a.id.split("_").map(Number);
-    const [bBase, bNum] = b.id.split("_").map(Number);
-    return aBase !== bBase ? aBase - bBase : aNum - bNum;
-  });
-} 
+  console.log("\n📊 Dungeon Statistics:");
+  console.log(`🏰 Total dungeons: ${dungeons.length}`);
+  console.log(`🗺️ Total areas: ${totalAreas}`);
+  console.log(`⭐ Total stages: ${totalStages}`);
+  console.log("\n🖼️ Asset Coverage:");
+  console.log(`🎯 Stages with thumbnail: ${stagesWithThumbnail}/${totalStages}`);
+  console.log(`ℹ️ Stages with info background: ${stagesWithInfobg}/${totalStages}`);
+  console.log(`⚔️ Stages with battle background: ${stagesWithBattlebg}/${totalStages}`);
+  // console.log(`🎨 Stages with battle foreground: ${stagesWithBattlefg}/${totalStages}`);
+  console.log(`🔘 Areas with button image: ${areasWithButton}/${totalAreas}`);
+
+  // Sort dungeons by their order if available
+  dungeons.sort((a, b) => parseInt(a.order) - parseInt(b.order));
+
+  return dungeons;
+}
