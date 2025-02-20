@@ -94,10 +94,18 @@ export default async function generateEvents() {
         fileList.find((path) => path.includes(`btn_event_emergency_boss_battle_${event.event_id}`)) || null,
       scorechallenge_button:
         fileList.find((path) => path.includes(`btn_event_scorechallenge_${event.event_id}`)) || null,
+      // Handle enemy images
+      enemy_image: event.enemy_image === "0" ? null : 
+        fileList.find((path) => path.includes(event.enemy_image)) || null,
+      scorechallenge_enemy_image: event.scorechallenge_enemy_image === "0" ? null :
+        fileList.find((path) => path.includes(event.scorechallenge_enemy_image)) || null,
     };
 
     delete event.info_url;
     delete event.info_url_boss;
+    // Remove the original properties since we're handling them in images
+    delete event.enemy_image;
+    delete event.scorechallenge_enemy_image;
 
     return {
       ...event,
@@ -122,6 +130,8 @@ export default async function generateEvents() {
   console.log(`🌟 Events with special boss battle buttons: ${events.filter((e) => e.boss_battle_sp_button).length}`);
   console.log(`⚡ Events with emergency boss buttons: ${events.filter((e) => e.emergency_boss_button).length}`);
   console.log(`🏆 Events with score challenge buttons: ${events.filter((e) => e.scorechallenge_button).length}`);
+  console.log(`👾 Events with enemy images: ${events.filter((e) => e.enemy_image).length}`);
+  console.log(`🎯 Events with score challenge enemy images: ${events.filter((e) => e.scorechallenge_enemy_image).length}`);
 
   // Report statistics
   console.log("\n📊 Event Statistics:");
