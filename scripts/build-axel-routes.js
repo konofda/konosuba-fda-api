@@ -52,6 +52,8 @@ const AXEL_FILES = [
   "mission_honor",
   "mission_recommend",
   "mission",
+  "omikuji_lot",
+  "pack_mission_progress",
   "shop",
   "shop_balloon",
   "shop_item",

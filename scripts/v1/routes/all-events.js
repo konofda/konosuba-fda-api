@@ -96,6 +96,9 @@ export default async function generateEvents() {
         fileList.find((path) => path.includes(`btn_event_scorechallenge_${event.event_id}`)) || null,
     };
 
+    delete event.info_url;
+    delete event.info_url_boss;
+
     return {
       ...event,
       ...images,
